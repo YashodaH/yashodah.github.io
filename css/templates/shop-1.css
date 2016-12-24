@@ -1,0 +1,1219 @@
+/* Shop 1 */
+
+body.css-shop-1,
+.css-shop-1 p,
+.css-shop-1 .featured-content h1.small,
+.css-shop-1 .form-group > label,
+.css-shop-1 .checkbox > label,
+.css-shop-1 .alert > p,
+.css-shop-1 .block-content-wrapper h2,
+.css-shop-1 .intro-text h1,
+.css-shop-1 .intro-text h2,
+.css-shop-1 .intro-text h3,
+.css-shop-1 .intro-text h4,
+.css-shop-1 .intro-text h5,
+.css-shop-1 .intro-text h6,
+.css-shop-1 .restaurant-info-img-content h4,
+.css-shop-1 .contact-title h3 {
+    font-family: "Montserrat", sans-serif;
+} 
+.css-shop-1 h1,
+.css-shop-1 h2,
+.css-shop-1 h3,
+.css-shop-1 h4,
+.css-shop-1 h5,
+.css-shop-1 h6,
+.css-shop-1 .testimonials-slider .testimonials-slider-box .testimonial-text {
+    font-family: "Montserrat", sans-serif;
+}
+/* Color 1 */
+
+.css-shop-1 .color-1,
+.css-shop-1 .wsmenu-list > li > a:hover,
+.css-shop-1 .dark-menu .wsmenu-submenu li a:hover,
+.css-shop-1 .dark-menu .wsmenu-submenu li a:hover,
+.css-shop-1 .dark-menu .megamenu .link-list li a:hover,
+.css-shop-1 #header ul.wsmenu-submenu li a.active,
+.css-shop-1 #portfolio-filter li a:hover,
+.css-shop-1 .wsmenu-list > li > a.active,
+.css-shop-1 #header .wsmenu.navigation-dark .wsmenu-list > li > a.active,
+.css-shop-1 #header .wsmenu.navigation-dark .wsmenu-list > li > a:hover,
+.css-shop-1 .dark-menu .megamenu .link-list li.active a,
+.css-shop-1 .cart-dropdown-menu .cart-shop-products-list li .csp-price,
+.css-shop-1 .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-shop-1 .light-menu .megamenu .link-list li.active a,
+.css-shop-1 .light-menu .megamenu .link-list li a:hover,
+.css-shop-1 .light-menu .wsmenu-submenu li a:hover,
+.css-shop-1 .light-menu .wsmenu-submenu li.active a,
+.css-shop-1 ul.simple-list li [class^="icon-"],
+.css-shop-1 .footer-tags a:hover,
+.css-shop-1 #footer .widget-twitter-box .tweet ul li a:hover,
+.css-shop-1 .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-shop-1 .blog-list>article .post-facebook:hover,
+.css-shop-1 .blog-list>article .post-facebook:hover .pf-icon span,
+.css-shop-1 .blog-list>article .post-facebook:hover .pf-text,
+.css-shop-1 ul.blog-popular-list .ssp-title:hover,
+.css-shop-1 #post-content .blog-desc-details a:hover,
+.css-shop-1 .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-shop-1 .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-shop-1 .author-description .author-description-text-holder .author-name a:hover,
+.css-shop-1 .comment_response .media h6 a:hover,
+.css-shop-1 .blog-list>article .post-facebook:hover,
+.css-shop-1 .blog-list>article .post-facebook:hover .pf-icon span,
+.css-shop-1 .blog-list>article .post-facebook:hover .pf-text,
+.css-shop-1 ul.blog-popular-list .ssp-title:hover,
+.css-shop-1 #post-content .blog-desc-details a:hover,
+.css-shop-1 .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-shop-1 .header-light.nav-sticky .wsmenu-list > li > a:hover,
+.css-shop-1 .header-light.nav-sticky .wsmenu-list > li > a.active,
+.css-shop-1 .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-shop-1 .author-description .author-description-text-holder .author-name a:hover,
+.css-shop-1 ul.sidebar-category li a:hover,
+.css-shop-1 ul.shop-star-rating.single-item li.full-star,
+.css-shop-1,
+.css-shop-1 #footer.footer-10 .title.small a:hover,
+.css-shop-1 .vlt-left-menu.vlt-menu-style-2 .nav-accordion-section-title:hover,
+.css-shop-1 .vlt-left-menu .nav-accordion-section-content ul li a:hover,
+.css-shop-1 .header-content .phone-number span,
+.css-shop-1 .intro-block h6,
+.css-shop-1 .icon-block [class^="icon-"],
+.css-shop-1 ul.header-links li a:hover,
+.css-shop-1 .navbar.banner--clone .nav > li > a:hover,
+.css-shop-1 .navbar.banner--clone .btn-search:hover,
+.css-shop-1 .success-lg:hover [class^="icon-"],
+.css-shop-1 #copyrights ul li a:hover,
+.css-shop-1 #copyrights a:hover,
+.css-shop-1 .breadcrumb > .active,
+.css-shop-1 .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-shop-1 a.image_link:hover [class^="icon-"],
+.css-shop-1 a.load-more-btn:hover,
+.css-shop-1 a.load-more-btn:hover [class^="icon-"],
+.css-shop-1 .intro-block h1 [class^="icon-"],
+.css-shop-1 .shop-list .shop-product h4 a:hover,
+.css-shop-1 ul#portfolio-layout-filter li a.active,
+.css-shop-1 .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-shop-1 .shop-price,
+.css-shop-1 ul.sidebar-shop-cat > li > a:hover,
+.css-shop-1 a.load-more-btn:hover,
+.css-shop-1 a.load-more-btn:hover [class^="icon-"],
+.css-shop-1 .intro-block h1 [class^="icon-"],
+.css-shop-1 .shop-list .shop-product h4 a:hover,
+.css-shop-1 ul#portfolio-layout-filter li a.active,
+.css-shop-1 .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-shop-1 ul.sidebar-cat > li span,
+.css-shop-1 .shop-price,
+.css-shop-1 ul.sidebar-cat > li > a:hover,
+.css-shop-1 ul.jobs-list li [class^="icon-"],
+.css-shop-1 .team-social a:hover,
+.css-shop-1 .icon-default,
+.css-shop-1 .error-page-icon span [class^="icon-"],
+.css-shop-1 .footer-3-container-text a:hover,
+.css-shop-1 .testimonials-box .testimonial-author,
+.css-shop-1 #page-title.image-page-title-fullwidth h1,
+.css-shop-1 #page-title.image-page-title-left.image-page-noimage h2,
+.css-shop-1 ul.services-2-icons,
+.css-shop-1 ul.shop-layout-filter li a.active,
+.css-shop-1 ul.portfolio-layout-filter li a.active,
+.css-shop-1 ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-shop-1 .related-projects-title .slick-custom-next:hover,
+.css-shop-1 .related-projects-title .slick-custom-prev:hover,
+.css-shop-1 .recent-post-content a:hover,
+.css-shop-1 .form-group.login-form-submit a,
+.css-shop-1 .shop-type-1 a.add-to-cart-item:before,
+.css-shop-1 .shop-type-2 a.add-to-cart-item:before,
+.css-shop-1 a.form-forgotpass,
+.css-shop-1 .sidebar-shop-products-list li .ssp-title:hover,
+.css-shop-1 .restaurant-info ul li [class^="icon-"],
+.css-shop-1 .navbar-default.default .btn-cart .header-cart-count,
+.css-shop-1 .blog-list > article .blog-desc h4 a:focus,
+.css-shop-1 .blog-list-full > article .blog-desc h4 a:hover,
+.css-shop-1 .blog-list-full > article .blog-desc h4 a:focus,
+.css-shop-1 .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-shop-1 .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-shop-1 .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-shop-1 .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-shop-1 .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-shop-1 .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-shop-1 .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-shop-1 .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-shop-1 .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-shop-1 .blog-masonry > article .blog-desc h4 a:hover,
+.css-shop-1 .blog-masonry > article .blog-desc h4 a:focus,
+.css-shop-1 .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-shop-1 .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-shop-1 .comment_response .media_cloud a.reply_link,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-shop-1 .dropcap.dropcap-style-1,
+.css-shop-1 .counter-box .count-icon,
+.css-shop-1 .counter-style-1 .counter-box h4,
+.css-shop-1 .icon-type,
+.css-shop-1 .icon-type.it-main-color,
+.css-shop-1 .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-shop-1 .comment_response .media_cloud a.reply_link,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-shop-1 .dropcap.dropcap-style-1,
+.css-shop-1 .btn-default-reverse,
+.css-shop-1 .counter-box .count-icon,
+.css-shop-1 .counter-style-1 .counter-box h4,
+.css-shop-1 .icon-type,
+.css-shop-1 .icon-type.it-main-color,
+.css-shop-1 .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-shop-1 .review_response .media h6 a,
+.css-shop-1 .review_response .media_cloud .shop-star-rating li.full-star,
+.css-shop-1 .rating-container .rating-stars,
+.css-shop-1 .form-contact small,
+.css-shop-1 ul.icon-list li a:hover,
+.css-shop-1 ul.icon-list li a:active,
+.css-shop-1 ul.icon-list li a:focus,
+.css-shop-1 .checkout-sum,
+.css-shop-1 .checkout-table td a:hover,
+.css-shop-1 .checkout-box a,
+.css-shop-1 .user-profile-list ul li a:hover,
+.css-shop-1 a.profile-active,
+.css-shop-1 .user-profile-content h2,
+.css-shop-1 .forum-content-header span a,
+.css-shop-1 .recent-work-content a:hover,
+.css-shop-1 .recent-work-image-content a:hover,
+.css-shop-1 .contact-overlay-map .maximize-form:hover,
+.css-shop-1 .hero-slier-nav-content:hover [class^="icon-"],
+.css-shop-1 .selected .hero-slier-nav-content [class^="icon-"],
+.css-shop-1 .team-social a:hover,
+.css-shop-1 .team-name h5 a:hover,
+.css-shop-1 .clients-slick-nav .slick-custom-next:hover,
+.css-shop-1 .clients-slick-nav .slick-custom-prev:hover,
+.css-shop-1 .services-pricing-icon [class^="icon-"],
+.css-shop-1 .brand [class^="icon-"],
+.css-shop-1 .content-divider-colored [class^="icon-"],
+.css-shop-1 .divider-content h1 span,
+.css-shop-1 .divider-content h2 span,
+.css-shop-1 .divider-content h3 span,
+.css-shop-1 .intro-page-content a:hover,
+.css-shop-1 .image-box-content a:hover,
+.css-shop-1 .icon-type.it-main-color [class^="icon-"],
+.css-shop-1 .icon-type-2:hover p,
+.css-shop-1 .icon-type-2:hover span.icon-type-2-icon,
+.css-shop-1 .heading-container .head-colored,
+.css-shop-1 ul.home-6-list li h4 [class^="icon-"],
+.css-shop-1 .icon-box-2-effect-1:hover .icon-block-2,
+.css-shop-1 .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-shop-1 .icon-box-2-effect-4:hover .icon-block-2,
+.css-shop-1 .icon-box-2-effect-4-reverse .icon-block-2,
+.css-shop-1 .icon-box-2-effect-5:hover .icon-block-2,
+.css-shop-1 .simple-icon-lightbg [class^="icon-"],
+.css-shop-1 .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-shop-1 .panel-body ul li a:hover,
+.css-shop-1 .colored,
+.css-shop-1 .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-6 .nav-tabs > li > a,
+.css-shop-1 .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-shop-1 .tp_caption_big span,
+.css-shop-1 ul.icon-box-simple li:hover a,
+.css-shop-1 .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-shop-1 .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-shop-1 .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-shop-1 .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-shop-1 .blockquote-author p,
+.css-shop-1 .testimonial-author,
+.css-shop-1 .latest-post-content h1 a:hover,
+.css-shop-1 .post-by a:hover,
+.css-shop-1 .latest-post-content .read-more-link,
+.css-shop-1 .blog-horizontal .bh-content h3 a:hover,
+.css-shop-1 .blog-horizontal .bh-content .bh-details a:hover,
+.css-shop-1 .blog-horizontal .bh-content .bh-details a:hover span,
+.css-shop-1 a.bsp-title:hover,
+.css-shop-1 .sidebar-blog-post-list li .sbp-title:hover,
+.css-shop-1 .navbar-nav > li.active,
+.css-shop-1 .navbar-nav > li.active:hover,
+.css-shop-1 a.idb-social:hover,
+.css-shop-1 a.idb-social:hover span,
+.css-shop-1 a.idb-price,
+.css-shop-1 span.pts-raised,
+.css-shop-1 .bsp-social a:hover,
+.css-shop-1 .bsp-social a [class^="icon-"]:hover,
+.css-shop-1 a.bsp-more:hover,
+.css-shop-1 .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-shop-1 .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-shop-1 .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-shop-1 .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-shop-1 .gallery-block .gallery-box .gallery-meta a:hover,
+.css-shop-1 .gallery-block .gallery-box .gallery-meta a:focus,
+.css-shop-1 .tp-caption a,
+.css-shop-1 .tp-caption a:hover,
+.css-shop-1 .cd-timeline-inner-content a:hover,
+.css-shop-1 .testimonial-box .testimonial-author span,
+.css-shop-1 .fic-date a:hover,
+.css-shop-1 .forum-inner-content h1 a:hover,
+.css-shop-1 .user-profile-desc a:hover,
+.css-shop-1 .cd-timeline-navigation a:hover::after,
+.css-shop-1 .login-form .login-input-box [class^="icon-"],
+.css-shop-1 .icon-input-box [class^="icon-"],
+.css-shop-1 ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-shop-1 ul.bar-chart-graph li,
+.css-shop-1 ul.line-graph li,
+.css-shop-1 ul.donut-graph li,
+.css-shop-1 .tp-caption.Creative-SubTitle,
+.css-shop-1 .Creative-SubTitle,
+.css-shop-1 .tp-caption.vlt-hero-rotating,
+.css-shop-1 ul.recent-post-widget .rp-post a:hover,
+.css-shop-1 .loader-5,
+.css-shop-1 .loader-7,
+.css-shop-1 .loader-9,
+.css-shop-1 .loader-2,
+.css-shop-1 .loader-4,
+.css-shop-1 .vertical-newspaper-list .vnl-content h4 a:hover,
+.css-shop-1 .vertical-newspaper-sidebar-list .vnl-content h4 a:hover,
+.css-shop-1 .events-vertical .events-vertical-desc h4 a:hover,
+.css-shop-1 .portfolio-single-share .pss-share li a:hover,
+.css-shop-1 .portfolio-single-share .pss-like:hover,
+.css-shop-1 .portfolio-single-intro-description .portfolio-single-categories a:hover,
+.css-shop-1 .portfolio-single-more-link:hover,
+.css-shop-1 .gsi-style-9 li.visited>*,
+.css-shop-1 .gsi-style-9 li.current>*,
+.css-shop-1 .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-shop-1 .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-shop-1 .header-contact-box .header-phone:hover,
+.css-shop-1 .header-contact-box .header-email:hover,
+.css-shop-1 .icon-box.icon-square .icon-block span,
+.css-shop-1 .icon-box.icon-square.icon-fill.icon-transform:hover .icon-block span {
+    color: #e3ac56;
+}
+/* Background Color 1 */
+
+.css-shop-1 .background-1,
+.css-shop-1 .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1,
+.css-shop-1 a.brand-modern span.line-1,
+.css-shop-1 .header.dark-nav a.brand-modern span.line-1,
+.css-shop-1 .wte-separator.background-1:before,
+.css-shop-1 .call-newsletter-box form .btn,
+.css-shop-1 .offscreen-container,
+.css-shop-1 #header.background-1,
+.css-shop-1 .background-1-menu .megamenu,
+.css-shop-1 .background-1-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-shop-1 .background-1-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-shop-1 .background-1-menu .wsmenu-submenu li a,
+.css-shop-1 .background-1-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-shop-1 .background-1-menu .wsmenu-submenu,
+.css-shop-1 .background-1-menu .wsmenu-submenu-sub,
+.css-shop-1 .background-1-menu .wsmenu-submenu-sub-sub,
+.css-shop-1 .background-1-menu .wsmenu-submenu-sub-sub-sub,
+.css-shop-1 #portfolio-filter li a.activeFilter,
+.css-shop-1 #portfolio-filter li a.activeFilter[data-filter="*"],
+.css-shop-1 #header .search-cart-navbar:hover .btn-default,
+.css-shop-1 .scroll-to-top-fixed,
+.css-shop-1 #bootstrap-table.table>thead>tr>th,
+.css-shop-1 ul.meta-share-social li a:hover,
+.css-shop-1 article.blog-item .blog-image-box .video-play-icon span,
+.css-shop-1 .audioplayer,
+.css-shop-1 .audioplayer-bar,
+.css-shop-1 .blog-desc-details:after,
+.css-shop-1 .audioplayer-volume-adjust div div,
+.css-shop-1 .qoute-post,
+.css-shop-1 .footer-newsletter-box form .btn,
+.css-shop-1 .footer-newsletter-box form .btn.disabled,
+.css-shop-1 .tags-cloud-list li a:hover,
+.css-shop-1 article.blog-item .blog-image-box.video-post:before,
+.css-shop-1 .tp-caption .btn-default,
+.css-shop-1 .btn-default,
+.css-shop-1 .flex-control-paging li a.flex-active,
+.css-shop-1 #mobile-navbar,
+.css-shop-1 .call-to-action,
+.css-shop-1 .maincolor-background,
+.css-shop-1 ul.widget-ul li a > span,
+.css-shop-1 ul.widget-social li a:hover,
+.css-shop-1 #people .item .info,
+.css-shop-1 .main-color,
+.css-shop-1 .flexslider.clients .flex-control-paging li a.flex-active,
+.css-shop-1 #portfolio-filter li a:after,
+.css-shop-1 .navbar.banner--clone .nav li.active > a,
+.css-shop-1 .pricing-table-column.special-price-table .pricing-table-head,
+.css-shop-1 .pricing-table-column.special-price-table .pricing-table-content,
+.css-shop-1 .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-shop-1 .progress-bar-box .progress-bar,
+.css-shop-1 .background-1,
+.css-shop-1 .selecter .selecter-item:hover,
+.css-shop-1 .selecter .selecter-item.selected:hover,
+.css-shop-1 #footer.colored,
+.css-shop-1 section.about-counter,
+.css-shop-1 .error-page-title:after,
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-shop-1 .tabpanel-style-4 .tab-content h3:after,
+.css-shop-1 .about-classic-column-themecolor,
+.css-shop-1 .selecter .selecter-item:hover,
+.css-shop-1 .selecter .selecter-item.selected:hover,
+.css-shop-1 .item-text-wrapper_overlay,
+.css-shop-1 .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-shop-1 .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-shop-1 .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-shop-1 .shop-type-2 a.add-to-cart-item,
+.css-shop-1 .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-shop-1 .search-cart-navbar .btn-cart .header-cart-count,
+.css-shop-1 .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-shop-1 .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-shop-1 .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-shop-1 .dropcap.dropcap-style-2,
+.css-shop-1 .alert-default,
+.css-shop-1 blockquote:before,
+.css-shop-1 blockquote:after,
+.css-shop-1 .tp-caption .btn-default,
+.css-shop-1 .btn-default,
+.css-shop-1 .content-title h5:before,
+.css-shop-1 .content-title h5:after,
+.css-shop-1 .icon-box.icon-fill .icon-block,
+.css-shop-1 .icon-box.icon-square:hover .icon-block,
+.css-shop-1 .icon-box.icon-circle:hover .icon-block,
+.css-shop-1 .icon-box.icon-circle:hover .icon-block span,
+.css-shop-1 .icon-type.it-main-color:hover,
+.css-shop-1 .icon-type.it-main-color:focus,
+.css-shop-1 .icon-type.it-main-color-reverse,
+.css-shop-1 .icon-type.it-main-color:hover span,
+.css-shop-1 .icon-type.it-main-color-reverse:hover span,
+.css-shop-1 .add-to-cart-form .count-input .count-plus:hover,
+.css-shop-1 .add-to-cart-form .count-input .count-minus:hover,
+.css-shop-1 .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-shop-1 .pricing-table-container.special-price-table,
+.css-shop-1 .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-shop-1 .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-shop-1 ul.forum-list li.forum-header,
+.css-shop-1 .textbox-withmaincolor,
+.css-shop-1 .background-1,
+.css-shop-1 .team-member-job,
+.css-shop-1 .team-section .team-desc-box:before,
+.css-shop-1 .team-section .team-desc-box:after,
+.css-shop-1 .shop-categories:hover .shop-title-categories,
+.css-shop-1 .content-divider-colored-bg [class^="icon-"],
+.css-shop-1 .overlay-animation-6 .content-box,
+.css-shop-1 .block-content-wrapper h1,
+.css-shop-1 .benefits-box h1,
+.css-shop-1 .selecter .selecter-item:hover,
+.css-shop-1 .selecter .selecter-item.selected:hover,
+.css-shop-1 .ui-slider .ui-slider-range,
+.css-shop-1 #header.header-main-color,
+.css-shop-1 .navbar-2.banner--clone.main-color-navbar,
+.css-shop-1 .tabpanel-style-center .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-shop-1 .label.label-primary,
+.css-shop-1 .label.label-primary,
+.css-shop-1 .star-rating .caption .label,
+.css-shop-1 .tparrows.preview5:hover,
+.css-shop-1 .table-style-4.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-5.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-6.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-shop-1 .table-style-7.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-shop-1 .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-shop-1 .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-shop-1 .table-style-2.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-3.table-withmaincolor thead tr th,
+.css-shop-1 .table-style-3.table-withmaincolor tbody tr th,
+.css-shop-1 .parallax-withmaincolor,
+.css-shop-1 .contact-overlay-map .minimize-form:hover,
+.css-shop-1 .team-3:hover .team-social,
+.css-shop-1 .team-5:hover .team-social,
+.css-shop-1 .special-table-2,
+.css-shop-1 .special-table-3,
+.css-shop-1 span.pricing-3-discount,
+.css-shop-1 #vertical-timeline-container:before,
+.css-shop-1 .subscribe-fancy-themebg,
+.css-shop-1 .empty-cart,
+.css-shop-1 .team-4:hover .team-social,
+.css-shop-1 .content-divider-colored,
+.css-shop-1 .content-divider-colored-bg,
+.css-shop-1 .withmainbackground,
+.css-shop-1 .services-2-heading,
+.css-shop-1 .icon-box-2-effect-4 .icon-block-2,
+.css-shop-1 .services-2-heading,
+.css-shop-1 .promotion-box-theme-colored,
+.css-shop-1 .promotion-box-theme-colored .promotion-box-title h4,
+.css-shop-1 .icon-block-2,
+.css-shop-1 .icon-box-2-effect-2:hover .icon-block-2,
+.css-shop-1 .icon-box-2-effect-3 .icon-block-2:after,
+.css-shop-1 .icon-box-2-effect-4 .icon-block-2:after,
+.css-shop-1 .icon-box-2-effect-6 .icon-block-2,
+.css-shop-1 .icon-box-2-effect-6:hover .icon-block-2,
+.css-shop-1 .simple-icon-icon,
+.css-shop-1 a.call-to-action-link:hover,
+.css-shop-1 .add-to-cart-form .count-input .count-plus,
+.css-shop-1 .add-to-cart-form .count-input .count-minus,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-shop-1 .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-shop-1 .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-shop-1 .special-price-box,
+.css-shop-1 .dropdown-menu > .active > a,
+.css-shop-1 .dropdown-menu > .active > a:focus,
+.css-shop-1 .dropdown-menu > .active > a:hover,
+.css-shop-1 #header.main-color-nav .navbar-2,
+.css-shop-1 .latest-post-data,
+.css-shop-1 .blog-single-post .bsp-heading h1,
+.css-shop-1 .testimonial-single .slick-dots li button:before,
+.css-shop-1 .slick-dots li button:before,
+.css-shop-1 .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-shop-1 .timeline-complete .timeline-status.timeline-active:before,
+.css-shop-1 .megamenu.maincolor,
+.css-shop-1 .dropdown.maincolor ul,
+.css-shop-1 .dropdown.maincolor ul.dropdown-menu,
+.css-shop-1 #footer.maincolor,
+.css-shop-1 #copyrights.maincolor,
+.css-shop-1 .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-shop-1 .cd-horizontal-timeline .events a.selected::after,
+.css-shop-1 .cd-horizontal-timeline .filling-line,
+.css-shop-1 .pinpulsebox span,
+.css-shop-1 .main-color-dropdown .megamenu,
+.css-shop-1 .main-color-dropdown .dropdown-menu,
+.css-shop-1 #cd-timeline::before,
+.css-shop-1 ul.icon-list.il-main-bg li [class^="icon-"],
+.css-shop-1 .process-steps ul li.current a .number,
+.css-shop-1 ol.ordered-list.ol-main-bg li:before,
+.css-shop-1 .irs-bar,
+.css-shop-1 .irs-from,
+.css-shop-1 .irs-to,
+.css-shop-1 .irs-single,
+.css-shop-1 .open > .dropdown-toggle.btn-default,
+.css-shop-1 .fc-unthemed .fc-today,
+.css-shop-1 .fc-content,
+.css-shop-1 #particles-js,
+.css-shop-1 .s-icon:hover,
+.css-shop-1 #progressbar li.active:before,
+.css-shop-1 #progressbar li.active:after,
+.css-shop-1 .portfolio-filter .selecter-item.activeFilter,
+.css-shop-1 #copyrights ul.widget-social li a:hover,
+.css-shop-1 .page-loader-spinner span,
+.css-shop-1 .loader-6:before,
+.css-shop-1 .loader-2,
+.css-shop-1 .loader-2:before,
+.css-shop-1 .loader-2:after,
+.css-shop-1 .newspaper-title .custom-slick-nav-1 .slick-custom-next:hover,
+.css-shop-1 .newspaper-title .custom-slick-nav-1 .slick-custom-prev:hover,
+.css-shop-1 .loader-10 > div,
+.css-shop-1 .loader-11 > div,
+.css-shop-1 .loader-12 > div,
+.css-shop-1 .loader-13 > div:first-child,
+.css-shop-1 .loader-14 > div,
+.css-shop-1 .loader-16 > div,
+.css-shop-1 .loader-17 > div,
+.css-shop-1 .loader-17 > div:before,
+.css-shop-1 .loader-17 > div:after,
+.css-shop-1 .loader-18 > div,
+.css-shop-1 .loader-19 > div,
+.css-shop-1 .loader-20 > div,
+.css-shop-1 .loader-22 > div,
+.css-shop-1 .loader-23 > div,
+.css-shop-1 .loader-24 > div,
+.css-shop-1 .loader-25 > div,
+.css-shop-1 .loader-26 > div,
+.css-shop-1 .loader-27 > div,
+.css-shop-1 .loader-28 > div,
+.css-shop-1 .loader-29 > div,
+.css-shop-1 .loader-32 > div,
+.css-shop-1 .loader-33 > div,
+.css-shop-1 .loader-35 > div:nth-child(3),
+.css-shop-1 .loader-35 > div:nth-child(4),
+.css-shop-1 .loader-35 > div:nth-child(5),
+.css-shop-1 .loader-35 > div:nth-child(6),
+.css-shop-1 .loader-37 > div,
+.css-shop-1 .loader-38 > div,
+.css-shop-1 .portfolio-single-share .pss-share li a:before,
+.css-shop-1 .portfolio-single-intro-description .portfolio-single-categories a:before,
+.css-shop-1 .portfolio-single-more-link:before,
+.css-shop-1 .checkbox input[type=checkbox]:checked + .checkbox-material .check,
+.css-shop-1 .radio input[type=radio]:checked ~ .check,
+.css-shop-1 .vlt-btn-group .dropdown-menu li a:hover,
+.css-shop-1 .gsi-step-indicator.triangle li.current>*,
+.css-shop-1 .gsi-style-4 li.current>*,
+.css-shop-1 .gsi-style-5 li.current>*,
+.css-shop-1 .gsi-style-6 li.current>* .number,
+.css-shop-1 .gsi-style-7 li.current:hover>*,
+.css-shop-1 .gsi-style-8 li.visited>*,
+.css-shop-1 .gsi-style-8 li.current>*,
+.css-shop-1 .gsi-style-9 li.visited>*:after,
+.css-shop-1 .gsi-style-9 li.current>*:after,
+.css-shop-1 .gsi-style-10 li.visited>*:after,
+.css-shop-1 .gsi-style-10 li.current>*:after,
+.css-shop-1 .gsi-style-11 li.current:before,
+.css-shop-1 .gsi-style-11 li.current:after,
+.css-shop-1 .gsi-style-11 li.visited:before,
+.css-shop-1 .gsi-style-11 li.visited:after,
+.css-shop-1 .gsi-style-11 li.visited>*:after,
+.css-shop-1 .gsi-style-11 li.current>*:after,
+.css-shop-1 .flatpickr-day.today:focus,
+.css-shop-1 .flatpickr-day.today:hover,
+.css-shop-1 .reveal-nav .navbar-toggle,
+.css-shop-1 .form-contact-3 .btn-default.disabled,
+.css-shop-1 .form-contact-3 .btn-default.disabled.active,
+.css-shop-1 .form-contact-3 .btn-default.disabled.focus,
+.css-shop-1 .form-contact-3 .btn-default.disabled:active,
+.css-shop-1 .form-contact-3 .btn-default.disabled:focus,
+.css-shop-1 .form-contact-3 .btn-default.disabled:hover,
+.css-shop-1 .form-contact-3 .btn-default[disabled],
+.css-shop-1 .form-contact-3 .btn-default[disabled].active,
+.css-shop-1 .form-contact-3 .btn-default[disabled].focus,
+.css-shop-1 .form-contact-3 .btn-default[disabled]:active,
+.css-shop-1 .form-contact-3 .btn-default[disabled]:focus,
+.css-shop-1 .form-contact-3 .btn-default[disabled]:hover,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-shop-1 .icon-box.icon-square:hover .icon-block span,
+.css-shop-1 #header.header-main-color-sticky.header-sticky,
+.css-shop-1 #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+    background-color: #e3ac56;
+}
+/* Color 2 */
+
+.css-shop-1 .color-2,
+.css-shop-1 .cart-shop-products h3,
+.css-shop-1 .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-shop-1 .cart-shop-products-list li .csp-price,
+.css-shop-1 .sidebar-shop-products-list li .shop-star-rating li.full-star,
+.css-shop-1 .shop-list .shop-product .shop-star-rating li.full-star,
+.css-shop-1 ul.shop-star-rating li.full-star,
+.css-shop-1 ul.line-graph li:nth-child(2n),
+.css-shop-1 ul.donut-graph li:nth-child(2n),
+.css-shop-1 ul.bar-chart-graph li:nth-child(2n) {
+    color: #22c064;
+}
+.color-2:hover {
+    color: #22c064;
+}
+/* Background Color 2 */
+
+.css-shop-1 .background-2,
+.css-shop-1 .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-shop-1 #header.background-2,
+.css-shop-1 .background-2-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-shop-1 .background-2-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2,
+.css-shop-1 a.brand-modern span.line-2,
+.css-shop-1 .header.dark-nav a.brand-modern span.line-2,
+.css-shop-1 .wte-separator.background-2:before,
+.css-shop-1 .form-contact.dark-from .has-error .help-block,
+.css-shop-1 a.add-to-wishlist,
+.css-shop-1 .shop-list .shop-product:hover>a.add-to-wishlist,
+.css-shop-1 .slider-price-filter-box:after,
+.css-shop-1 .background-2-menu .megamenu,
+.css-shop-1 .background-2-menu .wsmenu-submenu li a,
+.css-shop-1 .background-2-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-shop-1 .background-2-menu .wsmenu-submenu,
+.css-shop-1 .background-2-menu .wsmenu-submenu-sub,
+.css-shop-1 .background-2-menu .wsmenu-submenu-sub-sub,
+.css-shop-1 .background-2-menu .wsmenu-submenu-sub-sub-sub,
+.css-shop-1 .shop-list .shop-product .shop-ribbon,
+.css-shop-1 .ui-slider-horizontal .ui-slider-range,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    background-color: #22c064;
+}
+/* Color 3 */
+
+.css-shop-1 .color-3,
+.css-shop-1 ul.line-graph li:nth-child(3n),
+.css-shop-1 ul.donut-graph li:nth-child(3n),
+.css-shop-1 ul.bar-chart-graph li:nth-child(3n),
+.css-shop-1 .navbar-toggle,
+.css-shop-1 .navbar-toggle:before {
+    color: #fe824c;
+}
+/* Background Color 3 */
+
+.css-shop-1 .background-3,
+.css-shop-1 .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-shop-1 #header.background-3,
+.css-shop-1 .background-3-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-shop-1 .background-3-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-shop-1 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3,
+.css-shop-1 a.brand-modern span.line-3,
+.css-shop-1 .header.dark-nav a.brand-modern span.line-3,
+.css-shop-1 .wte-separator.background-3:before,
+.css-shop-1 .background-3-menu .megamenu,
+.css-shop-1 .background-3-menu .wsmenu-submenu li a,
+.css-shop-1 .background-3-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-shop-1 .background-3-menu .wsmenu-submenu,
+.css-shop-1 .background-3-menu .wsmenu-submenu-sub,
+.css-shop-1 .background-3-menu .wsmenu-submenu-sub-sub,
+.css-shop-1 .background-3-menu .wsmenu-submenu-sub-sub-sub {
+    background-color: #fe824c;
+}
+/* Border Color 1 */
+
+.css-shop-1 .border-background-1,
+.css-shop-1 .tp-caption .btn-default,
+.css-shop-1 .btn-default,
+.css-shop-1 .flex-control-paging li a.flex-active,
+.css-shop-1 .flexslider.clients .flex-control-paging li a.flex-active,
+.css-shop-1 .contact-info-3,
+.css-shop-1 .team-social a:hover,
+.css-shop-1 .contact-title-one h3:after,
+.css-shop-1 .home-title-one h3:after,
+.css-shop-1 #login-form .login-input:active,
+.css-shop-1 #login-form .login-input:focus,
+.css-shop-1 .load-more-wrapper a.load-more-btn:hover,
+.css-shop-1 #register-form .register-input:active,
+.css-shop-1 #register-form .register-input:focus,
+.css-shop-1 .dropcap.dropcap-style-1,
+.css-shop-1 .dropcap.dropcap-style-2,
+.css-shop-1 .alert-default,
+.css-shop-1 blockquote,
+.css-shop-1 .tp-caption .btn-default,
+.css-shop-1 .btn-default,
+.css-shop-1 .btn-default-reverse,
+.css-shop-1 .icon-box.icon-square .icon-block,
+.css-shop-1 .icon-box.icon-circle .icon-block,
+.css-shop-1 .icon-type.it-main-color,
+.css-shop-1 .icon-type.it-main-color:hover,
+.css-shop-1 .icon-type.it-main-color:focus,
+.css-shop-1 .icon-type.it-main-color-reverse,
+.css-shop-1 .icon-type.it-main-color-reverse:hover,
+.css-shop-1 .icon-type.it-main-color-reverse:focus,
+.css-shop-1 .add-to-cart-form .count-input .count-plus:hover,
+.css-shop-1 .add-to-cart-form .count-input .count-minus:hover,
+.css-shop-1 #reviewmodal .modal-header,
+.css-shop-1 .job-left-title h3,
+.css-shop-1 .pricing-table-container.special-price-table,
+.css-shop-1 .clients-slick-nav .slick-custom-next:hover,
+.css-shop-1 .clients-slick-nav .slick-custom-prev:hover,
+.css-shop-1 .tabpanel-style-8 .nav-tabs > li.active,
+.css-shop-1 a.btn-default.btn-animation-icon-box,
+.css-shop-1 .btn-default.btn-animation-icon-box:hover,
+.css-shop-1 .btn-default.btn-animation-icon-box:focus,
+.css-shop-1 .btn-default.btn-animation-icon-box:active,
+.css-shop-1 .tp-caption a.btn-default.btn-animation-icon-box,
+.css-shop-1 .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-shop-1 .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-shop-1 .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-shop-1 .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-shop-1 .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-shop-1 .clients-slick-nav .slick-clients-prev:hover,
+.css-shop-1 .clients-slick-nav .slick-clients-next:hover,
+.css-shop-1 .bsp-image,
+.css-shop-1 .blog-list > article.default-post .blog-desc,
+.css-shop-1 .testimonial-single li.slick-active button::before,
+.css-shop-1 .slick-dots li.slick-active button:before,
+.css-shop-1 .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-shop-1 .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-shop-1 .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-shop-1 .timeline-status.timeline-active:before,
+.css-shop-1 .cd-horizontal-timeline .events a.older-event::after,
+.css-shop-1 .cd-horizontal-timeline .events a.selected::after,
+.css-shop-1 .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-shop-1 .no-touch .cd-timeline-navigation a:hover,
+.css-shop-1 .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-shop-1 .cd-timeline-navigation a:hover,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-shop-1 .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-shop-1 .login-form input:focus,
+.css-shop-1 .pinpulse,
+.css-shop-1 .open > .dropdown-toggle.btn-default,
+.css-shop-1 .tabpanel-style-7.shop-single-tabpanel .nav-tabs > li.active,
+.css-shop-1 .newspaper-title,
+.css-shop-1 .newspaper-separator,
+.css-shop-1 ul.widget-social.widget-social-sidebar li a:hover,
+.css-shop-1 .loader-30 > div,
+.css-shop-1 .loader-31 > div,
+.css-shop-1 .loader-35 > div:first-of-type,
+.css-shop-1 .loader-35 > div:nth-child(2),
+.css-shop-1 .radio input[type=radio]:checked ~ .circle,
+.css-shop-1 .gsi-step-indicator.triangle li.current>*,
+.css-shop-1 .gsi-style-7.border-right li.current>*,
+.css-shop-1 .gsi-style-7.border-bottom li.current>*,
+.css-shop-1 .gsi-style-7.border-left li.current>*,
+.css-shop-1 .flatpickr-day.today,
+.css-shop-1 .flatpickr-day.today:focus,
+.css-shop-1 .flatpickr-day.today:hover,
+.css-shop-1 .form-contact-3 .btn-default.disabled,
+.css-shop-1 .form-contact-3 .btn-default.disabled.active,
+.css-shop-1 .form-contact-3 .btn-default.disabled.focus,
+.css-shop-1 .form-contact-3 .btn-default.disabled:active,
+.css-shop-1 .form-contact-3 .btn-default.disabled:focus,
+.css-shop-1 .form-contact-3 .btn-default.disabled:hover,
+.css-shop-1 .form-contact-3 .btn-default[disabled],
+.css-shop-1 .form-contact-3 .btn-default[disabled].active,
+.css-shop-1 .form-contact-3 .btn-default[disabled].focus,
+.css-shop-1 .form-contact-3 .btn-default[disabled]:active,
+.css-shop-1 .form-contact-3 .btn-default[disabled]:focus,
+.css-shop-1 .form-contact-3 .btn-default[disabled]:hover,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-shop-1 .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-shop-1 .wsmenu-list li > .wsmenu-submenu,
+.css-shop-1 .wsmenu-list li > .megamenu,
+.css-shop-1 .table-style-1 thead tr th,
+.css-shop-1 .table-style-1 tbody tr:last-child th,
+.css-shop-1 .table-style-1 tbody tr:last-child td,
+.css-shop-1 .table-withmaincolor thead tr th,
+.css-shop-1 .clients-title-border h3,
+.css-shop-1 .cd-slider-nav li:hover,
+.css-shop-1 .selected,
+.css-shop-1 .icon-type-2:hover p,
+.css-shop-1 .icon-type-2:hover span.icon-type-2-icon,
+.css-shop-1 .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-shop-1 .activeFilter,
+.css-shop-1 .loader-12 > div,
+.css-shop-1 .loader-15 > div,
+.css-shop-1 .loader-15 > div:last-child,
+.css-shop-1 .loader-21 > div {
+    border-color: #e3ac56;
+}
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li.active,
+.css-shop-1 .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li.active,
+.css-shop-1 .tabpanel-style-5 .nav-tabs > li.active > span,
+.css-shop-1 .loader-13 > div:last-child,
+.css-shop-1 .loader-15 > div:last-child {
+    border-color: #e3ac56 transparent;
+}
+.css-shop-1 .job-form input:focus,
+.css-shop-1 .job-form textarea:focus,
+.css-shop-1 .form-contact input:focus,
+.css-shop-1 .form-contact textarea:focus,
+.css-shop-1 .form-contact input:focus,
+.css-shop-1 .login-form input:focus,
+.css-shop-1 .login-form textarea:focus {
+    background-image: linear-gradient(#e3ac56, #e3ac56), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.css-shop-1 .btn-rounded,
+.css-shop-1 .form-control,
+.css-shop-1 .pagination-box .pager li a,
+.css-shop-1 .portfolio_overlay a.portfolio_zoom,
+.css-shop-1 .portfolio_overlay a.portfolio_link,
+.css-shop-1 .overlay-animation-2 .overlay_box a.image_link,
+.css-shop-1 .overlay-animation-2 .overlay_box a.video_zoom,
+.css-shop-1 a.home-breadcrumb,
+.css-shop-1 .overlay-animation-1 .overlay_box a.image_zoom,
+.css-shop-1 .overlay-animation-1 .overlay_box a.image_link,
+.css-shop-1 ul.widget-ul li a span,
+.css-shop-1 ul.widget-social li a,
+.css-shop-1 .team-2 .team-social a,
+.css-shop-1 .team-3 .team-social a,
+.css-shop-1 .team-social a,
+.css-shop-1 .benefits-box h1 {
+    border-radius: 100px;
+}
+.css-shop-1 ul.thumbs li a,
+.css-shop-1 ul.thumbs li a img,
+.css-shop-1 ul.thumbs li a:before,
+.css-shop-1 .widget-dribbble-box .shots li a,
+.css-shop-1 .widget-dribbble-box .shots li a img,
+.css-shop-1 .dribbble-box-dummy .shots-dummy li a,
+.css-shop-1 .dribbble-box-dummy .shots-dummy li a img,
+.css-shop-1 .instagram-widget a,
+.css-shop-1 .instagram-widget a img,
+.css-shop-1 .instagram-widget a:hover:before,
+.css-shop-1 .instagram-widget a:hover:after,
+.css-shop-1 .pricing-table-2-column,
+.css-shop-1 .pricing-table-3-column,
+.css-shop-1 .pricing-table-4 {
+    border-radius: 4px;
+}
+.css-shop-1 .icon-box-2-effect-3 .icon-block-2 {
+    box-shadow: 0 0 0 3px #e3ac56;
+}
+.css-shop-1 .icon-box-2-effect-4 .icon-block-2,
+.css-shop-1 .icon-box-2-effect-5 .icon-block-2,
+.css-shop-1 .icon-box-2-effect-5:hover .icon-block-2,
+.css-shop-1 .icon-box-2-effect-1 .icon-block-2:after,
+.css-shop-1 .icon-box-2-effect-2 .icon-block-2:after {
+    box-shadow: 0 0 0 4px #e3ac56;
+}
+.icon-box-2-effect-6 .icon-block-2:after,
+.css-shop-1 .scroll-to-top-fixed.sticky-btn:hover {
+    box-shadow: 0 0 0 2px #e3ac56;
+}
+.css-shop-1 .empty-cart:after,
+.css-shop-1 .loader-34 > div {
+    border-bottom-color: #e3ac56;
+}
+.css-shop-1 .btn-default-reverse:hover,
+.css-shop-1 .btn-default-reverse:focus {
+    background-color: #e3ac56;
+    border-color: #e3ac56;
+}
+.css-shop-1 .tp-caption .btn-default.active,
+.css-shop-1 .btn-default.active,
+.css-shop-1 .tp-caption .btn-default.focus,
+.css-shop-1 .btn-default.focus,
+.css-shop-1 .tp-caption .btn-default:active,
+.css-shop-1 .btn-default:active,
+.css-shop-1 .tp-caption .btn-default:focus,
+.css-shop-1 .btn-default:focus,
+.css-shop-1 .tp-caption .btn-default:hover,
+.css-shop-1 .btn-default:hover,
+.css-shop-1 #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 .btn-primary.btn-animation-icon-box,
+.css-shop-1 .btn-primary.btn-animation-icon-box:hover,
+.css-shop-1 .btn-primary.btn-animation-icon-box:focus,
+.css-shop-1 .btn-primary.btn-animation-icon-box:active,
+.css-shop-1 .tp-caption .btn-primary.btn-animation-icon-box,
+.css-shop-1 .tp-caption .btn-primary.btn-animation-icon-box:hover,
+.css-shop-1 .tp-caption .btn-primary.btn-animation-icon-box:focus,
+.css-shop-1 .tp-caption .btn-primary.btn-animation-icon-box:active,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #bd914d;
+}
+.css-shop-1 .metis .tp-tab.selected .tp-tab-divider {
+    border-right-color: #e3ac56;
+}
+.css-shop-1 #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-shop-1 span.latest-post-month,
+.css-shop-1 .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-shop-1 .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu,
+.css-shop-1 .tp-caption .btn-default.active,
+.css-shop-1 .btn-default.active,
+.css-shop-1 .tp-caption .btn-default.focus,
+.css-shop-1 .btn-default.focus,
+.css-shop-1 .tp-caption .btn-default:active,
+.css-shop-1 .btn-default:active,
+.css-shop-1 .tp-caption .btn-default:focus,
+.css-shop-1 .btn-default:focus,
+.css-shop-1 .tp-caption .btn-default:hover,
+.css-shop-1 .btn-default:hover,
+.css-shop-1 #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-shop-1 #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-shop-1 #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-shop-1 #header.main-color-nav .navbar-2 .navbar-nav > .active > a,
+.css-shop-1 .btn-primary.btn-animation-icon-box .btn-text,
+.css-shop-1 .btn-primary.btn-animation-icon-box:hover .btn-text,
+.css-shop-1 .btn-primary.btn-animation-icon-box:focus .btn-text,
+.css-shop-1 .primary.btn-animation-icon-box:active .btn-text {
+    background-color: #bd914d;
+}
+.css-shop-1 .item-text-wrapper,
+.css-shop-1 .standard_hover .portfolio_overlay,
+.css-shop-1 .overlay-animation-1 .overlay_box,
+.css-shop-1 .flip-hover .flip-box .content-box,
+.css-shop-1 .team-8 .team-image .overlay-team-box,
+.css-shop-1 .team-9 .team-image .overlay-team-box,
+.css-shop-1 .portfolio-animation-slide .sliding-content {
+    background-color: rgba(227, 172, 86, 0.9);
+}
+.css-shop-1 .intro-block .overlay,
+.css-shop-1 ul.thumbs li a:before,
+.css-shop-1 .widget-dribbble-box .shots li a:before,
+.css-shop-1 .dribbble-box-dummy .shots-dummy li a:before,
+.css-shop-1 .sidebar-shop-products-list .image-thumb:before,
+.css-shop-1 .cart-shop-products-list .image-thumb:before,
+.css-shop-1 .overlay-bg.colored,
+.css-shop-1 .instagram-widget a:before,
+.css-shop-1 .overlay-bg.background-1 {
+    background-color: rgba(227, 172, 86, 0.75);
+}
+.forum-reply-signin {
+    background: rgba(227, 172, 86, 0.92);
+}
+.css-shop-1 .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-shop-1 .team-2 .overlay-team-box,
+.css-shop-1 .team-6 .overlay-team-box,
+.css-shop-1 .team-7 .overlay-team-box,
+.css-shop-1 .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-shop-1 .contact-overlay-map .overlay-map-background,
+.css-shop-1 .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-shop-1 .table-style-7.table-withmaincolor tbody tr th,
+.css-shop-1 .fc-bgevent,
+.css-shop-1 #particles-js.background-1 {
+    background-color: rgba(227, 172, 86, 0.6);
+}
+.css-shop-1 .widget-dribbble-box .shots li a:hover:before,
+.css-shop-1 .dribbble-box .shots li a:hover:before,
+.css-shop-1 .dribbble-box-dummy .shots-dummy li a:hover:before,
+.css-shop-1 .instagram-widget a:hover:before,
+.css-shop-1 .newspaper-sidebar-image-news > article a.image-box:before {
+    background-color: rgba(227, 172, 86, 0.85);
+}
+.css-shop-1 .price-filter-desc .btn {
+    background-color: #22c064;
+    border-color: #22c064;
+}
+.css-shop-1 .btn-default.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #e3ac56;
+}
+.css-shop-1 .btn-default.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #e3ac56;
+}
+.css-shop-1 .btn-default-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #e3ac56;
+}
+.css-shop-1 .btn-default-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #e3ac56;
+}
+.css-shop-1 .btn-primary {
+    background: #bd914d;
+    border-color: #bd914d;
+}
+.css-shop-1 .btn-primary:hover,
+.css-shop-1 .open > .dropdown-toggle.btn-primary,
+.css-shop-1 .btn-primary.active,
+.css-shop-1 .btn-primary.focus,
+.css-shop-1 .btn-primary:active,
+.css-shop-1 .css-shop-1 .btn-primary:focus {
+    background: #3c1a90;
+    border-color: #3c1a90;
+}
+.css-shop-1 .btn-primary-reverse {
+    color: #bd914d;
+    border-color: #bd914d;
+}
+.css-shop-1 .btn-primary-reverse:hover {
+    background-color: #bd914d;
+    border-color: #bd914d;
+}
+.css-shop-1 .btn-primary.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #bd914d;
+}
+.css-shop-1 .btn-primary.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #bd914d;
+}
+.css-shop-1 .btn-primary-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #bd914d;
+}
+.css-shop-1 .btn-primary-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #bd914d;
+}
+.css-shop-1 .blog-list > article.default-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #e3ac56;
+}
+.css-shop-1 .blog-list > article.default-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #e3ac56;
+}
+.css-shop-1 .blog-list > article.primary-post .blog-post-2 .bp2-category {
+    background: #bd914d;
+}
+.css-shop-1 .blog-list > article.primary-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #bd914d;
+}
+.css-shop-1 .blog-list > article.primary-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #bd914d;
+}
+.css-shop-1 .blog-list > article.primary-post .blog-desc {
+    border-top-color: #bd914d;
+}
+.css-shop-1 .blog-list > article.primary-post .blog-post-2 .bp2-desc {
+    border-bottom-color: #bd914d;
+}
+.css-shop-1 .btn-default.btn-animation-icon-box .btn-text,
+.css-shop-1 .btn-default.btn-animation-icon-box:hover .btn-text,
+.css-shop-1 .btn-default.btn-animation-icon-box:focus .btn-text,
+.css-shop-1 .btn-default.btn-animation-icon-box:active .btn-text {
+    background: #e3ac56;
+}
+.css-shop-1 .btn-default.btn-animation-icon-box .btn-icon,
+.css-shop-1 .btn-default.btn-animation-icon-box:hover .btn-icon,
+.css-shop-1 .btn-default.btn-animation-icon-box:focus .btn-icon,
+.css-shop-1 .btn-default.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-shop-1 .btn-default-reverse.btn-animation-icon-box .btn-text,
+.css-shop-1 .btn-default-reverse.btn-animation-icon-box:hover .btn-text,
+.css-shop-1 .btn-default-reverse.btn-animation-icon-box:focus .btn-text,
+.css-shop-1 .btn-default-reverse.btn-animation-icon-box:active .btn-text {
+    color: #e3ac56;
+}
+.css-shop-1 .btn-default-reverse.btn-animation-icon-box .btn-icon,
+.css-shop-1 .btn-default-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-shop-1 .btn-default-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-shop-1 .btn-default-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #e3ac56;
+    color: #e3ac56;
+}
+.css-shop-1 .btn-primary.btn-animation-icon-box .btn-icon,
+.css-shop-1 .btn-primary.btn-animation-icon-box:hover .btn-icon,
+.css-shop-1 .btn-primary.btn-animation-icon-box:focus .btn-icon,
+.css-shop-1 .btn-primary.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box .btn-text,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box:hover .btn-text,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box:focus .btn-text,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box:active .btn-text,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-shop-1 .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    color: #bd914d;
+}
+.css-shop-1 .tp-caption.btn.background-2:hover,
+.css-shop-1 .tp-caption.btn.background-2:focus,
+.css-shop-1 .tp-caption.btn.background-2:active {
+    background-color: #e33834;
+}
+.css-shop-1 .border-background-2 {
+    border-color: #fe824c;
+}
+.css-shop-1 .border-background-3 {
+    border-color: #22c064;
+}
+.css-shop-1 .blog-list > article .featured-posts-slider .fp-desc {
+    background: rgba(227, 172, 86, 0.9);
+}
+.css-shop-1 .gsi-style-4 li.current>* .number:before {
+    border-left-color: #e3ac56;
+}
+.css-shop-1 .gsi-style-7.border-top li.current>* {
+    border-top-color: #e3ac56;
+}
+.css-shop-1 .icon-box.icon-circle .icon-block,
+.css-shop-1 .icon-box.icon-circle .icon-block span,
+.css-shop-1 .icon-block-2,
+.css-shop-1 .icon-block-2:after,
+.css-shop-1 .simple-icon-image img,
+.css-shop-1 .icon-image-overlay,
+.css-shop-1 .simple-icon-icon,
+.css-shop-1 .link-rounded-icon,
+.css-shop-1 .slider-slick-slide a [class^="icon-"],
+.css-shop-1 .flexslider.clients .flex-control-paging li a,
+.css-shop-1 .testimonial-single .slick-prev,
+.css-shop-1 .testimonial-single .slick-next,
+.css-shop-1 .testimonial-single .slick-dots li button:before,
+.css-shop-1 .slick-dots li button:before,
+.css-shop-1 .testimonials-slick-nav .slick-testimonial-prev,
+.css-shop-1 .testimonials-slick-nav .slick-testimonial-next,
+.css-shop-1 .block-content-wrapper h1 {
+    border-radius: 50px;
+}
+.css-shop-1 .loader-6 {
+    background: #e3ac56;
+    background: -moz-linear-gradient(left, #e3ac56 10%, rgba(227, 172, 86, 0) 42%);
+    background: -webkit-linear-gradient(left, #e3ac56 10%, rgba(227, 172, 86, 0) 42%);
+    background: -o-linear-gradient(left, #e3ac56 10%, rgba(227, 172, 86, 0) 42%);
+    background: -ms-linear-gradient(left, #e3ac56 10%, rgba(227, 172, 86, 0) 42%);
+    background: linear-gradient(to right, #e3ac56 10%, rgba(227, 172, 86, 0) 42%);
+}
+@-webkit-keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #e3ac56, 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2), 2.5em 0em 0 0em rgba(227, 172, 86, 0.2), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.2), 0em 2.5em 0 0em rgba(227, 172, 86, 0.2), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.2), -2.6em 0em 0 0em rgba(227, 172, 86, 0.5), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.7), 1.8em -1.8em 0 0em #e3ac56, 2.5em 0em 0 0em rgba(227, 172, 86, 0.2), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.2), 0em 2.5em 0 0em rgba(227, 172, 86, 0.2), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.2), -2.6em 0em 0 0em rgba(227, 172, 86, 0.2), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.5), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.7), 2.5em 0em 0 0em #e3ac56, 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.2), 0em 2.5em 0 0em rgba(227, 172, 86, 0.2), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.2), -2.6em 0em 0 0em rgba(227, 172, 86, 0.2), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.2), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.5), 2.5em 0em 0 0em rgba(227, 172, 86, 0.7), 1.75em 1.75em 0 0em #e3ac56, 0em 2.5em 0 0em rgba(227, 172, 86, 0.2), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.2), -2.6em 0em 0 0em rgba(227, 172, 86, 0.2), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.2), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2), 2.5em 0em 0 0em rgba(227, 172, 86, 0.5), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.7), 0em 2.5em 0 0em #e3ac56, -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.2), -2.6em 0em 0 0em rgba(227, 172, 86, 0.2), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.2), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2), 2.5em 0em 0 0em rgba(227, 172, 86, 0.2), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.5), 0em 2.5em 0 0em rgba(227, 172, 86, 0.7), -1.8em 1.8em 0 0em #e3ac56, -2.6em 0em 0 0em rgba(227, 172, 86, 0.2), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.2), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2), 2.5em 0em 0 0em rgba(227, 172, 86, 0.2), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.2), 0em 2.5em 0 0em rgba(227, 172, 86, 0.5), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.7), -2.6em 0em 0 0em #e3ac56, -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.2), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2), 2.5em 0em 0 0em rgba(227, 172, 86, 0.2), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.2), 0em 2.5em 0 0em rgba(227, 172, 86, 0.2), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.5), -2.6em 0em 0 0em rgba(227, 172, 86, 0.7), -1.8em -1.8em 0 0em #e3ac56;
+    }
+}
+@keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #e3ac56, 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2), 2.5em 0em 0 0em rgba(227, 172, 86, 0.2), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.2), 0em 2.5em 0 0em rgba(227, 172, 86, 0.2), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.2), -2.6em 0em 0 0em rgba(227, 172, 86, 0.5), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.7), 1.8em -1.8em 0 0em #e3ac56, 2.5em 0em 0 0em rgba(227, 172, 86, 0.2), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.2), 0em 2.5em 0 0em rgba(227, 172, 86, 0.2), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.2), -2.6em 0em 0 0em rgba(227, 172, 86, 0.2), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.5), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.7), 2.5em 0em 0 0em #e3ac56, 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.2), 0em 2.5em 0 0em rgba(227, 172, 86, 0.2), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.2), -2.6em 0em 0 0em rgba(227, 172, 86, 0.2), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.2), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.5), 2.5em 0em 0 0em rgba(227, 172, 86, 0.7), 1.75em 1.75em 0 0em #e3ac56, 0em 2.5em 0 0em rgba(227, 172, 86, 0.2), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.2), -2.6em 0em 0 0em rgba(227, 172, 86, 0.2), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.2), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2), 2.5em 0em 0 0em rgba(227, 172, 86, 0.5), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.7), 0em 2.5em 0 0em #e3ac56, -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.2), -2.6em 0em 0 0em rgba(227, 172, 86, 0.2), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.2), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2), 2.5em 0em 0 0em rgba(227, 172, 86, 0.2), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.5), 0em 2.5em 0 0em rgba(227, 172, 86, 0.7), -1.8em 1.8em 0 0em #e3ac56, -2.6em 0em 0 0em rgba(227, 172, 86, 0.2), -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.2), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2), 2.5em 0em 0 0em rgba(227, 172, 86, 0.2), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.2), 0em 2.5em 0 0em rgba(227, 172, 86, 0.5), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.7), -2.6em 0em 0 0em #e3ac56, -1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(227, 172, 86, 0.2), 1.8em -1.8em 0 0em rgba(227, 172, 86, 0.2), 2.5em 0em 0 0em rgba(227, 172, 86, 0.2), 1.75em 1.75em 0 0em rgba(227, 172, 86, 0.2), 0em 2.5em 0 0em rgba(227, 172, 86, 0.2), -1.8em 1.8em 0 0em rgba(227, 172, 86, 0.5), -2.6em 0em 0 0em rgba(227, 172, 86, 0.7), -1.8em -1.8em 0 0em #e3ac56;
+    }
+}
+.css-shop-1 .loader-3 {
+    border-top-color: rgba(227, 172, 86, 0.2);
+    border-right-color: rgba(227, 172, 86, 0.2);
+    border-bottom-color: rgba(227, 172, 86, 0.2);
+    border-left-color: #e3ac56;
+}
+.css-shop-1 .svg-animation path {
+    stroke: #e3ac56;
+}
+.css-shop-1 .loader-36 > div {
+    background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #e3ac56 30%, #e3ac56 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #e3ac56 30%, #e3ac56 100%);
+}
+.css-shop-1 .blockquote-style-2 blockquote:after, 
+.css-shop-1 .blockquote-style-2 blockquote:before{
+  background-color: transparent;
+}

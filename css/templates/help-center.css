@@ -1,0 +1,1219 @@
+/* Help Center */
+
+body.css-help-center,
+.css-help-center p,
+.css-help-center .featured-content h1.small,
+.css-help-center .form-group > label,
+.css-help-center .checkbox > label,
+.css-help-center .alert > p,
+.css-help-center .block-content-wrapper h2,
+.css-help-center .intro-text h1,
+.css-help-center .intro-text h2,
+.css-help-center .intro-text h3,
+.css-help-center .intro-text h4,
+.css-help-center .intro-text h5,
+.css-help-center .intro-text h6,
+.css-help-center .restaurant-info-img-content h4,
+.css-help-center .contact-title h3 {
+    font-family: "Lato", sans-serif;
+} 
+.css-help-center h1,
+.css-help-center h2,
+.css-help-center h3,
+.css-help-center h4,
+.css-help-center h5,
+.css-help-center h6,
+.css-help-center .testimonials-slider .testimonials-slider-box .testimonial-text {
+    font-family: "Lato", sans-serif;
+}
+/* Color 1 */
+
+.css-help-center .color-1,
+.css-help-center .wsmenu-list > li > a:hover,
+.css-help-center .dark-menu .wsmenu-submenu li a:hover,
+.css-help-center .dark-menu .wsmenu-submenu li a:hover,
+.css-help-center .dark-menu .megamenu .link-list li a:hover,
+.css-help-center #header ul.wsmenu-submenu li a.active,
+.css-help-center #portfolio-filter li a:hover,
+.css-help-center .wsmenu-list > li > a.active,
+.css-help-center #header .wsmenu.navigation-dark .wsmenu-list > li > a.active,
+.css-help-center #header .wsmenu.navigation-dark .wsmenu-list > li > a:hover,
+.css-help-center .dark-menu .megamenu .link-list li.active a,
+.css-help-center .cart-dropdown-menu .cart-shop-products-list li .csp-price,
+.css-help-center .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-help-center .light-menu .megamenu .link-list li.active a,
+.css-help-center .light-menu .megamenu .link-list li a:hover,
+.css-help-center .light-menu .wsmenu-submenu li a:hover,
+.css-help-center .light-menu .wsmenu-submenu li.active a,
+.css-help-center ul.simple-list li [class^="icon-"],
+.css-help-center .footer-tags a:hover,
+.css-help-center #footer .widget-twitter-box .tweet ul li a:hover,
+.css-help-center .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-help-center .blog-list>article .post-facebook:hover,
+.css-help-center .blog-list>article .post-facebook:hover .pf-icon span,
+.css-help-center .blog-list>article .post-facebook:hover .pf-text,
+.css-help-center ul.blog-popular-list .ssp-title:hover,
+.css-help-center #post-content .blog-desc-details a:hover,
+.css-help-center .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-help-center .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-help-center .author-description .author-description-text-holder .author-name a:hover,
+.css-help-center .comment_response .media h6 a:hover,
+.css-help-center .blog-list>article .post-facebook:hover,
+.css-help-center .blog-list>article .post-facebook:hover .pf-icon span,
+.css-help-center .blog-list>article .post-facebook:hover .pf-text,
+.css-help-center ul.blog-popular-list .ssp-title:hover,
+.css-help-center #post-content .blog-desc-details a:hover,
+.css-help-center .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-help-center .header-light.nav-sticky .wsmenu-list > li > a:hover,
+.css-help-center .header-light.nav-sticky .wsmenu-list > li > a.active,
+.css-help-center .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-help-center .author-description .author-description-text-holder .author-name a:hover,
+.css-help-center ul.sidebar-category li a:hover,
+.css-help-center ul.shop-star-rating.single-item li.full-star,
+.css-help-center,
+.css-help-center #footer.footer-10 .title.small a:hover,
+.css-help-center .vlt-left-menu.vlt-menu-style-2 .nav-accordion-section-title:hover,
+.css-help-center .vlt-left-menu .nav-accordion-section-content ul li a:hover,
+.css-help-center .header-content .phone-number span,
+.css-help-center .intro-block h6,
+.css-help-center .icon-block [class^="icon-"],
+.css-help-center ul.header-links li a:hover,
+.css-help-center .navbar.banner--clone .nav > li > a:hover,
+.css-help-center .navbar.banner--clone .btn-search:hover,
+.css-help-center .success-lg:hover [class^="icon-"],
+.css-help-center #copyrights ul li a:hover,
+.css-help-center #copyrights a:hover,
+.css-help-center .breadcrumb > .active,
+.css-help-center .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-help-center a.image_link:hover [class^="icon-"],
+.css-help-center a.load-more-btn:hover,
+.css-help-center a.load-more-btn:hover [class^="icon-"],
+.css-help-center .intro-block h1 [class^="icon-"],
+.css-help-center .shop-list .shop-product h4 a:hover,
+.css-help-center ul#portfolio-layout-filter li a.active,
+.css-help-center .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-help-center .shop-price,
+.css-help-center ul.sidebar-shop-cat > li > a:hover,
+.css-help-center a.load-more-btn:hover,
+.css-help-center a.load-more-btn:hover [class^="icon-"],
+.css-help-center .intro-block h1 [class^="icon-"],
+.css-help-center .shop-list .shop-product h4 a:hover,
+.css-help-center ul#portfolio-layout-filter li a.active,
+.css-help-center .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-help-center ul.sidebar-cat > li span,
+.css-help-center .shop-price,
+.css-help-center ul.sidebar-cat > li > a:hover,
+.css-help-center ul.jobs-list li [class^="icon-"],
+.css-help-center .team-social a:hover,
+.css-help-center .icon-default,
+.css-help-center .error-page-icon span [class^="icon-"],
+.css-help-center .footer-3-container-text a:hover,
+.css-help-center .testimonials-box .testimonial-author,
+.css-help-center #page-title.image-page-title-fullwidth h1,
+.css-help-center #page-title.image-page-title-left.image-page-noimage h2,
+.css-help-center ul.services-2-icons,
+.css-help-center ul.shop-layout-filter li a.active,
+.css-help-center ul.portfolio-layout-filter li a.active,
+.css-help-center ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-help-center .related-projects-title .slick-custom-next:hover,
+.css-help-center .related-projects-title .slick-custom-prev:hover,
+.css-help-center .recent-post-content a:hover,
+.css-help-center .form-group.login-form-submit a,
+.css-help-center .shop-type-1 a.add-to-cart-item:before,
+.css-help-center .shop-type-2 a.add-to-cart-item:before,
+.css-help-center a.form-forgotpass,
+.css-help-center .sidebar-shop-products-list li .ssp-title:hover,
+.css-help-center .restaurant-info ul li [class^="icon-"],
+.css-help-center .navbar-default.default .btn-cart .header-cart-count,
+.css-help-center .blog-list > article .blog-desc h4 a:focus,
+.css-help-center .blog-list-full > article .blog-desc h4 a:hover,
+.css-help-center .blog-list-full > article .blog-desc h4 a:focus,
+.css-help-center .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-help-center .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-help-center .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-help-center .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-help-center .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-help-center .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-help-center .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-help-center .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-help-center .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-help-center .blog-masonry > article .blog-desc h4 a:hover,
+.css-help-center .blog-masonry > article .blog-desc h4 a:focus,
+.css-help-center .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-help-center .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-help-center .comment_response .media_cloud a.reply_link,
+.css-help-center .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-help-center .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-help-center .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-help-center .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-help-center .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-help-center .dropcap.dropcap-style-1,
+.css-help-center .counter-box .count-icon,
+.css-help-center .counter-style-1 .counter-box h4,
+.css-help-center .icon-type,
+.css-help-center .icon-type.it-main-color,
+.css-help-center .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-help-center .comment_response .media_cloud a.reply_link,
+.css-help-center .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-help-center .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-help-center .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-help-center .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-help-center .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-help-center .dropcap.dropcap-style-1,
+.css-help-center .btn-default-reverse,
+.css-help-center .counter-box .count-icon,
+.css-help-center .counter-style-1 .counter-box h4,
+.css-help-center .icon-type,
+.css-help-center .icon-type.it-main-color,
+.css-help-center .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-help-center .review_response .media h6 a,
+.css-help-center .review_response .media_cloud .shop-star-rating li.full-star,
+.css-help-center .rating-container .rating-stars,
+.css-help-center .form-contact small,
+.css-help-center ul.icon-list li a:hover,
+.css-help-center ul.icon-list li a:active,
+.css-help-center ul.icon-list li a:focus,
+.css-help-center .checkout-sum,
+.css-help-center .checkout-table td a:hover,
+.css-help-center .checkout-box a,
+.css-help-center .user-profile-list ul li a:hover,
+.css-help-center a.profile-active,
+.css-help-center .user-profile-content h2,
+.css-help-center .forum-content-header span a,
+.css-help-center .recent-work-content a:hover,
+.css-help-center .recent-work-image-content a:hover,
+.css-help-center .contact-overlay-map .maximize-form:hover,
+.css-help-center .hero-slier-nav-content:hover [class^="icon-"],
+.css-help-center .selected .hero-slier-nav-content [class^="icon-"],
+.css-help-center .team-social a:hover,
+.css-help-center .team-name h5 a:hover,
+.css-help-center .clients-slick-nav .slick-custom-next:hover,
+.css-help-center .clients-slick-nav .slick-custom-prev:hover,
+.css-help-center .services-pricing-icon [class^="icon-"],
+.css-help-center .brand [class^="icon-"],
+.css-help-center .content-divider-colored [class^="icon-"],
+.css-help-center .divider-content h1 span,
+.css-help-center .divider-content h2 span,
+.css-help-center .divider-content h3 span,
+.css-help-center .intro-page-content a:hover,
+.css-help-center .image-box-content a:hover,
+.css-help-center .icon-type.it-main-color [class^="icon-"],
+.css-help-center .icon-type-2:hover p,
+.css-help-center .icon-type-2:hover span.icon-type-2-icon,
+.css-help-center .heading-container .head-colored,
+.css-help-center ul.home-6-list li h4 [class^="icon-"],
+.css-help-center .icon-box-2-effect-1:hover .icon-block-2,
+.css-help-center .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-help-center .icon-box-2-effect-4:hover .icon-block-2,
+.css-help-center .icon-box-2-effect-4-reverse .icon-block-2,
+.css-help-center .icon-box-2-effect-5:hover .icon-block-2,
+.css-help-center .simple-icon-lightbg [class^="icon-"],
+.css-help-center .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-help-center .panel-body ul li a:hover,
+.css-help-center .colored,
+.css-help-center .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-help-center .tabpanel-style-6 .nav-tabs > li > a,
+.css-help-center .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-help-center .tp_caption_big span,
+.css-help-center ul.icon-box-simple li:hover a,
+.css-help-center .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-help-center .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-help-center .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-help-center .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-help-center .blockquote-author p,
+.css-help-center .testimonial-author,
+.css-help-center .latest-post-content h1 a:hover,
+.css-help-center .post-by a:hover,
+.css-help-center .latest-post-content .read-more-link,
+.css-help-center .blog-horizontal .bh-content h3 a:hover,
+.css-help-center .blog-horizontal .bh-content .bh-details a:hover,
+.css-help-center .blog-horizontal .bh-content .bh-details a:hover span,
+.css-help-center a.bsp-title:hover,
+.css-help-center .sidebar-blog-post-list li .sbp-title:hover,
+.css-help-center .navbar-nav > li.active,
+.css-help-center .navbar-nav > li.active:hover,
+.css-help-center a.idb-social:hover,
+.css-help-center a.idb-social:hover span,
+.css-help-center a.idb-price,
+.css-help-center span.pts-raised,
+.css-help-center .bsp-social a:hover,
+.css-help-center .bsp-social a [class^="icon-"]:hover,
+.css-help-center a.bsp-more:hover,
+.css-help-center .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-help-center .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-help-center .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-help-center .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-help-center .gallery-block .gallery-box .gallery-meta a:hover,
+.css-help-center .gallery-block .gallery-box .gallery-meta a:focus,
+.css-help-center .tp-caption a,
+.css-help-center .tp-caption a:hover,
+.css-help-center .cd-timeline-inner-content a:hover,
+.css-help-center .testimonial-box .testimonial-author span,
+.css-help-center .fic-date a:hover,
+.css-help-center .forum-inner-content h1 a:hover,
+.css-help-center .user-profile-desc a:hover,
+.css-help-center .cd-timeline-navigation a:hover::after,
+.css-help-center .login-form .login-input-box [class^="icon-"],
+.css-help-center .icon-input-box [class^="icon-"],
+.css-help-center ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-help-center ul.bar-chart-graph li,
+.css-help-center ul.line-graph li,
+.css-help-center ul.donut-graph li,
+.css-help-center .tp-caption.Creative-SubTitle,
+.css-help-center .Creative-SubTitle,
+.css-help-center .tp-caption.vlt-hero-rotating,
+.css-help-center ul.recent-post-widget .rp-post a:hover,
+.css-help-center .loader-5,
+.css-help-center .loader-7,
+.css-help-center .loader-9,
+.css-help-center .loader-2,
+.css-help-center .loader-4,
+.css-help-center .vertical-newspaper-list .vnl-content h4 a:hover,
+.css-help-center .vertical-newspaper-sidebar-list .vnl-content h4 a:hover,
+.css-help-center .events-vertical .events-vertical-desc h4 a:hover,
+.css-help-center .portfolio-single-share .pss-share li a:hover,
+.css-help-center .portfolio-single-share .pss-like:hover,
+.css-help-center .portfolio-single-intro-description .portfolio-single-categories a:hover,
+.css-help-center .portfolio-single-more-link:hover,
+.css-help-center .gsi-style-9 li.visited>*,
+.css-help-center .gsi-style-9 li.current>*,
+.css-help-center .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-help-center .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-help-center .header-contact-box .header-phone:hover,
+.css-help-center .header-contact-box .header-email:hover,
+.css-help-center .icon-box.icon-square .icon-block span,
+.css-help-center .icon-box.icon-square.icon-fill.icon-transform:hover .icon-block span {
+    color: #8bc34a;
+}
+/* Background Color 1 */
+
+.css-help-center .background-1,
+.css-help-center .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-help-center .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-help-center .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1,
+.css-help-center a.brand-modern span.line-1,
+.css-help-center .header.dark-nav a.brand-modern span.line-1,
+.css-help-center .wte-separator.background-1:before,
+.css-help-center .call-newsletter-box form .btn,
+.css-help-center .offscreen-container,
+.css-help-center #header.background-1,
+.css-help-center .background-1-menu .megamenu,
+.css-help-center .background-1-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-help-center .background-1-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-help-center .background-1-menu .wsmenu-submenu li a,
+.css-help-center .background-1-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-help-center .background-1-menu .wsmenu-submenu,
+.css-help-center .background-1-menu .wsmenu-submenu-sub,
+.css-help-center .background-1-menu .wsmenu-submenu-sub-sub,
+.css-help-center .background-1-menu .wsmenu-submenu-sub-sub-sub,
+.css-help-center #portfolio-filter li a.activeFilter,
+.css-help-center #portfolio-filter li a.activeFilter[data-filter="*"],
+.css-help-center #header .search-cart-navbar:hover .btn-default,
+.css-help-center .scroll-to-top-fixed,
+.css-help-center #bootstrap-table.table>thead>tr>th,
+.css-help-center ul.meta-share-social li a:hover,
+.css-help-center article.blog-item .blog-image-box .video-play-icon span,
+.css-help-center .audioplayer,
+.css-help-center .audioplayer-bar,
+.css-help-center .blog-desc-details:after,
+.css-help-center .audioplayer-volume-adjust div div,
+.css-help-center .qoute-post,
+.css-help-center .footer-newsletter-box form .btn,
+.css-help-center .footer-newsletter-box form .btn.disabled,
+.css-help-center .tags-cloud-list li a:hover,
+.css-help-center article.blog-item .blog-image-box.video-post:before,
+.css-help-center .tp-caption .btn-default,
+.css-help-center .btn-default,
+.css-help-center .flex-control-paging li a.flex-active,
+.css-help-center #mobile-navbar,
+.css-help-center .call-to-action,
+.css-help-center .maincolor-background,
+.css-help-center ul.widget-ul li a > span,
+.css-help-center ul.widget-social li a:hover,
+.css-help-center #people .item .info,
+.css-help-center .main-color,
+.css-help-center .flexslider.clients .flex-control-paging li a.flex-active,
+.css-help-center #portfolio-filter li a:after,
+.css-help-center .navbar.banner--clone .nav li.active > a,
+.css-help-center .pricing-table-column.special-price-table .pricing-table-head,
+.css-help-center .pricing-table-column.special-price-table .pricing-table-content,
+.css-help-center .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-help-center .progress-bar-box .progress-bar,
+.css-help-center .background-1,
+.css-help-center .selecter .selecter-item:hover,
+.css-help-center .selecter .selecter-item.selected:hover,
+.css-help-center #footer.colored,
+.css-help-center section.about-counter,
+.css-help-center .error-page-title:after,
+.css-help-center .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-help-center .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-help-center .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-help-center .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-help-center .tabpanel-style-4 .tab-content h3:after,
+.css-help-center .about-classic-column-themecolor,
+.css-help-center .selecter .selecter-item:hover,
+.css-help-center .selecter .selecter-item.selected:hover,
+.css-help-center .item-text-wrapper_overlay,
+.css-help-center .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-help-center .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-help-center .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-help-center .shop-type-2 a.add-to-cart-item,
+.css-help-center .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-help-center .search-cart-navbar .btn-cart .header-cart-count,
+.css-help-center .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-help-center .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-help-center .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-help-center .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-help-center .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-help-center .dropcap.dropcap-style-2,
+.css-help-center .alert-default,
+.css-help-center blockquote:before,
+.css-help-center blockquote:after,
+.css-help-center .tp-caption .btn-default,
+.css-help-center .btn-default,
+.css-help-center .content-title h5:before,
+.css-help-center .content-title h5:after,
+.css-help-center .icon-box.icon-fill .icon-block,
+.css-help-center .icon-box.icon-square:hover .icon-block,
+.css-help-center .icon-box.icon-circle:hover .icon-block,
+.css-help-center .icon-box.icon-circle:hover .icon-block span,
+.css-help-center .icon-type.it-main-color:hover,
+.css-help-center .icon-type.it-main-color:focus,
+.css-help-center .icon-type.it-main-color-reverse,
+.css-help-center .icon-type.it-main-color:hover span,
+.css-help-center .icon-type.it-main-color-reverse:hover span,
+.css-help-center .add-to-cart-form .count-input .count-plus:hover,
+.css-help-center .add-to-cart-form .count-input .count-minus:hover,
+.css-help-center .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-help-center .pricing-table-container.special-price-table,
+.css-help-center .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-help-center .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-help-center ul.forum-list li.forum-header,
+.css-help-center .textbox-withmaincolor,
+.css-help-center .background-1,
+.css-help-center .team-member-job,
+.css-help-center .team-section .team-desc-box:before,
+.css-help-center .team-section .team-desc-box:after,
+.css-help-center .shop-categories:hover .shop-title-categories,
+.css-help-center .content-divider-colored-bg [class^="icon-"],
+.css-help-center .overlay-animation-6 .content-box,
+.css-help-center .block-content-wrapper h1,
+.css-help-center .benefits-box h1,
+.css-help-center .selecter .selecter-item:hover,
+.css-help-center .selecter .selecter-item.selected:hover,
+.css-help-center .ui-slider .ui-slider-range,
+.css-help-center #header.header-main-color,
+.css-help-center .navbar-2.banner--clone.main-color-navbar,
+.css-help-center .tabpanel-style-center .nav-tabs > li.active > a,
+.css-help-center .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-help-center .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-help-center .label.label-primary,
+.css-help-center .label.label-primary,
+.css-help-center .star-rating .caption .label,
+.css-help-center .tparrows.preview5:hover,
+.css-help-center .table-style-4.table-withmaincolor thead tr th,
+.css-help-center .table-style-5.table-withmaincolor thead tr th,
+.css-help-center .table-style-6.table-withmaincolor thead tr th,
+.css-help-center .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-help-center .table-style-7.table-withmaincolor thead tr th,
+.css-help-center .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-help-center .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-help-center .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-help-center .table-style-2.table-withmaincolor thead tr th,
+.css-help-center .table-style-3.table-withmaincolor thead tr th,
+.css-help-center .table-style-3.table-withmaincolor tbody tr th,
+.css-help-center .parallax-withmaincolor,
+.css-help-center .contact-overlay-map .minimize-form:hover,
+.css-help-center .team-3:hover .team-social,
+.css-help-center .team-5:hover .team-social,
+.css-help-center .special-table-2,
+.css-help-center .special-table-3,
+.css-help-center span.pricing-3-discount,
+.css-help-center #vertical-timeline-container:before,
+.css-help-center .subscribe-fancy-themebg,
+.css-help-center .empty-cart,
+.css-help-center .team-4:hover .team-social,
+.css-help-center .content-divider-colored,
+.css-help-center .content-divider-colored-bg,
+.css-help-center .withmainbackground,
+.css-help-center .services-2-heading,
+.css-help-center .icon-box-2-effect-4 .icon-block-2,
+.css-help-center .services-2-heading,
+.css-help-center .promotion-box-theme-colored,
+.css-help-center .promotion-box-theme-colored .promotion-box-title h4,
+.css-help-center .icon-block-2,
+.css-help-center .icon-box-2-effect-2:hover .icon-block-2,
+.css-help-center .icon-box-2-effect-3 .icon-block-2:after,
+.css-help-center .icon-box-2-effect-4 .icon-block-2:after,
+.css-help-center .icon-box-2-effect-6 .icon-block-2,
+.css-help-center .icon-box-2-effect-6:hover .icon-block-2,
+.css-help-center .simple-icon-icon,
+.css-help-center a.call-to-action-link:hover,
+.css-help-center .add-to-cart-form .count-input .count-plus,
+.css-help-center .add-to-cart-form .count-input .count-minus,
+.css-help-center .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-help-center .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-help-center .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-help-center .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-help-center .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-help-center .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-help-center .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-help-center .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-help-center .special-price-box,
+.css-help-center .dropdown-menu > .active > a,
+.css-help-center .dropdown-menu > .active > a:focus,
+.css-help-center .dropdown-menu > .active > a:hover,
+.css-help-center #header.main-color-nav .navbar-2,
+.css-help-center .latest-post-data,
+.css-help-center .blog-single-post .bsp-heading h1,
+.css-help-center .testimonial-single .slick-dots li button:before,
+.css-help-center .slick-dots li button:before,
+.css-help-center .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-help-center .timeline-complete .timeline-status.timeline-active:before,
+.css-help-center .megamenu.maincolor,
+.css-help-center .dropdown.maincolor ul,
+.css-help-center .dropdown.maincolor ul.dropdown-menu,
+.css-help-center #footer.maincolor,
+.css-help-center #copyrights.maincolor,
+.css-help-center .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-help-center .cd-horizontal-timeline .events a.selected::after,
+.css-help-center .cd-horizontal-timeline .filling-line,
+.css-help-center .pinpulsebox span,
+.css-help-center .main-color-dropdown .megamenu,
+.css-help-center .main-color-dropdown .dropdown-menu,
+.css-help-center #cd-timeline::before,
+.css-help-center ul.icon-list.il-main-bg li [class^="icon-"],
+.css-help-center .process-steps ul li.current a .number,
+.css-help-center ol.ordered-list.ol-main-bg li:before,
+.css-help-center .irs-bar,
+.css-help-center .irs-from,
+.css-help-center .irs-to,
+.css-help-center .irs-single,
+.css-help-center .open > .dropdown-toggle.btn-default,
+.css-help-center .fc-unthemed .fc-today,
+.css-help-center .fc-content,
+.css-help-center #particles-js,
+.css-help-center .s-icon:hover,
+.css-help-center #progressbar li.active:before,
+.css-help-center #progressbar li.active:after,
+.css-help-center .portfolio-filter .selecter-item.activeFilter,
+.css-help-center #copyrights ul.widget-social li a:hover,
+.css-help-center .page-loader-spinner span,
+.css-help-center .loader-6:before,
+.css-help-center .loader-2,
+.css-help-center .loader-2:before,
+.css-help-center .loader-2:after,
+.css-help-center .newspaper-title .custom-slick-nav-1 .slick-custom-next:hover,
+.css-help-center .newspaper-title .custom-slick-nav-1 .slick-custom-prev:hover,
+.css-help-center .loader-10 > div,
+.css-help-center .loader-11 > div,
+.css-help-center .loader-12 > div,
+.css-help-center .loader-13 > div:first-child,
+.css-help-center .loader-14 > div,
+.css-help-center .loader-16 > div,
+.css-help-center .loader-17 > div,
+.css-help-center .loader-17 > div:before,
+.css-help-center .loader-17 > div:after,
+.css-help-center .loader-18 > div,
+.css-help-center .loader-19 > div,
+.css-help-center .loader-20 > div,
+.css-help-center .loader-22 > div,
+.css-help-center .loader-23 > div,
+.css-help-center .loader-24 > div,
+.css-help-center .loader-25 > div,
+.css-help-center .loader-26 > div,
+.css-help-center .loader-27 > div,
+.css-help-center .loader-28 > div,
+.css-help-center .loader-29 > div,
+.css-help-center .loader-32 > div,
+.css-help-center .loader-33 > div,
+.css-help-center .loader-35 > div:nth-child(3),
+.css-help-center .loader-35 > div:nth-child(4),
+.css-help-center .loader-35 > div:nth-child(5),
+.css-help-center .loader-35 > div:nth-child(6),
+.css-help-center .loader-37 > div,
+.css-help-center .loader-38 > div,
+.css-help-center .portfolio-single-share .pss-share li a:before,
+.css-help-center .portfolio-single-intro-description .portfolio-single-categories a:before,
+.css-help-center .portfolio-single-more-link:before,
+.css-help-center .checkbox input[type=checkbox]:checked + .checkbox-material .check,
+.css-help-center .radio input[type=radio]:checked ~ .check,
+.css-help-center .vlt-btn-group .dropdown-menu li a:hover,
+.css-help-center .gsi-step-indicator.triangle li.current>*,
+.css-help-center .gsi-style-4 li.current>*,
+.css-help-center .gsi-style-5 li.current>*,
+.css-help-center .gsi-style-6 li.current>* .number,
+.css-help-center .gsi-style-7 li.current:hover>*,
+.css-help-center .gsi-style-8 li.visited>*,
+.css-help-center .gsi-style-8 li.current>*,
+.css-help-center .gsi-style-9 li.visited>*:after,
+.css-help-center .gsi-style-9 li.current>*:after,
+.css-help-center .gsi-style-10 li.visited>*:after,
+.css-help-center .gsi-style-10 li.current>*:after,
+.css-help-center .gsi-style-11 li.current:before,
+.css-help-center .gsi-style-11 li.current:after,
+.css-help-center .gsi-style-11 li.visited:before,
+.css-help-center .gsi-style-11 li.visited:after,
+.css-help-center .gsi-style-11 li.visited>*:after,
+.css-help-center .gsi-style-11 li.current>*:after,
+.css-help-center .flatpickr-day.today:focus,
+.css-help-center .flatpickr-day.today:hover,
+.css-help-center .reveal-nav .navbar-toggle,
+.css-help-center .form-contact-3 .btn-default.disabled,
+.css-help-center .form-contact-3 .btn-default.disabled.active,
+.css-help-center .form-contact-3 .btn-default.disabled.focus,
+.css-help-center .form-contact-3 .btn-default.disabled:active,
+.css-help-center .form-contact-3 .btn-default.disabled:focus,
+.css-help-center .form-contact-3 .btn-default.disabled:hover,
+.css-help-center .form-contact-3 .btn-default[disabled],
+.css-help-center .form-contact-3 .btn-default[disabled].active,
+.css-help-center .form-contact-3 .btn-default[disabled].focus,
+.css-help-center .form-contact-3 .btn-default[disabled]:active,
+.css-help-center .form-contact-3 .btn-default[disabled]:focus,
+.css-help-center .form-contact-3 .btn-default[disabled]:hover,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-help-center .icon-box.icon-square:hover .icon-block span,
+.css-help-center #header.header-main-color-sticky.header-sticky,
+.css-help-center #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-help-center #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-help-center #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-help-center #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-help-center #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-help-center #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-help-center #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-help-center #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+    background-color: #8bc34a;
+}
+/* Color 2 */
+
+.css-help-center .color-2,
+.css-help-center .cart-shop-products h3,
+.css-help-center .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-help-center .cart-shop-products-list li .csp-price,
+.css-help-center .sidebar-shop-products-list li .shop-star-rating li.full-star,
+.css-help-center .shop-list .shop-product .shop-star-rating li.full-star,
+.css-help-center ul.shop-star-rating li.full-star,
+.css-help-center ul.line-graph li:nth-child(2n),
+.css-help-center ul.donut-graph li:nth-child(2n),
+.css-help-center ul.bar-chart-graph li:nth-child(2n) {
+    color: #8da6e9;
+}
+.color-2:hover {
+    color: #8da6e9;
+}
+/* Background Color 2 */
+
+.css-help-center .background-2,
+.css-help-center .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-help-center .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-help-center #header.background-2,
+.css-help-center .background-2-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-help-center .background-2-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-help-center .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2,
+.css-help-center a.brand-modern span.line-2,
+.css-help-center .header.dark-nav a.brand-modern span.line-2,
+.css-help-center .wte-separator.background-2:before,
+.css-help-center .form-contact.dark-from .has-error .help-block,
+.css-help-center a.add-to-wishlist,
+.css-help-center .shop-list .shop-product:hover>a.add-to-wishlist,
+.css-help-center .slider-price-filter-box:after,
+.css-help-center .background-2-menu .megamenu,
+.css-help-center .background-2-menu .wsmenu-submenu li a,
+.css-help-center .background-2-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-help-center .background-2-menu .wsmenu-submenu,
+.css-help-center .background-2-menu .wsmenu-submenu-sub,
+.css-help-center .background-2-menu .wsmenu-submenu-sub-sub,
+.css-help-center .background-2-menu .wsmenu-submenu-sub-sub-sub,
+.css-help-center .shop-list .shop-product .shop-ribbon,
+.css-help-center .ui-slider-horizontal .ui-slider-range,
+.css-help-center .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary,
+.css-help-center .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    background-color: #8da6e9;
+}
+/* Color 3 */
+
+.css-help-center .color-3,
+.css-help-center ul.line-graph li:nth-child(3n),
+.css-help-center ul.donut-graph li:nth-child(3n),
+.css-help-center ul.bar-chart-graph li:nth-child(3n),
+.css-help-center .navbar-toggle,
+.css-help-center .navbar-toggle:before {
+    color: #f3565d;
+}
+/* Background Color 3 */
+
+.css-help-center .background-3,
+.css-help-center .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-help-center .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-help-center #header.background-3,
+.css-help-center .background-3-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-help-center .background-3-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-help-center .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3,
+.css-help-center a.brand-modern span.line-3,
+.css-help-center .header.dark-nav a.brand-modern span.line-3,
+.css-help-center .wte-separator.background-3:before,
+.css-help-center .background-3-menu .megamenu,
+.css-help-center .background-3-menu .wsmenu-submenu li a,
+.css-help-center .background-3-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-help-center .background-3-menu .wsmenu-submenu,
+.css-help-center .background-3-menu .wsmenu-submenu-sub,
+.css-help-center .background-3-menu .wsmenu-submenu-sub-sub,
+.css-help-center .background-3-menu .wsmenu-submenu-sub-sub-sub {
+    background-color: #f3565d;
+}
+/* Border Color 1 */
+
+.css-help-center .border-background-1,
+.css-help-center .tp-caption .btn-default,
+.css-help-center .btn-default,
+.css-help-center .flex-control-paging li a.flex-active,
+.css-help-center .flexslider.clients .flex-control-paging li a.flex-active,
+.css-help-center .contact-info-3,
+.css-help-center .team-social a:hover,
+.css-help-center .contact-title-one h3:after,
+.css-help-center .home-title-one h3:after,
+.css-help-center #login-form .login-input:active,
+.css-help-center #login-form .login-input:focus,
+.css-help-center .load-more-wrapper a.load-more-btn:hover,
+.css-help-center #register-form .register-input:active,
+.css-help-center #register-form .register-input:focus,
+.css-help-center .dropcap.dropcap-style-1,
+.css-help-center .dropcap.dropcap-style-2,
+.css-help-center .alert-default,
+.css-help-center blockquote,
+.css-help-center .tp-caption .btn-default,
+.css-help-center .btn-default,
+.css-help-center .btn-default-reverse,
+.css-help-center .icon-box.icon-square .icon-block,
+.css-help-center .icon-box.icon-circle .icon-block,
+.css-help-center .icon-type.it-main-color,
+.css-help-center .icon-type.it-main-color:hover,
+.css-help-center .icon-type.it-main-color:focus,
+.css-help-center .icon-type.it-main-color-reverse,
+.css-help-center .icon-type.it-main-color-reverse:hover,
+.css-help-center .icon-type.it-main-color-reverse:focus,
+.css-help-center .add-to-cart-form .count-input .count-plus:hover,
+.css-help-center .add-to-cart-form .count-input .count-minus:hover,
+.css-help-center #reviewmodal .modal-header,
+.css-help-center .job-left-title h3,
+.css-help-center .pricing-table-container.special-price-table,
+.css-help-center .clients-slick-nav .slick-custom-next:hover,
+.css-help-center .clients-slick-nav .slick-custom-prev:hover,
+.css-help-center .tabpanel-style-8 .nav-tabs > li.active,
+.css-help-center a.btn-default.btn-animation-icon-box,
+.css-help-center .btn-default.btn-animation-icon-box:hover,
+.css-help-center .btn-default.btn-animation-icon-box:focus,
+.css-help-center .btn-default.btn-animation-icon-box:active,
+.css-help-center .tp-caption a.btn-default.btn-animation-icon-box,
+.css-help-center .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-help-center .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-help-center .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-help-center .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-help-center .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-help-center .clients-slick-nav .slick-clients-prev:hover,
+.css-help-center .clients-slick-nav .slick-clients-next:hover,
+.css-help-center .bsp-image,
+.css-help-center .blog-list > article.default-post .blog-desc,
+.css-help-center .testimonial-single li.slick-active button::before,
+.css-help-center .slick-dots li.slick-active button:before,
+.css-help-center .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-help-center .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-help-center .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-help-center .timeline-status.timeline-active:before,
+.css-help-center .cd-horizontal-timeline .events a.older-event::after,
+.css-help-center .cd-horizontal-timeline .events a.selected::after,
+.css-help-center .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-help-center .no-touch .cd-timeline-navigation a:hover,
+.css-help-center .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-help-center .cd-timeline-navigation a:hover,
+.css-help-center .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-help-center .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-help-center .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-help-center .login-form input:focus,
+.css-help-center .pinpulse,
+.css-help-center .open > .dropdown-toggle.btn-default,
+.css-help-center .tabpanel-style-7.shop-single-tabpanel .nav-tabs > li.active,
+.css-help-center .newspaper-title,
+.css-help-center .newspaper-separator,
+.css-help-center ul.widget-social.widget-social-sidebar li a:hover,
+.css-help-center .loader-30 > div,
+.css-help-center .loader-31 > div,
+.css-help-center .loader-35 > div:first-of-type,
+.css-help-center .loader-35 > div:nth-child(2),
+.css-help-center .radio input[type=radio]:checked ~ .circle,
+.css-help-center .gsi-step-indicator.triangle li.current>*,
+.css-help-center .gsi-style-7.border-right li.current>*,
+.css-help-center .gsi-style-7.border-bottom li.current>*,
+.css-help-center .gsi-style-7.border-left li.current>*,
+.css-help-center .flatpickr-day.today,
+.css-help-center .flatpickr-day.today:focus,
+.css-help-center .flatpickr-day.today:hover,
+.css-help-center .form-contact-3 .btn-default.disabled,
+.css-help-center .form-contact-3 .btn-default.disabled.active,
+.css-help-center .form-contact-3 .btn-default.disabled.focus,
+.css-help-center .form-contact-3 .btn-default.disabled:active,
+.css-help-center .form-contact-3 .btn-default.disabled:focus,
+.css-help-center .form-contact-3 .btn-default.disabled:hover,
+.css-help-center .form-contact-3 .btn-default[disabled],
+.css-help-center .form-contact-3 .btn-default[disabled].active,
+.css-help-center .form-contact-3 .btn-default[disabled].focus,
+.css-help-center .form-contact-3 .btn-default[disabled]:active,
+.css-help-center .form-contact-3 .btn-default[disabled]:focus,
+.css-help-center .form-contact-3 .btn-default[disabled]:hover,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-help-center .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-help-center .wsmenu-list li > .wsmenu-submenu,
+.css-help-center .wsmenu-list li > .megamenu,
+.css-help-center .table-style-1 thead tr th,
+.css-help-center .table-style-1 tbody tr:last-child th,
+.css-help-center .table-style-1 tbody tr:last-child td,
+.css-help-center .table-withmaincolor thead tr th,
+.css-help-center .clients-title-border h3,
+.css-help-center .cd-slider-nav li:hover,
+.css-help-center .selected,
+.css-help-center .icon-type-2:hover p,
+.css-help-center .icon-type-2:hover span.icon-type-2-icon,
+.css-help-center .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-help-center .activeFilter,
+.css-help-center .loader-12 > div,
+.css-help-center .loader-15 > div,
+.css-help-center .loader-15 > div:last-child,
+.css-help-center .loader-21 > div {
+    border-color: #8bc34a;
+}
+.css-help-center .tabpanel-style-4 .nav-tabs > li.active,
+.css-help-center .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-help-center .tabpanel-style-5 .nav-tabs > li.active,
+.css-help-center .tabpanel-style-5 .nav-tabs > li.active > span,
+.css-help-center .loader-13 > div:last-child,
+.css-help-center .loader-15 > div:last-child {
+    border-color: #8bc34a transparent;
+}
+.css-help-center .job-form input:focus,
+.css-help-center .job-form textarea:focus,
+.css-help-center .form-contact input:focus,
+.css-help-center .form-contact textarea:focus,
+.css-help-center .form-contact input:focus,
+.css-help-center .login-form input:focus,
+.css-help-center .login-form textarea:focus {
+    background-image: linear-gradient(#8bc34a, #8bc34a), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.css-help-center .btn-rounded,
+.css-help-center .form-control,
+.css-help-center .pagination-box .pager li a,
+.css-help-center .portfolio_overlay a.portfolio_zoom,
+.css-help-center .portfolio_overlay a.portfolio_link,
+.css-help-center .overlay-animation-2 .overlay_box a.image_link,
+.css-help-center .overlay-animation-2 .overlay_box a.video_zoom,
+.css-help-center a.home-breadcrumb,
+.css-help-center .overlay-animation-1 .overlay_box a.image_zoom,
+.css-help-center .overlay-animation-1 .overlay_box a.image_link,
+.css-help-center ul.widget-ul li a span,
+.css-help-center ul.widget-social li a,
+.css-help-center .team-2 .team-social a,
+.css-help-center .team-3 .team-social a,
+.css-help-center .team-social a,
+.css-help-center .benefits-box h1 {
+    border-radius: 100px;
+}
+.css-help-center ul.thumbs li a,
+.css-help-center ul.thumbs li a img,
+.css-help-center ul.thumbs li a:before,
+.css-help-center .widget-dribbble-box .shots li a,
+.css-help-center .widget-dribbble-box .shots li a img,
+.css-help-center .dribbble-box-dummy .shots-dummy li a,
+.css-help-center .dribbble-box-dummy .shots-dummy li a img,
+.css-help-center .instagram-widget a,
+.css-help-center .instagram-widget a img,
+.css-help-center .instagram-widget a:hover:before,
+.css-help-center .instagram-widget a:hover:after,
+.css-help-center .pricing-table-2-column,
+.css-help-center .pricing-table-3-column,
+.css-help-center .pricing-table-4 {
+    border-radius: 4px;
+}
+.css-help-center .icon-box-2-effect-3 .icon-block-2 {
+    box-shadow: 0 0 0 3px #8bc34a;
+}
+.css-help-center .icon-box-2-effect-4 .icon-block-2,
+.css-help-center .icon-box-2-effect-5 .icon-block-2,
+.css-help-center .icon-box-2-effect-5:hover .icon-block-2,
+.css-help-center .icon-box-2-effect-1 .icon-block-2:after,
+.css-help-center .icon-box-2-effect-2 .icon-block-2:after {
+    box-shadow: 0 0 0 4px #8bc34a;
+}
+.icon-box-2-effect-6 .icon-block-2:after,
+.css-help-center .scroll-to-top-fixed.sticky-btn:hover {
+    box-shadow: 0 0 0 2px #8bc34a;
+}
+.css-help-center .empty-cart:after,
+.css-help-center .loader-34 > div {
+    border-bottom-color: #8bc34a;
+}
+.css-help-center .btn-default-reverse:hover,
+.css-help-center .btn-default-reverse:focus {
+    background-color: #8bc34a;
+    border-color: #8bc34a;
+}
+.css-help-center .tp-caption .btn-default.active,
+.css-help-center .btn-default.active,
+.css-help-center .tp-caption .btn-default.focus,
+.css-help-center .btn-default.focus,
+.css-help-center .tp-caption .btn-default:active,
+.css-help-center .btn-default:active,
+.css-help-center .tp-caption .btn-default:focus,
+.css-help-center .btn-default:focus,
+.css-help-center .tp-caption .btn-default:hover,
+.css-help-center .btn-default:hover,
+.css-help-center #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center .btn-primary.btn-animation-icon-box,
+.css-help-center .btn-primary.btn-animation-icon-box:hover,
+.css-help-center .btn-primary.btn-animation-icon-box:focus,
+.css-help-center .btn-primary.btn-animation-icon-box:active,
+.css-help-center .tp-caption .btn-primary.btn-animation-icon-box,
+.css-help-center .tp-caption .btn-primary.btn-animation-icon-box:hover,
+.css-help-center .tp-caption .btn-primary.btn-animation-icon-box:focus,
+.css-help-center .tp-caption .btn-primary.btn-animation-icon-box:active,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #6e9a3a;
+}
+.css-help-center .metis .tp-tab.selected .tp-tab-divider {
+    border-right-color: #8bc34a;
+}
+.css-help-center #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-help-center #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-help-center span.latest-post-month,
+.css-help-center .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-help-center .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu,
+.css-help-center .tp-caption .btn-default.active,
+.css-help-center .btn-default.active,
+.css-help-center .tp-caption .btn-default.focus,
+.css-help-center .btn-default.focus,
+.css-help-center .tp-caption .btn-default:active,
+.css-help-center .btn-default:active,
+.css-help-center .tp-caption .btn-default:focus,
+.css-help-center .btn-default:focus,
+.css-help-center .tp-caption .btn-default:hover,
+.css-help-center .btn-default:hover,
+.css-help-center #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-help-center #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-help-center #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-help-center #header.main-color-nav .navbar-2 .navbar-nav > .active > a,
+.css-help-center .btn-primary.btn-animation-icon-box .btn-text,
+.css-help-center .btn-primary.btn-animation-icon-box:hover .btn-text,
+.css-help-center .btn-primary.btn-animation-icon-box:focus .btn-text,
+.css-help-center .primary.btn-animation-icon-box:active .btn-text {
+    background-color: #6e9a3a;
+}
+.css-help-center .item-text-wrapper,
+.css-help-center .standard_hover .portfolio_overlay,
+.css-help-center .overlay-animation-1 .overlay_box,
+.css-help-center .flip-hover .flip-box .content-box,
+.css-help-center .team-8 .team-image .overlay-team-box,
+.css-help-center .team-9 .team-image .overlay-team-box,
+.css-help-center .portfolio-animation-slide .sliding-content {
+    background-color: rgba(139, 195, 74, 0.9);
+}
+.css-help-center .intro-block .overlay,
+.css-help-center ul.thumbs li a:before,
+.css-help-center .widget-dribbble-box .shots li a:before,
+.css-help-center .dribbble-box-dummy .shots-dummy li a:before,
+.css-help-center .sidebar-shop-products-list .image-thumb:before,
+.css-help-center .cart-shop-products-list .image-thumb:before,
+.css-help-center .overlay-bg.colored,
+.css-help-center .instagram-widget a:before,
+.css-help-center .overlay-bg.background-1 {
+    background-color: rgba(139, 195, 74, 0.75);
+}
+.forum-reply-signin {
+    background: rgba(139, 195, 74, 0.92);
+}
+.css-help-center .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-help-center .team-2 .overlay-team-box,
+.css-help-center .team-6 .overlay-team-box,
+.css-help-center .team-7 .overlay-team-box,
+.css-help-center .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-help-center .contact-overlay-map .overlay-map-background,
+.css-help-center .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-help-center .table-style-7.table-withmaincolor tbody tr th,
+.css-help-center .fc-bgevent,
+.css-help-center #particles-js.background-1 {
+    background-color: rgba(139, 195, 74, 0.6);
+}
+.css-help-center .widget-dribbble-box .shots li a:hover:before,
+.css-help-center .dribbble-box .shots li a:hover:before,
+.css-help-center .dribbble-box-dummy .shots-dummy li a:hover:before,
+.css-help-center .instagram-widget a:hover:before,
+.css-help-center .newspaper-sidebar-image-news > article a.image-box:before {
+    background-color: rgba(139, 195, 74, 0.85);
+}
+.css-help-center .price-filter-desc .btn {
+    background-color: #8da6e9;
+    border-color: #8da6e9;
+}
+.css-help-center .btn-default.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #8bc34a;
+}
+.css-help-center .btn-default.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #8bc34a;
+}
+.css-help-center .btn-default-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #8bc34a;
+}
+.css-help-center .btn-default-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #8bc34a;
+}
+.css-help-center .btn-primary {
+    background: #6e9a3a;
+    border-color: #6e9a3a;
+}
+.css-help-center .btn-primary:hover,
+.css-help-center .open > .dropdown-toggle.btn-primary,
+.css-help-center .btn-primary.active,
+.css-help-center .btn-primary.focus,
+.css-help-center .btn-primary:active,
+.css-help-center .css-help-center .btn-primary:focus {
+    background: #3c1a90;
+    border-color: #3c1a90;
+}
+.css-help-center .btn-primary-reverse {
+    color: #6e9a3a;
+    border-color: #6e9a3a;
+}
+.css-help-center .btn-primary-reverse:hover {
+    background-color: #6e9a3a;
+    border-color: #6e9a3a;
+}
+.css-help-center .btn-primary.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #6e9a3a;
+}
+.css-help-center .btn-primary.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #6e9a3a;
+}
+.css-help-center .btn-primary-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #6e9a3a;
+}
+.css-help-center .btn-primary-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #6e9a3a;
+}
+.css-help-center .blog-list > article.default-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #8bc34a;
+}
+.css-help-center .blog-list > article.default-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #8bc34a;
+}
+.css-help-center .blog-list > article.primary-post .blog-post-2 .bp2-category {
+    background: #6e9a3a;
+}
+.css-help-center .blog-list > article.primary-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #6e9a3a;
+}
+.css-help-center .blog-list > article.primary-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #6e9a3a;
+}
+.css-help-center .blog-list > article.primary-post .blog-desc {
+    border-top-color: #6e9a3a;
+}
+.css-help-center .blog-list > article.primary-post .blog-post-2 .bp2-desc {
+    border-bottom-color: #6e9a3a;
+}
+.css-help-center .btn-default.btn-animation-icon-box .btn-text,
+.css-help-center .btn-default.btn-animation-icon-box:hover .btn-text,
+.css-help-center .btn-default.btn-animation-icon-box:focus .btn-text,
+.css-help-center .btn-default.btn-animation-icon-box:active .btn-text {
+    background: #8bc34a;
+}
+.css-help-center .btn-default.btn-animation-icon-box .btn-icon,
+.css-help-center .btn-default.btn-animation-icon-box:hover .btn-icon,
+.css-help-center .btn-default.btn-animation-icon-box:focus .btn-icon,
+.css-help-center .btn-default.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-help-center .btn-default-reverse.btn-animation-icon-box .btn-text,
+.css-help-center .btn-default-reverse.btn-animation-icon-box:hover .btn-text,
+.css-help-center .btn-default-reverse.btn-animation-icon-box:focus .btn-text,
+.css-help-center .btn-default-reverse.btn-animation-icon-box:active .btn-text {
+    color: #8bc34a;
+}
+.css-help-center .btn-default-reverse.btn-animation-icon-box .btn-icon,
+.css-help-center .btn-default-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-help-center .btn-default-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-help-center .btn-default-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #8bc34a;
+    color: #8bc34a;
+}
+.css-help-center .btn-primary.btn-animation-icon-box .btn-icon,
+.css-help-center .btn-primary.btn-animation-icon-box:hover .btn-icon,
+.css-help-center .btn-primary.btn-animation-icon-box:focus .btn-icon,
+.css-help-center .btn-primary.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-help-center .btn-primary-reverse.btn-animation-icon-box .btn-text,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box:hover .btn-text,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box:focus .btn-text,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box:active .btn-text,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-help-center .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    color: #6e9a3a;
+}
+.css-help-center .tp-caption.btn.background-2:hover,
+.css-help-center .tp-caption.btn.background-2:focus,
+.css-help-center .tp-caption.btn.background-2:active {
+    background-color: #e33834;
+}
+.css-help-center .border-background-2 {
+    border-color: #f3565d;
+}
+.css-help-center .border-background-3 {
+    border-color: #8da6e9;
+}
+.css-help-center .blog-list > article .featured-posts-slider .fp-desc {
+    background: rgba(139, 195, 74, 0.9);
+}
+.css-help-center .gsi-style-4 li.current>* .number:before {
+    border-left-color: #8bc34a;
+}
+.css-help-center .gsi-style-7.border-top li.current>* {
+    border-top-color: #8bc34a;
+}
+.css-help-center .icon-box.icon-circle .icon-block,
+.css-help-center .icon-box.icon-circle .icon-block span,
+.css-help-center .icon-block-2,
+.css-help-center .icon-block-2:after,
+.css-help-center .simple-icon-image img,
+.css-help-center .icon-image-overlay,
+.css-help-center .simple-icon-icon,
+.css-help-center .link-rounded-icon,
+.css-help-center .slider-slick-slide a [class^="icon-"],
+.css-help-center .flexslider.clients .flex-control-paging li a,
+.css-help-center .testimonial-single .slick-prev,
+.css-help-center .testimonial-single .slick-next,
+.css-help-center .testimonial-single .slick-dots li button:before,
+.css-help-center .slick-dots li button:before,
+.css-help-center .testimonials-slick-nav .slick-testimonial-prev,
+.css-help-center .testimonials-slick-nav .slick-testimonial-next,
+.css-help-center .block-content-wrapper h1 {
+    border-radius: 50px;
+}
+.css-help-center .loader-6 {
+    background: #8bc34a;
+    background: -moz-linear-gradient(left, #8bc34a 10%, rgba(139, 195, 74, 0) 42%);
+    background: -webkit-linear-gradient(left, #8bc34a 10%, rgba(139, 195, 74, 0) 42%);
+    background: -o-linear-gradient(left, #8bc34a 10%, rgba(139, 195, 74, 0) 42%);
+    background: -ms-linear-gradient(left, #8bc34a 10%, rgba(139, 195, 74, 0) 42%);
+    background: linear-gradient(to right, #8bc34a 10%, rgba(139, 195, 74, 0) 42%);
+}
+@-webkit-keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #8bc34a, 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2), 2.5em 0em 0 0em rgba(139, 195, 74, 0.2), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.2), 0em 2.5em 0 0em rgba(139, 195, 74, 0.2), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.2), -2.6em 0em 0 0em rgba(139, 195, 74, 0.5), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.7), 1.8em -1.8em 0 0em #8bc34a, 2.5em 0em 0 0em rgba(139, 195, 74, 0.2), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.2), 0em 2.5em 0 0em rgba(139, 195, 74, 0.2), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.2), -2.6em 0em 0 0em rgba(139, 195, 74, 0.2), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.5), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.7), 2.5em 0em 0 0em #8bc34a, 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.2), 0em 2.5em 0 0em rgba(139, 195, 74, 0.2), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.2), -2.6em 0em 0 0em rgba(139, 195, 74, 0.2), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.2), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.5), 2.5em 0em 0 0em rgba(139, 195, 74, 0.7), 1.75em 1.75em 0 0em #8bc34a, 0em 2.5em 0 0em rgba(139, 195, 74, 0.2), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.2), -2.6em 0em 0 0em rgba(139, 195, 74, 0.2), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.2), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2), 2.5em 0em 0 0em rgba(139, 195, 74, 0.5), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.7), 0em 2.5em 0 0em #8bc34a, -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.2), -2.6em 0em 0 0em rgba(139, 195, 74, 0.2), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.2), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2), 2.5em 0em 0 0em rgba(139, 195, 74, 0.2), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.5), 0em 2.5em 0 0em rgba(139, 195, 74, 0.7), -1.8em 1.8em 0 0em #8bc34a, -2.6em 0em 0 0em rgba(139, 195, 74, 0.2), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.2), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2), 2.5em 0em 0 0em rgba(139, 195, 74, 0.2), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.2), 0em 2.5em 0 0em rgba(139, 195, 74, 0.5), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.7), -2.6em 0em 0 0em #8bc34a, -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.2), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2), 2.5em 0em 0 0em rgba(139, 195, 74, 0.2), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.2), 0em 2.5em 0 0em rgba(139, 195, 74, 0.2), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.5), -2.6em 0em 0 0em rgba(139, 195, 74, 0.7), -1.8em -1.8em 0 0em #8bc34a;
+    }
+}
+@keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #8bc34a, 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2), 2.5em 0em 0 0em rgba(139, 195, 74, 0.2), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.2), 0em 2.5em 0 0em rgba(139, 195, 74, 0.2), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.2), -2.6em 0em 0 0em rgba(139, 195, 74, 0.5), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.7), 1.8em -1.8em 0 0em #8bc34a, 2.5em 0em 0 0em rgba(139, 195, 74, 0.2), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.2), 0em 2.5em 0 0em rgba(139, 195, 74, 0.2), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.2), -2.6em 0em 0 0em rgba(139, 195, 74, 0.2), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.5), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.7), 2.5em 0em 0 0em #8bc34a, 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.2), 0em 2.5em 0 0em rgba(139, 195, 74, 0.2), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.2), -2.6em 0em 0 0em rgba(139, 195, 74, 0.2), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.2), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.5), 2.5em 0em 0 0em rgba(139, 195, 74, 0.7), 1.75em 1.75em 0 0em #8bc34a, 0em 2.5em 0 0em rgba(139, 195, 74, 0.2), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.2), -2.6em 0em 0 0em rgba(139, 195, 74, 0.2), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.2), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2), 2.5em 0em 0 0em rgba(139, 195, 74, 0.5), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.7), 0em 2.5em 0 0em #8bc34a, -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.2), -2.6em 0em 0 0em rgba(139, 195, 74, 0.2), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.2), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2), 2.5em 0em 0 0em rgba(139, 195, 74, 0.2), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.5), 0em 2.5em 0 0em rgba(139, 195, 74, 0.7), -1.8em 1.8em 0 0em #8bc34a, -2.6em 0em 0 0em rgba(139, 195, 74, 0.2), -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.2), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2), 2.5em 0em 0 0em rgba(139, 195, 74, 0.2), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.2), 0em 2.5em 0 0em rgba(139, 195, 74, 0.5), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.7), -2.6em 0em 0 0em #8bc34a, -1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(139, 195, 74, 0.2), 1.8em -1.8em 0 0em rgba(139, 195, 74, 0.2), 2.5em 0em 0 0em rgba(139, 195, 74, 0.2), 1.75em 1.75em 0 0em rgba(139, 195, 74, 0.2), 0em 2.5em 0 0em rgba(139, 195, 74, 0.2), -1.8em 1.8em 0 0em rgba(139, 195, 74, 0.5), -2.6em 0em 0 0em rgba(139, 195, 74, 0.7), -1.8em -1.8em 0 0em #8bc34a;
+    }
+}
+.css-help-center .loader-3 {
+    border-top-color: rgba(139, 195, 74, 0.2);
+    border-right-color: rgba(139, 195, 74, 0.2);
+    border-bottom-color: rgba(139, 195, 74, 0.2);
+    border-left-color: #8bc34a;
+}
+.css-help-center .svg-animation path {
+    stroke: #8bc34a;
+}
+.css-help-center .loader-36 > div {
+    background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #8bc34a 30%, #8bc34a 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #8bc34a 30%, #8bc34a 100%);
+}
+.css-help-center .blockquote-style-2 blockquote:after, 
+.css-help-center .blockquote-style-2 blockquote:before{
+  background-color: transparent;
+}

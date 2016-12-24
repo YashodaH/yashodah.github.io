@@ -1,0 +1,1219 @@
+/* Agency */
+
+body.css-agency,
+.css-agency p,
+.css-agency .featured-content h1.small,
+.css-agency .form-group > label,
+.css-agency .checkbox > label,
+.css-agency .alert > p,
+.css-agency .block-content-wrapper h2,
+.css-agency .intro-text h1,
+.css-agency .intro-text h2,
+.css-agency .intro-text h3,
+.css-agency .intro-text h4,
+.css-agency .intro-text h5,
+.css-agency .intro-text h6,
+.css-agency .restaurant-info-img-content h4,
+.css-agency .contact-title h3 {
+    font-family: "Raleway", sans-serif;
+}
+.css-agency h1,
+.css-agency h2,
+.css-agency h3,
+.css-agency h4,
+.css-agency h5,
+.css-agency h6,
+.css-agency .testimonials-slider .testimonials-slider-box .testimonial-text {
+    font-family: "Raleway", sans-serif;
+}
+/* Color 1 */
+
+.css-agency .color-1,
+.css-agency .wsmenu-list > li > a:hover,
+.css-agency .dark-menu .wsmenu-submenu li a:hover,
+.css-agency .dark-menu .wsmenu-submenu li a:hover,
+.css-agency .dark-menu .megamenu .link-list li a:hover,
+.css-agency #header ul.wsmenu-submenu li a.active,
+.css-agency #portfolio-filter li a:hover,
+.css-agency .wsmenu-list > li > a.active,
+.css-agency #header .wsmenu.navigation-dark .wsmenu-list > li > a.active,
+.css-agency #header .wsmenu.navigation-dark .wsmenu-list > li > a:hover,
+.css-agency .dark-menu .megamenu .link-list li.active a,
+.css-agency .cart-dropdown-menu .cart-shop-products-list li .csp-price,
+.css-agency .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-agency .light-menu .megamenu .link-list li.active a,
+.css-agency .light-menu .megamenu .link-list li a:hover,
+.css-agency .light-menu .wsmenu-submenu li a:hover,
+.css-agency .light-menu .wsmenu-submenu li.active a,
+.css-agency ul.simple-list li [class^="icon-"],
+.css-agency .footer-tags a:hover,
+.css-agency #footer .widget-twitter-box .tweet ul li a:hover,
+.css-agency .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-agency .blog-list>article .post-facebook:hover,
+.css-agency .blog-list>article .post-facebook:hover .pf-icon span,
+.css-agency .blog-list>article .post-facebook:hover .pf-text,
+.css-agency ul.blog-popular-list .ssp-title:hover,
+.css-agency #post-content .blog-desc-details a:hover,
+.css-agency .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-agency .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-agency .author-description .author-description-text-holder .author-name a:hover,
+.css-agency .comment_response .media h6 a:hover,
+.css-agency .blog-list>article .post-facebook:hover,
+.css-agency .blog-list>article .post-facebook:hover .pf-icon span,
+.css-agency .blog-list>article .post-facebook:hover .pf-text,
+.css-agency ul.blog-popular-list .ssp-title:hover,
+.css-agency #post-content .blog-desc-details a:hover,
+.css-agency .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-agency .header-light.nav-sticky .wsmenu-list > li > a:hover,
+.css-agency .header-light.nav-sticky .wsmenu-list > li > a.active,
+.css-agency .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-agency .author-description .author-description-text-holder .author-name a:hover,
+.css-agency ul.sidebar-category li a:hover,
+.css-agency ul.shop-star-rating.single-item li.full-star,
+.css-agency,
+.css-agency #footer.footer-10 .title.small a:hover,
+.css-agency .vlt-left-menu.vlt-menu-style-2 .nav-accordion-section-title:hover,
+.css-agency .vlt-left-menu .nav-accordion-section-content ul li a:hover,
+.css-agency .header-content .phone-number span,
+.css-agency .intro-block h6,
+.css-agency .icon-block [class^="icon-"],
+.css-agency ul.header-links li a:hover,
+.css-agency .navbar.banner--clone .nav > li > a:hover,
+.css-agency .navbar.banner--clone .btn-search:hover,
+.css-agency .success-lg:hover [class^="icon-"],
+.css-agency #copyrights ul li a:hover,
+.css-agency #copyrights a:hover,
+.css-agency .breadcrumb > .active,
+.css-agency .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-agency a.image_link:hover [class^="icon-"],
+.css-agency a.load-more-btn:hover,
+.css-agency a.load-more-btn:hover [class^="icon-"],
+.css-agency .intro-block h1 [class^="icon-"],
+.css-agency .shop-list .shop-product h4 a:hover,
+.css-agency ul#portfolio-layout-filter li a.active,
+.css-agency .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-agency .shop-price,
+.css-agency ul.sidebar-shop-cat > li > a:hover,
+.css-agency a.load-more-btn:hover,
+.css-agency a.load-more-btn:hover [class^="icon-"],
+.css-agency .intro-block h1 [class^="icon-"],
+.css-agency .shop-list .shop-product h4 a:hover,
+.css-agency ul#portfolio-layout-filter li a.active,
+.css-agency .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-agency ul.sidebar-cat > li span,
+.css-agency .shop-price,
+.css-agency ul.sidebar-cat > li > a:hover,
+.css-agency ul.jobs-list li [class^="icon-"],
+.css-agency .team-social a:hover,
+.css-agency .icon-default,
+.css-agency .error-page-icon span [class^="icon-"],
+.css-agency .footer-3-container-text a:hover,
+.css-agency .testimonials-box .testimonial-author,
+.css-agency #page-title.image-page-title-fullwidth h1,
+.css-agency #page-title.image-page-title-left.image-page-noimage h2,
+.css-agency ul.services-2-icons,
+.css-agency ul.shop-layout-filter li a.active,
+.css-agency ul.portfolio-layout-filter li a.active,
+.css-agency ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-agency .related-projects-title .slick-custom-next:hover,
+.css-agency .related-projects-title .slick-custom-prev:hover,
+.css-agency .recent-post-content a:hover,
+.css-agency .form-group.login-form-submit a,
+.css-agency .shop-type-1 a.add-to-cart-item:before,
+.css-agency .shop-type-2 a.add-to-cart-item:before,
+.css-agency a.form-forgotpass,
+.css-agency .sidebar-shop-products-list li .ssp-title:hover,
+.css-agency .restaurant-info ul li [class^="icon-"],
+.css-agency .navbar-default.default .btn-cart .header-cart-count,
+.css-agency .blog-list > article .blog-desc h4 a:focus,
+.css-agency .blog-list-full > article .blog-desc h4 a:hover,
+.css-agency .blog-list-full > article .blog-desc h4 a:focus,
+.css-agency .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-agency .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-agency .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-agency .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-agency .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-agency .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-agency .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-agency .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-agency .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-agency .blog-masonry > article .blog-desc h4 a:hover,
+.css-agency .blog-masonry > article .blog-desc h4 a:focus,
+.css-agency .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-agency .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-agency .comment_response .media_cloud a.reply_link,
+.css-agency .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-agency .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-agency .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-agency .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-agency .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-agency .dropcap.dropcap-style-1,
+.css-agency .counter-box .count-icon,
+.css-agency .counter-style-1 .counter-box h4,
+.css-agency .icon-type,
+.css-agency .icon-type.it-main-color,
+.css-agency .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-agency .comment_response .media_cloud a.reply_link,
+.css-agency .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-agency .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-agency .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-agency .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-agency .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-agency .dropcap.dropcap-style-1,
+.css-agency .btn-default-reverse,
+.css-agency .counter-box .count-icon,
+.css-agency .counter-style-1 .counter-box h4,
+.css-agency .icon-type,
+.css-agency .icon-type.it-main-color,
+.css-agency .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-agency .review_response .media h6 a,
+.css-agency .review_response .media_cloud .shop-star-rating li.full-star,
+.css-agency .rating-container .rating-stars,
+.css-agency .form-contact small,
+.css-agency ul.icon-list li a:hover,
+.css-agency ul.icon-list li a:active,
+.css-agency ul.icon-list li a:focus,
+.css-agency .checkout-sum,
+.css-agency .checkout-table td a:hover,
+.css-agency .checkout-box a,
+.css-agency .user-profile-list ul li a:hover,
+.css-agency a.profile-active,
+.css-agency .user-profile-content h2,
+.css-agency .forum-content-header span a,
+.css-agency .recent-work-content a:hover,
+.css-agency .recent-work-image-content a:hover,
+.css-agency .contact-overlay-map .maximize-form:hover,
+.css-agency .hero-slier-nav-content:hover [class^="icon-"],
+.css-agency .selected .hero-slier-nav-content [class^="icon-"],
+.css-agency .team-social a:hover,
+.css-agency .team-name h5 a:hover,
+.css-agency .clients-slick-nav .slick-custom-next:hover,
+.css-agency .clients-slick-nav .slick-custom-prev:hover,
+.css-agency .services-pricing-icon [class^="icon-"],
+.css-agency .brand [class^="icon-"],
+.css-agency .content-divider-colored [class^="icon-"],
+.css-agency .divider-content h1 span,
+.css-agency .divider-content h2 span,
+.css-agency .divider-content h3 span,
+.css-agency .intro-page-content a:hover,
+.css-agency .image-box-content a:hover,
+.css-agency .icon-type.it-main-color [class^="icon-"],
+.css-agency .icon-type-2:hover p,
+.css-agency .icon-type-2:hover span.icon-type-2-icon,
+.css-agency .heading-container .head-colored,
+.css-agency ul.home-6-list li h4 [class^="icon-"],
+.css-agency .icon-box-2-effect-1:hover .icon-block-2,
+.css-agency .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-agency .icon-box-2-effect-4:hover .icon-block-2,
+.css-agency .icon-box-2-effect-4-reverse .icon-block-2,
+.css-agency .icon-box-2-effect-5:hover .icon-block-2,
+.css-agency .simple-icon-lightbg [class^="icon-"],
+.css-agency .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-agency .panel-body ul li a:hover,
+.css-agency .colored,
+.css-agency .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-agency .tabpanel-style-6 .nav-tabs > li > a,
+.css-agency .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-agency .tp_caption_big span,
+.css-agency ul.icon-box-simple li:hover a,
+.css-agency .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-agency .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-agency .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-agency .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-agency .blockquote-author p,
+.css-agency .testimonial-author,
+.css-agency .latest-post-content h1 a:hover,
+.css-agency .post-by a:hover,
+.css-agency .latest-post-content .read-more-link,
+.css-agency .blog-horizontal .bh-content h3 a:hover,
+.css-agency .blog-horizontal .bh-content .bh-details a:hover,
+.css-agency .blog-horizontal .bh-content .bh-details a:hover span,
+.css-agency a.bsp-title:hover,
+.css-agency .sidebar-blog-post-list li .sbp-title:hover,
+.css-agency .navbar-nav > li.active,
+.css-agency .navbar-nav > li.active:hover,
+.css-agency a.idb-social:hover,
+.css-agency a.idb-social:hover span,
+.css-agency a.idb-price,
+.css-agency span.pts-raised,
+.css-agency .bsp-social a:hover,
+.css-agency .bsp-social a [class^="icon-"]:hover,
+.css-agency a.bsp-more:hover,
+.css-agency .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-agency .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-agency .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-agency .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-agency .gallery-block .gallery-box .gallery-meta a:hover,
+.css-agency .gallery-block .gallery-box .gallery-meta a:focus,
+.css-agency .tp-caption a,
+.css-agency .tp-caption a:hover,
+.css-agency .cd-timeline-inner-content a:hover,
+.css-agency .testimonial-box .testimonial-author span,
+.css-agency .fic-date a:hover,
+.css-agency .forum-inner-content h1 a:hover,
+.css-agency .user-profile-desc a:hover,
+.css-agency .cd-timeline-navigation a:hover::after,
+.css-agency .login-form .login-input-box [class^="icon-"],
+.css-agency .icon-input-box [class^="icon-"],
+.css-agency ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-agency ul.bar-chart-graph li,
+.css-agency ul.line-graph li,
+.css-agency ul.donut-graph li,
+.css-agency .tp-caption.Creative-SubTitle,
+.css-agency .Creative-SubTitle,
+.css-agency .tp-caption.vlt-hero-rotating,
+.css-agency ul.recent-post-widget .rp-post a:hover,
+.css-agency .loader-5,
+.css-agency .loader-7,
+.css-agency .loader-9,
+.css-agency .loader-2,
+.css-agency .loader-4,
+.css-agency .vertical-newspaper-list .vnl-content h4 a:hover,
+.css-agency .vertical-newspaper-sidebar-list .vnl-content h4 a:hover,
+.css-agency .events-vertical .events-vertical-desc h4 a:hover,
+.css-agency .portfolio-single-share .pss-share li a:hover,
+.css-agency .portfolio-single-share .pss-like:hover,
+.css-agency .portfolio-single-intro-description .portfolio-single-categories a:hover,
+.css-agency .portfolio-single-more-link:hover,
+.css-agency .gsi-style-9 li.visited>*,
+.css-agency .gsi-style-9 li.current>*,
+.css-agency .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-agency .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-agency .header-contact-box .header-phone:hover,
+.css-agency .header-contact-box .header-email:hover,
+.css-agency .icon-box.icon-square .icon-block span,
+.css-agency .icon-box.icon-square.icon-fill.icon-transform:hover .icon-block span {
+    color: #0cb4ce;
+}
+/* Background Color 1 */
+
+.css-agency .background-1,
+.css-agency .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-agency .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-agency .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1,
+.css-agency a.brand-modern span.line-1,
+.css-agency .header.dark-nav a.brand-modern span.line-1,
+.css-agency .wte-separator.background-1:before,
+.css-agency .call-newsletter-box form .btn,
+.css-agency .offscreen-container,
+.css-agency #header.background-1,
+.css-agency .background-1-menu .megamenu,
+.css-agency .background-1-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-agency .background-1-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-agency .background-1-menu .wsmenu-submenu li a,
+.css-agency .background-1-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-agency .background-1-menu .wsmenu-submenu,
+.css-agency .background-1-menu .wsmenu-submenu-sub,
+.css-agency .background-1-menu .wsmenu-submenu-sub-sub,
+.css-agency .background-1-menu .wsmenu-submenu-sub-sub-sub,
+.css-agency #portfolio-filter li a.activeFilter,
+.css-agency #portfolio-filter li a.activeFilter[data-filter="*"],
+.css-agency #header .search-cart-navbar:hover .btn-default,
+.css-agency .scroll-to-top-fixed,
+.css-agency #bootstrap-table.table>thead>tr>th,
+.css-agency ul.meta-share-social li a:hover,
+.css-agency article.blog-item .blog-image-box .video-play-icon span,
+.css-agency .audioplayer,
+.css-agency .audioplayer-bar,
+.css-agency .blog-desc-details:after,
+.css-agency .audioplayer-volume-adjust div div,
+.css-agency .qoute-post,
+.css-agency .footer-newsletter-box form .btn,
+.css-agency .footer-newsletter-box form .btn.disabled,
+.css-agency .tags-cloud-list li a:hover,
+.css-agency article.blog-item .blog-image-box.video-post:before,
+.css-agency .tp-caption .btn-default,
+.css-agency .btn-default,
+.css-agency .flex-control-paging li a.flex-active,
+.css-agency #mobile-navbar,
+.css-agency .call-to-action,
+.css-agency .maincolor-background,
+.css-agency ul.widget-ul li a > span,
+.css-agency ul.widget-social li a:hover,
+.css-agency #people .item .info,
+.css-agency .main-color,
+.css-agency .flexslider.clients .flex-control-paging li a.flex-active,
+.css-agency #portfolio-filter li a:after,
+.css-agency .navbar.banner--clone .nav li.active > a,
+.css-agency .pricing-table-column.special-price-table .pricing-table-head,
+.css-agency .pricing-table-column.special-price-table .pricing-table-content,
+.css-agency .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-agency .progress-bar-box .progress-bar,
+.css-agency .background-1,
+.css-agency .selecter .selecter-item:hover,
+.css-agency .selecter .selecter-item.selected:hover,
+.css-agency #footer.colored,
+.css-agency section.about-counter,
+.css-agency .error-page-title:after,
+.css-agency .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-agency .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-agency .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-agency .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-agency .tabpanel-style-4 .tab-content h3:after,
+.css-agency .about-classic-column-themecolor,
+.css-agency .selecter .selecter-item:hover,
+.css-agency .selecter .selecter-item.selected:hover,
+.css-agency .item-text-wrapper_overlay,
+.css-agency .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-agency .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-agency .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-agency .shop-type-2 a.add-to-cart-item,
+.css-agency .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-agency .search-cart-navbar .btn-cart .header-cart-count,
+.css-agency .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-agency .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-agency .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-agency .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-agency .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-agency .dropcap.dropcap-style-2,
+.css-agency .alert-default,
+.css-agency blockquote:before,
+.css-agency blockquote:after,
+.css-agency .tp-caption .btn-default,
+.css-agency .btn-default,
+.css-agency .content-title h5:before,
+.css-agency .content-title h5:after,
+.css-agency .icon-box.icon-fill .icon-block,
+.css-agency .icon-box.icon-square:hover .icon-block,
+.css-agency .icon-box.icon-circle:hover .icon-block,
+.css-agency .icon-box.icon-circle:hover .icon-block span,
+.css-agency .icon-type.it-main-color:hover,
+.css-agency .icon-type.it-main-color:focus,
+.css-agency .icon-type.it-main-color-reverse,
+.css-agency .icon-type.it-main-color:hover span,
+.css-agency .icon-type.it-main-color-reverse:hover span,
+.css-agency .add-to-cart-form .count-input .count-plus:hover,
+.css-agency .add-to-cart-form .count-input .count-minus:hover,
+.css-agency .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-agency .pricing-table-container.special-price-table,
+.css-agency .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-agency .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-agency ul.forum-list li.forum-header,
+.css-agency .textbox-withmaincolor,
+.css-agency .background-1,
+.css-agency .team-member-job,
+.css-agency .team-section .team-desc-box:before,
+.css-agency .team-section .team-desc-box:after,
+.css-agency .shop-categories:hover .shop-title-categories,
+.css-agency .content-divider-colored-bg [class^="icon-"],
+.css-agency .overlay-animation-6 .content-box,
+.css-agency .block-content-wrapper h1,
+.css-agency .benefits-box h1,
+.css-agency .selecter .selecter-item:hover,
+.css-agency .selecter .selecter-item.selected:hover,
+.css-agency .ui-slider .ui-slider-range,
+.css-agency #header.header-main-color,
+.css-agency .navbar-2.banner--clone.main-color-navbar,
+.css-agency .tabpanel-style-center .nav-tabs > li.active > a,
+.css-agency .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-agency .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-agency .label.label-primary,
+.css-agency .label.label-primary,
+.css-agency .star-rating .caption .label,
+.css-agency .tparrows.preview5:hover,
+.css-agency .table-style-4.table-withmaincolor thead tr th,
+.css-agency .table-style-5.table-withmaincolor thead tr th,
+.css-agency .table-style-6.table-withmaincolor thead tr th,
+.css-agency .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-agency .table-style-7.table-withmaincolor thead tr th,
+.css-agency .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-agency .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-agency .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-agency .table-style-2.table-withmaincolor thead tr th,
+.css-agency .table-style-3.table-withmaincolor thead tr th,
+.css-agency .table-style-3.table-withmaincolor tbody tr th,
+.css-agency .parallax-withmaincolor,
+.css-agency .contact-overlay-map .minimize-form:hover,
+.css-agency .team-3:hover .team-social,
+.css-agency .team-5:hover .team-social,
+.css-agency .special-table-2,
+.css-agency .special-table-3,
+.css-agency span.pricing-3-discount,
+.css-agency #vertical-timeline-container:before,
+.css-agency .subscribe-fancy-themebg,
+.css-agency .empty-cart,
+.css-agency .team-4:hover .team-social,
+.css-agency .content-divider-colored,
+.css-agency .content-divider-colored-bg,
+.css-agency .withmainbackground,
+.css-agency .services-2-heading,
+.css-agency .icon-box-2-effect-4 .icon-block-2,
+.css-agency .services-2-heading,
+.css-agency .promotion-box-theme-colored,
+.css-agency .promotion-box-theme-colored .promotion-box-title h4,
+.css-agency .icon-block-2,
+.css-agency .icon-box-2-effect-2:hover .icon-block-2,
+.css-agency .icon-box-2-effect-3 .icon-block-2:after,
+.css-agency .icon-box-2-effect-4 .icon-block-2:after,
+.css-agency .icon-box-2-effect-6 .icon-block-2,
+.css-agency .icon-box-2-effect-6:hover .icon-block-2,
+.css-agency .simple-icon-icon,
+.css-agency a.call-to-action-link:hover,
+.css-agency .add-to-cart-form .count-input .count-plus,
+.css-agency .add-to-cart-form .count-input .count-minus,
+.css-agency .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-agency .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-agency .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-agency .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-agency .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-agency .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-agency .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-agency .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-agency .special-price-box,
+.css-agency .dropdown-menu > .active > a,
+.css-agency .dropdown-menu > .active > a:focus,
+.css-agency .dropdown-menu > .active > a:hover,
+.css-agency #header.main-color-nav .navbar-2,
+.css-agency .latest-post-data,
+.css-agency .blog-single-post .bsp-heading h1,
+.css-agency .testimonial-single .slick-dots li button:before,
+.css-agency .slick-dots li button:before,
+.css-agency .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-agency .timeline-complete .timeline-status.timeline-active:before,
+.css-agency .megamenu.maincolor,
+.css-agency .dropdown.maincolor ul,
+.css-agency .dropdown.maincolor ul.dropdown-menu,
+.css-agency #footer.maincolor,
+.css-agency #copyrights.maincolor,
+.css-agency .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-agency .cd-horizontal-timeline .events a.selected::after,
+.css-agency .cd-horizontal-timeline .filling-line,
+.css-agency .pinpulsebox span,
+.css-agency .main-color-dropdown .megamenu,
+.css-agency .main-color-dropdown .dropdown-menu,
+.css-agency #cd-timeline::before,
+.css-agency ul.icon-list.il-main-bg li [class^="icon-"],
+.css-agency .process-steps ul li.current a .number,
+.css-agency ol.ordered-list.ol-main-bg li:before,
+.css-agency .irs-bar,
+.css-agency .irs-from,
+.css-agency .irs-to,
+.css-agency .irs-single,
+.css-agency .open > .dropdown-toggle.btn-default,
+.css-agency .fc-unthemed .fc-today,
+.css-agency .fc-content,
+.css-agency #particles-js,
+.css-agency .s-icon:hover,
+.css-agency #progressbar li.active:before,
+.css-agency #progressbar li.active:after,
+.css-agency .portfolio-filter .selecter-item.activeFilter,
+.css-agency #copyrights ul.widget-social li a:hover,
+.css-agency .page-loader-spinner span,
+.css-agency .loader-6:before,
+.css-agency .loader-2,
+.css-agency .loader-2:before,
+.css-agency .loader-2:after,
+.css-agency .newspaper-title .custom-slick-nav-1 .slick-custom-next:hover,
+.css-agency .newspaper-title .custom-slick-nav-1 .slick-custom-prev:hover,
+.css-agency .loader-10 > div,
+.css-agency .loader-11 > div,
+.css-agency .loader-12 > div,
+.css-agency .loader-13 > div:first-child,
+.css-agency .loader-14 > div,
+.css-agency .loader-16 > div,
+.css-agency .loader-17 > div,
+.css-agency .loader-17 > div:before,
+.css-agency .loader-17 > div:after,
+.css-agency .loader-18 > div,
+.css-agency .loader-19 > div,
+.css-agency .loader-20 > div,
+.css-agency .loader-22 > div,
+.css-agency .loader-23 > div,
+.css-agency .loader-24 > div,
+.css-agency .loader-25 > div,
+.css-agency .loader-26 > div,
+.css-agency .loader-27 > div,
+.css-agency .loader-28 > div,
+.css-agency .loader-29 > div,
+.css-agency .loader-32 > div,
+.css-agency .loader-33 > div,
+.css-agency .loader-35 > div:nth-child(3),
+.css-agency .loader-35 > div:nth-child(4),
+.css-agency .loader-35 > div:nth-child(5),
+.css-agency .loader-35 > div:nth-child(6),
+.css-agency .loader-37 > div,
+.css-agency .loader-38 > div,
+.css-agency .portfolio-single-share .pss-share li a:before,
+.css-agency .portfolio-single-intro-description .portfolio-single-categories a:before,
+.css-agency .portfolio-single-more-link:before,
+.css-agency .checkbox input[type=checkbox]:checked + .checkbox-material .check,
+.css-agency .radio input[type=radio]:checked ~ .check,
+.css-agency .vlt-btn-group .dropdown-menu li a:hover,
+.css-agency .gsi-step-indicator.triangle li.current>*,
+.css-agency .gsi-style-4 li.current>*,
+.css-agency .gsi-style-5 li.current>*,
+.css-agency .gsi-style-6 li.current>* .number,
+.css-agency .gsi-style-7 li.current:hover>*,
+.css-agency .gsi-style-8 li.visited>*,
+.css-agency .gsi-style-8 li.current>*,
+.css-agency .gsi-style-9 li.visited>*:after,
+.css-agency .gsi-style-9 li.current>*:after,
+.css-agency .gsi-style-10 li.visited>*:after,
+.css-agency .gsi-style-10 li.current>*:after,
+.css-agency .gsi-style-11 li.current:before,
+.css-agency .gsi-style-11 li.current:after,
+.css-agency .gsi-style-11 li.visited:before,
+.css-agency .gsi-style-11 li.visited:after,
+.css-agency .gsi-style-11 li.visited>*:after,
+.css-agency .gsi-style-11 li.current>*:after,
+.css-agency .flatpickr-day.today:focus,
+.css-agency .flatpickr-day.today:hover,
+.css-agency .reveal-nav .navbar-toggle,
+.css-agency .form-contact-3 .btn-default.disabled,
+.css-agency .form-contact-3 .btn-default.disabled.active,
+.css-agency .form-contact-3 .btn-default.disabled.focus,
+.css-agency .form-contact-3 .btn-default.disabled:active,
+.css-agency .form-contact-3 .btn-default.disabled:focus,
+.css-agency .form-contact-3 .btn-default.disabled:hover,
+.css-agency .form-contact-3 .btn-default[disabled],
+.css-agency .form-contact-3 .btn-default[disabled].active,
+.css-agency .form-contact-3 .btn-default[disabled].focus,
+.css-agency .form-contact-3 .btn-default[disabled]:active,
+.css-agency .form-contact-3 .btn-default[disabled]:focus,
+.css-agency .form-contact-3 .btn-default[disabled]:hover,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-agency .icon-box.icon-square:hover .icon-block span,
+.css-agency #header.header-main-color-sticky.header-sticky,
+.css-agency #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-agency #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-agency #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-agency #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-agency #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-agency #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-agency #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-agency #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+    background-color: #0cb4ce;
+}
+/* Color 2 */
+
+.css-agency .color-2,
+.css-agency .cart-shop-products h3,
+.css-agency .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-agency .cart-shop-products-list li .csp-price,
+.css-agency .sidebar-shop-products-list li .shop-star-rating li.full-star,
+.css-agency .shop-list .shop-product .shop-star-rating li.full-star,
+.css-agency ul.shop-star-rating li.full-star,
+.css-agency ul.line-graph li:nth-child(2n),
+.css-agency ul.donut-graph li:nth-child(2n),
+.css-agency ul.bar-chart-graph li:nth-child(2n) {
+    color: #e85241;
+}
+.color-2:hover {
+    color: #e85241;
+}
+/* Background Color 2 */
+
+.css-agency .background-2,
+.css-agency .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-agency .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-agency #header.background-2,
+.css-agency .background-2-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-agency .background-2-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-agency .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2,
+.css-agency a.brand-modern span.line-2,
+.css-agency .header.dark-nav a.brand-modern span.line-2,
+.css-agency .wte-separator.background-2:before,
+.css-agency .form-contact.dark-from .has-error .help-block,
+.css-agency a.add-to-wishlist,
+.css-agency .shop-list .shop-product:hover>a.add-to-wishlist,
+.css-agency .slider-price-filter-box:after,
+.css-agency .background-2-menu .megamenu,
+.css-agency .background-2-menu .wsmenu-submenu li a,
+.css-agency .background-2-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-agency .background-2-menu .wsmenu-submenu,
+.css-agency .background-2-menu .wsmenu-submenu-sub,
+.css-agency .background-2-menu .wsmenu-submenu-sub-sub,
+.css-agency .background-2-menu .wsmenu-submenu-sub-sub-sub,
+.css-agency .shop-list .shop-product .shop-ribbon,
+.css-agency .ui-slider-horizontal .ui-slider-range,
+.css-agency .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary,
+.css-agency .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    background-color: #e85241;
+}
+/* Color 3 */
+
+.css-agency .color-3,
+.css-agency ul.line-graph li:nth-child(3n),
+.css-agency ul.donut-graph li:nth-child(3n),
+.css-agency ul.bar-chart-graph li:nth-child(3n),
+.css-agency .navbar-toggle,
+.css-agency .navbar-toggle:before {
+    color: #9176bd;
+}
+/* Background Color 3 */
+
+.css-agency .background-3,
+.css-agency .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-agency .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-agency #header.background-3,
+.css-agency .background-3-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-agency .background-3-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-agency .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3,
+.css-agency a.brand-modern span.line-3,
+.css-agency .header.dark-nav a.brand-modern span.line-3,
+.css-agency .wte-separator.background-3:before,
+.css-agency .background-3-menu .megamenu,
+.css-agency .background-3-menu .wsmenu-submenu li a,
+.css-agency .background-3-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-agency .background-3-menu .wsmenu-submenu,
+.css-agency .background-3-menu .wsmenu-submenu-sub,
+.css-agency .background-3-menu .wsmenu-submenu-sub-sub,
+.css-agency .background-3-menu .wsmenu-submenu-sub-sub-sub {
+    background-color: #9176bd;
+}
+/* Border Color 1 */
+
+.css-agency .border-background-1,
+.css-agency .tp-caption .btn-default,
+.css-agency .btn-default,
+.css-agency .flex-control-paging li a.flex-active,
+.css-agency .flexslider.clients .flex-control-paging li a.flex-active,
+.css-agency .contact-info-3,
+.css-agency .team-social a:hover,
+.css-agency .contact-title-one h3:after,
+.css-agency .home-title-one h3:after,
+.css-agency #login-form .login-input:active,
+.css-agency #login-form .login-input:focus,
+.css-agency .load-more-wrapper a.load-more-btn:hover,
+.css-agency #register-form .register-input:active,
+.css-agency #register-form .register-input:focus,
+.css-agency .dropcap.dropcap-style-1,
+.css-agency .dropcap.dropcap-style-2,
+.css-agency .alert-default,
+.css-agency blockquote,
+.css-agency .tp-caption .btn-default,
+.css-agency .btn-default,
+.css-agency .btn-default-reverse,
+.css-agency .icon-box.icon-square .icon-block,
+.css-agency .icon-box.icon-circle .icon-block,
+.css-agency .icon-type.it-main-color,
+.css-agency .icon-type.it-main-color:hover,
+.css-agency .icon-type.it-main-color:focus,
+.css-agency .icon-type.it-main-color-reverse,
+.css-agency .icon-type.it-main-color-reverse:hover,
+.css-agency .icon-type.it-main-color-reverse:focus,
+.css-agency .add-to-cart-form .count-input .count-plus:hover,
+.css-agency .add-to-cart-form .count-input .count-minus:hover,
+.css-agency #reviewmodal .modal-header,
+.css-agency .job-left-title h3,
+.css-agency .pricing-table-container.special-price-table,
+.css-agency .clients-slick-nav .slick-custom-next:hover,
+.css-agency .clients-slick-nav .slick-custom-prev:hover,
+.css-agency .tabpanel-style-8 .nav-tabs > li.active,
+.css-agency a.btn-default.btn-animation-icon-box,
+.css-agency .btn-default.btn-animation-icon-box:hover,
+.css-agency .btn-default.btn-animation-icon-box:focus,
+.css-agency .btn-default.btn-animation-icon-box:active,
+.css-agency .tp-caption a.btn-default.btn-animation-icon-box,
+.css-agency .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-agency .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-agency .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-agency .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-agency .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-agency .clients-slick-nav .slick-clients-prev:hover,
+.css-agency .clients-slick-nav .slick-clients-next:hover,
+.css-agency .bsp-image,
+.css-agency .blog-list > article.default-post .blog-desc,
+.css-agency .testimonial-single li.slick-active button::before,
+.css-agency .slick-dots li.slick-active button:before,
+.css-agency .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-agency .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-agency .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-agency .timeline-status.timeline-active:before,
+.css-agency .cd-horizontal-timeline .events a.older-event::after,
+.css-agency .cd-horizontal-timeline .events a.selected::after,
+.css-agency .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-agency .no-touch .cd-timeline-navigation a:hover,
+.css-agency .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-agency .cd-timeline-navigation a:hover,
+.css-agency .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-agency .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-agency .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-agency .login-form input:focus,
+.css-agency .pinpulse,
+.css-agency .open > .dropdown-toggle.btn-default,
+.css-agency .tabpanel-style-7.shop-single-tabpanel .nav-tabs > li.active,
+.css-agency .newspaper-title,
+.css-agency .newspaper-separator,
+.css-agency ul.widget-social.widget-social-sidebar li a:hover,
+.css-agency .loader-30 > div,
+.css-agency .loader-31 > div,
+.css-agency .loader-35 > div:first-of-type,
+.css-agency .loader-35 > div:nth-child(2),
+.css-agency .radio input[type=radio]:checked ~ .circle,
+.css-agency .gsi-step-indicator.triangle li.current>*,
+.css-agency .gsi-style-7.border-right li.current>*,
+.css-agency .gsi-style-7.border-bottom li.current>*,
+.css-agency .gsi-style-7.border-left li.current>*,
+.css-agency .flatpickr-day.today,
+.css-agency .flatpickr-day.today:focus,
+.css-agency .flatpickr-day.today:hover,
+.css-agency .form-contact-3 .btn-default.disabled,
+.css-agency .form-contact-3 .btn-default.disabled.active,
+.css-agency .form-contact-3 .btn-default.disabled.focus,
+.css-agency .form-contact-3 .btn-default.disabled:active,
+.css-agency .form-contact-3 .btn-default.disabled:focus,
+.css-agency .form-contact-3 .btn-default.disabled:hover,
+.css-agency .form-contact-3 .btn-default[disabled],
+.css-agency .form-contact-3 .btn-default[disabled].active,
+.css-agency .form-contact-3 .btn-default[disabled].focus,
+.css-agency .form-contact-3 .btn-default[disabled]:active,
+.css-agency .form-contact-3 .btn-default[disabled]:focus,
+.css-agency .form-contact-3 .btn-default[disabled]:hover,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-agency .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-agency .wsmenu-list li > .wsmenu-submenu,
+.css-agency .wsmenu-list li > .megamenu,
+.css-agency .table-style-1 thead tr th,
+.css-agency .table-style-1 tbody tr:last-child th,
+.css-agency .table-style-1 tbody tr:last-child td,
+.css-agency .table-withmaincolor thead tr th,
+.css-agency .clients-title-border h3,
+.css-agency .cd-slider-nav li:hover,
+.css-agency .selected,
+.css-agency .icon-type-2:hover p,
+.css-agency .icon-type-2:hover span.icon-type-2-icon,
+.css-agency .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-agency .activeFilter,
+.css-agency .loader-12 > div,
+.css-agency .loader-15 > div,
+.css-agency .loader-15 > div:last-child,
+.css-agency .loader-21 > div {
+    border-color: #0cb4ce;
+}
+.css-agency .tabpanel-style-4 .nav-tabs > li.active,
+.css-agency .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-agency .tabpanel-style-5 .nav-tabs > li.active,
+.css-agency .tabpanel-style-5 .nav-tabs > li.active > span,
+.css-agency .loader-13 > div:last-child,
+.css-agency .loader-15 > div:last-child {
+    border-color: #0cb4ce transparent;
+}
+.css-agency .job-form input:focus,
+.css-agency .job-form textarea:focus,
+.css-agency .form-contact input:focus,
+.css-agency .form-contact textarea:focus,
+.css-agency .form-contact input:focus,
+.css-agency .login-form input:focus,
+.css-agency .login-form textarea:focus {
+    background-image: linear-gradient(#0cb4ce, #0cb4ce), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.css-agency .btn-rounded,
+.css-agency .form-control,
+.css-agency .pagination-box .pager li a,
+.css-agency .portfolio_overlay a.portfolio_zoom,
+.css-agency .portfolio_overlay a.portfolio_link,
+.css-agency .overlay-animation-2 .overlay_box a.image_link,
+.css-agency .overlay-animation-2 .overlay_box a.video_zoom,
+.css-agency a.home-breadcrumb,
+.css-agency .overlay-animation-1 .overlay_box a.image_zoom,
+.css-agency .overlay-animation-1 .overlay_box a.image_link,
+.css-agency ul.widget-ul li a span,
+.css-agency ul.widget-social li a,
+.css-agency .team-2 .team-social a,
+.css-agency .team-3 .team-social a,
+.css-agency .team-social a,
+.css-agency .benefits-box h1 {
+    border-radius: 100px;
+}
+.css-agency ul.thumbs li a,
+.css-agency ul.thumbs li a img,
+.css-agency ul.thumbs li a:before,
+.css-agency .widget-dribbble-box .shots li a,
+.css-agency .widget-dribbble-box .shots li a img,
+.css-agency .dribbble-box-dummy .shots-dummy li a,
+.css-agency .dribbble-box-dummy .shots-dummy li a img,
+.css-agency .instagram-widget a,
+.css-agency .instagram-widget a img,
+.css-agency .instagram-widget a:hover:before,
+.css-agency .instagram-widget a:hover:after,
+.css-agency .pricing-table-2-column,
+.css-agency .pricing-table-3-column,
+.css-agency .pricing-table-4 {
+    border-radius: 4px;
+}
+.css-agency .icon-box-2-effect-3 .icon-block-2 {
+    box-shadow: 0 0 0 3px #0cb4ce;
+}
+.css-agency .icon-box-2-effect-4 .icon-block-2,
+.css-agency .icon-box-2-effect-5 .icon-block-2,
+.css-agency .icon-box-2-effect-5:hover .icon-block-2,
+.css-agency .icon-box-2-effect-1 .icon-block-2:after,
+.css-agency .icon-box-2-effect-2 .icon-block-2:after {
+    box-shadow: 0 0 0 4px #0cb4ce;
+}
+.icon-box-2-effect-6 .icon-block-2:after,
+.css-agency .scroll-to-top-fixed.sticky-btn:hover {
+    box-shadow: 0 0 0 2px #0cb4ce;
+}
+.css-agency .empty-cart:after,
+.css-agency .loader-34 > div {
+    border-bottom-color: #0cb4ce;
+}
+.css-agency .btn-default-reverse:hover,
+.css-agency .btn-default-reverse:focus {
+    background-color: #0cb4ce;
+    border-color: #0cb4ce;
+}
+.css-agency .tp-caption .btn-default.active,
+.css-agency .btn-default.active,
+.css-agency .tp-caption .btn-default.focus,
+.css-agency .btn-default.focus,
+.css-agency .tp-caption .btn-default:active,
+.css-agency .btn-default:active,
+.css-agency .tp-caption .btn-default:focus,
+.css-agency .btn-default:focus,
+.css-agency .tp-caption .btn-default:hover,
+.css-agency .btn-default:hover,
+.css-agency #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency .btn-primary.btn-animation-icon-box,
+.css-agency .btn-primary.btn-animation-icon-box:hover,
+.css-agency .btn-primary.btn-animation-icon-box:focus,
+.css-agency .btn-primary.btn-animation-icon-box:active,
+.css-agency .tp-caption .btn-primary.btn-animation-icon-box,
+.css-agency .tp-caption .btn-primary.btn-animation-icon-box:hover,
+.css-agency .tp-caption .btn-primary.btn-animation-icon-box:focus,
+.css-agency .tp-caption .btn-primary.btn-animation-icon-box:active,
+.css-agency .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-agency .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-agency .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-agency .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #1292a6;
+}
+.css-agency .metis .tp-tab.selected .tp-tab-divider {
+    border-right-color: #0cb4ce;
+}
+.css-agency #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-agency #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-agency span.latest-post-month,
+.css-agency .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-agency .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu,
+.css-agency .tp-caption .btn-default.active,
+.css-agency .btn-default.active,
+.css-agency .tp-caption .btn-default.focus,
+.css-agency .btn-default.focus,
+.css-agency .tp-caption .btn-default:active,
+.css-agency .btn-default:active,
+.css-agency .tp-caption .btn-default:focus,
+.css-agency .btn-default:focus,
+.css-agency .tp-caption .btn-default:hover,
+.css-agency .btn-default:hover,
+.css-agency #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-agency #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-agency #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-agency #header.main-color-nav .navbar-2 .navbar-nav > .active > a,
+.css-agency .btn-primary.btn-animation-icon-box .btn-text,
+.css-agency .btn-primary.btn-animation-icon-box:hover .btn-text,
+.css-agency .btn-primary.btn-animation-icon-box:focus .btn-text,
+.css-agency .primary.btn-animation-icon-box:active .btn-text {
+    background-color: #1292a6;
+}
+.css-agency .item-text-wrapper,
+.css-agency .standard_hover .portfolio_overlay,
+.css-agency .overlay-animation-1 .overlay_box,
+.css-agency .flip-hover .flip-box .content-box,
+.css-agency .team-8 .team-image .overlay-team-box,
+.css-agency .team-9 .team-image .overlay-team-box,
+.css-agency .portfolio-animation-slide .sliding-content {
+    background-color: rgba(12, 180, 206, 0.9);
+}
+.css-agency .intro-block .overlay,
+.css-agency ul.thumbs li a:before,
+.css-agency .widget-dribbble-box .shots li a:before,
+.css-agency .dribbble-box-dummy .shots-dummy li a:before,
+.css-agency .sidebar-shop-products-list .image-thumb:before,
+.css-agency .cart-shop-products-list .image-thumb:before,
+.css-agency .overlay-bg.colored,
+.css-agency .instagram-widget a:before,
+.css-agency .overlay-bg.background-1 {
+    background-color: rgba(12, 180, 206, 0.75);
+}
+.forum-reply-signin {
+    background: rgba(12, 180, 206, 0.92);
+}
+.css-agency .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-agency .team-2 .overlay-team-box,
+.css-agency .team-6 .overlay-team-box,
+.css-agency .team-7 .overlay-team-box,
+.css-agency .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-agency .contact-overlay-map .overlay-map-background,
+.css-agency .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-agency .table-style-7.table-withmaincolor tbody tr th,
+.css-agency .fc-bgevent,
+.css-agency #particles-js.background-1 {
+    background-color: rgba(12, 180, 206, 0.6);
+}
+.css-agency .widget-dribbble-box .shots li a:hover:before,
+.css-agency .dribbble-box .shots li a:hover:before,
+.css-agency .dribbble-box-dummy .shots-dummy li a:hover:before,
+.css-agency .instagram-widget a:hover:before,
+.css-agency .newspaper-sidebar-image-news > article a.image-box:before {
+    background-color: rgba(12, 180, 206, 0.85);
+}
+.css-agency .price-filter-desc .btn {
+    background-color: #e85241;
+    border-color: #e85241;
+}
+.css-agency .btn-default.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #0cb4ce;
+}
+.css-agency .btn-default.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #0cb4ce;
+}
+.css-agency .btn-default-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #0cb4ce;
+}
+.css-agency .btn-default-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #0cb4ce;
+}
+.css-agency .btn-primary {
+    background: #1292a6;
+    border-color: #1292a6;
+}
+.css-agency .btn-primary:hover,
+.css-agency .open > .dropdown-toggle.btn-primary,
+.css-agency .btn-primary.active,
+.css-agency .btn-primary.focus,
+.css-agency .btn-primary:active,
+.css-agency .css-agency .btn-primary:focus {
+    background: #3c1a90;
+    border-color: #3c1a90;
+}
+.css-agency .btn-primary-reverse {
+    color: #1292a6;
+    border-color: #1292a6;
+}
+.css-agency .btn-primary-reverse:hover {
+    background-color: #1292a6;
+    border-color: #1292a6;
+}
+.css-agency .btn-primary.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #1292a6;
+}
+.css-agency .btn-primary.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #1292a6;
+}
+.css-agency .btn-primary-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #1292a6;
+}
+.css-agency .btn-primary-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #1292a6;
+}
+.css-agency .blog-list > article.default-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #0cb4ce;
+}
+.css-agency .blog-list > article.default-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #0cb4ce;
+}
+.css-agency .blog-list > article.primary-post .blog-post-2 .bp2-category {
+    background: #1292a6;
+}
+.css-agency .blog-list > article.primary-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #1292a6;
+}
+.css-agency .blog-list > article.primary-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #1292a6;
+}
+.css-agency .blog-list > article.primary-post .blog-desc {
+    border-top-color: #1292a6;
+}
+.css-agency .blog-list > article.primary-post .blog-post-2 .bp2-desc {
+    border-bottom-color: #1292a6;
+}
+.css-agency .btn-default.btn-animation-icon-box .btn-text,
+.css-agency .btn-default.btn-animation-icon-box:hover .btn-text,
+.css-agency .btn-default.btn-animation-icon-box:focus .btn-text,
+.css-agency .btn-default.btn-animation-icon-box:active .btn-text {
+    background: #0cb4ce;
+}
+.css-agency .btn-default.btn-animation-icon-box .btn-icon,
+.css-agency .btn-default.btn-animation-icon-box:hover .btn-icon,
+.css-agency .btn-default.btn-animation-icon-box:focus .btn-icon,
+.css-agency .btn-default.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-agency .btn-default-reverse.btn-animation-icon-box .btn-text,
+.css-agency .btn-default-reverse.btn-animation-icon-box:hover .btn-text,
+.css-agency .btn-default-reverse.btn-animation-icon-box:focus .btn-text,
+.css-agency .btn-default-reverse.btn-animation-icon-box:active .btn-text {
+    color: #0cb4ce;
+}
+.css-agency .btn-default-reverse.btn-animation-icon-box .btn-icon,
+.css-agency .btn-default-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-agency .btn-default-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-agency .btn-default-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #0cb4ce;
+    color: #0cb4ce;
+}
+.css-agency .btn-primary.btn-animation-icon-box .btn-icon,
+.css-agency .btn-primary.btn-animation-icon-box:hover .btn-icon,
+.css-agency .btn-primary.btn-animation-icon-box:focus .btn-icon,
+.css-agency .btn-primary.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-agency .btn-primary-reverse.btn-animation-icon-box .btn-text,
+.css-agency .btn-primary-reverse.btn-animation-icon-box:hover .btn-text,
+.css-agency .btn-primary-reverse.btn-animation-icon-box:focus .btn-text,
+.css-agency .btn-primary-reverse.btn-animation-icon-box:active .btn-text,
+.css-agency .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-agency .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-agency .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-agency .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    color: #1292a6;
+}
+.css-agency .tp-caption.btn.background-2:hover,
+.css-agency .tp-caption.btn.background-2:focus,
+.css-agency .tp-caption.btn.background-2:active {
+    background-color: #e33834;
+}
+.css-agency .border-background-2 {
+    border-color: #9176bd;
+}
+.css-agency .border-background-3 {
+    border-color: #e85241;
+}
+.css-agency .blog-list > article .featured-posts-slider .fp-desc {
+    background: rgba(12, 180, 206, 0.9);
+}
+.css-agency .gsi-style-4 li.current>* .number:before {
+    border-left-color: #0cb4ce;
+}
+.css-agency .gsi-style-7.border-top li.current>* {
+    border-top-color: #0cb4ce;
+}
+.css-agency .icon-box.icon-circle .icon-block,
+.css-agency .icon-box.icon-circle .icon-block span,
+.css-agency .icon-block-2,
+.css-agency .icon-block-2:after,
+.css-agency .simple-icon-image img,
+.css-agency .icon-image-overlay,
+.css-agency .simple-icon-icon,
+.css-agency .link-rounded-icon,
+.css-agency .slider-slick-slide a [class^="icon-"],
+.css-agency .flexslider.clients .flex-control-paging li a,
+.css-agency .testimonial-single .slick-prev,
+.css-agency .testimonial-single .slick-next,
+.css-agency .testimonial-single .slick-dots li button:before,
+.css-agency .slick-dots li button:before,
+.css-agency .testimonials-slick-nav .slick-testimonial-prev,
+.css-agency .testimonials-slick-nav .slick-testimonial-next,
+.css-agency .block-content-wrapper h1 {
+    border-radius: 50px;
+}
+.css-agency .loader-6 {
+    background: #0cb4ce;
+    background: -moz-linear-gradient(left, #0cb4ce 10%, rgba(12, 180, 206, 0) 42%);
+    background: -webkit-linear-gradient(left, #0cb4ce 10%, rgba(12, 180, 206, 0) 42%);
+    background: -o-linear-gradient(left, #0cb4ce 10%, rgba(12, 180, 206, 0) 42%);
+    background: -ms-linear-gradient(left, #0cb4ce 10%, rgba(12, 180, 206, 0) 42%);
+    background: linear-gradient(to right, #0cb4ce 10%, rgba(12, 180, 206, 0) 42%);
+}
+@-webkit-keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #0cb4ce, 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.5), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.7), 1.8em -1.8em 0 0em #0cb4ce, 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.5), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.7), 2.5em 0em 0 0em #0cb4ce, 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.5), 2.5em 0em 0 0em rgba(12, 180, 206, 0.7), 1.75em 1.75em 0 0em #0cb4ce, 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.5), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.7), 0em 2.5em 0 0em #0cb4ce, -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.5), 0em 2.5em 0 0em rgba(12, 180, 206, 0.7), -1.8em 1.8em 0 0em #0cb4ce, -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.5), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.7), -2.6em 0em 0 0em #0cb4ce, -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.5), -2.6em 0em 0 0em rgba(12, 180, 206, 0.7), -1.8em -1.8em 0 0em #0cb4ce;
+    }
+}
+@keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #0cb4ce, 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.5), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.7), 1.8em -1.8em 0 0em #0cb4ce, 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.5), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.7), 2.5em 0em 0 0em #0cb4ce, 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.5), 2.5em 0em 0 0em rgba(12, 180, 206, 0.7), 1.75em 1.75em 0 0em #0cb4ce, 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.5), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.7), 0em 2.5em 0 0em #0cb4ce, -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.5), 0em 2.5em 0 0em rgba(12, 180, 206, 0.7), -1.8em 1.8em 0 0em #0cb4ce, -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.5), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.7), -2.6em 0em 0 0em #0cb4ce, -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.5), -2.6em 0em 0 0em rgba(12, 180, 206, 0.7), -1.8em -1.8em 0 0em #0cb4ce;
+    }
+}
+.css-agency .loader-3 {
+    border-top-color: rgba(12, 180, 206, 0.2);
+    border-right-color: rgba(12, 180, 206, 0.2);
+    border-bottom-color: rgba(12, 180, 206, 0.2);
+    border-left-color: #0cb4ce;
+}
+.css-agency .svg-animation path {
+    stroke: #0cb4ce;
+}
+.css-agency .loader-36 > div {
+    background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #0cb4ce 30%, #0cb4ce 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #0cb4ce 30%, #0cb4ce 100%);
+}
+.css-agency .blockquote-style-2 blockquote:after, 
+.css-agency .blockquote-style-2 blockquote:before{
+  background-color: transparent;
+}
