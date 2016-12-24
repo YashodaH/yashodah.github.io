@@ -1,0 +1,1222 @@
+/* Gym */
+
+body.css-gym,
+.css-gym p,
+.css-gym .featured-content h1.small,
+.css-gym .form-group > label,
+.css-gym .checkbox > label,
+.css-gym .alert > p,
+.css-gym .block-content-wrapper h2,
+.css-gym .intro-text h1,
+.css-gym .intro-text h2,
+.css-gym .intro-text h3,
+.css-gym .intro-text h4,
+.css-gym .intro-text h5,
+.css-gym .intro-text h6,
+.css-gym .restaurant-info-img-content h4,
+.css-gym .contact-title h3 {
+    font-family: "Droid Sans", sans-serif;
+} 
+.css-gym h1,
+.css-gym h2,
+.css-gym h3,
+.css-gym h4,
+.css-gym h5,
+.css-gym h6,
+.css-gym .testimonials-slider .testimonials-slider-box .testimonial-text {
+    font-family: "Droid Sans", sans-serif;
+}
+/* Color 1 */
+
+.css-gym .color-1,
+.css-gym .wsmenu-list > li > a:hover,
+.css-gym .dark-menu .wsmenu-submenu li a:hover,
+.css-gym .dark-menu .wsmenu-submenu li a:hover,
+.css-gym .dark-menu .megamenu .link-list li a:hover,
+.css-gym #header ul.wsmenu-submenu li a.active,
+.css-gym #portfolio-filter li a:hover,
+.css-gym .wsmenu-list > li > a.active,
+.css-gym #header .wsmenu.navigation-dark .wsmenu-list > li > a.active,
+.css-gym #header .wsmenu.navigation-dark .wsmenu-list > li > a:hover,
+.css-gym .dark-menu .megamenu .link-list li.active a,
+.css-gym .cart-dropdown-menu .cart-shop-products-list li .csp-price,
+.css-gym .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-gym .light-menu .megamenu .link-list li.active a,
+.css-gym .light-menu .megamenu .link-list li a:hover,
+.css-gym .light-menu .wsmenu-submenu li a:hover,
+.css-gym .light-menu .wsmenu-submenu li.active a,
+.css-gym ul.simple-list li [class^="icon-"],
+.css-gym .footer-tags a:hover,
+.css-gym #footer .widget-twitter-box .tweet ul li a:hover,
+.css-gym .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-gym .blog-list>article .post-facebook:hover,
+.css-gym .blog-list>article .post-facebook:hover .pf-icon span,
+.css-gym .blog-list>article .post-facebook:hover .pf-text,
+.css-gym ul.blog-popular-list .ssp-title:hover,
+.css-gym #post-content .blog-desc-details a:hover,
+.css-gym .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-gym .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-gym .author-description .author-description-text-holder .author-name a:hover,
+.css-gym .comment_response .media h6 a:hover,
+.css-gym .blog-list>article .post-facebook:hover,
+.css-gym .blog-list>article .post-facebook:hover .pf-icon span,
+.css-gym .blog-list>article .post-facebook:hover .pf-text,
+.css-gym ul.blog-popular-list .ssp-title:hover,
+.css-gym #post-content .blog-desc-details a:hover,
+.css-gym .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-gym .header-light.nav-sticky .wsmenu-list > li > a:hover,
+.css-gym .header-light.nav-sticky .wsmenu-list > li > a.active,
+.css-gym .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-gym .author-description .author-description-text-holder .author-name a:hover,
+.css-gym ul.sidebar-category li a:hover,
+.css-gym ul.shop-star-rating.single-item li.full-star,
+.css-gym,
+.css-gym #footer.footer-10 .title.small a:hover,
+.css-gym .vlt-left-menu.vlt-menu-style-2 .nav-accordion-section-title:hover,
+.css-gym .vlt-left-menu .nav-accordion-section-content ul li a:hover,
+.css-gym .header-content .phone-number span,
+.css-gym .intro-block h6,
+.css-gym .icon-block [class^="icon-"],
+.css-gym ul.header-links li a:hover,
+.css-gym .navbar.banner--clone .nav > li > a:hover,
+.css-gym .navbar.banner--clone .btn-search:hover,
+.css-gym .success-lg:hover [class^="icon-"],
+.css-gym #copyrights ul li a:hover,
+.css-gym #copyrights a:hover,
+.css-gym .breadcrumb > .active,
+.css-gym .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-gym a.image_link:hover [class^="icon-"],
+.css-gym a.load-more-btn:hover,
+.css-gym a.load-more-btn:hover [class^="icon-"],
+.css-gym .intro-block h1 [class^="icon-"],
+.css-gym .shop-list .shop-product h4 a:hover,
+.css-gym ul#portfolio-layout-filter li a.active,
+.css-gym .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-gym .shop-price,
+.css-gym ul.sidebar-shop-cat > li > a:hover,
+.css-gym a.load-more-btn:hover,
+.css-gym a.load-more-btn:hover [class^="icon-"],
+.css-gym .intro-block h1 [class^="icon-"],
+.css-gym .shop-list .shop-product h4 a:hover,
+.css-gym ul#portfolio-layout-filter li a.active,
+.css-gym .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-gym ul.sidebar-cat > li span,
+.css-gym .shop-price,
+.css-gym ul.sidebar-cat > li > a:hover,
+.css-gym ul.jobs-list li [class^="icon-"],
+.css-gym .team-social a:hover,
+.css-gym .icon-default,
+.css-gym .error-page-icon span [class^="icon-"],
+.css-gym .footer-3-container-text a:hover,
+.css-gym .testimonials-box .testimonial-author,
+.css-gym #page-title.image-page-title-fullwidth h1,
+.css-gym #page-title.image-page-title-left.image-page-noimage h2,
+.css-gym ul.services-2-icons,
+.css-gym ul.shop-layout-filter li a.active,
+.css-gym ul.portfolio-layout-filter li a.active,
+.css-gym ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-gym .related-projects-title .slick-custom-next:hover,
+.css-gym .related-projects-title .slick-custom-prev:hover,
+.css-gym .recent-post-content a:hover,
+.css-gym .form-group.login-form-submit a,
+.css-gym .shop-type-1 a.add-to-cart-item:before,
+.css-gym .shop-type-2 a.add-to-cart-item:before,
+.css-gym a.form-forgotpass,
+.css-gym .sidebar-shop-products-list li .ssp-title:hover,
+.css-gym .restaurant-info ul li [class^="icon-"],
+.css-gym .navbar-default.default .btn-cart .header-cart-count,
+.css-gym .blog-list > article .blog-desc h4 a:focus,
+.css-gym .blog-list-full > article .blog-desc h4 a:hover,
+.css-gym .blog-list-full > article .blog-desc h4 a:focus,
+.css-gym .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-gym .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-gym .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-gym .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-gym .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-gym .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-gym .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-gym .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-gym .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-gym .blog-masonry > article .blog-desc h4 a:hover,
+.css-gym .blog-masonry > article .blog-desc h4 a:focus,
+.css-gym .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-gym .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-gym .comment_response .media_cloud a.reply_link,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-gym .dropcap.dropcap-style-1,
+.css-gym .counter-box .count-icon,
+.css-gym .counter-style-1 .counter-box h4,
+.css-gym .icon-type,
+.css-gym .icon-type.it-main-color,
+.css-gym .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-gym .comment_response .media_cloud a.reply_link,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-gym .dropcap.dropcap-style-1,
+.css-gym .btn-default-reverse,
+.css-gym .counter-box .count-icon,
+.css-gym .counter-style-1 .counter-box h4,
+.css-gym .icon-type,
+.css-gym .icon-type.it-main-color,
+.css-gym .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-gym .review_response .media h6 a,
+.css-gym .review_response .media_cloud .shop-star-rating li.full-star,
+.css-gym .rating-container .rating-stars,
+.css-gym .form-contact small,
+.css-gym ul.icon-list li a:hover,
+.css-gym ul.icon-list li a:active,
+.css-gym ul.icon-list li a:focus,
+.css-gym .checkout-sum,
+.css-gym .checkout-table td a:hover,
+.css-gym .checkout-box a,
+.css-gym .user-profile-list ul li a:hover,
+.css-gym a.profile-active,
+.css-gym .user-profile-content h2,
+.css-gym .forum-content-header span a,
+.css-gym .recent-work-content a:hover,
+.css-gym .recent-work-image-content a:hover,
+.css-gym .contact-overlay-map .maximize-form:hover,
+.css-gym .hero-slier-nav-content:hover [class^="icon-"],
+.css-gym .selected .hero-slier-nav-content [class^="icon-"],
+.css-gym .team-social a:hover,
+.css-gym .team-name h5 a:hover,
+.css-gym .clients-slick-nav .slick-custom-next:hover,
+.css-gym .clients-slick-nav .slick-custom-prev:hover,
+.css-gym .services-pricing-icon [class^="icon-"],
+.css-gym .brand [class^="icon-"],
+.css-gym .content-divider-colored [class^="icon-"],
+.css-gym .divider-content h1 span,
+.css-gym .divider-content h2 span,
+.css-gym .divider-content h3 span,
+.css-gym .intro-page-content a:hover,
+.css-gym .image-box-content a:hover,
+.css-gym .icon-type.it-main-color [class^="icon-"],
+.css-gym .icon-type-2:hover p,
+.css-gym .icon-type-2:hover span.icon-type-2-icon,
+.css-gym .heading-container .head-colored,
+.css-gym ul.home-6-list li h4 [class^="icon-"],
+.css-gym .icon-box-2-effect-1:hover .icon-block-2,
+.css-gym .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-gym .icon-box-2-effect-4:hover .icon-block-2,
+.css-gym .icon-box-2-effect-4-reverse .icon-block-2,
+.css-gym .icon-box-2-effect-5:hover .icon-block-2,
+.css-gym .simple-icon-lightbg [class^="icon-"],
+.css-gym .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-gym .panel-body ul li a:hover,
+.css-gym .colored,
+.css-gym .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-6 .nav-tabs > li > a,
+.css-gym .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-gym .tp_caption_big span,
+.css-gym ul.icon-box-simple li:hover a,
+.css-gym .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-gym .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-gym .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-gym .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-gym .blockquote-author p,
+.css-gym .testimonial-author,
+.css-gym .latest-post-content h1 a:hover,
+.css-gym .post-by a:hover,
+.css-gym .latest-post-content .read-more-link,
+.css-gym .blog-horizontal .bh-content h3 a:hover,
+.css-gym .blog-horizontal .bh-content .bh-details a:hover,
+.css-gym .blog-horizontal .bh-content .bh-details a:hover span,
+.css-gym a.bsp-title:hover,
+.css-gym .sidebar-blog-post-list li .sbp-title:hover,
+.css-gym .navbar-nav > li.active,
+.css-gym .navbar-nav > li.active:hover,
+.css-gym a.idb-social:hover,
+.css-gym a.idb-social:hover span,
+.css-gym a.idb-price,
+.css-gym span.pts-raised,
+.css-gym .bsp-social a:hover,
+.css-gym .bsp-social a [class^="icon-"]:hover,
+.css-gym a.bsp-more:hover,
+.css-gym .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-gym .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-gym .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-gym .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-gym .gallery-block .gallery-box .gallery-meta a:hover,
+.css-gym .gallery-block .gallery-box .gallery-meta a:focus,
+.css-gym .tp-caption a,
+.css-gym .tp-caption a:hover,
+.css-gym .cd-timeline-inner-content a:hover,
+.css-gym .testimonial-box .testimonial-author span,
+.css-gym .fic-date a:hover,
+.css-gym .forum-inner-content h1 a:hover,
+.css-gym .user-profile-desc a:hover,
+.css-gym .cd-timeline-navigation a:hover::after,
+.css-gym .login-form .login-input-box [class^="icon-"],
+.css-gym .icon-input-box [class^="icon-"],
+.css-gym ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-gym ul.bar-chart-graph li,
+.css-gym ul.line-graph li,
+.css-gym ul.donut-graph li,
+.css-gym .tp-caption.Creative-SubTitle,
+.css-gym .Creative-SubTitle,
+.css-gym .tp-caption.vlt-hero-rotating,
+.css-gym ul.recent-post-widget .rp-post a:hover,
+.css-gym .loader-5,
+.css-gym .loader-7,
+.css-gym .loader-9,
+.css-gym .loader-2,
+.css-gym .loader-4,
+.css-gym .vertical-newspaper-list .vnl-content h4 a:hover,
+.css-gym .vertical-newspaper-sidebar-list .vnl-content h4 a:hover,
+.css-gym .events-vertical .events-vertical-desc h4 a:hover,
+.css-gym .portfolio-single-share .pss-share li a:hover,
+.css-gym .portfolio-single-share .pss-like:hover,
+.css-gym .portfolio-single-intro-description .portfolio-single-categories a:hover,
+.css-gym .portfolio-single-more-link:hover,
+.css-gym .gsi-style-9 li.visited>*,
+.css-gym .gsi-style-9 li.current>*,
+.css-gym .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-gym .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-gym .header-contact-box .header-phone:hover,
+.css-gym .header-contact-box .header-email:hover,
+.css-gym .icon-box.icon-square .icon-block span,
+.css-gym .icon-box.icon-square.icon-fill.icon-transform:hover .icon-block span {
+    color: #fc3c2a;
+}
+/* Background Color 1 */
+
+.css-gym .background-1,
+.css-gym .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1,
+.css-gym a.brand-modern span.line-1,
+.css-gym .header.dark-nav a.brand-modern span.line-1,
+.css-gym .wte-separator.background-1:before,
+.css-gym .call-newsletter-box form .btn,
+.css-gym .offscreen-container,
+.css-gym #header.background-1,
+.css-gym .background-1-menu .megamenu,
+.css-gym .background-1-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-gym .background-1-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-gym .background-1-menu .wsmenu-submenu li a,
+.css-gym .background-1-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-gym .background-1-menu .wsmenu-submenu,
+.css-gym .background-1-menu .wsmenu-submenu-sub,
+.css-gym .background-1-menu .wsmenu-submenu-sub-sub,
+.css-gym .background-1-menu .wsmenu-submenu-sub-sub-sub,
+.css-gym #portfolio-filter li a.activeFilter,
+.css-gym #portfolio-filter li a.activeFilter[data-filter="*"],
+.css-gym #header .search-cart-navbar:hover .btn-default,
+.css-gym .scroll-to-top-fixed,
+.css-gym #bootstrap-table.table>thead>tr>th,
+.css-gym ul.meta-share-social li a:hover,
+.css-gym article.blog-item .blog-image-box .video-play-icon span,
+.css-gym .audioplayer,
+.css-gym .audioplayer-bar,
+.css-gym .blog-desc-details:after,
+.css-gym .audioplayer-volume-adjust div div,
+.css-gym .qoute-post,
+.css-gym .footer-newsletter-box form .btn,
+.css-gym .footer-newsletter-box form .btn.disabled,
+.css-gym .tags-cloud-list li a:hover,
+.css-gym article.blog-item .blog-image-box.video-post:before,
+.css-gym .tp-caption .btn-default,
+.css-gym .btn-default,
+.css-gym .flex-control-paging li a.flex-active,
+.css-gym #mobile-navbar,
+.css-gym .call-to-action,
+.css-gym .maincolor-background,
+.css-gym ul.widget-ul li a > span,
+.css-gym ul.widget-social li a:hover,
+.css-gym #people .item .info,
+.css-gym .main-color,
+.css-gym .flexslider.clients .flex-control-paging li a.flex-active,
+.css-gym #portfolio-filter li a:after,
+.css-gym .navbar.banner--clone .nav li.active > a,
+.css-gym .pricing-table-column.special-price-table .pricing-table-head,
+.css-gym .pricing-table-column.special-price-table .pricing-table-content,
+.css-gym .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-gym .progress-bar-box .progress-bar,
+.css-gym .background-1,
+.css-gym .selecter .selecter-item:hover,
+.css-gym .selecter .selecter-item.selected:hover,
+.css-gym #footer.colored,
+.css-gym section.about-counter,
+.css-gym .error-page-title:after,
+.css-gym .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-gym .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-gym .tabpanel-style-4 .tab-content h3:after,
+.css-gym .about-classic-column-themecolor,
+.css-gym .selecter .selecter-item:hover,
+.css-gym .selecter .selecter-item.selected:hover,
+.css-gym .item-text-wrapper_overlay,
+.css-gym .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-gym .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-gym .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-gym .shop-type-2 a.add-to-cart-item,
+.css-gym .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-gym .search-cart-navbar .btn-cart .header-cart-count,
+.css-gym .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-gym .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-gym .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-gym .dropcap.dropcap-style-2,
+.css-gym .alert-default,
+.css-gym blockquote:before,
+.css-gym blockquote:after,
+.css-gym .tp-caption .btn-default,
+.css-gym .btn-default,
+.css-gym .content-title h5:before,
+.css-gym .content-title h5:after,
+.css-gym .icon-box.icon-fill .icon-block,
+.css-gym .icon-box.icon-square:hover .icon-block,
+.css-gym .icon-box.icon-circle:hover .icon-block,
+.css-gym .icon-box.icon-circle:hover .icon-block span,
+.css-gym .icon-type.it-main-color:hover,
+.css-gym .icon-type.it-main-color:focus,
+.css-gym .icon-type.it-main-color-reverse,
+.css-gym .icon-type.it-main-color:hover span,
+.css-gym .icon-type.it-main-color-reverse:hover span,
+.css-gym .add-to-cart-form .count-input .count-plus:hover,
+.css-gym .add-to-cart-form .count-input .count-minus:hover,
+.css-gym .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-gym .pricing-table-container.special-price-table,
+.css-gym .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-gym .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-gym ul.forum-list li.forum-header,
+.css-gym .textbox-withmaincolor,
+.css-gym .background-1,
+.css-gym .team-member-job,
+.css-gym .team-section .team-desc-box:before,
+.css-gym .team-section .team-desc-box:after,
+.css-gym .shop-categories:hover .shop-title-categories,
+.css-gym .content-divider-colored-bg [class^="icon-"],
+.css-gym .overlay-animation-6 .content-box,
+.css-gym .block-content-wrapper h1,
+.css-gym .benefits-box h1,
+.css-gym .selecter .selecter-item:hover,
+.css-gym .selecter .selecter-item.selected:hover,
+.css-gym .ui-slider .ui-slider-range,
+.css-gym #header.header-main-color,
+.css-gym .navbar-2.banner--clone.main-color-navbar,
+.css-gym .tabpanel-style-center .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-gym .label.label-primary,
+.css-gym .label.label-primary,
+.css-gym .star-rating .caption .label,
+.css-gym .tparrows.preview5:hover,
+.css-gym .table-style-4.table-withmaincolor thead tr th,
+.css-gym .table-style-5.table-withmaincolor thead tr th,
+.css-gym .table-style-6.table-withmaincolor thead tr th,
+.css-gym .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-gym .table-style-7.table-withmaincolor thead tr th,
+.css-gym .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-gym .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-gym .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-gym .table-style-2.table-withmaincolor thead tr th,
+.css-gym .table-style-3.table-withmaincolor thead tr th,
+.css-gym .table-style-3.table-withmaincolor tbody tr th,
+.css-gym .parallax-withmaincolor,
+.css-gym .contact-overlay-map .minimize-form:hover,
+.css-gym .team-3:hover .team-social,
+.css-gym .team-5:hover .team-social,
+.css-gym .special-table-2,
+.css-gym .special-table-3,
+.css-gym span.pricing-3-discount,
+.css-gym #vertical-timeline-container:before,
+.css-gym .subscribe-fancy-themebg,
+.css-gym .empty-cart,
+.css-gym .team-4:hover .team-social,
+.css-gym .content-divider-colored,
+.css-gym .content-divider-colored-bg,
+.css-gym .withmainbackground,
+.css-gym .services-2-heading,
+.css-gym .icon-box-2-effect-4 .icon-block-2,
+.css-gym .services-2-heading,
+.css-gym .promotion-box-theme-colored,
+.css-gym .promotion-box-theme-colored .promotion-box-title h4,
+.css-gym .icon-block-2,
+.css-gym .icon-box-2-effect-2:hover .icon-block-2,
+.css-gym .icon-box-2-effect-3 .icon-block-2:after,
+.css-gym .icon-box-2-effect-4 .icon-block-2:after,
+.css-gym .icon-box-2-effect-6 .icon-block-2,
+.css-gym .icon-box-2-effect-6:hover .icon-block-2,
+.css-gym .simple-icon-icon,
+.css-gym a.call-to-action-link:hover,
+.css-gym .add-to-cart-form .count-input .count-plus,
+.css-gym .add-to-cart-form .count-input .count-minus,
+.css-gym .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-gym .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-gym .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-gym .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-gym .special-price-box,
+.css-gym .dropdown-menu > .active > a,
+.css-gym .dropdown-menu > .active > a:focus,
+.css-gym .dropdown-menu > .active > a:hover,
+.css-gym #header.main-color-nav .navbar-2,
+.css-gym .latest-post-data,
+.css-gym .blog-single-post .bsp-heading h1,
+.css-gym .testimonial-single .slick-dots li button:before,
+.css-gym .slick-dots li button:before,
+.css-gym .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-gym .timeline-complete .timeline-status.timeline-active:before,
+.css-gym .megamenu.maincolor,
+.css-gym .dropdown.maincolor ul,
+.css-gym .dropdown.maincolor ul.dropdown-menu,
+.css-gym #footer.maincolor,
+.css-gym #copyrights.maincolor,
+.css-gym .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-gym .cd-horizontal-timeline .events a.selected::after,
+.css-gym .cd-horizontal-timeline .filling-line,
+.css-gym .pinpulsebox span,
+.css-gym .main-color-dropdown .megamenu,
+.css-gym .main-color-dropdown .dropdown-menu,
+.css-gym #cd-timeline::before,
+.css-gym ul.icon-list.il-main-bg li [class^="icon-"],
+.css-gym .process-steps ul li.current a .number,
+.css-gym ol.ordered-list.ol-main-bg li:before,
+.css-gym .irs-bar,
+.css-gym .irs-from,
+.css-gym .irs-to,
+.css-gym .irs-single,
+.css-gym .open > .dropdown-toggle.btn-default,
+.css-gym .fc-unthemed .fc-today,
+.css-gym .fc-content,
+.css-gym #particles-js,
+.css-gym .s-icon:hover,
+.css-gym #progressbar li.active:before,
+.css-gym #progressbar li.active:after,
+.css-gym .portfolio-filter .selecter-item.activeFilter,
+.css-gym #copyrights ul.widget-social li a:hover,
+.css-gym .page-loader-spinner span,
+.css-gym .loader-6:before,
+.css-gym .loader-2,
+.css-gym .loader-2:before,
+.css-gym .loader-2:after,
+.css-gym .newspaper-title .custom-slick-nav-1 .slick-custom-next:hover,
+.css-gym .newspaper-title .custom-slick-nav-1 .slick-custom-prev:hover,
+.css-gym .loader-10 > div,
+.css-gym .loader-11 > div,
+.css-gym .loader-12 > div,
+.css-gym .loader-13 > div:first-child,
+.css-gym .loader-14 > div,
+.css-gym .loader-16 > div,
+.css-gym .loader-17 > div,
+.css-gym .loader-17 > div:before,
+.css-gym .loader-17 > div:after,
+.css-gym .loader-18 > div,
+.css-gym .loader-19 > div,
+.css-gym .loader-20 > div,
+.css-gym .loader-22 > div,
+.css-gym .loader-23 > div,
+.css-gym .loader-24 > div,
+.css-gym .loader-25 > div,
+.css-gym .loader-26 > div,
+.css-gym .loader-27 > div,
+.css-gym .loader-28 > div,
+.css-gym .loader-29 > div,
+.css-gym .loader-32 > div,
+.css-gym .loader-33 > div,
+.css-gym .loader-35 > div:nth-child(3),
+.css-gym .loader-35 > div:nth-child(4),
+.css-gym .loader-35 > div:nth-child(5),
+.css-gym .loader-35 > div:nth-child(6),
+.css-gym .loader-37 > div,
+.css-gym .loader-38 > div,
+.css-gym .portfolio-single-share .pss-share li a:before,
+.css-gym .portfolio-single-intro-description .portfolio-single-categories a:before,
+.css-gym .portfolio-single-more-link:before,
+.css-gym .checkbox input[type=checkbox]:checked + .checkbox-material .check,
+.css-gym .radio input[type=radio]:checked ~ .check,
+.css-gym .vlt-btn-group .dropdown-menu li a:hover,
+.css-gym .gsi-step-indicator.triangle li.current>*,
+.css-gym .gsi-style-4 li.current>*,
+.css-gym .gsi-style-5 li.current>*,
+.css-gym .gsi-style-6 li.current>* .number,
+.css-gym .gsi-style-7 li.current:hover>*,
+.css-gym .gsi-style-8 li.visited>*,
+.css-gym .gsi-style-8 li.current>*,
+.css-gym .gsi-style-9 li.visited>*:after,
+.css-gym .gsi-style-9 li.current>*:after,
+.css-gym .gsi-style-10 li.visited>*:after,
+.css-gym .gsi-style-10 li.current>*:after,
+.css-gym .gsi-style-11 li.current:before,
+.css-gym .gsi-style-11 li.current:after,
+.css-gym .gsi-style-11 li.visited:before,
+.css-gym .gsi-style-11 li.visited:after,
+.css-gym .gsi-style-11 li.visited>*:after,
+.css-gym .gsi-style-11 li.current>*:after,
+.css-gym .flatpickr-day.today:focus,
+.css-gym .flatpickr-day.today:hover,
+.css-gym .reveal-nav .navbar-toggle,
+.css-gym .form-contact-3 .btn-default.disabled,
+.css-gym .form-contact-3 .btn-default.disabled.active,
+.css-gym .form-contact-3 .btn-default.disabled.focus,
+.css-gym .form-contact-3 .btn-default.disabled:active,
+.css-gym .form-contact-3 .btn-default.disabled:focus,
+.css-gym .form-contact-3 .btn-default.disabled:hover,
+.css-gym .form-contact-3 .btn-default[disabled],
+.css-gym .form-contact-3 .btn-default[disabled].active,
+.css-gym .form-contact-3 .btn-default[disabled].focus,
+.css-gym .form-contact-3 .btn-default[disabled]:active,
+.css-gym .form-contact-3 .btn-default[disabled]:focus,
+.css-gym .form-contact-3 .btn-default[disabled]:hover,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-gym .icon-box.icon-square:hover .icon-block span,
+.css-gym #header.header-main-color-sticky.header-sticky,
+.css-gym #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+    background-color: #fc3c2a;
+}
+/* Color 2 */
+
+.css-gym .color-2,
+.css-gym .cart-shop-products h3,
+.css-gym .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-gym .cart-shop-products-list li .csp-price,
+.css-gym .sidebar-shop-products-list li .shop-star-rating li.full-star,
+.css-gym .shop-list .shop-product .shop-star-rating li.full-star,
+.css-gym ul.shop-star-rating li.full-star,
+.css-gym ul.line-graph li:nth-child(2n),
+.css-gym ul.donut-graph li:nth-child(2n),
+.css-gym ul.bar-chart-graph li:nth-child(2n) {
+    color: #f3565d;
+}
+.color-2:hover {
+    color: #f3565d;
+}
+/* Background Color 2 */
+
+.css-gym .background-2,
+.css-gym .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-gym #header.background-2,
+.css-gym .background-2-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-gym .background-2-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2,
+.css-gym a.brand-modern span.line-2,
+.css-gym .header.dark-nav a.brand-modern span.line-2,
+.css-gym .wte-separator.background-2:before,
+.css-gym .form-contact.dark-from .has-error .help-block,
+.css-gym a.add-to-wishlist,
+.css-gym .shop-list .shop-product:hover>a.add-to-wishlist,
+.css-gym .slider-price-filter-box:after,
+.css-gym .background-2-menu .megamenu,
+.css-gym .background-2-menu .wsmenu-submenu li a,
+.css-gym .background-2-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-gym .background-2-menu .wsmenu-submenu,
+.css-gym .background-2-menu .wsmenu-submenu-sub,
+.css-gym .background-2-menu .wsmenu-submenu-sub-sub,
+.css-gym .background-2-menu .wsmenu-submenu-sub-sub-sub,
+.css-gym .shop-list .shop-product .shop-ribbon,
+.css-gym .ui-slider-horizontal .ui-slider-range,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    background-color: #f3565d;
+}
+/* Color 3 */
+
+.css-gym .color-3,
+.css-gym ul.line-graph li:nth-child(3n),
+.css-gym ul.donut-graph li:nth-child(3n),
+.css-gym ul.bar-chart-graph li:nth-child(3n),
+.css-gym .navbar-toggle,
+.css-gym .navbar-toggle:before {
+    color: #8da6e9;
+}
+/* Background Color 3 */
+
+.css-gym .background-3,
+.css-gym .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-gym #header.background-3,
+.css-gym .background-3-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-gym .background-3-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-gym .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3,
+.css-gym a.brand-modern span.line-3,
+.css-gym .header.dark-nav a.brand-modern span.line-3,
+.css-gym .wte-separator.background-3:before,
+.css-gym .background-3-menu .megamenu,
+.css-gym .background-3-menu .wsmenu-submenu li a,
+.css-gym .background-3-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-gym .background-3-menu .wsmenu-submenu,
+.css-gym .background-3-menu .wsmenu-submenu-sub,
+.css-gym .background-3-menu .wsmenu-submenu-sub-sub,
+.css-gym .background-3-menu .wsmenu-submenu-sub-sub-sub {
+    background-color: #8da6e9;
+}
+/* Border Color 1 */
+
+.css-gym .border-background-1,
+.css-gym .tp-caption .btn-default,
+.css-gym .btn-default,
+.css-gym .flex-control-paging li a.flex-active,
+.css-gym .flexslider.clients .flex-control-paging li a.flex-active,
+.css-gym .contact-info-3,
+.css-gym .team-social a:hover,
+.css-gym .contact-title-one h3:after,
+.css-gym .home-title-one h3:after,
+.css-gym #login-form .login-input:active,
+.css-gym #login-form .login-input:focus,
+.css-gym .load-more-wrapper a.load-more-btn:hover,
+.css-gym #register-form .register-input:active,
+.css-gym #register-form .register-input:focus,
+.css-gym .dropcap.dropcap-style-1,
+.css-gym .dropcap.dropcap-style-2,
+.css-gym .alert-default,
+.css-gym blockquote,
+.css-gym .tp-caption .btn-default,
+.css-gym .btn-default,
+.css-gym .btn-default-reverse,
+.css-gym .icon-box.icon-square .icon-block,
+.css-gym .icon-box.icon-circle .icon-block,
+.css-gym .icon-type.it-main-color,
+.css-gym .icon-type.it-main-color:hover,
+.css-gym .icon-type.it-main-color:focus,
+.css-gym .icon-type.it-main-color-reverse,
+.css-gym .icon-type.it-main-color-reverse:hover,
+.css-gym .icon-type.it-main-color-reverse:focus,
+.css-gym .add-to-cart-form .count-input .count-plus:hover,
+.css-gym .add-to-cart-form .count-input .count-minus:hover,
+.css-gym #reviewmodal .modal-header,
+.css-gym .job-left-title h3,
+.css-gym .pricing-table-container.special-price-table,
+.css-gym .clients-slick-nav .slick-custom-next:hover,
+.css-gym .clients-slick-nav .slick-custom-prev:hover,
+.css-gym .tabpanel-style-8 .nav-tabs > li.active,
+.css-gym a.btn-default.btn-animation-icon-box,
+.css-gym .btn-default.btn-animation-icon-box:hover,
+.css-gym .btn-default.btn-animation-icon-box:focus,
+.css-gym .btn-default.btn-animation-icon-box:active,
+.css-gym .tp-caption a.btn-default.btn-animation-icon-box,
+.css-gym .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-gym .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-gym .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-gym .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-gym .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-gym .clients-slick-nav .slick-clients-prev:hover,
+.css-gym .clients-slick-nav .slick-clients-next:hover,
+.css-gym .bsp-image,
+.css-gym .blog-list > article.default-post .blog-desc,
+.css-gym .testimonial-single li.slick-active button::before,
+.css-gym .slick-dots li.slick-active button:before,
+.css-gym .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-gym .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-gym .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-gym .timeline-status.timeline-active:before,
+.css-gym .cd-horizontal-timeline .events a.older-event::after,
+.css-gym .cd-horizontal-timeline .events a.selected::after,
+.css-gym .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-gym .no-touch .cd-timeline-navigation a:hover,
+.css-gym .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-gym .cd-timeline-navigation a:hover,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-gym .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-gym .login-form input:focus,
+.css-gym .pinpulse,
+.css-gym .open > .dropdown-toggle.btn-default,
+.css-gym .tabpanel-style-7.shop-single-tabpanel .nav-tabs > li.active,
+.css-gym .newspaper-title,
+.css-gym .newspaper-separator,
+.css-gym ul.widget-social.widget-social-sidebar li a:hover,
+.css-gym .loader-30 > div,
+.css-gym .loader-31 > div,
+.css-gym .loader-35 > div:first-of-type,
+.css-gym .loader-35 > div:nth-child(2),
+.css-gym .radio input[type=radio]:checked ~ .circle,
+.css-gym .gsi-step-indicator.triangle li.current>*,
+.css-gym .gsi-style-7.border-right li.current>*,
+.css-gym .gsi-style-7.border-bottom li.current>*,
+.css-gym .gsi-style-7.border-left li.current>*,
+.css-gym .flatpickr-day.today,
+.css-gym .flatpickr-day.today:focus,
+.css-gym .flatpickr-day.today:hover,
+.css-gym .form-contact-3 .btn-default.disabled,
+.css-gym .form-contact-3 .btn-default.disabled.active,
+.css-gym .form-contact-3 .btn-default.disabled.focus,
+.css-gym .form-contact-3 .btn-default.disabled:active,
+.css-gym .form-contact-3 .btn-default.disabled:focus,
+.css-gym .form-contact-3 .btn-default.disabled:hover,
+.css-gym .form-contact-3 .btn-default[disabled],
+.css-gym .form-contact-3 .btn-default[disabled].active,
+.css-gym .form-contact-3 .btn-default[disabled].focus,
+.css-gym .form-contact-3 .btn-default[disabled]:active,
+.css-gym .form-contact-3 .btn-default[disabled]:focus,
+.css-gym .form-contact-3 .btn-default[disabled]:hover,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-gym .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-gym .wsmenu-list li > .wsmenu-submenu,
+.css-gym .wsmenu-list li > .megamenu,
+.css-gym .table-style-1 thead tr th,
+.css-gym .table-style-1 tbody tr:last-child th,
+.css-gym .table-style-1 tbody tr:last-child td,
+.css-gym .table-withmaincolor thead tr th,
+.css-gym .clients-title-border h3,
+.css-gym .cd-slider-nav li:hover,
+.css-gym .selected,
+.css-gym .icon-type-2:hover p,
+.css-gym .icon-type-2:hover span.icon-type-2-icon,
+.css-gym .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-gym .activeFilter,
+.css-gym .loader-12 > div,
+.css-gym .loader-15 > div,
+.css-gym .loader-15 > div:last-child,
+.css-gym .loader-21 > div {
+    border-color: #fc3c2a;
+}
+.css-gym .tabpanel-style-4 .nav-tabs > li.active,
+.css-gym .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-gym .tabpanel-style-5 .nav-tabs > li.active,
+.css-gym .tabpanel-style-5 .nav-tabs > li.active > span,
+.css-gym .loader-13 > div:last-child,
+.css-gym .loader-15 > div:last-child {
+    border-color: #fc3c2a transparent;
+}
+.css-gym .job-form input:focus,
+.css-gym .job-form textarea:focus,
+.css-gym .form-contact input:focus,
+.css-gym .form-contact textarea:focus,
+.css-gym .form-contact input:focus,
+.css-gym .login-form input:focus,
+.css-gym .login-form textarea:focus {
+    background-image: linear-gradient(#fc3c2a, #fc3c2a), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.css-gym .btn-rounded,
+.css-gym .form-control,
+.css-gym .pagination-box .pager li a,
+.css-gym .portfolio_overlay a.portfolio_zoom,
+.css-gym .portfolio_overlay a.portfolio_link,
+.css-gym .overlay-animation-2 .overlay_box a.image_link,
+.css-gym .overlay-animation-2 .overlay_box a.video_zoom,
+.css-gym a.home-breadcrumb,
+.css-gym .overlay-animation-1 .overlay_box a.image_zoom,
+.css-gym .overlay-animation-1 .overlay_box a.image_link,
+.css-gym ul.widget-ul li a span,
+.css-gym ul.widget-social li a,
+.css-gym .team-2 .team-social a,
+.css-gym .team-3 .team-social a,
+.css-gym .team-social a,
+.css-gym .benefits-box h1 {
+    border-radius: 100px;
+}
+.css-gym ul.thumbs li a,
+.css-gym ul.thumbs li a img,
+.css-gym ul.thumbs li a:before,
+.css-gym .widget-dribbble-box .shots li a,
+.css-gym .widget-dribbble-box .shots li a img,
+.css-gym .dribbble-box-dummy .shots-dummy li a,
+.css-gym .dribbble-box-dummy .shots-dummy li a img,
+.css-gym .instagram-widget a,
+.css-gym .instagram-widget a img,
+.css-gym .instagram-widget a:hover:before,
+.css-gym .instagram-widget a:hover:after,
+.css-gym .pricing-table-2-column,
+.css-gym .pricing-table-3-column,
+.css-gym .pricing-table-4 {
+    border-radius: 4px;
+}
+.css-gym .icon-box-2-effect-3 .icon-block-2 {
+    box-shadow: 0 0 0 3px #fc3c2a;
+}
+.css-gym .icon-box-2-effect-4 .icon-block-2,
+.css-gym .icon-box-2-effect-5 .icon-block-2,
+.css-gym .icon-box-2-effect-5:hover .icon-block-2,
+.css-gym .icon-box-2-effect-1 .icon-block-2:after,
+.css-gym .icon-box-2-effect-2 .icon-block-2:after {
+    box-shadow: 0 0 0 4px #fc3c2a;
+}
+.icon-box-2-effect-6 .icon-block-2:after,
+.css-gym .scroll-to-top-fixed.sticky-btn:hover {
+    box-shadow: 0 0 0 2px #fc3c2a;
+}
+.css-gym .empty-cart:after,
+.css-gym .loader-34 > div {
+    border-bottom-color: #fc3c2a;
+}
+.css-gym .btn-default-reverse:hover,
+.css-gym .btn-default-reverse:focus {
+    background-color: #fc3c2a;
+    border-color: #fc3c2a;
+}
+.css-gym .tp-caption .btn-default.active,
+.css-gym .btn-default.active,
+.css-gym .tp-caption .btn-default.focus,
+.css-gym .btn-default.focus,
+.css-gym .tp-caption .btn-default:active,
+.css-gym .btn-default:active,
+.css-gym .tp-caption .btn-default:focus,
+.css-gym .btn-default:focus,
+.css-gym .tp-caption .btn-default:hover,
+.css-gym .btn-default:hover,
+.css-gym #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym .btn-primary.btn-animation-icon-box,
+.css-gym .btn-primary.btn-animation-icon-box:hover,
+.css-gym .btn-primary.btn-animation-icon-box:focus,
+.css-gym .btn-primary.btn-animation-icon-box:active,
+.css-gym .tp-caption .btn-primary.btn-animation-icon-box,
+.css-gym .tp-caption .btn-primary.btn-animation-icon-box:hover,
+.css-gym .tp-caption .btn-primary.btn-animation-icon-box:focus,
+.css-gym .tp-caption .btn-primary.btn-animation-icon-box:active,
+.css-gym .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-gym .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-gym .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-gym .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #e53928;
+}
+.css-gym .metis .tp-tab.selected .tp-tab-divider {
+    border-right-color: #fc3c2a;
+}
+.css-gym #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-gym #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-gym span.latest-post-month,
+.css-gym .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-gym .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu,
+.css-gym .tp-caption .btn-default.active,
+.css-gym .btn-default.active,
+.css-gym .tp-caption .btn-default.focus,
+.css-gym .btn-default.focus,
+.css-gym .tp-caption .btn-default:active,
+.css-gym .btn-default:active,
+.css-gym .tp-caption .btn-default:focus,
+.css-gym .btn-default:focus,
+.css-gym .tp-caption .btn-default:hover,
+.css-gym .btn-default:hover,
+.css-gym #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-gym #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-gym #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-gym #header.main-color-nav .navbar-2 .navbar-nav > .active > a,
+.css-gym .btn-primary.btn-animation-icon-box .btn-text,
+.css-gym .btn-primary.btn-animation-icon-box:hover .btn-text,
+.css-gym .btn-primary.btn-animation-icon-box:focus .btn-text,
+.css-gym .primary.btn-animation-icon-box:active .btn-text {
+    background-color: #e53928;
+}
+.css-gym .item-text-wrapper,
+.css-gym .standard_hover .portfolio_overlay,
+.css-gym .overlay-animation-1 .overlay_box,
+.css-gym .flip-hover .flip-box .content-box,
+.css-gym .team-8 .team-image .overlay-team-box,
+.css-gym .team-9 .team-image .overlay-team-box,
+.css-gym .portfolio-animation-slide .sliding-content {
+    background-color: rgba(252, 60, 42, 0.9);
+}
+.css-gym .intro-block .overlay,
+.css-gym ul.thumbs li a:before,
+.css-gym .widget-dribbble-box .shots li a:before,
+.css-gym .dribbble-box-dummy .shots-dummy li a:before,
+.css-gym .sidebar-shop-products-list .image-thumb:before,
+.css-gym .cart-shop-products-list .image-thumb:before,
+.css-gym .overlay-bg.colored,
+.css-gym .instagram-widget a:before,
+.css-gym .overlay-bg.background-1 {
+    background-color: rgba(252, 60, 42, 0.75);
+}
+.forum-reply-signin {
+    background: rgba(252, 60, 42, 0.92);
+}
+.css-gym .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-gym .team-2 .overlay-team-box,
+.css-gym .team-6 .overlay-team-box,
+.css-gym .team-7 .overlay-team-box,
+.css-gym .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-gym .contact-overlay-map .overlay-map-background,
+.css-gym .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-gym .table-style-7.table-withmaincolor tbody tr th,
+.css-gym .fc-bgevent,
+.css-gym #particles-js.background-1 {
+    background-color: rgba(252, 60, 42, 0.6);
+}
+.css-gym .widget-dribbble-box .shots li a:hover:before,
+.css-gym .dribbble-box .shots li a:hover:before,
+.css-gym .dribbble-box-dummy .shots-dummy li a:hover:before,
+.css-gym .instagram-widget a:hover:before,
+.css-gym .newspaper-sidebar-image-news > article a.image-box:before {
+    background-color: rgba(252, 60, 42, 0.85);
+}
+.css-gym .price-filter-desc .btn {
+    background-color: #f3565d;
+    border-color: #f3565d;
+}
+.css-gym .btn-default.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #fc3c2a;
+}
+.css-gym .btn-default.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #fc3c2a;
+}
+.css-gym .btn-default-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #fc3c2a;
+}
+.css-gym .btn-default-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #fc3c2a;
+}
+.css-gym .btn-primary {
+    background: #e53928;
+    border-color: #e53928;
+}
+.css-gym .btn-primary:hover,
+.css-gym .open > .dropdown-toggle.btn-primary,
+.css-gym .btn-primary.active,
+.css-gym .btn-primary.focus,
+.css-gym .btn-primary:active,
+.css-gym .css-gym .btn-primary:focus {
+    background: #3c1a90;
+    border-color: #3c1a90;
+}
+.css-gym .btn-primary-reverse {
+    color: #e53928;
+    border-color: #e53928;
+}
+.css-gym .btn-primary-reverse:hover {
+    background-color: #e53928;
+    border-color: #e53928;
+}
+.css-gym .btn-primary.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #e53928;
+}
+.css-gym .btn-primary.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #e53928;
+}
+.css-gym .btn-primary-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #e53928;
+}
+.css-gym .btn-primary-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #e53928;
+}
+.css-gym .blog-list > article.default-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #fc3c2a;
+}
+.css-gym .blog-list > article.default-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #fc3c2a;
+}
+.css-gym .blog-list > article.primary-post .blog-post-2 .bp2-category {
+    background: #e53928;
+}
+.css-gym .blog-list > article.primary-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #e53928;
+}
+.css-gym .blog-list > article.primary-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #e53928;
+}
+.css-gym .blog-list > article.primary-post .blog-desc {
+    border-top-color: #e53928;
+}
+.css-gym .blog-list > article.primary-post .blog-post-2 .bp2-desc {
+    border-bottom-color: #e53928;
+}
+.css-gym .btn-default.btn-animation-icon-box .btn-text,
+.css-gym .btn-default.btn-animation-icon-box:hover .btn-text,
+.css-gym .btn-default.btn-animation-icon-box:focus .btn-text,
+.css-gym .btn-default.btn-animation-icon-box:active .btn-text {
+    background: #fc3c2a;
+}
+.css-gym .btn-default.btn-animation-icon-box .btn-icon,
+.css-gym .btn-default.btn-animation-icon-box:hover .btn-icon,
+.css-gym .btn-default.btn-animation-icon-box:focus .btn-icon,
+.css-gym .btn-default.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-gym .btn-default-reverse.btn-animation-icon-box .btn-text,
+.css-gym .btn-default-reverse.btn-animation-icon-box:hover .btn-text,
+.css-gym .btn-default-reverse.btn-animation-icon-box:focus .btn-text,
+.css-gym .btn-default-reverse.btn-animation-icon-box:active .btn-text {
+    color: #fc3c2a;
+}
+.css-gym .btn-default-reverse.btn-animation-icon-box .btn-icon,
+.css-gym .btn-default-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-gym .btn-default-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-gym .btn-default-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #fc3c2a;
+    color: #fc3c2a;
+}
+.css-gym .btn-primary.btn-animation-icon-box .btn-icon,
+.css-gym .btn-primary.btn-animation-icon-box:hover .btn-icon,
+.css-gym .btn-primary.btn-animation-icon-box:focus .btn-icon,
+.css-gym .btn-primary.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-gym .btn-primary-reverse.btn-animation-icon-box .btn-text,
+.css-gym .btn-primary-reverse.btn-animation-icon-box:hover .btn-text,
+.css-gym .btn-primary-reverse.btn-animation-icon-box:focus .btn-text,
+.css-gym .btn-primary-reverse.btn-animation-icon-box:active .btn-text,
+.css-gym .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-gym .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-gym .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-gym .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    color: #e53928;
+}
+.css-gym .tp-caption.btn.background-2:hover,
+.css-gym .tp-caption.btn.background-2:focus,
+.css-gym .tp-caption.btn.background-2:active {
+    background-color: #e33834;
+}
+.css-gym .border-background-2 {
+    border-color: #8da6e9;
+}
+.css-gym .border-background-3 {
+    border-color: #f3565d;
+}
+.css-gym .blog-list > article .featured-posts-slider .fp-desc {
+    background: rgba(252, 60, 42, 0.9);
+}
+.css-gym .gsi-style-4 li.current>* .number:before {
+    border-left-color: #fc3c2a;
+}
+.css-gym .gsi-style-7.border-top li.current>* {
+    border-top-color: #fc3c2a;
+}
+.css-gym .icon-box.icon-circle .icon-block,
+.css-gym .icon-box.icon-circle .icon-block span,
+.css-gym .icon-block-2,
+.css-gym .icon-block-2:after,
+.css-gym .simple-icon-image img,
+.css-gym .icon-image-overlay,
+.css-gym .simple-icon-icon,
+.css-gym .link-rounded-icon,
+.css-gym .slider-slick-slide a [class^="icon-"],
+.css-gym .flexslider.clients .flex-control-paging li a,
+.css-gym .testimonial-single .slick-prev,
+.css-gym .testimonial-single .slick-next,
+.css-gym .testimonial-single .slick-dots li button:before,
+.css-gym .slick-dots li button:before,
+.css-gym .testimonials-slick-nav .slick-testimonial-prev,
+.css-gym .testimonials-slick-nav .slick-testimonial-next,
+.css-gym .block-content-wrapper h1 {
+    border-radius: 50px;
+}
+.css-gym .loader-6 {
+    background: #fc3c2a;
+    background: -moz-linear-gradient(left, #fc3c2a 10%, rgba(252, 60, 42, 0) 42%);
+    background: -webkit-linear-gradient(left, #fc3c2a 10%, rgba(252, 60, 42, 0) 42%);
+    background: -o-linear-gradient(left, #fc3c2a 10%, rgba(252, 60, 42, 0) 42%);
+    background: -ms-linear-gradient(left, #fc3c2a 10%, rgba(252, 60, 42, 0) 42%);
+    background: linear-gradient(to right, #fc3c2a 10%, rgba(252, 60, 42, 0) 42%);
+}
+@-webkit-keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #fc3c2a, 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2), 2.5em 0em 0 0em rgba(252, 60, 42, 0.2), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.2), 0em 2.5em 0 0em rgba(252, 60, 42, 0.2), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.2), -2.6em 0em 0 0em rgba(252, 60, 42, 0.5), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.7), 1.8em -1.8em 0 0em #fc3c2a, 2.5em 0em 0 0em rgba(252, 60, 42, 0.2), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.2), 0em 2.5em 0 0em rgba(252, 60, 42, 0.2), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.2), -2.6em 0em 0 0em rgba(252, 60, 42, 0.2), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.5), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.7), 2.5em 0em 0 0em #fc3c2a, 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.2), 0em 2.5em 0 0em rgba(252, 60, 42, 0.2), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.2), -2.6em 0em 0 0em rgba(252, 60, 42, 0.2), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.2), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.5), 2.5em 0em 0 0em rgba(252, 60, 42, 0.7), 1.75em 1.75em 0 0em #fc3c2a, 0em 2.5em 0 0em rgba(252, 60, 42, 0.2), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.2), -2.6em 0em 0 0em rgba(252, 60, 42, 0.2), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.2), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2), 2.5em 0em 0 0em rgba(252, 60, 42, 0.5), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.7), 0em 2.5em 0 0em #fc3c2a, -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.2), -2.6em 0em 0 0em rgba(252, 60, 42, 0.2), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.2), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2), 2.5em 0em 0 0em rgba(252, 60, 42, 0.2), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.5), 0em 2.5em 0 0em rgba(252, 60, 42, 0.7), -1.8em 1.8em 0 0em #fc3c2a, -2.6em 0em 0 0em rgba(252, 60, 42, 0.2), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.2), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2), 2.5em 0em 0 0em rgba(252, 60, 42, 0.2), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.2), 0em 2.5em 0 0em rgba(252, 60, 42, 0.5), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.7), -2.6em 0em 0 0em #fc3c2a, -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.2), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2), 2.5em 0em 0 0em rgba(252, 60, 42, 0.2), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.2), 0em 2.5em 0 0em rgba(252, 60, 42, 0.2), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.5), -2.6em 0em 0 0em rgba(252, 60, 42, 0.7), -1.8em -1.8em 0 0em #fc3c2a;
+    }
+}
+@keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #fc3c2a, 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2), 2.5em 0em 0 0em rgba(252, 60, 42, 0.2), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.2), 0em 2.5em 0 0em rgba(252, 60, 42, 0.2), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.2), -2.6em 0em 0 0em rgba(252, 60, 42, 0.5), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.7), 1.8em -1.8em 0 0em #fc3c2a, 2.5em 0em 0 0em rgba(252, 60, 42, 0.2), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.2), 0em 2.5em 0 0em rgba(252, 60, 42, 0.2), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.2), -2.6em 0em 0 0em rgba(252, 60, 42, 0.2), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.5), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.7), 2.5em 0em 0 0em #fc3c2a, 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.2), 0em 2.5em 0 0em rgba(252, 60, 42, 0.2), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.2), -2.6em 0em 0 0em rgba(252, 60, 42, 0.2), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.2), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.5), 2.5em 0em 0 0em rgba(252, 60, 42, 0.7), 1.75em 1.75em 0 0em #fc3c2a, 0em 2.5em 0 0em rgba(252, 60, 42, 0.2), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.2), -2.6em 0em 0 0em rgba(252, 60, 42, 0.2), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.2), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2), 2.5em 0em 0 0em rgba(252, 60, 42, 0.5), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.7), 0em 2.5em 0 0em #fc3c2a, -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.2), -2.6em 0em 0 0em rgba(252, 60, 42, 0.2), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.2), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2), 2.5em 0em 0 0em rgba(252, 60, 42, 0.2), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.5), 0em 2.5em 0 0em rgba(252, 60, 42, 0.7), -1.8em 1.8em 0 0em #fc3c2a, -2.6em 0em 0 0em rgba(252, 60, 42, 0.2), -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.2), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2), 2.5em 0em 0 0em rgba(252, 60, 42, 0.2), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.2), 0em 2.5em 0 0em rgba(252, 60, 42, 0.5), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.7), -2.6em 0em 0 0em #fc3c2a, -1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(252, 60, 42, 0.2), 1.8em -1.8em 0 0em rgba(252, 60, 42, 0.2), 2.5em 0em 0 0em rgba(252, 60, 42, 0.2), 1.75em 1.75em 0 0em rgba(252, 60, 42, 0.2), 0em 2.5em 0 0em rgba(252, 60, 42, 0.2), -1.8em 1.8em 0 0em rgba(252, 60, 42, 0.5), -2.6em 0em 0 0em rgba(252, 60, 42, 0.7), -1.8em -1.8em 0 0em #fc3c2a;
+    }
+}
+.css-gym .loader-3 {
+    border-top-color: rgba(252, 60, 42, 0.2);
+    border-right-color: rgba(252, 60, 42, 0.2);
+    border-bottom-color: rgba(252, 60, 42, 0.2);
+    border-left-color: #fc3c2a;
+}
+.css-gym .svg-animation path {
+    stroke: #fc3c2a;
+}
+.css-gym .loader-36 > div {
+    background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #fc3c2a 30%, #fc3c2a 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #fc3c2a 30%, #fc3c2a 100%);
+}
+.css-gym .blockquote-style-2 blockquote:after, 
+.css-gym .blockquote-style-2 blockquote:before{
+  background-color: transparent;
+}
+.css-gym .call-newsletter-box .form-control{
+  border-radius: 4px;
+}

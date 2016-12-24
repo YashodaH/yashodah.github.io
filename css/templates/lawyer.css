@@ -1,0 +1,1224 @@
+/* Lawyer */
+
+body.css-lawyer,
+.css-lawyer p,
+.css-lawyer .featured-content h1.small,
+.css-lawyer .form-group > label,
+.css-lawyer .checkbox > label,
+.css-lawyer .alert > p,
+.css-lawyer .restaurant-info-img-content h4,
+.css-lawyer .contact-title h3 {
+    font-family: "Raleway", sans-serif;
+} 
+.css-lawyer h1,
+.css-lawyer h2,
+.css-lawyer h3,
+.css-lawyer h4,
+.css-lawyer h5,
+.css-lawyer h6,
+.css-lawyer .testimonials-slider .testimonials-slider-box .testimonial-text,
+.css-lawyer .block-content-wrapper h2,
+.css-lawyer .intro-text h1,
+.css-lawyer .intro-text h2,
+.css-lawyer .intro-text h3,
+.css-lawyer .intro-text h4,
+.css-lawyer .intro-text h5,
+.css-lawyer .intro-text h6 {
+   font-family: 'Quattrocento', serif;
+}
+.css-lawyer .top-subtitle,.css-lawyer .intro-text .top-subtitle , .css-lawyer .swiper-content-centered  h6 {
+	font-family: 'Tangerine', cursive;
+}
+/* Color 1 */
+
+.css-lawyer .color-1,
+.css-lawyer .wsmenu-list > li > a:hover,
+.css-lawyer .dark-menu .wsmenu-submenu li a:hover,
+.css-lawyer .dark-menu .wsmenu-submenu li a:hover,
+.css-lawyer .dark-menu .megamenu .link-list li a:hover,
+.css-lawyer #header ul.wsmenu-submenu li a.active,
+.css-lawyer #portfolio-filter li a:hover,
+.css-lawyer .wsmenu-list > li > a.active,
+.css-lawyer #header .wsmenu.navigation-dark .wsmenu-list > li > a.active,
+.css-lawyer #header .wsmenu.navigation-dark .wsmenu-list > li > a:hover,
+.css-lawyer .dark-menu .megamenu .link-list li.active a,
+.css-lawyer .cart-dropdown-menu .cart-shop-products-list li .csp-price,
+.css-lawyer .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-lawyer .light-menu .megamenu .link-list li.active a,
+.css-lawyer .light-menu .megamenu .link-list li a:hover,
+.css-lawyer .light-menu .wsmenu-submenu li a:hover,
+.css-lawyer .light-menu .wsmenu-submenu li.active a,
+.css-lawyer ul.simple-list li [class^="icon-"],
+.css-lawyer .footer-tags a:hover,
+.css-lawyer #footer .widget-twitter-box .tweet ul li a:hover,
+.css-lawyer .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-lawyer .blog-list>article .post-facebook:hover,
+.css-lawyer .blog-list>article .post-facebook:hover .pf-icon span,
+.css-lawyer .blog-list>article .post-facebook:hover .pf-text,
+.css-lawyer ul.blog-popular-list .ssp-title:hover,
+.css-lawyer #post-content .blog-desc-details a:hover,
+.css-lawyer .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-lawyer .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-lawyer .author-description .author-description-text-holder .author-name a:hover,
+.css-lawyer .comment_response .media h6 a:hover,
+.css-lawyer .blog-list>article .post-facebook:hover,
+.css-lawyer .blog-list>article .post-facebook:hover .pf-icon span,
+.css-lawyer .blog-list>article .post-facebook:hover .pf-text,
+.css-lawyer ul.blog-popular-list .ssp-title:hover,
+.css-lawyer #post-content .blog-desc-details a:hover,
+.css-lawyer .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-lawyer .header-light.nav-sticky .wsmenu-list > li > a:hover,
+.css-lawyer .header-light.nav-sticky .wsmenu-list > li > a.active,
+.css-lawyer .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-lawyer .author-description .author-description-text-holder .author-name a:hover,
+.css-lawyer ul.sidebar-category li a:hover,
+.css-lawyer ul.shop-star-rating.single-item li.full-star,
+.css-lawyer,
+.css-lawyer #footer.footer-10 .title.small a:hover,
+.css-lawyer .vlt-left-menu.vlt-menu-style-2 .nav-accordion-section-title:hover,
+.css-lawyer .vlt-left-menu .nav-accordion-section-content ul li a:hover,
+.css-lawyer .header-content .phone-number span,
+.css-lawyer .intro-block h6,
+.css-lawyer .icon-block [class^="icon-"],
+.css-lawyer ul.header-links li a:hover,
+.css-lawyer .navbar.banner--clone .nav > li > a:hover,
+.css-lawyer .navbar.banner--clone .btn-search:hover,
+.css-lawyer .success-lg:hover [class^="icon-"],
+.css-lawyer #copyrights ul li a:hover,
+.css-lawyer #copyrights a:hover,
+.css-lawyer .breadcrumb > .active,
+.css-lawyer .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-lawyer a.image_link:hover [class^="icon-"],
+.css-lawyer a.load-more-btn:hover,
+.css-lawyer a.load-more-btn:hover [class^="icon-"],
+.css-lawyer .intro-block h1 [class^="icon-"],
+.css-lawyer .shop-list .shop-product h4 a:hover,
+.css-lawyer ul#portfolio-layout-filter li a.active,
+.css-lawyer .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-lawyer .shop-price,
+.css-lawyer ul.sidebar-shop-cat > li > a:hover,
+.css-lawyer a.load-more-btn:hover,
+.css-lawyer a.load-more-btn:hover [class^="icon-"],
+.css-lawyer .intro-block h1 [class^="icon-"],
+.css-lawyer .shop-list .shop-product h4 a:hover,
+.css-lawyer ul#portfolio-layout-filter li a.active,
+.css-lawyer .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-lawyer ul.sidebar-cat > li span,
+.css-lawyer .shop-price,
+.css-lawyer ul.sidebar-cat > li > a:hover,
+.css-lawyer ul.jobs-list li [class^="icon-"],
+.css-lawyer .team-social a:hover,
+.css-lawyer .icon-default,
+.css-lawyer .error-page-icon span [class^="icon-"],
+.css-lawyer .footer-3-container-text a:hover,
+.css-lawyer .testimonials-box .testimonial-author,
+.css-lawyer #page-title.image-page-title-fullwidth h1,
+.css-lawyer #page-title.image-page-title-left.image-page-noimage h2,
+.css-lawyer ul.services-2-icons,
+.css-lawyer ul.shop-layout-filter li a.active,
+.css-lawyer ul.portfolio-layout-filter li a.active,
+.css-lawyer ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-lawyer .related-projects-title .slick-custom-next:hover,
+.css-lawyer .related-projects-title .slick-custom-prev:hover,
+.css-lawyer .recent-post-content a:hover,
+.css-lawyer .form-group.login-form-submit a,
+.css-lawyer .shop-type-1 a.add-to-cart-item:before,
+.css-lawyer .shop-type-2 a.add-to-cart-item:before,
+.css-lawyer a.form-forgotpass,
+.css-lawyer .sidebar-shop-products-list li .ssp-title:hover,
+.css-lawyer .restaurant-info ul li [class^="icon-"],
+.css-lawyer .navbar-default.default .btn-cart .header-cart-count,
+.css-lawyer .blog-list > article .blog-desc h4 a:focus,
+.css-lawyer .blog-list-full > article .blog-desc h4 a:hover,
+.css-lawyer .blog-list-full > article .blog-desc h4 a:focus,
+.css-lawyer .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-lawyer .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-lawyer .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-lawyer .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-lawyer .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-lawyer .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-lawyer .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-lawyer .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-lawyer .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-lawyer .blog-masonry > article .blog-desc h4 a:hover,
+.css-lawyer .blog-masonry > article .blog-desc h4 a:focus,
+.css-lawyer .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-lawyer .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-lawyer .comment_response .media_cloud a.reply_link,
+.css-lawyer .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-lawyer .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-lawyer .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-lawyer .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-lawyer .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-lawyer .dropcap.dropcap-style-1,
+.css-lawyer .counter-box .count-icon,
+.css-lawyer .counter-style-1 .counter-box h4,
+.css-lawyer .icon-type,
+.css-lawyer .icon-type.it-main-color,
+.css-lawyer .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-lawyer .comment_response .media_cloud a.reply_link,
+.css-lawyer .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-lawyer .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-lawyer .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-lawyer .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-lawyer .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-lawyer .dropcap.dropcap-style-1,
+.css-lawyer .btn-default-reverse,
+.css-lawyer .counter-box .count-icon,
+.css-lawyer .counter-style-1 .counter-box h4,
+.css-lawyer .icon-type,
+.css-lawyer .icon-type.it-main-color,
+.css-lawyer .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-lawyer .review_response .media h6 a,
+.css-lawyer .review_response .media_cloud .shop-star-rating li.full-star,
+.css-lawyer .rating-container .rating-stars,
+.css-lawyer .form-contact small,
+.css-lawyer ul.icon-list li a:hover,
+.css-lawyer ul.icon-list li a:active,
+.css-lawyer ul.icon-list li a:focus,
+.css-lawyer .checkout-sum,
+.css-lawyer .checkout-table td a:hover,
+.css-lawyer .checkout-box a,
+.css-lawyer .user-profile-list ul li a:hover,
+.css-lawyer a.profile-active,
+.css-lawyer .user-profile-content h2,
+.css-lawyer .forum-content-header span a,
+.css-lawyer .recent-work-content a:hover,
+.css-lawyer .recent-work-image-content a:hover,
+.css-lawyer .contact-overlay-map .maximize-form:hover,
+.css-lawyer .hero-slier-nav-content:hover [class^="icon-"],
+.css-lawyer .selected .hero-slier-nav-content [class^="icon-"],
+.css-lawyer .team-social a:hover,
+.css-lawyer .team-name h5 a:hover,
+.css-lawyer .clients-slick-nav .slick-custom-next:hover,
+.css-lawyer .clients-slick-nav .slick-custom-prev:hover,
+.css-lawyer .services-pricing-icon [class^="icon-"],
+.css-lawyer .brand [class^="icon-"],
+.css-lawyer .content-divider-colored [class^="icon-"],
+.css-lawyer .divider-content h1 span,
+.css-lawyer .divider-content h2 span,
+.css-lawyer .divider-content h3 span,
+.css-lawyer .intro-page-content a:hover,
+.css-lawyer .image-box-content a:hover,
+.css-lawyer .icon-type.it-main-color [class^="icon-"],
+.css-lawyer .icon-type-2:hover p,
+.css-lawyer .icon-type-2:hover span.icon-type-2-icon,
+.css-lawyer .heading-container .head-colored,
+.css-lawyer ul.home-6-list li h4 [class^="icon-"],
+.css-lawyer .icon-box-2-effect-1:hover .icon-block-2,
+.css-lawyer .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-lawyer .icon-box-2-effect-4:hover .icon-block-2,
+.css-lawyer .icon-box-2-effect-4-reverse .icon-block-2,
+.css-lawyer .icon-box-2-effect-5:hover .icon-block-2,
+.css-lawyer .simple-icon-lightbg [class^="icon-"],
+.css-lawyer .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-lawyer .panel-body ul li a:hover,
+.css-lawyer .colored,
+.css-lawyer .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-lawyer .tabpanel-style-6 .nav-tabs > li > a,
+.css-lawyer .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-lawyer .tp_caption_big span,
+.css-lawyer ul.icon-box-simple li:hover a,
+.css-lawyer .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-lawyer .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-lawyer .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-lawyer .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-lawyer .blockquote-author p,
+.css-lawyer .testimonial-author,
+.css-lawyer .latest-post-content h1 a:hover,
+.css-lawyer .post-by a:hover,
+.css-lawyer .latest-post-content .read-more-link,
+.css-lawyer .blog-horizontal .bh-content h3 a:hover,
+.css-lawyer .blog-horizontal .bh-content .bh-details a:hover,
+.css-lawyer .blog-horizontal .bh-content .bh-details a:hover span,
+.css-lawyer a.bsp-title:hover,
+.css-lawyer .sidebar-blog-post-list li .sbp-title:hover,
+.css-lawyer .navbar-nav > li.active,
+.css-lawyer .navbar-nav > li.active:hover,
+.css-lawyer a.idb-social:hover,
+.css-lawyer a.idb-social:hover span,
+.css-lawyer a.idb-price,
+.css-lawyer span.pts-raised,
+.css-lawyer .bsp-social a:hover,
+.css-lawyer .bsp-social a [class^="icon-"]:hover,
+.css-lawyer a.bsp-more:hover,
+.css-lawyer .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-lawyer .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-lawyer .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-lawyer .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-lawyer .gallery-block .gallery-box .gallery-meta a:hover,
+.css-lawyer .gallery-block .gallery-box .gallery-meta a:focus,
+.css-lawyer .tp-caption a,
+.css-lawyer .tp-caption a:hover,
+.css-lawyer .cd-timeline-inner-content a:hover,
+.css-lawyer .testimonial-box .testimonial-author span,
+.css-lawyer .fic-date a:hover,
+.css-lawyer .forum-inner-content h1 a:hover,
+.css-lawyer .user-profile-desc a:hover,
+.css-lawyer .cd-timeline-navigation a:hover::after,
+.css-lawyer .login-form .login-input-box [class^="icon-"],
+.css-lawyer .icon-input-box [class^="icon-"],
+.css-lawyer ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-lawyer ul.bar-chart-graph li,
+.css-lawyer ul.line-graph li,
+.css-lawyer ul.donut-graph li,
+.css-lawyer .tp-caption.Creative-SubTitle,
+.css-lawyer .Creative-SubTitle,
+.css-lawyer .tp-caption.vlt-hero-rotating,
+.css-lawyer ul.recent-post-widget .rp-post a:hover,
+.css-lawyer .loader-5,
+.css-lawyer .loader-7,
+.css-lawyer .loader-9,
+.css-lawyer .loader-2,
+.css-lawyer .loader-4,
+.css-lawyer .vertical-newspaper-list .vnl-content h4 a:hover,
+.css-lawyer .vertical-newspaper-sidebar-list .vnl-content h4 a:hover,
+.css-lawyer .events-vertical .events-vertical-desc h4 a:hover,
+.css-lawyer .portfolio-single-share .pss-share li a:hover,
+.css-lawyer .portfolio-single-share .pss-like:hover,
+.css-lawyer .portfolio-single-intro-description .portfolio-single-categories a:hover,
+.css-lawyer .portfolio-single-more-link:hover,
+.css-lawyer .gsi-style-9 li.visited>*,
+.css-lawyer .gsi-style-9 li.current>*,
+.css-lawyer .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-lawyer .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-lawyer .header-contact-box .header-phone:hover,
+.css-lawyer .header-contact-box .header-email:hover,
+.css-lawyer .icon-box.icon-square .icon-block span,
+.css-lawyer .icon-box.icon-square.icon-fill.icon-transform:hover .icon-block span,
+.css-lawyer .top-subtitle,
+.css-lawyer .intro-text .top-subtitle {
+    color: #bca480;
+}
+/* Background Color 1 */
+
+.css-lawyer .background-1,
+.css-lawyer .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-lawyer .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-lawyer .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1,
+.css-lawyer a.brand-modern span.line-1,
+.css-lawyer .header.dark-nav a.brand-modern span.line-1,
+.css-lawyer .wte-separator.background-1:before,
+.css-lawyer .call-newsletter-box form .btn,
+.css-lawyer .offscreen-container,
+.css-lawyer #header.background-1,
+.css-lawyer .background-1-menu .megamenu,
+.css-lawyer .background-1-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-lawyer .background-1-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-lawyer .background-1-menu .wsmenu-submenu li a,
+.css-lawyer .background-1-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-lawyer .background-1-menu .wsmenu-submenu,
+.css-lawyer .background-1-menu .wsmenu-submenu-sub,
+.css-lawyer .background-1-menu .wsmenu-submenu-sub-sub,
+.css-lawyer .background-1-menu .wsmenu-submenu-sub-sub-sub,
+.css-lawyer #portfolio-filter li a.activeFilter,
+.css-lawyer #portfolio-filter li a.activeFilter[data-filter="*"],
+.css-lawyer #header .search-cart-navbar:hover .btn-default,
+.css-lawyer .scroll-to-top-fixed,
+.css-lawyer #bootstrap-table.table>thead>tr>th,
+.css-lawyer ul.meta-share-social li a:hover,
+.css-lawyer article.blog-item .blog-image-box .video-play-icon span,
+.css-lawyer .audioplayer,
+.css-lawyer .audioplayer-bar,
+.css-lawyer .blog-desc-details:after,
+.css-lawyer .audioplayer-volume-adjust div div,
+.css-lawyer .qoute-post,
+.css-lawyer .footer-newsletter-box form .btn,
+.css-lawyer .footer-newsletter-box form .btn.disabled,
+.css-lawyer .tags-cloud-list li a:hover,
+.css-lawyer article.blog-item .blog-image-box.video-post:before,
+.css-lawyer .tp-caption .btn-default,
+.css-lawyer .btn-default,
+.css-lawyer .flex-control-paging li a.flex-active,
+.css-lawyer #mobile-navbar,
+.css-lawyer .call-to-action,
+.css-lawyer .maincolor-background,
+.css-lawyer ul.widget-ul li a > span,
+.css-lawyer ul.widget-social li a:hover,
+.css-lawyer #people .item .info,
+.css-lawyer .main-color,
+.css-lawyer .flexslider.clients .flex-control-paging li a.flex-active,
+.css-lawyer #portfolio-filter li a:after,
+.css-lawyer .navbar.banner--clone .nav li.active > a,
+.css-lawyer .pricing-table-column.special-price-table .pricing-table-head,
+.css-lawyer .pricing-table-column.special-price-table .pricing-table-content,
+.css-lawyer .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-lawyer .progress-bar-box .progress-bar,
+.css-lawyer .background-1,
+.css-lawyer .selecter .selecter-item:hover,
+.css-lawyer .selecter .selecter-item.selected:hover,
+.css-lawyer #footer.colored,
+.css-lawyer section.about-counter,
+.css-lawyer .error-page-title:after,
+.css-lawyer .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-lawyer .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-lawyer .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-lawyer .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-lawyer .tabpanel-style-4 .tab-content h3:after,
+.css-lawyer .about-classic-column-themecolor,
+.css-lawyer .selecter .selecter-item:hover,
+.css-lawyer .selecter .selecter-item.selected:hover,
+.css-lawyer .item-text-wrapper_overlay,
+.css-lawyer .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-lawyer .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-lawyer .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-lawyer .shop-type-2 a.add-to-cart-item,
+.css-lawyer .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-lawyer .search-cart-navbar .btn-cart .header-cart-count,
+.css-lawyer .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-lawyer .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-lawyer .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-lawyer .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-lawyer .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-lawyer .dropcap.dropcap-style-2,
+.css-lawyer .alert-default,
+.css-lawyer blockquote:before,
+.css-lawyer blockquote:after,
+.css-lawyer .tp-caption .btn-default,
+.css-lawyer .btn-default,
+.css-lawyer .content-title h5:before,
+.css-lawyer .content-title h5:after,
+.css-lawyer .icon-box.icon-fill .icon-block,
+.css-lawyer .icon-box.icon-square:hover .icon-block,
+.css-lawyer .icon-box.icon-circle:hover .icon-block,
+.css-lawyer .icon-box.icon-circle:hover .icon-block span,
+.css-lawyer .icon-type.it-main-color:hover,
+.css-lawyer .icon-type.it-main-color:focus,
+.css-lawyer .icon-type.it-main-color-reverse,
+.css-lawyer .icon-type.it-main-color:hover span,
+.css-lawyer .icon-type.it-main-color-reverse:hover span,
+.css-lawyer .add-to-cart-form .count-input .count-plus:hover,
+.css-lawyer .add-to-cart-form .count-input .count-minus:hover,
+.css-lawyer .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-lawyer .pricing-table-container.special-price-table,
+.css-lawyer .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-lawyer .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-lawyer ul.forum-list li.forum-header,
+.css-lawyer .textbox-withmaincolor,
+.css-lawyer .background-1,
+.css-lawyer .team-member-job,
+.css-lawyer .team-section .team-desc-box:before,
+.css-lawyer .team-section .team-desc-box:after,
+.css-lawyer .shop-categories:hover .shop-title-categories,
+.css-lawyer .content-divider-colored-bg [class^="icon-"],
+.css-lawyer .overlay-animation-6 .content-box,
+.css-lawyer .block-content-wrapper h1,
+.css-lawyer .benefits-box h1,
+.css-lawyer .selecter .selecter-item:hover,
+.css-lawyer .selecter .selecter-item.selected:hover,
+.css-lawyer .ui-slider .ui-slider-range,
+.css-lawyer #header.header-main-color,
+.css-lawyer .navbar-2.banner--clone.main-color-navbar,
+.css-lawyer .tabpanel-style-center .nav-tabs > li.active > a,
+.css-lawyer .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-lawyer .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-lawyer .label.label-primary,
+.css-lawyer .label.label-primary,
+.css-lawyer .star-rating .caption .label,
+.css-lawyer .tparrows.preview5:hover,
+.css-lawyer .table-style-4.table-withmaincolor thead tr th,
+.css-lawyer .table-style-5.table-withmaincolor thead tr th,
+.css-lawyer .table-style-6.table-withmaincolor thead tr th,
+.css-lawyer .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-lawyer .table-style-7.table-withmaincolor thead tr th,
+.css-lawyer .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-lawyer .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-lawyer .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-lawyer .table-style-2.table-withmaincolor thead tr th,
+.css-lawyer .table-style-3.table-withmaincolor thead tr th,
+.css-lawyer .table-style-3.table-withmaincolor tbody tr th,
+.css-lawyer .parallax-withmaincolor,
+.css-lawyer .contact-overlay-map .minimize-form:hover,
+.css-lawyer .team-3:hover .team-social,
+.css-lawyer .team-5:hover .team-social,
+.css-lawyer .special-table-2,
+.css-lawyer .special-table-3,
+.css-lawyer span.pricing-3-discount,
+.css-lawyer #vertical-timeline-container:before,
+.css-lawyer .subscribe-fancy-themebg,
+.css-lawyer .empty-cart,
+.css-lawyer .team-4:hover .team-social,
+.css-lawyer .content-divider-colored,
+.css-lawyer .content-divider-colored-bg,
+.css-lawyer .withmainbackground,
+.css-lawyer .services-2-heading,
+.css-lawyer .icon-box-2-effect-4 .icon-block-2,
+.css-lawyer .services-2-heading,
+.css-lawyer .promotion-box-theme-colored,
+.css-lawyer .promotion-box-theme-colored .promotion-box-title h4,
+.css-lawyer .icon-block-2,
+.css-lawyer .icon-box-2-effect-2:hover .icon-block-2,
+.css-lawyer .icon-box-2-effect-3 .icon-block-2:after,
+.css-lawyer .icon-box-2-effect-4 .icon-block-2:after,
+.css-lawyer .icon-box-2-effect-6 .icon-block-2,
+.css-lawyer .icon-box-2-effect-6:hover .icon-block-2,
+.css-lawyer .simple-icon-icon,
+.css-lawyer a.call-to-action-link:hover,
+.css-lawyer .add-to-cart-form .count-input .count-plus,
+.css-lawyer .add-to-cart-form .count-input .count-minus,
+.css-lawyer .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-lawyer .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-lawyer .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-lawyer .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-lawyer .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-lawyer .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-lawyer .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-lawyer .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-lawyer .special-price-box,
+.css-lawyer .dropdown-menu > .active > a,
+.css-lawyer .dropdown-menu > .active > a:focus,
+.css-lawyer .dropdown-menu > .active > a:hover,
+.css-lawyer #header.main-color-nav .navbar-2,
+.css-lawyer .latest-post-data,
+.css-lawyer .blog-single-post .bsp-heading h1,
+.css-lawyer .testimonial-single .slick-dots li button:before,
+.css-lawyer .slick-dots li button:before,
+.css-lawyer .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-lawyer .timeline-complete .timeline-status.timeline-active:before,
+.css-lawyer .megamenu.maincolor,
+.css-lawyer .dropdown.maincolor ul,
+.css-lawyer .dropdown.maincolor ul.dropdown-menu,
+.css-lawyer #footer.maincolor,
+.css-lawyer #copyrights.maincolor,
+.css-lawyer .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-lawyer .cd-horizontal-timeline .events a.selected::after,
+.css-lawyer .cd-horizontal-timeline .filling-line,
+.css-lawyer .pinpulsebox span,
+.css-lawyer .main-color-dropdown .megamenu,
+.css-lawyer .main-color-dropdown .dropdown-menu,
+.css-lawyer #cd-timeline::before,
+.css-lawyer ul.icon-list.il-main-bg li [class^="icon-"],
+.css-lawyer .process-steps ul li.current a .number,
+.css-lawyer ol.ordered-list.ol-main-bg li:before,
+.css-lawyer .irs-bar,
+.css-lawyer .irs-from,
+.css-lawyer .irs-to,
+.css-lawyer .irs-single,
+.css-lawyer .open > .dropdown-toggle.btn-default,
+.css-lawyer .fc-unthemed .fc-today,
+.css-lawyer .fc-content,
+.css-lawyer #particles-js,
+.css-lawyer .s-icon:hover,
+.css-lawyer #progressbar li.active:before,
+.css-lawyer #progressbar li.active:after,
+.css-lawyer .portfolio-filter .selecter-item.activeFilter,
+.css-lawyer #copyrights ul.widget-social li a:hover,
+.css-lawyer .page-loader-spinner span,
+.css-lawyer .loader-6:before,
+.css-lawyer .loader-2,
+.css-lawyer .loader-2:before,
+.css-lawyer .loader-2:after,
+.css-lawyer .newspaper-title .custom-slick-nav-1 .slick-custom-next:hover,
+.css-lawyer .newspaper-title .custom-slick-nav-1 .slick-custom-prev:hover,
+.css-lawyer .loader-10 > div,
+.css-lawyer .loader-11 > div,
+.css-lawyer .loader-12 > div,
+.css-lawyer .loader-13 > div:first-child,
+.css-lawyer .loader-14 > div,
+.css-lawyer .loader-16 > div,
+.css-lawyer .loader-17 > div,
+.css-lawyer .loader-17 > div:before,
+.css-lawyer .loader-17 > div:after,
+.css-lawyer .loader-18 > div,
+.css-lawyer .loader-19 > div,
+.css-lawyer .loader-20 > div,
+.css-lawyer .loader-22 > div,
+.css-lawyer .loader-23 > div,
+.css-lawyer .loader-24 > div,
+.css-lawyer .loader-25 > div,
+.css-lawyer .loader-26 > div,
+.css-lawyer .loader-27 > div,
+.css-lawyer .loader-28 > div,
+.css-lawyer .loader-29 > div,
+.css-lawyer .loader-32 > div,
+.css-lawyer .loader-33 > div,
+.css-lawyer .loader-35 > div:nth-child(3),
+.css-lawyer .loader-35 > div:nth-child(4),
+.css-lawyer .loader-35 > div:nth-child(5),
+.css-lawyer .loader-35 > div:nth-child(6),
+.css-lawyer .loader-37 > div,
+.css-lawyer .loader-38 > div,
+.css-lawyer .portfolio-single-share .pss-share li a:before,
+.css-lawyer .portfolio-single-intro-description .portfolio-single-categories a:before,
+.css-lawyer .portfolio-single-more-link:before,
+.css-lawyer .checkbox input[type=checkbox]:checked + .checkbox-material .check,
+.css-lawyer .radio input[type=radio]:checked ~ .check,
+.css-lawyer .vlt-btn-group .dropdown-menu li a:hover,
+.css-lawyer .gsi-step-indicator.triangle li.current>*,
+.css-lawyer .gsi-style-4 li.current>*,
+.css-lawyer .gsi-style-5 li.current>*,
+.css-lawyer .gsi-style-6 li.current>* .number,
+.css-lawyer .gsi-style-7 li.current:hover>*,
+.css-lawyer .gsi-style-8 li.visited>*,
+.css-lawyer .gsi-style-8 li.current>*,
+.css-lawyer .gsi-style-9 li.visited>*:after,
+.css-lawyer .gsi-style-9 li.current>*:after,
+.css-lawyer .gsi-style-10 li.visited>*:after,
+.css-lawyer .gsi-style-10 li.current>*:after,
+.css-lawyer .gsi-style-11 li.current:before,
+.css-lawyer .gsi-style-11 li.current:after,
+.css-lawyer .gsi-style-11 li.visited:before,
+.css-lawyer .gsi-style-11 li.visited:after,
+.css-lawyer .gsi-style-11 li.visited>*:after,
+.css-lawyer .gsi-style-11 li.current>*:after,
+.css-lawyer .flatpickr-day.today:focus,
+.css-lawyer .flatpickr-day.today:hover,
+.css-lawyer .reveal-nav .navbar-toggle,
+.css-lawyer .form-contact-3 .btn-default.disabled,
+.css-lawyer .form-contact-3 .btn-default.disabled.active,
+.css-lawyer .form-contact-3 .btn-default.disabled.focus,
+.css-lawyer .form-contact-3 .btn-default.disabled:active,
+.css-lawyer .form-contact-3 .btn-default.disabled:focus,
+.css-lawyer .form-contact-3 .btn-default.disabled:hover,
+.css-lawyer .form-contact-3 .btn-default[disabled],
+.css-lawyer .form-contact-3 .btn-default[disabled].active,
+.css-lawyer .form-contact-3 .btn-default[disabled].focus,
+.css-lawyer .form-contact-3 .btn-default[disabled]:active,
+.css-lawyer .form-contact-3 .btn-default[disabled]:focus,
+.css-lawyer .form-contact-3 .btn-default[disabled]:hover,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-lawyer .icon-box.icon-square:hover .icon-block span,
+.css-lawyer #header.header-main-color-sticky.header-sticky,
+.css-lawyer #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-lawyer #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-lawyer #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-lawyer #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-lawyer #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-lawyer #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-lawyer #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-lawyer #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+    background-color: #bca480;
+}
+/* Color 2 */
+
+.css-lawyer .color-2,
+.css-lawyer .cart-shop-products h3,
+.css-lawyer .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-lawyer .cart-shop-products-list li .csp-price,
+.css-lawyer .sidebar-shop-products-list li .shop-star-rating li.full-star,
+.css-lawyer .shop-list .shop-product .shop-star-rating li.full-star,
+.css-lawyer ul.shop-star-rating li.full-star,
+.css-lawyer ul.line-graph li:nth-child(2n),
+.css-lawyer ul.donut-graph li:nth-child(2n),
+.css-lawyer ul.bar-chart-graph li:nth-child(2n) {
+    color: #de5727;
+}
+.color-2:hover {
+    color: #de5727;
+}
+/* Background Color 2 */
+
+.css-lawyer .background-2,
+.css-lawyer .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-lawyer .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-lawyer #header.background-2,
+.css-lawyer .background-2-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-lawyer .background-2-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-lawyer .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2,
+.css-lawyer a.brand-modern span.line-2,
+.css-lawyer .header.dark-nav a.brand-modern span.line-2,
+.css-lawyer .wte-separator.background-2:before,
+.css-lawyer .form-contact.dark-from .has-error .help-block,
+.css-lawyer a.add-to-wishlist,
+.css-lawyer .shop-list .shop-product:hover>a.add-to-wishlist,
+.css-lawyer .slider-price-filter-box:after,
+.css-lawyer .background-2-menu .megamenu,
+.css-lawyer .background-2-menu .wsmenu-submenu li a,
+.css-lawyer .background-2-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-lawyer .background-2-menu .wsmenu-submenu,
+.css-lawyer .background-2-menu .wsmenu-submenu-sub,
+.css-lawyer .background-2-menu .wsmenu-submenu-sub-sub,
+.css-lawyer .background-2-menu .wsmenu-submenu-sub-sub-sub,
+.css-lawyer .shop-list .shop-product .shop-ribbon,
+.css-lawyer .ui-slider-horizontal .ui-slider-range,
+.css-lawyer .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary,
+.css-lawyer .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    background-color: #de5727;
+}
+/* Color 3 */
+
+.css-lawyer .color-3,
+.css-lawyer ul.line-graph li:nth-child(3n),
+.css-lawyer ul.donut-graph li:nth-child(3n),
+.css-lawyer ul.bar-chart-graph li:nth-child(3n),
+.css-lawyer .navbar-toggle,
+.css-lawyer .navbar-toggle:before {
+    color: #242426;
+}
+/* Background Color 3 */
+
+.css-lawyer .background-3,
+.css-lawyer .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-lawyer .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-lawyer #header.background-3,
+.css-lawyer .background-3-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-lawyer .background-3-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-lawyer .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3,
+.css-lawyer a.brand-modern span.line-3,
+.css-lawyer .header.dark-nav a.brand-modern span.line-3,
+.css-lawyer .wte-separator.background-3:before,
+.css-lawyer .background-3-menu .megamenu,
+.css-lawyer .background-3-menu .wsmenu-submenu li a,
+.css-lawyer .background-3-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-lawyer .background-3-menu .wsmenu-submenu,
+.css-lawyer .background-3-menu .wsmenu-submenu-sub,
+.css-lawyer .background-3-menu .wsmenu-submenu-sub-sub,
+.css-lawyer .background-3-menu .wsmenu-submenu-sub-sub-sub {
+    background-color: #242426;
+}
+/* Border Color 1 */
+
+.css-lawyer .border-background-1,
+.css-lawyer .tp-caption .btn-default,
+.css-lawyer .btn-default,
+.css-lawyer .flex-control-paging li a.flex-active,
+.css-lawyer .flexslider.clients .flex-control-paging li a.flex-active,
+.css-lawyer .contact-info-3,
+.css-lawyer .team-social a:hover,
+.css-lawyer .contact-title-one h3:after,
+.css-lawyer .home-title-one h3:after,
+.css-lawyer #login-form .login-input:active,
+.css-lawyer #login-form .login-input:focus,
+.css-lawyer .load-more-wrapper a.load-more-btn:hover,
+.css-lawyer #register-form .register-input:active,
+.css-lawyer #register-form .register-input:focus,
+.css-lawyer .dropcap.dropcap-style-1,
+.css-lawyer .dropcap.dropcap-style-2,
+.css-lawyer .alert-default,
+.css-lawyer blockquote,
+.css-lawyer .tp-caption .btn-default,
+.css-lawyer .btn-default,
+.css-lawyer .btn-default-reverse,
+.css-lawyer .icon-box.icon-square .icon-block,
+.css-lawyer .icon-box.icon-circle .icon-block,
+.css-lawyer .icon-type.it-main-color,
+.css-lawyer .icon-type.it-main-color:hover,
+.css-lawyer .icon-type.it-main-color:focus,
+.css-lawyer .icon-type.it-main-color-reverse,
+.css-lawyer .icon-type.it-main-color-reverse:hover,
+.css-lawyer .icon-type.it-main-color-reverse:focus,
+.css-lawyer .add-to-cart-form .count-input .count-plus:hover,
+.css-lawyer .add-to-cart-form .count-input .count-minus:hover,
+.css-lawyer #reviewmodal .modal-header,
+.css-lawyer .job-left-title h3,
+.css-lawyer .pricing-table-container.special-price-table,
+.css-lawyer .clients-slick-nav .slick-custom-next:hover,
+.css-lawyer .clients-slick-nav .slick-custom-prev:hover,
+.css-lawyer .tabpanel-style-8 .nav-tabs > li.active,
+.css-lawyer a.btn-default.btn-animation-icon-box,
+.css-lawyer .btn-default.btn-animation-icon-box:hover,
+.css-lawyer .btn-default.btn-animation-icon-box:focus,
+.css-lawyer .btn-default.btn-animation-icon-box:active,
+.css-lawyer .tp-caption a.btn-default.btn-animation-icon-box,
+.css-lawyer .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-lawyer .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-lawyer .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-lawyer .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-lawyer .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-lawyer .clients-slick-nav .slick-clients-prev:hover,
+.css-lawyer .clients-slick-nav .slick-clients-next:hover,
+.css-lawyer .bsp-image,
+.css-lawyer .blog-list > article.default-post .blog-desc,
+.css-lawyer .testimonial-single li.slick-active button::before,
+.css-lawyer .slick-dots li.slick-active button:before,
+.css-lawyer .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-lawyer .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-lawyer .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-lawyer .timeline-status.timeline-active:before,
+.css-lawyer .cd-horizontal-timeline .events a.older-event::after,
+.css-lawyer .cd-horizontal-timeline .events a.selected::after,
+.css-lawyer .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-lawyer .no-touch .cd-timeline-navigation a:hover,
+.css-lawyer .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-lawyer .cd-timeline-navigation a:hover,
+.css-lawyer .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-lawyer .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-lawyer .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-lawyer .login-form input:focus,
+.css-lawyer .pinpulse,
+.css-lawyer .open > .dropdown-toggle.btn-default,
+.css-lawyer .tabpanel-style-7.shop-single-tabpanel .nav-tabs > li.active,
+.css-lawyer .newspaper-title,
+.css-lawyer .newspaper-separator,
+.css-lawyer ul.widget-social.widget-social-sidebar li a:hover,
+.css-lawyer .loader-30 > div,
+.css-lawyer .loader-31 > div,
+.css-lawyer .loader-35 > div:first-of-type,
+.css-lawyer .loader-35 > div:nth-child(2),
+.css-lawyer .radio input[type=radio]:checked ~ .circle,
+.css-lawyer .gsi-step-indicator.triangle li.current>*,
+.css-lawyer .gsi-style-7.border-right li.current>*,
+.css-lawyer .gsi-style-7.border-bottom li.current>*,
+.css-lawyer .gsi-style-7.border-left li.current>*,
+.css-lawyer .flatpickr-day.today,
+.css-lawyer .flatpickr-day.today:focus,
+.css-lawyer .flatpickr-day.today:hover,
+.css-lawyer .form-contact-3 .btn-default.disabled,
+.css-lawyer .form-contact-3 .btn-default.disabled.active,
+.css-lawyer .form-contact-3 .btn-default.disabled.focus,
+.css-lawyer .form-contact-3 .btn-default.disabled:active,
+.css-lawyer .form-contact-3 .btn-default.disabled:focus,
+.css-lawyer .form-contact-3 .btn-default.disabled:hover,
+.css-lawyer .form-contact-3 .btn-default[disabled],
+.css-lawyer .form-contact-3 .btn-default[disabled].active,
+.css-lawyer .form-contact-3 .btn-default[disabled].focus,
+.css-lawyer .form-contact-3 .btn-default[disabled]:active,
+.css-lawyer .form-contact-3 .btn-default[disabled]:focus,
+.css-lawyer .form-contact-3 .btn-default[disabled]:hover,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-lawyer .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-lawyer .wsmenu-list li > .wsmenu-submenu,
+.css-lawyer .wsmenu-list li > .megamenu,
+.css-lawyer .table-style-1 thead tr th,
+.css-lawyer .table-style-1 tbody tr:last-child th,
+.css-lawyer .table-style-1 tbody tr:last-child td,
+.css-lawyer .table-withmaincolor thead tr th,
+.css-lawyer .clients-title-border h3,
+.css-lawyer .cd-slider-nav li:hover,
+.css-lawyer .selected,
+.css-lawyer .icon-type-2:hover p,
+.css-lawyer .icon-type-2:hover span.icon-type-2-icon,
+.css-lawyer .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-lawyer .activeFilter,
+.css-lawyer .loader-12 > div,
+.css-lawyer .loader-15 > div,
+.css-lawyer .loader-15 > div:last-child,
+.css-lawyer .loader-21 > div {
+    border-color: #bca480;
+}
+.css-lawyer .tabpanel-style-4 .nav-tabs > li.active,
+.css-lawyer .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-lawyer .tabpanel-style-5 .nav-tabs > li.active,
+.css-lawyer .tabpanel-style-5 .nav-tabs > li.active > span,
+.css-lawyer .loader-13 > div:last-child,
+.css-lawyer .loader-15 > div:last-child {
+    border-color: #bca480 transparent;
+}
+.css-lawyer .job-form input:focus,
+.css-lawyer .job-form textarea:focus,
+.css-lawyer .form-contact input:focus,
+.css-lawyer .form-contact textarea:focus,
+.css-lawyer .form-contact input:focus,
+.css-lawyer .login-form input:focus,
+.css-lawyer .login-form textarea:focus {
+    background-image: linear-gradient(#bca480, #bca480), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.css-lawyer .btn-rounded,
+.css-lawyer .form-control,
+.css-lawyer .pagination-box .pager li a,
+.css-lawyer .portfolio_overlay a.portfolio_zoom,
+.css-lawyer .portfolio_overlay a.portfolio_link,
+.css-lawyer .overlay-animation-2 .overlay_box a.image_link,
+.css-lawyer .overlay-animation-2 .overlay_box a.video_zoom,
+.css-lawyer a.home-breadcrumb,
+.css-lawyer .overlay-animation-1 .overlay_box a.image_zoom,
+.css-lawyer .overlay-animation-1 .overlay_box a.image_link,
+.css-lawyer ul.widget-ul li a span,
+.css-lawyer ul.widget-social li a,
+.css-lawyer .team-2 .team-social a,
+.css-lawyer .team-3 .team-social a,
+.css-lawyer .team-social a,
+.css-lawyer .benefits-box h1 {
+    border-radius: 100px;
+}
+.css-lawyer ul.thumbs li a,
+.css-lawyer ul.thumbs li a img,
+.css-lawyer ul.thumbs li a:before,
+.css-lawyer .widget-dribbble-box .shots li a,
+.css-lawyer .widget-dribbble-box .shots li a img,
+.css-lawyer .dribbble-box-dummy .shots-dummy li a,
+.css-lawyer .dribbble-box-dummy .shots-dummy li a img,
+.css-lawyer .instagram-widget a,
+.css-lawyer .instagram-widget a img,
+.css-lawyer .instagram-widget a:hover:before,
+.css-lawyer .instagram-widget a:hover:after,
+.css-lawyer .pricing-table-2-column,
+.css-lawyer .pricing-table-3-column,
+.css-lawyer .pricing-table-4 {
+    border-radius: 4px;
+}
+.css-lawyer .icon-box-2-effect-3 .icon-block-2 {
+    box-shadow: 0 0 0 3px #bca480;
+}
+.css-lawyer .icon-box-2-effect-4 .icon-block-2,
+.css-lawyer .icon-box-2-effect-5 .icon-block-2,
+.css-lawyer .icon-box-2-effect-5:hover .icon-block-2,
+.css-lawyer .icon-box-2-effect-1 .icon-block-2:after,
+.css-lawyer .icon-box-2-effect-2 .icon-block-2:after {
+    box-shadow: 0 0 0 4px #bca480;
+}
+.icon-box-2-effect-6 .icon-block-2:after,
+.css-lawyer .scroll-to-top-fixed.sticky-btn:hover {
+    box-shadow: 0 0 0 2px #bca480;
+}
+.css-lawyer .empty-cart:after,
+.css-lawyer .loader-34 > div {
+    border-bottom-color: #bca480;
+}
+.css-lawyer .btn-default-reverse:hover,
+.css-lawyer .btn-default-reverse:focus {
+    background-color: #bca480;
+    border-color: #bca480;
+}
+.css-lawyer .tp-caption .btn-default.active,
+.css-lawyer .btn-default.active,
+.css-lawyer .tp-caption .btn-default.focus,
+.css-lawyer .btn-default.focus,
+.css-lawyer .tp-caption .btn-default:active,
+.css-lawyer .btn-default:active,
+.css-lawyer .tp-caption .btn-default:focus,
+.css-lawyer .btn-default:focus,
+.css-lawyer .tp-caption .btn-default:hover,
+.css-lawyer .btn-default:hover,
+.css-lawyer #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer .btn-primary.btn-animation-icon-box,
+.css-lawyer .btn-primary.btn-animation-icon-box:hover,
+.css-lawyer .btn-primary.btn-animation-icon-box:focus,
+.css-lawyer .btn-primary.btn-animation-icon-box:active,
+.css-lawyer .tp-caption .btn-primary.btn-animation-icon-box,
+.css-lawyer .tp-caption .btn-primary.btn-animation-icon-box:hover,
+.css-lawyer .tp-caption .btn-primary.btn-animation-icon-box:focus,
+.css-lawyer .tp-caption .btn-primary.btn-animation-icon-box:active,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #a38e6f;
+}
+.css-lawyer .metis .tp-tab.selected .tp-tab-divider {
+    border-right-color: #bca480;
+}
+.css-lawyer #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-lawyer #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-lawyer span.latest-post-month,
+.css-lawyer .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-lawyer .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu,
+.css-lawyer .tp-caption .btn-default.active,
+.css-lawyer .btn-default.active,
+.css-lawyer .tp-caption .btn-default.focus,
+.css-lawyer .btn-default.focus,
+.css-lawyer .tp-caption .btn-default:active,
+.css-lawyer .btn-default:active,
+.css-lawyer .tp-caption .btn-default:focus,
+.css-lawyer .btn-default:focus,
+.css-lawyer .tp-caption .btn-default:hover,
+.css-lawyer .btn-default:hover,
+.css-lawyer #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-lawyer #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-lawyer #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-lawyer #header.main-color-nav .navbar-2 .navbar-nav > .active > a,
+.css-lawyer .btn-primary.btn-animation-icon-box .btn-text,
+.css-lawyer .btn-primary.btn-animation-icon-box:hover .btn-text,
+.css-lawyer .btn-primary.btn-animation-icon-box:focus .btn-text,
+.css-lawyer .primary.btn-animation-icon-box:active .btn-text {
+    background-color: #a38e6f;
+}
+.css-lawyer .item-text-wrapper,
+.css-lawyer .standard_hover .portfolio_overlay,
+.css-lawyer .overlay-animation-1 .overlay_box,
+.css-lawyer .flip-hover .flip-box .content-box,
+.css-lawyer .team-8 .team-image .overlay-team-box,
+.css-lawyer .team-9 .team-image .overlay-team-box,
+.css-lawyer .portfolio-animation-slide .sliding-content {
+    background-color: rgba(188, 164, 128, 0.9);
+}
+.css-lawyer .intro-block .overlay,
+.css-lawyer ul.thumbs li a:before,
+.css-lawyer .widget-dribbble-box .shots li a:before,
+.css-lawyer .dribbble-box-dummy .shots-dummy li a:before,
+.css-lawyer .sidebar-shop-products-list .image-thumb:before,
+.css-lawyer .cart-shop-products-list .image-thumb:before,
+.css-lawyer .overlay-bg.colored,
+.css-lawyer .instagram-widget a:before,
+.css-lawyer .overlay-bg.background-1 {
+    background-color: rgba(188, 164, 128, 0.75);
+}
+.forum-reply-signin {
+    background: rgba(188, 164, 128, 0.92);
+}
+.css-lawyer .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-lawyer .team-2 .overlay-team-box,
+.css-lawyer .team-6 .overlay-team-box,
+.css-lawyer .team-7 .overlay-team-box,
+.css-lawyer .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-lawyer .contact-overlay-map .overlay-map-background,
+.css-lawyer .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-lawyer .table-style-7.table-withmaincolor tbody tr th,
+.css-lawyer .fc-bgevent,
+.css-lawyer #particles-js.background-1 {
+    background-color: rgba(188, 164, 128, 0.6);
+}
+.css-lawyer .widget-dribbble-box .shots li a:hover:before,
+.css-lawyer .dribbble-box .shots li a:hover:before,
+.css-lawyer .dribbble-box-dummy .shots-dummy li a:hover:before,
+.css-lawyer .instagram-widget a:hover:before,
+.css-lawyer .newspaper-sidebar-image-news > article a.image-box:before {
+    background-color: rgba(188, 164, 128, 0.85);
+}
+.css-lawyer .price-filter-desc .btn {
+    background-color: #de5727;
+    border-color: #de5727;
+}
+.css-lawyer .btn-default.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #bca480;
+}
+.css-lawyer .btn-default.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #bca480;
+}
+.css-lawyer .btn-default-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #bca480;
+}
+.css-lawyer .btn-default-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #bca480;
+}
+.css-lawyer .btn-primary {
+    background: #a38e6f;
+    border-color: #a38e6f;
+}
+.css-lawyer .btn-primary:hover,
+.css-lawyer .open > .dropdown-toggle.btn-primary,
+.css-lawyer .btn-primary.active,
+.css-lawyer .btn-primary.focus,
+.css-lawyer .btn-primary:active,
+.css-lawyer .css-lawyer .btn-primary:focus {
+    background: #3c1a90;
+    border-color: #3c1a90;
+}
+.css-lawyer .btn-primary-reverse {
+    color: #a38e6f;
+    border-color: #a38e6f;
+}
+.css-lawyer .btn-primary-reverse:hover {
+    background-color: #a38e6f;
+    border-color: #a38e6f;
+}
+.css-lawyer .btn-primary.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #a38e6f;
+}
+.css-lawyer .btn-primary.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #a38e6f;
+}
+.css-lawyer .btn-primary-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #a38e6f;
+}
+.css-lawyer .btn-primary-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #a38e6f;
+}
+.css-lawyer .blog-list > article.default-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #bca480;
+}
+.css-lawyer .blog-list > article.default-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #bca480;
+}
+.css-lawyer .blog-list > article.primary-post .blog-post-2 .bp2-category {
+    background: #a38e6f;
+}
+.css-lawyer .blog-list > article.primary-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #a38e6f;
+}
+.css-lawyer .blog-list > article.primary-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #a38e6f;
+}
+.css-lawyer .blog-list > article.primary-post .blog-desc {
+    border-top-color: #a38e6f;
+}
+.css-lawyer .blog-list > article.primary-post .blog-post-2 .bp2-desc {
+    border-bottom-color: #a38e6f;
+}
+.css-lawyer .btn-default.btn-animation-icon-box .btn-text,
+.css-lawyer .btn-default.btn-animation-icon-box:hover .btn-text,
+.css-lawyer .btn-default.btn-animation-icon-box:focus .btn-text,
+.css-lawyer .btn-default.btn-animation-icon-box:active .btn-text {
+    background: #bca480;
+}
+.css-lawyer .btn-default.btn-animation-icon-box .btn-icon,
+.css-lawyer .btn-default.btn-animation-icon-box:hover .btn-icon,
+.css-lawyer .btn-default.btn-animation-icon-box:focus .btn-icon,
+.css-lawyer .btn-default.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-lawyer .btn-default-reverse.btn-animation-icon-box .btn-text,
+.css-lawyer .btn-default-reverse.btn-animation-icon-box:hover .btn-text,
+.css-lawyer .btn-default-reverse.btn-animation-icon-box:focus .btn-text,
+.css-lawyer .btn-default-reverse.btn-animation-icon-box:active .btn-text {
+    color: #bca480;
+}
+.css-lawyer .btn-default-reverse.btn-animation-icon-box .btn-icon,
+.css-lawyer .btn-default-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-lawyer .btn-default-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-lawyer .btn-default-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #bca480;
+    color: #bca480;
+}
+.css-lawyer .btn-primary.btn-animation-icon-box .btn-icon,
+.css-lawyer .btn-primary.btn-animation-icon-box:hover .btn-icon,
+.css-lawyer .btn-primary.btn-animation-icon-box:focus .btn-icon,
+.css-lawyer .btn-primary.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box .btn-text,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box:hover .btn-text,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box:focus .btn-text,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box:active .btn-text,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-lawyer .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    color: #a38e6f;
+}
+.css-lawyer .tp-caption.btn.background-2:hover,
+.css-lawyer .tp-caption.btn.background-2:focus,
+.css-lawyer .tp-caption.btn.background-2:active {
+    background-color: #e33834;
+}
+.css-lawyer .border-background-2 {
+    border-color: #242426;
+}
+.css-lawyer .border-background-3 {
+    border-color: #de5727;
+}
+.css-lawyer .blog-list > article .featured-posts-slider .fp-desc {
+    background: rgba(188, 164, 128, 0.9);
+}
+.css-lawyer .gsi-style-4 li.current>* .number:before {
+    border-left-color: #bca480;
+}
+.css-lawyer .gsi-style-7.border-top li.current>* {
+    border-top-color: #bca480;
+}
+.css-lawyer .icon-box.icon-circle .icon-block,
+.css-lawyer .icon-box.icon-circle .icon-block span,
+.css-lawyer .icon-block-2,
+.css-lawyer .icon-block-2:after,
+.css-lawyer .simple-icon-image img,
+.css-lawyer .icon-image-overlay,
+.css-lawyer .simple-icon-icon,
+.css-lawyer .link-rounded-icon,
+.css-lawyer .slider-slick-slide a [class^="icon-"],
+.css-lawyer .flexslider.clients .flex-control-paging li a,
+.css-lawyer .testimonial-single .slick-prev,
+.css-lawyer .testimonial-single .slick-next,
+.css-lawyer .testimonial-single .slick-dots li button:before,
+.css-lawyer .slick-dots li button:before,
+.css-lawyer .testimonials-slick-nav .slick-testimonial-prev,
+.css-lawyer .testimonials-slick-nav .slick-testimonial-next,
+.css-lawyer .block-content-wrapper h1 {
+    border-radius: 50px;
+}
+.css-lawyer .loader-6 {
+    background: #bca480;
+    background: -moz-linear-gradient(left, #bca480 10%, rgba(188, 164, 128, 0) 42%);
+    background: -webkit-linear-gradient(left, #bca480 10%, rgba(188, 164, 128, 0) 42%);
+    background: -o-linear-gradient(left, #bca480 10%, rgba(188, 164, 128, 0) 42%);
+    background: -ms-linear-gradient(left, #bca480 10%, rgba(188, 164, 128, 0) 42%);
+    background: linear-gradient(to right, #bca480 10%, rgba(188, 164, 128, 0) 42%);
+}
+@-webkit-keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #bca480, 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2), 2.5em 0em 0 0em rgba(188, 164, 128, 0.2), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.2), 0em 2.5em 0 0em rgba(188, 164, 128, 0.2), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.2), -2.6em 0em 0 0em rgba(188, 164, 128, 0.5), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.7), 1.8em -1.8em 0 0em #bca480, 2.5em 0em 0 0em rgba(188, 164, 128, 0.2), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.2), 0em 2.5em 0 0em rgba(188, 164, 128, 0.2), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.2), -2.6em 0em 0 0em rgba(188, 164, 128, 0.2), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.5), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.7), 2.5em 0em 0 0em #bca480, 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.2), 0em 2.5em 0 0em rgba(188, 164, 128, 0.2), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.2), -2.6em 0em 0 0em rgba(188, 164, 128, 0.2), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.2), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.5), 2.5em 0em 0 0em rgba(188, 164, 128, 0.7), 1.75em 1.75em 0 0em #bca480, 0em 2.5em 0 0em rgba(188, 164, 128, 0.2), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.2), -2.6em 0em 0 0em rgba(188, 164, 128, 0.2), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.2), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2), 2.5em 0em 0 0em rgba(188, 164, 128, 0.5), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.7), 0em 2.5em 0 0em #bca480, -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.2), -2.6em 0em 0 0em rgba(188, 164, 128, 0.2), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.2), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2), 2.5em 0em 0 0em rgba(188, 164, 128, 0.2), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.5), 0em 2.5em 0 0em rgba(188, 164, 128, 0.7), -1.8em 1.8em 0 0em #bca480, -2.6em 0em 0 0em rgba(188, 164, 128, 0.2), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.2), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2), 2.5em 0em 0 0em rgba(188, 164, 128, 0.2), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.2), 0em 2.5em 0 0em rgba(188, 164, 128, 0.5), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.7), -2.6em 0em 0 0em #bca480, -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.2), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2), 2.5em 0em 0 0em rgba(188, 164, 128, 0.2), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.2), 0em 2.5em 0 0em rgba(188, 164, 128, 0.2), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.5), -2.6em 0em 0 0em rgba(188, 164, 128, 0.7), -1.8em -1.8em 0 0em #bca480;
+    }
+}
+@keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #bca480, 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2), 2.5em 0em 0 0em rgba(188, 164, 128, 0.2), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.2), 0em 2.5em 0 0em rgba(188, 164, 128, 0.2), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.2), -2.6em 0em 0 0em rgba(188, 164, 128, 0.5), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.7), 1.8em -1.8em 0 0em #bca480, 2.5em 0em 0 0em rgba(188, 164, 128, 0.2), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.2), 0em 2.5em 0 0em rgba(188, 164, 128, 0.2), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.2), -2.6em 0em 0 0em rgba(188, 164, 128, 0.2), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.5), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.7), 2.5em 0em 0 0em #bca480, 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.2), 0em 2.5em 0 0em rgba(188, 164, 128, 0.2), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.2), -2.6em 0em 0 0em rgba(188, 164, 128, 0.2), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.2), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.5), 2.5em 0em 0 0em rgba(188, 164, 128, 0.7), 1.75em 1.75em 0 0em #bca480, 0em 2.5em 0 0em rgba(188, 164, 128, 0.2), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.2), -2.6em 0em 0 0em rgba(188, 164, 128, 0.2), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.2), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2), 2.5em 0em 0 0em rgba(188, 164, 128, 0.5), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.7), 0em 2.5em 0 0em #bca480, -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.2), -2.6em 0em 0 0em rgba(188, 164, 128, 0.2), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.2), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2), 2.5em 0em 0 0em rgba(188, 164, 128, 0.2), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.5), 0em 2.5em 0 0em rgba(188, 164, 128, 0.7), -1.8em 1.8em 0 0em #bca480, -2.6em 0em 0 0em rgba(188, 164, 128, 0.2), -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.2), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2), 2.5em 0em 0 0em rgba(188, 164, 128, 0.2), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.2), 0em 2.5em 0 0em rgba(188, 164, 128, 0.5), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.7), -2.6em 0em 0 0em #bca480, -1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(188, 164, 128, 0.2), 1.8em -1.8em 0 0em rgba(188, 164, 128, 0.2), 2.5em 0em 0 0em rgba(188, 164, 128, 0.2), 1.75em 1.75em 0 0em rgba(188, 164, 128, 0.2), 0em 2.5em 0 0em rgba(188, 164, 128, 0.2), -1.8em 1.8em 0 0em rgba(188, 164, 128, 0.5), -2.6em 0em 0 0em rgba(188, 164, 128, 0.7), -1.8em -1.8em 0 0em #bca480;
+    }
+}
+.css-lawyer .loader-3 {
+    border-top-color: rgba(188, 164, 128, 0.2);
+    border-right-color: rgba(188, 164, 128, 0.2);
+    border-bottom-color: rgba(188, 164, 128, 0.2);
+    border-left-color: #bca480;
+}
+.css-lawyer .svg-animation path {
+    stroke: #bca480;
+}
+.css-lawyer .loader-36 > div {
+    background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #bca480 30%, #bca480 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #bca480 30%, #bca480 100%);
+}
+.css-lawyer .blockquote-style-2 blockquote:after, 
+.css-lawyer .blockquote-style-2 blockquote:before{
+  background-color: transparent;
+}

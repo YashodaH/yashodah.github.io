@@ -1,0 +1,1219 @@
+/* Freelance */
+
+body.css-freelance,
+.css-freelance p,
+.css-freelance .featured-content h1.small,
+.css-freelance .form-group > label,
+.css-freelance .checkbox > label,
+.css-freelance .alert > p,
+.css-freelance .block-content-wrapper h2,
+.css-freelance .intro-text h1,
+.css-freelance .intro-text h2,
+.css-freelance .intro-text h3,
+.css-freelance .intro-text h4,
+.css-freelance .intro-text h5,
+.css-freelance .intro-text h6,
+.css-freelance .restaurant-info-img-content h4,
+.css-freelance .contact-title h3 {
+    font-family: "Roboto", sans-serif;
+} 
+.css-freelance h1,
+.css-freelance h2,
+.css-freelance h3,
+.css-freelance h4,
+.css-freelance h5,
+.css-freelance h6,
+.css-freelance .testimonials-slider .testimonials-slider-box .testimonial-text {
+    font-family: "Roboto", sans-serif;
+}
+/* Color 1 */
+
+.css-freelance .color-1,
+.css-freelance .wsmenu-list > li > a:hover,
+.css-freelance .dark-menu .wsmenu-submenu li a:hover,
+.css-freelance .dark-menu .wsmenu-submenu li a:hover,
+.css-freelance .dark-menu .megamenu .link-list li a:hover,
+.css-freelance #header ul.wsmenu-submenu li a.active,
+.css-freelance #portfolio-filter li a:hover,
+.css-freelance .wsmenu-list > li > a.active,
+.css-freelance #header .wsmenu.navigation-dark .wsmenu-list > li > a.active,
+.css-freelance #header .wsmenu.navigation-dark .wsmenu-list > li > a:hover,
+.css-freelance .dark-menu .megamenu .link-list li.active a,
+.css-freelance .cart-dropdown-menu .cart-shop-products-list li .csp-price,
+.css-freelance .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-freelance .light-menu .megamenu .link-list li.active a,
+.css-freelance .light-menu .megamenu .link-list li a:hover,
+.css-freelance .light-menu .wsmenu-submenu li a:hover,
+.css-freelance .light-menu .wsmenu-submenu li.active a,
+.css-freelance ul.simple-list li [class^="icon-"],
+.css-freelance .footer-tags a:hover,
+.css-freelance #footer .widget-twitter-box .tweet ul li a:hover,
+.css-freelance .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-freelance .blog-list>article .post-facebook:hover,
+.css-freelance .blog-list>article .post-facebook:hover .pf-icon span,
+.css-freelance .blog-list>article .post-facebook:hover .pf-text,
+.css-freelance ul.blog-popular-list .ssp-title:hover,
+.css-freelance #post-content .blog-desc-details a:hover,
+.css-freelance .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-freelance .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-freelance .author-description .author-description-text-holder .author-name a:hover,
+.css-freelance .comment_response .media h6 a:hover,
+.css-freelance .blog-list>article .post-facebook:hover,
+.css-freelance .blog-list>article .post-facebook:hover .pf-icon span,
+.css-freelance .blog-list>article .post-facebook:hover .pf-text,
+.css-freelance ul.blog-popular-list .ssp-title:hover,
+.css-freelance #post-content .blog-desc-details a:hover,
+.css-freelance .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-freelance .header-light.nav-sticky .wsmenu-list > li > a:hover,
+.css-freelance .header-light.nav-sticky .wsmenu-list > li > a.active,
+.css-freelance .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-freelance .author-description .author-description-text-holder .author-name a:hover,
+.css-freelance ul.sidebar-category li a:hover,
+.css-freelance ul.shop-star-rating.single-item li.full-star,
+.css-freelance,
+.css-freelance #footer.footer-10 .title.small a:hover,
+.css-freelance .vlt-left-menu.vlt-menu-style-2 .nav-accordion-section-title:hover,
+.css-freelance .vlt-left-menu .nav-accordion-section-content ul li a:hover,
+.css-freelance .header-content .phone-number span,
+.css-freelance .intro-block h6,
+.css-freelance .icon-block [class^="icon-"],
+.css-freelance ul.header-links li a:hover,
+.css-freelance .navbar.banner--clone .nav > li > a:hover,
+.css-freelance .navbar.banner--clone .btn-search:hover,
+.css-freelance .success-lg:hover [class^="icon-"],
+.css-freelance #copyrights ul li a:hover,
+.css-freelance #copyrights a:hover,
+.css-freelance .breadcrumb > .active,
+.css-freelance .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-freelance a.image_link:hover [class^="icon-"],
+.css-freelance a.load-more-btn:hover,
+.css-freelance a.load-more-btn:hover [class^="icon-"],
+.css-freelance .intro-block h1 [class^="icon-"],
+.css-freelance .shop-list .shop-product h4 a:hover,
+.css-freelance ul#portfolio-layout-filter li a.active,
+.css-freelance .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-freelance .shop-price,
+.css-freelance ul.sidebar-shop-cat > li > a:hover,
+.css-freelance a.load-more-btn:hover,
+.css-freelance a.load-more-btn:hover [class^="icon-"],
+.css-freelance .intro-block h1 [class^="icon-"],
+.css-freelance .shop-list .shop-product h4 a:hover,
+.css-freelance ul#portfolio-layout-filter li a.active,
+.css-freelance .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-freelance ul.sidebar-cat > li span,
+.css-freelance .shop-price,
+.css-freelance ul.sidebar-cat > li > a:hover,
+.css-freelance ul.jobs-list li [class^="icon-"],
+.css-freelance .team-social a:hover,
+.css-freelance .icon-default,
+.css-freelance .error-page-icon span [class^="icon-"],
+.css-freelance .footer-3-container-text a:hover,
+.css-freelance .testimonials-box .testimonial-author,
+.css-freelance #page-title.image-page-title-fullwidth h1,
+.css-freelance #page-title.image-page-title-left.image-page-noimage h2,
+.css-freelance ul.services-2-icons,
+.css-freelance ul.shop-layout-filter li a.active,
+.css-freelance ul.portfolio-layout-filter li a.active,
+.css-freelance ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-freelance .related-projects-title .slick-custom-next:hover,
+.css-freelance .related-projects-title .slick-custom-prev:hover,
+.css-freelance .recent-post-content a:hover,
+.css-freelance .form-group.login-form-submit a,
+.css-freelance .shop-type-1 a.add-to-cart-item:before,
+.css-freelance .shop-type-2 a.add-to-cart-item:before,
+.css-freelance a.form-forgotpass,
+.css-freelance .sidebar-shop-products-list li .ssp-title:hover,
+.css-freelance .restaurant-info ul li [class^="icon-"],
+.css-freelance .navbar-default.default .btn-cart .header-cart-count,
+.css-freelance .blog-list > article .blog-desc h4 a:focus,
+.css-freelance .blog-list-full > article .blog-desc h4 a:hover,
+.css-freelance .blog-list-full > article .blog-desc h4 a:focus,
+.css-freelance .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-freelance .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-freelance .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-freelance .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-freelance .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-freelance .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-freelance .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-freelance .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-freelance .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-freelance .blog-masonry > article .blog-desc h4 a:hover,
+.css-freelance .blog-masonry > article .blog-desc h4 a:focus,
+.css-freelance .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-freelance .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-freelance .comment_response .media_cloud a.reply_link,
+.css-freelance .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-freelance .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-freelance .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-freelance .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-freelance .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-freelance .dropcap.dropcap-style-1,
+.css-freelance .counter-box .count-icon,
+.css-freelance .counter-style-1 .counter-box h4,
+.css-freelance .icon-type,
+.css-freelance .icon-type.it-main-color,
+.css-freelance .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-freelance .comment_response .media_cloud a.reply_link,
+.css-freelance .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-freelance .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-freelance .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-freelance .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-freelance .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-freelance .dropcap.dropcap-style-1,
+.css-freelance .btn-default-reverse,
+.css-freelance .counter-box .count-icon,
+.css-freelance .counter-style-1 .counter-box h4,
+.css-freelance .icon-type,
+.css-freelance .icon-type.it-main-color,
+.css-freelance .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-freelance .review_response .media h6 a,
+.css-freelance .review_response .media_cloud .shop-star-rating li.full-star,
+.css-freelance .rating-container .rating-stars,
+.css-freelance .form-contact small,
+.css-freelance ul.icon-list li a:hover,
+.css-freelance ul.icon-list li a:active,
+.css-freelance ul.icon-list li a:focus,
+.css-freelance .checkout-sum,
+.css-freelance .checkout-table td a:hover,
+.css-freelance .checkout-box a,
+.css-freelance .user-profile-list ul li a:hover,
+.css-freelance a.profile-active,
+.css-freelance .user-profile-content h2,
+.css-freelance .forum-content-header span a,
+.css-freelance .recent-work-content a:hover,
+.css-freelance .recent-work-image-content a:hover,
+.css-freelance .contact-overlay-map .maximize-form:hover,
+.css-freelance .hero-slier-nav-content:hover [class^="icon-"],
+.css-freelance .selected .hero-slier-nav-content [class^="icon-"],
+.css-freelance .team-social a:hover,
+.css-freelance .team-name h5 a:hover,
+.css-freelance .clients-slick-nav .slick-custom-next:hover,
+.css-freelance .clients-slick-nav .slick-custom-prev:hover,
+.css-freelance .services-pricing-icon [class^="icon-"],
+.css-freelance .brand [class^="icon-"],
+.css-freelance .content-divider-colored [class^="icon-"],
+.css-freelance .divider-content h1 span,
+.css-freelance .divider-content h2 span,
+.css-freelance .divider-content h3 span,
+.css-freelance .intro-page-content a:hover,
+.css-freelance .image-box-content a:hover,
+.css-freelance .icon-type.it-main-color [class^="icon-"],
+.css-freelance .icon-type-2:hover p,
+.css-freelance .icon-type-2:hover span.icon-type-2-icon,
+.css-freelance .heading-container .head-colored,
+.css-freelance ul.home-6-list li h4 [class^="icon-"],
+.css-freelance .icon-box-2-effect-1:hover .icon-block-2,
+.css-freelance .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-freelance .icon-box-2-effect-4:hover .icon-block-2,
+.css-freelance .icon-box-2-effect-4-reverse .icon-block-2,
+.css-freelance .icon-box-2-effect-5:hover .icon-block-2,
+.css-freelance .simple-icon-lightbg [class^="icon-"],
+.css-freelance .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-freelance .panel-body ul li a:hover,
+.css-freelance .colored,
+.css-freelance .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-freelance .tabpanel-style-6 .nav-tabs > li > a,
+.css-freelance .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-freelance .tp_caption_big span,
+.css-freelance ul.icon-box-simple li:hover a,
+.css-freelance .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-freelance .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-freelance .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-freelance .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-freelance .blockquote-author p,
+.css-freelance .testimonial-author,
+.css-freelance .latest-post-content h1 a:hover,
+.css-freelance .post-by a:hover,
+.css-freelance .latest-post-content .read-more-link,
+.css-freelance .blog-horizontal .bh-content h3 a:hover,
+.css-freelance .blog-horizontal .bh-content .bh-details a:hover,
+.css-freelance .blog-horizontal .bh-content .bh-details a:hover span,
+.css-freelance a.bsp-title:hover,
+.css-freelance .sidebar-blog-post-list li .sbp-title:hover,
+.css-freelance .navbar-nav > li.active,
+.css-freelance .navbar-nav > li.active:hover,
+.css-freelance a.idb-social:hover,
+.css-freelance a.idb-social:hover span,
+.css-freelance a.idb-price,
+.css-freelance span.pts-raised,
+.css-freelance .bsp-social a:hover,
+.css-freelance .bsp-social a [class^="icon-"]:hover,
+.css-freelance a.bsp-more:hover,
+.css-freelance .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-freelance .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-freelance .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-freelance .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-freelance .gallery-block .gallery-box .gallery-meta a:hover,
+.css-freelance .gallery-block .gallery-box .gallery-meta a:focus,
+.css-freelance .tp-caption a,
+.css-freelance .tp-caption a:hover,
+.css-freelance .cd-timeline-inner-content a:hover,
+.css-freelance .testimonial-box .testimonial-author span,
+.css-freelance .fic-date a:hover,
+.css-freelance .forum-inner-content h1 a:hover,
+.css-freelance .user-profile-desc a:hover,
+.css-freelance .cd-timeline-navigation a:hover::after,
+.css-freelance .login-form .login-input-box [class^="icon-"],
+.css-freelance .icon-input-box [class^="icon-"],
+.css-freelance ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-freelance ul.bar-chart-graph li,
+.css-freelance ul.line-graph li,
+.css-freelance ul.donut-graph li,
+.css-freelance .tp-caption.Creative-SubTitle,
+.css-freelance .Creative-SubTitle,
+.css-freelance .tp-caption.vlt-hero-rotating,
+.css-freelance ul.recent-post-widget .rp-post a:hover,
+.css-freelance .loader-5,
+.css-freelance .loader-7,
+.css-freelance .loader-9,
+.css-freelance .loader-2,
+.css-freelance .loader-4,
+.css-freelance .vertical-newspaper-list .vnl-content h4 a:hover,
+.css-freelance .vertical-newspaper-sidebar-list .vnl-content h4 a:hover,
+.css-freelance .events-vertical .events-vertical-desc h4 a:hover,
+.css-freelance .portfolio-single-share .pss-share li a:hover,
+.css-freelance .portfolio-single-share .pss-like:hover,
+.css-freelance .portfolio-single-intro-description .portfolio-single-categories a:hover,
+.css-freelance .portfolio-single-more-link:hover,
+.css-freelance .gsi-style-9 li.visited>*,
+.css-freelance .gsi-style-9 li.current>*,
+.css-freelance .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-freelance .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-freelance .header-contact-box .header-phone:hover,
+.css-freelance .header-contact-box .header-email:hover,
+.css-freelance .icon-box.icon-square .icon-block span,
+.css-freelance .icon-box.icon-square.icon-fill.icon-transform:hover .icon-block span {
+    color: #0cb4ce;
+}
+/* Background Color 1 */
+
+.css-freelance .background-1,
+.css-freelance .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-freelance .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-freelance .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1,
+.css-freelance a.brand-modern span.line-1,
+.css-freelance .header.dark-nav a.brand-modern span.line-1,
+.css-freelance .wte-separator.background-1:before,
+.css-freelance .call-newsletter-box form .btn,
+.css-freelance .offscreen-container,
+.css-freelance #header.background-1,
+.css-freelance .background-1-menu .megamenu,
+.css-freelance .background-1-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-freelance .background-1-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-freelance .background-1-menu .wsmenu-submenu li a,
+.css-freelance .background-1-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-freelance .background-1-menu .wsmenu-submenu,
+.css-freelance .background-1-menu .wsmenu-submenu-sub,
+.css-freelance .background-1-menu .wsmenu-submenu-sub-sub,
+.css-freelance .background-1-menu .wsmenu-submenu-sub-sub-sub,
+.css-freelance #portfolio-filter li a.activeFilter,
+.css-freelance #portfolio-filter li a.activeFilter[data-filter="*"],
+.css-freelance #header .search-cart-navbar:hover .btn-default,
+.css-freelance .scroll-to-top-fixed,
+.css-freelance #bootstrap-table.table>thead>tr>th,
+.css-freelance ul.meta-share-social li a:hover,
+.css-freelance article.blog-item .blog-image-box .video-play-icon span,
+.css-freelance .audioplayer,
+.css-freelance .audioplayer-bar,
+.css-freelance .blog-desc-details:after,
+.css-freelance .audioplayer-volume-adjust div div,
+.css-freelance .qoute-post,
+.css-freelance .footer-newsletter-box form .btn,
+.css-freelance .footer-newsletter-box form .btn.disabled,
+.css-freelance .tags-cloud-list li a:hover,
+.css-freelance article.blog-item .blog-image-box.video-post:before,
+.css-freelance .tp-caption .btn-default,
+.css-freelance .btn-default,
+.css-freelance .flex-control-paging li a.flex-active,
+.css-freelance #mobile-navbar,
+.css-freelance .call-to-action,
+.css-freelance .maincolor-background,
+.css-freelance ul.widget-ul li a > span,
+.css-freelance ul.widget-social li a:hover,
+.css-freelance #people .item .info,
+.css-freelance .main-color,
+.css-freelance .flexslider.clients .flex-control-paging li a.flex-active,
+.css-freelance #portfolio-filter li a:after,
+.css-freelance .navbar.banner--clone .nav li.active > a,
+.css-freelance .pricing-table-column.special-price-table .pricing-table-head,
+.css-freelance .pricing-table-column.special-price-table .pricing-table-content,
+.css-freelance .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-freelance .progress-bar-box .progress-bar,
+.css-freelance .background-1,
+.css-freelance .selecter .selecter-item:hover,
+.css-freelance .selecter .selecter-item.selected:hover,
+.css-freelance #footer.colored,
+.css-freelance section.about-counter,
+.css-freelance .error-page-title:after,
+.css-freelance .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-freelance .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-freelance .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-freelance .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-freelance .tabpanel-style-4 .tab-content h3:after,
+.css-freelance .about-classic-column-themecolor,
+.css-freelance .selecter .selecter-item:hover,
+.css-freelance .selecter .selecter-item.selected:hover,
+.css-freelance .item-text-wrapper_overlay,
+.css-freelance .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-freelance .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-freelance .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-freelance .shop-type-2 a.add-to-cart-item,
+.css-freelance .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-freelance .search-cart-navbar .btn-cart .header-cart-count,
+.css-freelance .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-freelance .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-freelance .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-freelance .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-freelance .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-freelance .dropcap.dropcap-style-2,
+.css-freelance .alert-default,
+.css-freelance blockquote:before,
+.css-freelance blockquote:after,
+.css-freelance .tp-caption .btn-default,
+.css-freelance .btn-default,
+.css-freelance .content-title h5:before,
+.css-freelance .content-title h5:after,
+.css-freelance .icon-box.icon-fill .icon-block,
+.css-freelance .icon-box.icon-square:hover .icon-block,
+.css-freelance .icon-box.icon-circle:hover .icon-block,
+.css-freelance .icon-box.icon-circle:hover .icon-block span,
+.css-freelance .icon-type.it-main-color:hover,
+.css-freelance .icon-type.it-main-color:focus,
+.css-freelance .icon-type.it-main-color-reverse,
+.css-freelance .icon-type.it-main-color:hover span,
+.css-freelance .icon-type.it-main-color-reverse:hover span,
+.css-freelance .add-to-cart-form .count-input .count-plus:hover,
+.css-freelance .add-to-cart-form .count-input .count-minus:hover,
+.css-freelance .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-freelance .pricing-table-container.special-price-table,
+.css-freelance .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-freelance .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-freelance ul.forum-list li.forum-header,
+.css-freelance .textbox-withmaincolor,
+.css-freelance .background-1,
+.css-freelance .team-member-job,
+.css-freelance .team-section .team-desc-box:before,
+.css-freelance .team-section .team-desc-box:after,
+.css-freelance .shop-categories:hover .shop-title-categories,
+.css-freelance .content-divider-colored-bg [class^="icon-"],
+.css-freelance .overlay-animation-6 .content-box,
+.css-freelance .block-content-wrapper h1,
+.css-freelance .benefits-box h1,
+.css-freelance .selecter .selecter-item:hover,
+.css-freelance .selecter .selecter-item.selected:hover,
+.css-freelance .ui-slider .ui-slider-range,
+.css-freelance #header.header-main-color,
+.css-freelance .navbar-2.banner--clone.main-color-navbar,
+.css-freelance .tabpanel-style-center .nav-tabs > li.active > a,
+.css-freelance .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-freelance .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-freelance .label.label-primary,
+.css-freelance .label.label-primary,
+.css-freelance .star-rating .caption .label,
+.css-freelance .tparrows.preview5:hover,
+.css-freelance .table-style-4.table-withmaincolor thead tr th,
+.css-freelance .table-style-5.table-withmaincolor thead tr th,
+.css-freelance .table-style-6.table-withmaincolor thead tr th,
+.css-freelance .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-freelance .table-style-7.table-withmaincolor thead tr th,
+.css-freelance .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-freelance .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-freelance .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-freelance .table-style-2.table-withmaincolor thead tr th,
+.css-freelance .table-style-3.table-withmaincolor thead tr th,
+.css-freelance .table-style-3.table-withmaincolor tbody tr th,
+.css-freelance .parallax-withmaincolor,
+.css-freelance .contact-overlay-map .minimize-form:hover,
+.css-freelance .team-3:hover .team-social,
+.css-freelance .team-5:hover .team-social,
+.css-freelance .special-table-2,
+.css-freelance .special-table-3,
+.css-freelance span.pricing-3-discount,
+.css-freelance #vertical-timeline-container:before,
+.css-freelance .subscribe-fancy-themebg,
+.css-freelance .empty-cart,
+.css-freelance .team-4:hover .team-social,
+.css-freelance .content-divider-colored,
+.css-freelance .content-divider-colored-bg,
+.css-freelance .withmainbackground,
+.css-freelance .services-2-heading,
+.css-freelance .icon-box-2-effect-4 .icon-block-2,
+.css-freelance .services-2-heading,
+.css-freelance .promotion-box-theme-colored,
+.css-freelance .promotion-box-theme-colored .promotion-box-title h4,
+.css-freelance .icon-block-2,
+.css-freelance .icon-box-2-effect-2:hover .icon-block-2,
+.css-freelance .icon-box-2-effect-3 .icon-block-2:after,
+.css-freelance .icon-box-2-effect-4 .icon-block-2:after,
+.css-freelance .icon-box-2-effect-6 .icon-block-2,
+.css-freelance .icon-box-2-effect-6:hover .icon-block-2,
+.css-freelance .simple-icon-icon,
+.css-freelance a.call-to-action-link:hover,
+.css-freelance .add-to-cart-form .count-input .count-plus,
+.css-freelance .add-to-cart-form .count-input .count-minus,
+.css-freelance .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-freelance .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-freelance .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-freelance .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-freelance .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-freelance .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-freelance .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-freelance .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-freelance .special-price-box,
+.css-freelance .dropdown-menu > .active > a,
+.css-freelance .dropdown-menu > .active > a:focus,
+.css-freelance .dropdown-menu > .active > a:hover,
+.css-freelance #header.main-color-nav .navbar-2,
+.css-freelance .latest-post-data,
+.css-freelance .blog-single-post .bsp-heading h1,
+.css-freelance .testimonial-single .slick-dots li button:before,
+.css-freelance .slick-dots li button:before,
+.css-freelance .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-freelance .timeline-complete .timeline-status.timeline-active:before,
+.css-freelance .megamenu.maincolor,
+.css-freelance .dropdown.maincolor ul,
+.css-freelance .dropdown.maincolor ul.dropdown-menu,
+.css-freelance #footer.maincolor,
+.css-freelance #copyrights.maincolor,
+.css-freelance .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-freelance .cd-horizontal-timeline .events a.selected::after,
+.css-freelance .cd-horizontal-timeline .filling-line,
+.css-freelance .pinpulsebox span,
+.css-freelance .main-color-dropdown .megamenu,
+.css-freelance .main-color-dropdown .dropdown-menu,
+.css-freelance #cd-timeline::before,
+.css-freelance ul.icon-list.il-main-bg li [class^="icon-"],
+.css-freelance .process-steps ul li.current a .number,
+.css-freelance ol.ordered-list.ol-main-bg li:before,
+.css-freelance .irs-bar,
+.css-freelance .irs-from,
+.css-freelance .irs-to,
+.css-freelance .irs-single,
+.css-freelance .open > .dropdown-toggle.btn-default,
+.css-freelance .fc-unthemed .fc-today,
+.css-freelance .fc-content,
+.css-freelance #particles-js,
+.css-freelance .s-icon:hover,
+.css-freelance #progressbar li.active:before,
+.css-freelance #progressbar li.active:after,
+.css-freelance .portfolio-filter .selecter-item.activeFilter,
+.css-freelance #copyrights ul.widget-social li a:hover,
+.css-freelance .page-loader-spinner span,
+.css-freelance .loader-6:before,
+.css-freelance .loader-2,
+.css-freelance .loader-2:before,
+.css-freelance .loader-2:after,
+.css-freelance .newspaper-title .custom-slick-nav-1 .slick-custom-next:hover,
+.css-freelance .newspaper-title .custom-slick-nav-1 .slick-custom-prev:hover,
+.css-freelance .loader-10 > div,
+.css-freelance .loader-11 > div,
+.css-freelance .loader-12 > div,
+.css-freelance .loader-13 > div:first-child,
+.css-freelance .loader-14 > div,
+.css-freelance .loader-16 > div,
+.css-freelance .loader-17 > div,
+.css-freelance .loader-17 > div:before,
+.css-freelance .loader-17 > div:after,
+.css-freelance .loader-18 > div,
+.css-freelance .loader-19 > div,
+.css-freelance .loader-20 > div,
+.css-freelance .loader-22 > div,
+.css-freelance .loader-23 > div,
+.css-freelance .loader-24 > div,
+.css-freelance .loader-25 > div,
+.css-freelance .loader-26 > div,
+.css-freelance .loader-27 > div,
+.css-freelance .loader-28 > div,
+.css-freelance .loader-29 > div,
+.css-freelance .loader-32 > div,
+.css-freelance .loader-33 > div,
+.css-freelance .loader-35 > div:nth-child(3),
+.css-freelance .loader-35 > div:nth-child(4),
+.css-freelance .loader-35 > div:nth-child(5),
+.css-freelance .loader-35 > div:nth-child(6),
+.css-freelance .loader-37 > div,
+.css-freelance .loader-38 > div,
+.css-freelance .portfolio-single-share .pss-share li a:before,
+.css-freelance .portfolio-single-intro-description .portfolio-single-categories a:before,
+.css-freelance .portfolio-single-more-link:before,
+.css-freelance .checkbox input[type=checkbox]:checked + .checkbox-material .check,
+.css-freelance .radio input[type=radio]:checked ~ .check,
+.css-freelance .vlt-btn-group .dropdown-menu li a:hover,
+.css-freelance .gsi-step-indicator.triangle li.current>*,
+.css-freelance .gsi-style-4 li.current>*,
+.css-freelance .gsi-style-5 li.current>*,
+.css-freelance .gsi-style-6 li.current>* .number,
+.css-freelance .gsi-style-7 li.current:hover>*,
+.css-freelance .gsi-style-8 li.visited>*,
+.css-freelance .gsi-style-8 li.current>*,
+.css-freelance .gsi-style-9 li.visited>*:after,
+.css-freelance .gsi-style-9 li.current>*:after,
+.css-freelance .gsi-style-10 li.visited>*:after,
+.css-freelance .gsi-style-10 li.current>*:after,
+.css-freelance .gsi-style-11 li.current:before,
+.css-freelance .gsi-style-11 li.current:after,
+.css-freelance .gsi-style-11 li.visited:before,
+.css-freelance .gsi-style-11 li.visited:after,
+.css-freelance .gsi-style-11 li.visited>*:after,
+.css-freelance .gsi-style-11 li.current>*:after,
+.css-freelance .flatpickr-day.today:focus,
+.css-freelance .flatpickr-day.today:hover,
+.css-freelance .reveal-nav .navbar-toggle,
+.css-freelance .form-contact-3 .btn-default.disabled,
+.css-freelance .form-contact-3 .btn-default.disabled.active,
+.css-freelance .form-contact-3 .btn-default.disabled.focus,
+.css-freelance .form-contact-3 .btn-default.disabled:active,
+.css-freelance .form-contact-3 .btn-default.disabled:focus,
+.css-freelance .form-contact-3 .btn-default.disabled:hover,
+.css-freelance .form-contact-3 .btn-default[disabled],
+.css-freelance .form-contact-3 .btn-default[disabled].active,
+.css-freelance .form-contact-3 .btn-default[disabled].focus,
+.css-freelance .form-contact-3 .btn-default[disabled]:active,
+.css-freelance .form-contact-3 .btn-default[disabled]:focus,
+.css-freelance .form-contact-3 .btn-default[disabled]:hover,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-freelance .icon-box.icon-square:hover .icon-block span,
+.css-freelance #header.header-main-color-sticky.header-sticky,
+.css-freelance #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-freelance #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-freelance #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-freelance #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-freelance #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-freelance #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-freelance #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-freelance #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+    background-color: #0cb4ce;
+}
+/* Color 2 */
+
+.css-freelance .color-2,
+.css-freelance .cart-shop-products h3,
+.css-freelance .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-freelance .cart-shop-products-list li .csp-price,
+.css-freelance .sidebar-shop-products-list li .shop-star-rating li.full-star,
+.css-freelance .shop-list .shop-product .shop-star-rating li.full-star,
+.css-freelance ul.shop-star-rating li.full-star,
+.css-freelance ul.line-graph li:nth-child(2n),
+.css-freelance ul.donut-graph li:nth-child(2n),
+.css-freelance ul.bar-chart-graph li:nth-child(2n) {
+    color: #f3565d;
+}
+.color-2:hover {
+    color: #f3565d;
+}
+/* Background Color 2 */
+
+.css-freelance .background-2,
+.css-freelance .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-freelance .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-freelance #header.background-2,
+.css-freelance .background-2-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-freelance .background-2-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-freelance .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2,
+.css-freelance a.brand-modern span.line-2,
+.css-freelance .header.dark-nav a.brand-modern span.line-2,
+.css-freelance .wte-separator.background-2:before,
+.css-freelance .form-contact.dark-from .has-error .help-block,
+.css-freelance a.add-to-wishlist,
+.css-freelance .shop-list .shop-product:hover>a.add-to-wishlist,
+.css-freelance .slider-price-filter-box:after,
+.css-freelance .background-2-menu .megamenu,
+.css-freelance .background-2-menu .wsmenu-submenu li a,
+.css-freelance .background-2-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-freelance .background-2-menu .wsmenu-submenu,
+.css-freelance .background-2-menu .wsmenu-submenu-sub,
+.css-freelance .background-2-menu .wsmenu-submenu-sub-sub,
+.css-freelance .background-2-menu .wsmenu-submenu-sub-sub-sub,
+.css-freelance .shop-list .shop-product .shop-ribbon,
+.css-freelance .ui-slider-horizontal .ui-slider-range,
+.css-freelance .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary,
+.css-freelance .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    background-color: #f3565d;
+}
+/* Color 3 */
+
+.css-freelance .color-3,
+.css-freelance ul.line-graph li:nth-child(3n),
+.css-freelance ul.donut-graph li:nth-child(3n),
+.css-freelance ul.bar-chart-graph li:nth-child(3n),
+.css-freelance .navbar-toggle,
+.css-freelance .navbar-toggle:before {
+    color: #957dcc;
+}
+/* Background Color 3 */
+
+.css-freelance .background-3,
+.css-freelance .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-freelance .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-freelance #header.background-3,
+.css-freelance .background-3-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-freelance .background-3-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-freelance .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3,
+.css-freelance a.brand-modern span.line-3,
+.css-freelance .header.dark-nav a.brand-modern span.line-3,
+.css-freelance .wte-separator.background-3:before,
+.css-freelance .background-3-menu .megamenu,
+.css-freelance .background-3-menu .wsmenu-submenu li a,
+.css-freelance .background-3-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-freelance .background-3-menu .wsmenu-submenu,
+.css-freelance .background-3-menu .wsmenu-submenu-sub,
+.css-freelance .background-3-menu .wsmenu-submenu-sub-sub,
+.css-freelance .background-3-menu .wsmenu-submenu-sub-sub-sub {
+    background-color: #957dcc;
+}
+/* Border Color 1 */
+
+.css-freelance .border-background-1,
+.css-freelance .tp-caption .btn-default,
+.css-freelance .btn-default,
+.css-freelance .flex-control-paging li a.flex-active,
+.css-freelance .flexslider.clients .flex-control-paging li a.flex-active,
+.css-freelance .contact-info-3,
+.css-freelance .team-social a:hover,
+.css-freelance .contact-title-one h3:after,
+.css-freelance .home-title-one h3:after,
+.css-freelance #login-form .login-input:active,
+.css-freelance #login-form .login-input:focus,
+.css-freelance .load-more-wrapper a.load-more-btn:hover,
+.css-freelance #register-form .register-input:active,
+.css-freelance #register-form .register-input:focus,
+.css-freelance .dropcap.dropcap-style-1,
+.css-freelance .dropcap.dropcap-style-2,
+.css-freelance .alert-default,
+.css-freelance blockquote,
+.css-freelance .tp-caption .btn-default,
+.css-freelance .btn-default,
+.css-freelance .btn-default-reverse,
+.css-freelance .icon-box.icon-square .icon-block,
+.css-freelance .icon-box.icon-circle .icon-block,
+.css-freelance .icon-type.it-main-color,
+.css-freelance .icon-type.it-main-color:hover,
+.css-freelance .icon-type.it-main-color:focus,
+.css-freelance .icon-type.it-main-color-reverse,
+.css-freelance .icon-type.it-main-color-reverse:hover,
+.css-freelance .icon-type.it-main-color-reverse:focus,
+.css-freelance .add-to-cart-form .count-input .count-plus:hover,
+.css-freelance .add-to-cart-form .count-input .count-minus:hover,
+.css-freelance #reviewmodal .modal-header,
+.css-freelance .job-left-title h3,
+.css-freelance .pricing-table-container.special-price-table,
+.css-freelance .clients-slick-nav .slick-custom-next:hover,
+.css-freelance .clients-slick-nav .slick-custom-prev:hover,
+.css-freelance .tabpanel-style-8 .nav-tabs > li.active,
+.css-freelance a.btn-default.btn-animation-icon-box,
+.css-freelance .btn-default.btn-animation-icon-box:hover,
+.css-freelance .btn-default.btn-animation-icon-box:focus,
+.css-freelance .btn-default.btn-animation-icon-box:active,
+.css-freelance .tp-caption a.btn-default.btn-animation-icon-box,
+.css-freelance .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-freelance .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-freelance .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-freelance .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-freelance .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-freelance .clients-slick-nav .slick-clients-prev:hover,
+.css-freelance .clients-slick-nav .slick-clients-next:hover,
+.css-freelance .bsp-image,
+.css-freelance .blog-list > article.default-post .blog-desc,
+.css-freelance .testimonial-single li.slick-active button::before,
+.css-freelance .slick-dots li.slick-active button:before,
+.css-freelance .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-freelance .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-freelance .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-freelance .timeline-status.timeline-active:before,
+.css-freelance .cd-horizontal-timeline .events a.older-event::after,
+.css-freelance .cd-horizontal-timeline .events a.selected::after,
+.css-freelance .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-freelance .no-touch .cd-timeline-navigation a:hover,
+.css-freelance .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-freelance .cd-timeline-navigation a:hover,
+.css-freelance .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-freelance .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-freelance .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-freelance .login-form input:focus,
+.css-freelance .pinpulse,
+.css-freelance .open > .dropdown-toggle.btn-default,
+.css-freelance .tabpanel-style-7.shop-single-tabpanel .nav-tabs > li.active,
+.css-freelance .newspaper-title,
+.css-freelance .newspaper-separator,
+.css-freelance ul.widget-social.widget-social-sidebar li a:hover,
+.css-freelance .loader-30 > div,
+.css-freelance .loader-31 > div,
+.css-freelance .loader-35 > div:first-of-type,
+.css-freelance .loader-35 > div:nth-child(2),
+.css-freelance .radio input[type=radio]:checked ~ .circle,
+.css-freelance .gsi-step-indicator.triangle li.current>*,
+.css-freelance .gsi-style-7.border-right li.current>*,
+.css-freelance .gsi-style-7.border-bottom li.current>*,
+.css-freelance .gsi-style-7.border-left li.current>*,
+.css-freelance .flatpickr-day.today,
+.css-freelance .flatpickr-day.today:focus,
+.css-freelance .flatpickr-day.today:hover,
+.css-freelance .form-contact-3 .btn-default.disabled,
+.css-freelance .form-contact-3 .btn-default.disabled.active,
+.css-freelance .form-contact-3 .btn-default.disabled.focus,
+.css-freelance .form-contact-3 .btn-default.disabled:active,
+.css-freelance .form-contact-3 .btn-default.disabled:focus,
+.css-freelance .form-contact-3 .btn-default.disabled:hover,
+.css-freelance .form-contact-3 .btn-default[disabled],
+.css-freelance .form-contact-3 .btn-default[disabled].active,
+.css-freelance .form-contact-3 .btn-default[disabled].focus,
+.css-freelance .form-contact-3 .btn-default[disabled]:active,
+.css-freelance .form-contact-3 .btn-default[disabled]:focus,
+.css-freelance .form-contact-3 .btn-default[disabled]:hover,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-freelance .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-freelance .wsmenu-list li > .wsmenu-submenu,
+.css-freelance .wsmenu-list li > .megamenu,
+.css-freelance .table-style-1 thead tr th,
+.css-freelance .table-style-1 tbody tr:last-child th,
+.css-freelance .table-style-1 tbody tr:last-child td,
+.css-freelance .table-withmaincolor thead tr th,
+.css-freelance .clients-title-border h3,
+.css-freelance .cd-slider-nav li:hover,
+.css-freelance .selected,
+.css-freelance .icon-type-2:hover p,
+.css-freelance .icon-type-2:hover span.icon-type-2-icon,
+.css-freelance .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-freelance .activeFilter,
+.css-freelance .loader-12 > div,
+.css-freelance .loader-15 > div,
+.css-freelance .loader-15 > div:last-child,
+.css-freelance .loader-21 > div {
+    border-color: #0cb4ce;
+}
+.css-freelance .tabpanel-style-4 .nav-tabs > li.active,
+.css-freelance .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-freelance .tabpanel-style-5 .nav-tabs > li.active,
+.css-freelance .tabpanel-style-5 .nav-tabs > li.active > span,
+.css-freelance .loader-13 > div:last-child,
+.css-freelance .loader-15 > div:last-child {
+    border-color: #0cb4ce transparent;
+}
+.css-freelance .job-form input:focus,
+.css-freelance .job-form textarea:focus,
+.css-freelance .form-contact input:focus,
+.css-freelance .form-contact textarea:focus,
+.css-freelance .form-contact input:focus,
+.css-freelance .login-form input:focus,
+.css-freelance .login-form textarea:focus {
+    background-image: linear-gradient(#0cb4ce, #0cb4ce), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.css-freelance .btn-rounded,
+.css-freelance .form-control,
+.css-freelance .pagination-box .pager li a,
+.css-freelance .portfolio_overlay a.portfolio_zoom,
+.css-freelance .portfolio_overlay a.portfolio_link,
+.css-freelance .overlay-animation-2 .overlay_box a.image_link,
+.css-freelance .overlay-animation-2 .overlay_box a.video_zoom,
+.css-freelance a.home-breadcrumb,
+.css-freelance .overlay-animation-1 .overlay_box a.image_zoom,
+.css-freelance .overlay-animation-1 .overlay_box a.image_link,
+.css-freelance ul.widget-ul li a span,
+.css-freelance ul.widget-social li a,
+.css-freelance .team-2 .team-social a,
+.css-freelance .team-3 .team-social a,
+.css-freelance .team-social a,
+.css-freelance .benefits-box h1 {
+    border-radius: 100px;
+}
+.css-freelance ul.thumbs li a,
+.css-freelance ul.thumbs li a img,
+.css-freelance ul.thumbs li a:before,
+.css-freelance .widget-dribbble-box .shots li a,
+.css-freelance .widget-dribbble-box .shots li a img,
+.css-freelance .dribbble-box-dummy .shots-dummy li a,
+.css-freelance .dribbble-box-dummy .shots-dummy li a img,
+.css-freelance .instagram-widget a,
+.css-freelance .instagram-widget a img,
+.css-freelance .instagram-widget a:hover:before,
+.css-freelance .instagram-widget a:hover:after,
+.css-freelance .pricing-table-2-column,
+.css-freelance .pricing-table-3-column,
+.css-freelance .pricing-table-4 {
+    border-radius: 4px;
+}
+.css-freelance .icon-box-2-effect-3 .icon-block-2 {
+    box-shadow: 0 0 0 3px #0cb4ce;
+}
+.css-freelance .icon-box-2-effect-4 .icon-block-2,
+.css-freelance .icon-box-2-effect-5 .icon-block-2,
+.css-freelance .icon-box-2-effect-5:hover .icon-block-2,
+.css-freelance .icon-box-2-effect-1 .icon-block-2:after,
+.css-freelance .icon-box-2-effect-2 .icon-block-2:after {
+    box-shadow: 0 0 0 4px #0cb4ce;
+}
+.icon-box-2-effect-6 .icon-block-2:after,
+.css-freelance .scroll-to-top-fixed.sticky-btn:hover {
+    box-shadow: 0 0 0 2px #0cb4ce;
+}
+.css-freelance .empty-cart:after,
+.css-freelance .loader-34 > div {
+    border-bottom-color: #0cb4ce;
+}
+.css-freelance .btn-default-reverse:hover,
+.css-freelance .btn-default-reverse:focus {
+    background-color: #0cb4ce;
+    border-color: #0cb4ce;
+}
+.css-freelance .tp-caption .btn-default.active,
+.css-freelance .btn-default.active,
+.css-freelance .tp-caption .btn-default.focus,
+.css-freelance .btn-default.focus,
+.css-freelance .tp-caption .btn-default:active,
+.css-freelance .btn-default:active,
+.css-freelance .tp-caption .btn-default:focus,
+.css-freelance .btn-default:focus,
+.css-freelance .tp-caption .btn-default:hover,
+.css-freelance .btn-default:hover,
+.css-freelance #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance .btn-primary.btn-animation-icon-box,
+.css-freelance .btn-primary.btn-animation-icon-box:hover,
+.css-freelance .btn-primary.btn-animation-icon-box:focus,
+.css-freelance .btn-primary.btn-animation-icon-box:active,
+.css-freelance .tp-caption .btn-primary.btn-animation-icon-box,
+.css-freelance .tp-caption .btn-primary.btn-animation-icon-box:hover,
+.css-freelance .tp-caption .btn-primary.btn-animation-icon-box:focus,
+.css-freelance .tp-caption .btn-primary.btn-animation-icon-box:active,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #1196ab;
+}
+.css-freelance .metis .tp-tab.selected .tp-tab-divider {
+    border-right-color: #0cb4ce;
+}
+.css-freelance #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-freelance #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-freelance span.latest-post-month,
+.css-freelance .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-freelance .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu,
+.css-freelance .tp-caption .btn-default.active,
+.css-freelance .btn-default.active,
+.css-freelance .tp-caption .btn-default.focus,
+.css-freelance .btn-default.focus,
+.css-freelance .tp-caption .btn-default:active,
+.css-freelance .btn-default:active,
+.css-freelance .tp-caption .btn-default:focus,
+.css-freelance .btn-default:focus,
+.css-freelance .tp-caption .btn-default:hover,
+.css-freelance .btn-default:hover,
+.css-freelance #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-freelance #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-freelance #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-freelance #header.main-color-nav .navbar-2 .navbar-nav > .active > a,
+.css-freelance .btn-primary.btn-animation-icon-box .btn-text,
+.css-freelance .btn-primary.btn-animation-icon-box:hover .btn-text,
+.css-freelance .btn-primary.btn-animation-icon-box:focus .btn-text,
+.css-freelance .primary.btn-animation-icon-box:active .btn-text {
+    background-color: #1196ab;
+}
+.css-freelance .item-text-wrapper,
+.css-freelance .standard_hover .portfolio_overlay,
+.css-freelance .overlay-animation-1 .overlay_box,
+.css-freelance .flip-hover .flip-box .content-box,
+.css-freelance .team-8 .team-image .overlay-team-box,
+.css-freelance .team-9 .team-image .overlay-team-box,
+.css-freelance .portfolio-animation-slide .sliding-content {
+    background-color: rgba(12, 180, 206, 0.9);
+}
+.css-freelance .intro-block .overlay,
+.css-freelance ul.thumbs li a:before,
+.css-freelance .widget-dribbble-box .shots li a:before,
+.css-freelance .dribbble-box-dummy .shots-dummy li a:before,
+.css-freelance .sidebar-shop-products-list .image-thumb:before,
+.css-freelance .cart-shop-products-list .image-thumb:before,
+.css-freelance .overlay-bg.colored,
+.css-freelance .instagram-widget a:before,
+.css-freelance .overlay-bg.background-1 {
+    background-color: rgba(12, 180, 206, 0.75);
+}
+.forum-reply-signin {
+    background: rgba(12, 180, 206, 0.92);
+}
+.css-freelance .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-freelance .team-2 .overlay-team-box,
+.css-freelance .team-6 .overlay-team-box,
+.css-freelance .team-7 .overlay-team-box,
+.css-freelance .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-freelance .contact-overlay-map .overlay-map-background,
+.css-freelance .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-freelance .table-style-7.table-withmaincolor tbody tr th,
+.css-freelance .fc-bgevent,
+.css-freelance #particles-js.background-1 {
+    background-color: rgba(12, 180, 206, 0.6);
+}
+.css-freelance .widget-dribbble-box .shots li a:hover:before,
+.css-freelance .dribbble-box .shots li a:hover:before,
+.css-freelance .dribbble-box-dummy .shots-dummy li a:hover:before,
+.css-freelance .instagram-widget a:hover:before,
+.css-freelance .newspaper-sidebar-image-news > article a.image-box:before {
+    background-color: rgba(12, 180, 206, 0.85);
+}
+.css-freelance .price-filter-desc .btn {
+    background-color: #f3565d;
+    border-color: #f3565d;
+}
+.css-freelance .btn-default.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #0cb4ce;
+}
+.css-freelance .btn-default.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #0cb4ce;
+}
+.css-freelance .btn-default-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #0cb4ce;
+}
+.css-freelance .btn-default-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #0cb4ce;
+}
+.css-freelance .btn-primary {
+    background: #1196ab;
+    border-color: #1196ab;
+}
+.css-freelance .btn-primary:hover,
+.css-freelance .open > .dropdown-toggle.btn-primary,
+.css-freelance .btn-primary.active,
+.css-freelance .btn-primary.focus,
+.css-freelance .btn-primary:active,
+.css-freelance .css-freelance .btn-primary:focus {
+    background: #3c1a90;
+    border-color: #3c1a90;
+}
+.css-freelance .btn-primary-reverse {
+    color: #1196ab;
+    border-color: #1196ab;
+}
+.css-freelance .btn-primary-reverse:hover {
+    background-color: #1196ab;
+    border-color: #1196ab;
+}
+.css-freelance .btn-primary.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #1196ab;
+}
+.css-freelance .btn-primary.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #1196ab;
+}
+.css-freelance .btn-primary-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #1196ab;
+}
+.css-freelance .btn-primary-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #1196ab;
+}
+.css-freelance .blog-list > article.default-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #0cb4ce;
+}
+.css-freelance .blog-list > article.default-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #0cb4ce;
+}
+.css-freelance .blog-list > article.primary-post .blog-post-2 .bp2-category {
+    background: #1196ab;
+}
+.css-freelance .blog-list > article.primary-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #1196ab;
+}
+.css-freelance .blog-list > article.primary-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #1196ab;
+}
+.css-freelance .blog-list > article.primary-post .blog-desc {
+    border-top-color: #1196ab;
+}
+.css-freelance .blog-list > article.primary-post .blog-post-2 .bp2-desc {
+    border-bottom-color: #1196ab;
+}
+.css-freelance .btn-default.btn-animation-icon-box .btn-text,
+.css-freelance .btn-default.btn-animation-icon-box:hover .btn-text,
+.css-freelance .btn-default.btn-animation-icon-box:focus .btn-text,
+.css-freelance .btn-default.btn-animation-icon-box:active .btn-text {
+    background: #0cb4ce;
+}
+.css-freelance .btn-default.btn-animation-icon-box .btn-icon,
+.css-freelance .btn-default.btn-animation-icon-box:hover .btn-icon,
+.css-freelance .btn-default.btn-animation-icon-box:focus .btn-icon,
+.css-freelance .btn-default.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-freelance .btn-default-reverse.btn-animation-icon-box .btn-text,
+.css-freelance .btn-default-reverse.btn-animation-icon-box:hover .btn-text,
+.css-freelance .btn-default-reverse.btn-animation-icon-box:focus .btn-text,
+.css-freelance .btn-default-reverse.btn-animation-icon-box:active .btn-text {
+    color: #0cb4ce;
+}
+.css-freelance .btn-default-reverse.btn-animation-icon-box .btn-icon,
+.css-freelance .btn-default-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-freelance .btn-default-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-freelance .btn-default-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #0cb4ce;
+    color: #0cb4ce;
+}
+.css-freelance .btn-primary.btn-animation-icon-box .btn-icon,
+.css-freelance .btn-primary.btn-animation-icon-box:hover .btn-icon,
+.css-freelance .btn-primary.btn-animation-icon-box:focus .btn-icon,
+.css-freelance .btn-primary.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-freelance .btn-primary-reverse.btn-animation-icon-box .btn-text,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box:hover .btn-text,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box:focus .btn-text,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box:active .btn-text,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-freelance .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    color: #1196ab;
+}
+.css-freelance .tp-caption.btn.background-2:hover,
+.css-freelance .tp-caption.btn.background-2:focus,
+.css-freelance .tp-caption.btn.background-2:active {
+    background-color: #e33834;
+}
+.css-freelance .border-background-2 {
+    border-color: #957dcc;
+}
+.css-freelance .border-background-3 {
+    border-color: #f3565d;
+}
+.css-freelance .blog-list > article .featured-posts-slider .fp-desc {
+    background: rgba(12, 180, 206, 0.9);
+}
+.css-freelance .gsi-style-4 li.current>* .number:before {
+    border-left-color: #0cb4ce;
+}
+.css-freelance .gsi-style-7.border-top li.current>* {
+    border-top-color: #0cb4ce;
+}
+.css-freelance .icon-box.icon-circle .icon-block,
+.css-freelance .icon-box.icon-circle .icon-block span,
+.css-freelance .icon-block-2,
+.css-freelance .icon-block-2:after,
+.css-freelance .simple-icon-image img,
+.css-freelance .icon-image-overlay,
+.css-freelance .simple-icon-icon,
+.css-freelance .link-rounded-icon,
+.css-freelance .slider-slick-slide a [class^="icon-"],
+.css-freelance .flexslider.clients .flex-control-paging li a,
+.css-freelance .testimonial-single .slick-prev,
+.css-freelance .testimonial-single .slick-next,
+.css-freelance .testimonial-single .slick-dots li button:before,
+.css-freelance .slick-dots li button:before,
+.css-freelance .testimonials-slick-nav .slick-testimonial-prev,
+.css-freelance .testimonials-slick-nav .slick-testimonial-next,
+.css-freelance .block-content-wrapper h1 {
+    border-radius: 50px;
+}
+.css-freelance .loader-6 {
+    background: #0cb4ce;
+    background: -moz-linear-gradient(left, #0cb4ce 10%, rgba(12, 180, 206, 0) 42%);
+    background: -webkit-linear-gradient(left, #0cb4ce 10%, rgba(12, 180, 206, 0) 42%);
+    background: -o-linear-gradient(left, #0cb4ce 10%, rgba(12, 180, 206, 0) 42%);
+    background: -ms-linear-gradient(left, #0cb4ce 10%, rgba(12, 180, 206, 0) 42%);
+    background: linear-gradient(to right, #0cb4ce 10%, rgba(12, 180, 206, 0) 42%);
+}
+@-webkit-keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #0cb4ce, 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.5), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.7), 1.8em -1.8em 0 0em #0cb4ce, 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.5), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.7), 2.5em 0em 0 0em #0cb4ce, 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.5), 2.5em 0em 0 0em rgba(12, 180, 206, 0.7), 1.75em 1.75em 0 0em #0cb4ce, 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.5), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.7), 0em 2.5em 0 0em #0cb4ce, -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.5), 0em 2.5em 0 0em rgba(12, 180, 206, 0.7), -1.8em 1.8em 0 0em #0cb4ce, -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.5), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.7), -2.6em 0em 0 0em #0cb4ce, -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.5), -2.6em 0em 0 0em rgba(12, 180, 206, 0.7), -1.8em -1.8em 0 0em #0cb4ce;
+    }
+}
+@keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #0cb4ce, 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.5), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.7), 1.8em -1.8em 0 0em #0cb4ce, 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.5), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.7), 2.5em 0em 0 0em #0cb4ce, 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.5), 2.5em 0em 0 0em rgba(12, 180, 206, 0.7), 1.75em 1.75em 0 0em #0cb4ce, 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.5), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.7), 0em 2.5em 0 0em #0cb4ce, -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.2), -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.5), 0em 2.5em 0 0em rgba(12, 180, 206, 0.7), -1.8em 1.8em 0 0em #0cb4ce, -2.6em 0em 0 0em rgba(12, 180, 206, 0.2), -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.5), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.7), -2.6em 0em 0 0em #0cb4ce, -1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(12, 180, 206, 0.2), 1.8em -1.8em 0 0em rgba(12, 180, 206, 0.2), 2.5em 0em 0 0em rgba(12, 180, 206, 0.2), 1.75em 1.75em 0 0em rgba(12, 180, 206, 0.2), 0em 2.5em 0 0em rgba(12, 180, 206, 0.2), -1.8em 1.8em 0 0em rgba(12, 180, 206, 0.5), -2.6em 0em 0 0em rgba(12, 180, 206, 0.7), -1.8em -1.8em 0 0em #0cb4ce;
+    }
+}
+.css-freelance .loader-3 {
+    border-top-color: rgba(12, 180, 206, 0.2);
+    border-right-color: rgba(12, 180, 206, 0.2);
+    border-bottom-color: rgba(12, 180, 206, 0.2);
+    border-left-color: #0cb4ce;
+}
+.css-freelance .svg-animation path {
+    stroke: #0cb4ce;
+}
+.css-freelance .loader-36 > div {
+    background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #0cb4ce 30%, #0cb4ce 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #0cb4ce 30%, #0cb4ce 100%);
+}
+.css-freelance .blockquote-style-2 blockquote:after, 
+.css-freelance .blockquote-style-2 blockquote:before{
+  background-color: transparent;
+}

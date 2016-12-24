@@ -1,0 +1,1219 @@
+/* Charity */
+
+body.css-charity-2,
+.css-charity-2 p,
+.css-charity-2 .featured-content h1.small,
+.css-charity-2 .form-group > label,
+.css-charity-2 .checkbox > label,
+.css-charity-2 .alert > p,
+.css-charity-2 .block-content-wrapper h2,
+.css-charity-2 .intro-text h1,
+.css-charity-2 .intro-text h2,
+.css-charity-2 .intro-text h3,
+.css-charity-2 .intro-text h4,
+.css-charity-2 .intro-text h5,
+.css-charity-2 .intro-text h6,
+.css-charity-2 .restaurant-info-img-content h4,
+.css-charity-2 .contact-title h3 {
+    font-family: "Montserrat", sans-serif;
+} 
+.css-charity-2 h1,
+.css-charity-2 h2,
+.css-charity-2 h3,
+.css-charity-2 h4,
+.css-charity-2 h5,
+.css-charity-2 h6,
+.css-charity-2 .testimonials-slider .testimonials-slider-box .testimonial-text {
+    font-family: "Montserrat", sans-serif;
+}
+/* Color 1 */
+
+.css-charity-2 .color-1,
+.css-charity-2 .wsmenu-list > li > a:hover,
+.css-charity-2 .dark-menu .wsmenu-submenu li a:hover,
+.css-charity-2 .dark-menu .wsmenu-submenu li a:hover,
+.css-charity-2 .dark-menu .megamenu .link-list li a:hover,
+.css-charity-2 #header ul.wsmenu-submenu li a.active,
+.css-charity-2 #portfolio-filter li a:hover,
+.css-charity-2 .wsmenu-list > li > a.active,
+.css-charity-2 #header .wsmenu.navigation-dark .wsmenu-list > li > a.active,
+.css-charity-2 #header .wsmenu.navigation-dark .wsmenu-list > li > a:hover,
+.css-charity-2 .dark-menu .megamenu .link-list li.active a,
+.css-charity-2 .cart-dropdown-menu .cart-shop-products-list li .csp-price,
+.css-charity-2 .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-charity-2 .light-menu .megamenu .link-list li.active a,
+.css-charity-2 .light-menu .megamenu .link-list li a:hover,
+.css-charity-2 .light-menu .wsmenu-submenu li a:hover,
+.css-charity-2 .light-menu .wsmenu-submenu li.active a,
+.css-charity-2 ul.simple-list li [class^="icon-"],
+.css-charity-2 .footer-tags a:hover,
+.css-charity-2 #footer .widget-twitter-box .tweet ul li a:hover,
+.css-charity-2 .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-charity-2 .blog-list>article .post-facebook:hover,
+.css-charity-2 .blog-list>article .post-facebook:hover .pf-icon span,
+.css-charity-2 .blog-list>article .post-facebook:hover .pf-text,
+.css-charity-2 ul.blog-popular-list .ssp-title:hover,
+.css-charity-2 #post-content .blog-desc-details a:hover,
+.css-charity-2 .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-charity-2 .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-charity-2 .author-description .author-description-text-holder .author-name a:hover,
+.css-charity-2 .comment_response .media h6 a:hover,
+.css-charity-2 .blog-list>article .post-facebook:hover,
+.css-charity-2 .blog-list>article .post-facebook:hover .pf-icon span,
+.css-charity-2 .blog-list>article .post-facebook:hover .pf-text,
+.css-charity-2 ul.blog-popular-list .ssp-title:hover,
+.css-charity-2 #post-content .blog-desc-details a:hover,
+.css-charity-2 .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-charity-2 .header-light.nav-sticky .wsmenu-list > li > a:hover,
+.css-charity-2 .header-light.nav-sticky .wsmenu-list > li > a.active,
+.css-charity-2 .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-charity-2 .author-description .author-description-text-holder .author-name a:hover,
+.css-charity-2 ul.sidebar-category li a:hover,
+.css-charity-2 ul.shop-star-rating.single-item li.full-star,
+.css-charity-2,
+.css-charity-2 #footer.footer-10 .title.small a:hover,
+.css-charity-2 .vlt-left-menu.vlt-menu-style-2 .nav-accordion-section-title:hover,
+.css-charity-2 .vlt-left-menu .nav-accordion-section-content ul li a:hover,
+.css-charity-2 .header-content .phone-number span,
+.css-charity-2 .intro-block h6,
+.css-charity-2 .icon-block [class^="icon-"],
+.css-charity-2 ul.header-links li a:hover,
+.css-charity-2 .navbar.banner--clone .nav > li > a:hover,
+.css-charity-2 .navbar.banner--clone .btn-search:hover,
+.css-charity-2 .success-lg:hover [class^="icon-"],
+.css-charity-2 #copyrights ul li a:hover,
+.css-charity-2 #copyrights a:hover,
+.css-charity-2 .breadcrumb > .active,
+.css-charity-2 .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-charity-2 a.image_link:hover [class^="icon-"],
+.css-charity-2 a.load-more-btn:hover,
+.css-charity-2 a.load-more-btn:hover [class^="icon-"],
+.css-charity-2 .intro-block h1 [class^="icon-"],
+.css-charity-2 .shop-list .shop-product h4 a:hover,
+.css-charity-2 ul#portfolio-layout-filter li a.active,
+.css-charity-2 .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-charity-2 .shop-price,
+.css-charity-2 ul.sidebar-shop-cat > li > a:hover,
+.css-charity-2 a.load-more-btn:hover,
+.css-charity-2 a.load-more-btn:hover [class^="icon-"],
+.css-charity-2 .intro-block h1 [class^="icon-"],
+.css-charity-2 .shop-list .shop-product h4 a:hover,
+.css-charity-2 ul#portfolio-layout-filter li a.active,
+.css-charity-2 .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-charity-2 ul.sidebar-cat > li span,
+.css-charity-2 .shop-price,
+.css-charity-2 ul.sidebar-cat > li > a:hover,
+.css-charity-2 ul.jobs-list li [class^="icon-"],
+.css-charity-2 .team-social a:hover,
+.css-charity-2 .icon-default,
+.css-charity-2 .error-page-icon span [class^="icon-"],
+.css-charity-2 .footer-3-container-text a:hover,
+.css-charity-2 .testimonials-box .testimonial-author,
+.css-charity-2 #page-title.image-page-title-fullwidth h1,
+.css-charity-2 #page-title.image-page-title-left.image-page-noimage h2,
+.css-charity-2 ul.services-2-icons,
+.css-charity-2 ul.shop-layout-filter li a.active,
+.css-charity-2 ul.portfolio-layout-filter li a.active,
+.css-charity-2 ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-charity-2 .related-projects-title .slick-custom-next:hover,
+.css-charity-2 .related-projects-title .slick-custom-prev:hover,
+.css-charity-2 .recent-post-content a:hover,
+.css-charity-2 .form-group.login-form-submit a,
+.css-charity-2 .shop-type-1 a.add-to-cart-item:before,
+.css-charity-2 .shop-type-2 a.add-to-cart-item:before,
+.css-charity-2 a.form-forgotpass,
+.css-charity-2 .sidebar-shop-products-list li .ssp-title:hover,
+.css-charity-2 .restaurant-info ul li [class^="icon-"],
+.css-charity-2 .navbar-default.default .btn-cart .header-cart-count,
+.css-charity-2 .blog-list > article .blog-desc h4 a:focus,
+.css-charity-2 .blog-list-full > article .blog-desc h4 a:hover,
+.css-charity-2 .blog-list-full > article .blog-desc h4 a:focus,
+.css-charity-2 .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-charity-2 .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-charity-2 .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-charity-2 .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-charity-2 .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-charity-2 .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-charity-2 .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-charity-2 .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-charity-2 .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-charity-2 .blog-masonry > article .blog-desc h4 a:hover,
+.css-charity-2 .blog-masonry > article .blog-desc h4 a:focus,
+.css-charity-2 .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-charity-2 .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-charity-2 .comment_response .media_cloud a.reply_link,
+.css-charity-2 .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-charity-2 .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-charity-2 .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-charity-2 .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-charity-2 .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-charity-2 .dropcap.dropcap-style-1,
+.css-charity-2 .counter-box .count-icon,
+.css-charity-2 .counter-style-1 .counter-box h4,
+.css-charity-2 .icon-type,
+.css-charity-2 .icon-type.it-main-color,
+.css-charity-2 .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-charity-2 .comment_response .media_cloud a.reply_link,
+.css-charity-2 .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-charity-2 .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-charity-2 .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-charity-2 .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-charity-2 .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-charity-2 .dropcap.dropcap-style-1,
+.css-charity-2 .btn-default-reverse,
+.css-charity-2 .counter-box .count-icon,
+.css-charity-2 .counter-style-1 .counter-box h4,
+.css-charity-2 .icon-type,
+.css-charity-2 .icon-type.it-main-color,
+.css-charity-2 .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-charity-2 .review_response .media h6 a,
+.css-charity-2 .review_response .media_cloud .shop-star-rating li.full-star,
+.css-charity-2 .rating-container .rating-stars,
+.css-charity-2 .form-contact small,
+.css-charity-2 ul.icon-list li a:hover,
+.css-charity-2 ul.icon-list li a:active,
+.css-charity-2 ul.icon-list li a:focus,
+.css-charity-2 .checkout-sum,
+.css-charity-2 .checkout-table td a:hover,
+.css-charity-2 .checkout-box a,
+.css-charity-2 .user-profile-list ul li a:hover,
+.css-charity-2 a.profile-active,
+.css-charity-2 .user-profile-content h2,
+.css-charity-2 .forum-content-header span a,
+.css-charity-2 .recent-work-content a:hover,
+.css-charity-2 .recent-work-image-content a:hover,
+.css-charity-2 .contact-overlay-map .maximize-form:hover,
+.css-charity-2 .hero-slier-nav-content:hover [class^="icon-"],
+.css-charity-2 .selected .hero-slier-nav-content [class^="icon-"],
+.css-charity-2 .team-social a:hover,
+.css-charity-2 .team-name h5 a:hover,
+.css-charity-2 .clients-slick-nav .slick-custom-next:hover,
+.css-charity-2 .clients-slick-nav .slick-custom-prev:hover,
+.css-charity-2 .services-pricing-icon [class^="icon-"],
+.css-charity-2 .brand [class^="icon-"],
+.css-charity-2 .content-divider-colored [class^="icon-"],
+.css-charity-2 .divider-content h1 span,
+.css-charity-2 .divider-content h2 span,
+.css-charity-2 .divider-content h3 span,
+.css-charity-2 .intro-page-content a:hover,
+.css-charity-2 .image-box-content a:hover,
+.css-charity-2 .icon-type.it-main-color [class^="icon-"],
+.css-charity-2 .icon-type-2:hover p,
+.css-charity-2 .icon-type-2:hover span.icon-type-2-icon,
+.css-charity-2 .heading-container .head-colored,
+.css-charity-2 ul.home-6-list li h4 [class^="icon-"],
+.css-charity-2 .icon-box-2-effect-1:hover .icon-block-2,
+.css-charity-2 .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-charity-2 .icon-box-2-effect-4:hover .icon-block-2,
+.css-charity-2 .icon-box-2-effect-4-reverse .icon-block-2,
+.css-charity-2 .icon-box-2-effect-5:hover .icon-block-2,
+.css-charity-2 .simple-icon-lightbg [class^="icon-"],
+.css-charity-2 .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-charity-2 .panel-body ul li a:hover,
+.css-charity-2 .colored,
+.css-charity-2 .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-charity-2 .tabpanel-style-6 .nav-tabs > li > a,
+.css-charity-2 .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-charity-2 .tp_caption_big span,
+.css-charity-2 ul.icon-box-simple li:hover a,
+.css-charity-2 .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-charity-2 .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-charity-2 .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-charity-2 .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-charity-2 .blockquote-author p,
+.css-charity-2 .testimonial-author,
+.css-charity-2 .latest-post-content h1 a:hover,
+.css-charity-2 .post-by a:hover,
+.css-charity-2 .latest-post-content .read-more-link,
+.css-charity-2 .blog-horizontal .bh-content h3 a:hover,
+.css-charity-2 .blog-horizontal .bh-content .bh-details a:hover,
+.css-charity-2 .blog-horizontal .bh-content .bh-details a:hover span,
+.css-charity-2 a.bsp-title:hover,
+.css-charity-2 .sidebar-blog-post-list li .sbp-title:hover,
+.css-charity-2 .navbar-nav > li.active,
+.css-charity-2 .navbar-nav > li.active:hover,
+.css-charity-2 a.idb-social:hover,
+.css-charity-2 a.idb-social:hover span,
+.css-charity-2 a.idb-price,
+.css-charity-2 span.pts-raised,
+.css-charity-2 .bsp-social a:hover,
+.css-charity-2 .bsp-social a [class^="icon-"]:hover,
+.css-charity-2 a.bsp-more:hover,
+.css-charity-2 .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-charity-2 .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-charity-2 .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-charity-2 .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-charity-2 .gallery-block .gallery-box .gallery-meta a:hover,
+.css-charity-2 .gallery-block .gallery-box .gallery-meta a:focus,
+.css-charity-2 .tp-caption a,
+.css-charity-2 .tp-caption a:hover,
+.css-charity-2 .cd-timeline-inner-content a:hover,
+.css-charity-2 .testimonial-box .testimonial-author span,
+.css-charity-2 .fic-date a:hover,
+.css-charity-2 .forum-inner-content h1 a:hover,
+.css-charity-2 .user-profile-desc a:hover,
+.css-charity-2 .cd-timeline-navigation a:hover::after,
+.css-charity-2 .login-form .login-input-box [class^="icon-"],
+.css-charity-2 .icon-input-box [class^="icon-"],
+.css-charity-2 ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-charity-2 ul.bar-chart-graph li,
+.css-charity-2 ul.line-graph li,
+.css-charity-2 ul.donut-graph li,
+.css-charity-2 .tp-caption.Creative-SubTitle,
+.css-charity-2 .Creative-SubTitle,
+.css-charity-2 .tp-caption.vlt-hero-rotating,
+.css-charity-2 ul.recent-post-widget .rp-post a:hover,
+.css-charity-2 .loader-5,
+.css-charity-2 .loader-7,
+.css-charity-2 .loader-9,
+.css-charity-2 .loader-2,
+.css-charity-2 .loader-4,
+.css-charity-2 .vertical-newspaper-list .vnl-content h4 a:hover,
+.css-charity-2 .vertical-newspaper-sidebar-list .vnl-content h4 a:hover,
+.css-charity-2 .events-vertical .events-vertical-desc h4 a:hover,
+.css-charity-2 .portfolio-single-share .pss-share li a:hover,
+.css-charity-2 .portfolio-single-share .pss-like:hover,
+.css-charity-2 .portfolio-single-intro-description .portfolio-single-categories a:hover,
+.css-charity-2 .portfolio-single-more-link:hover,
+.css-charity-2 .gsi-style-9 li.visited>*,
+.css-charity-2 .gsi-style-9 li.current>*,
+.css-charity-2 .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-charity-2 .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-charity-2 .header-contact-box .header-phone:hover,
+.css-charity-2 .header-contact-box .header-email:hover,
+.css-charity-2 .icon-box.icon-square .icon-block span,
+.css-charity-2 .icon-box.icon-square.icon-fill.icon-transform:hover .icon-block span {
+    color: #29af8a;
+}
+/* Background Color 1 */
+
+.css-charity-2 .background-1,
+.css-charity-2 .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-charity-2 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-charity-2 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1,
+.css-charity-2 a.brand-modern span.line-1,
+.css-charity-2 .header.dark-nav a.brand-modern span.line-1,
+.css-charity-2 .wte-separator.background-1:before,
+.css-charity-2 .call-newsletter-box form .btn,
+.css-charity-2 .offscreen-container,
+.css-charity-2 #header.background-1,
+.css-charity-2 .background-1-menu .megamenu,
+.css-charity-2 .background-1-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-charity-2 .background-1-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-charity-2 .background-1-menu .wsmenu-submenu li a,
+.css-charity-2 .background-1-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-charity-2 .background-1-menu .wsmenu-submenu,
+.css-charity-2 .background-1-menu .wsmenu-submenu-sub,
+.css-charity-2 .background-1-menu .wsmenu-submenu-sub-sub,
+.css-charity-2 .background-1-menu .wsmenu-submenu-sub-sub-sub,
+.css-charity-2 #portfolio-filter li a.activeFilter,
+.css-charity-2 #portfolio-filter li a.activeFilter[data-filter="*"],
+.css-charity-2 #header .search-cart-navbar:hover .btn-default,
+.css-charity-2 .scroll-to-top-fixed,
+.css-charity-2 #bootstrap-table.table>thead>tr>th,
+.css-charity-2 ul.meta-share-social li a:hover,
+.css-charity-2 article.blog-item .blog-image-box .video-play-icon span,
+.css-charity-2 .audioplayer,
+.css-charity-2 .audioplayer-bar,
+.css-charity-2 .blog-desc-details:after,
+.css-charity-2 .audioplayer-volume-adjust div div,
+.css-charity-2 .qoute-post,
+.css-charity-2 .footer-newsletter-box form .btn,
+.css-charity-2 .footer-newsletter-box form .btn.disabled,
+.css-charity-2 .tags-cloud-list li a:hover,
+.css-charity-2 article.blog-item .blog-image-box.video-post:before,
+.css-charity-2 .tp-caption .btn-default,
+.css-charity-2 .btn-default,
+.css-charity-2 .flex-control-paging li a.flex-active,
+.css-charity-2 #mobile-navbar,
+.css-charity-2 .call-to-action,
+.css-charity-2 .maincolor-background,
+.css-charity-2 ul.widget-ul li a > span,
+.css-charity-2 ul.widget-social li a:hover,
+.css-charity-2 #people .item .info,
+.css-charity-2 .main-color,
+.css-charity-2 .flexslider.clients .flex-control-paging li a.flex-active,
+.css-charity-2 #portfolio-filter li a:after,
+.css-charity-2 .navbar.banner--clone .nav li.active > a,
+.css-charity-2 .pricing-table-column.special-price-table .pricing-table-head,
+.css-charity-2 .pricing-table-column.special-price-table .pricing-table-content,
+.css-charity-2 .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-charity-2 .progress-bar-box .progress-bar,
+.css-charity-2 .background-1,
+.css-charity-2 .selecter .selecter-item:hover,
+.css-charity-2 .selecter .selecter-item.selected:hover,
+.css-charity-2 #footer.colored,
+.css-charity-2 section.about-counter,
+.css-charity-2 .error-page-title:after,
+.css-charity-2 .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-charity-2 .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-charity-2 .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-charity-2 .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-charity-2 .tabpanel-style-4 .tab-content h3:after,
+.css-charity-2 .about-classic-column-themecolor,
+.css-charity-2 .selecter .selecter-item:hover,
+.css-charity-2 .selecter .selecter-item.selected:hover,
+.css-charity-2 .item-text-wrapper_overlay,
+.css-charity-2 .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-charity-2 .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-charity-2 .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-charity-2 .shop-type-2 a.add-to-cart-item,
+.css-charity-2 .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-charity-2 .search-cart-navbar .btn-cart .header-cart-count,
+.css-charity-2 .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-charity-2 .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-charity-2 .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-charity-2 .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-charity-2 .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-charity-2 .dropcap.dropcap-style-2,
+.css-charity-2 .alert-default,
+.css-charity-2 blockquote:before,
+.css-charity-2 blockquote:after,
+.css-charity-2 .tp-caption .btn-default,
+.css-charity-2 .btn-default,
+.css-charity-2 .content-title h5:before,
+.css-charity-2 .content-title h5:after,
+.css-charity-2 .icon-box.icon-fill .icon-block,
+.css-charity-2 .icon-box.icon-square:hover .icon-block,
+.css-charity-2 .icon-box.icon-circle:hover .icon-block,
+.css-charity-2 .icon-box.icon-circle:hover .icon-block span,
+.css-charity-2 .icon-type.it-main-color:hover,
+.css-charity-2 .icon-type.it-main-color:focus,
+.css-charity-2 .icon-type.it-main-color-reverse,
+.css-charity-2 .icon-type.it-main-color:hover span,
+.css-charity-2 .icon-type.it-main-color-reverse:hover span,
+.css-charity-2 .add-to-cart-form .count-input .count-plus:hover,
+.css-charity-2 .add-to-cart-form .count-input .count-minus:hover,
+.css-charity-2 .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-charity-2 .pricing-table-container.special-price-table,
+.css-charity-2 .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-charity-2 .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-charity-2 ul.forum-list li.forum-header,
+.css-charity-2 .textbox-withmaincolor,
+.css-charity-2 .background-1,
+.css-charity-2 .team-member-job,
+.css-charity-2 .team-section .team-desc-box:before,
+.css-charity-2 .team-section .team-desc-box:after,
+.css-charity-2 .shop-categories:hover .shop-title-categories,
+.css-charity-2 .content-divider-colored-bg [class^="icon-"],
+.css-charity-2 .overlay-animation-6 .content-box,
+.css-charity-2 .block-content-wrapper h1,
+.css-charity-2 .benefits-box h1,
+.css-charity-2 .selecter .selecter-item:hover,
+.css-charity-2 .selecter .selecter-item.selected:hover,
+.css-charity-2 .ui-slider .ui-slider-range,
+.css-charity-2 #header.header-main-color,
+.css-charity-2 .navbar-2.banner--clone.main-color-navbar,
+.css-charity-2 .tabpanel-style-center .nav-tabs > li.active > a,
+.css-charity-2 .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-charity-2 .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-charity-2 .label.label-primary,
+.css-charity-2 .label.label-primary,
+.css-charity-2 .star-rating .caption .label,
+.css-charity-2 .tparrows.preview5:hover,
+.css-charity-2 .table-style-4.table-withmaincolor thead tr th,
+.css-charity-2 .table-style-5.table-withmaincolor thead tr th,
+.css-charity-2 .table-style-6.table-withmaincolor thead tr th,
+.css-charity-2 .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-charity-2 .table-style-7.table-withmaincolor thead tr th,
+.css-charity-2 .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-charity-2 .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-charity-2 .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-charity-2 .table-style-2.table-withmaincolor thead tr th,
+.css-charity-2 .table-style-3.table-withmaincolor thead tr th,
+.css-charity-2 .table-style-3.table-withmaincolor tbody tr th,
+.css-charity-2 .parallax-withmaincolor,
+.css-charity-2 .contact-overlay-map .minimize-form:hover,
+.css-charity-2 .team-3:hover .team-social,
+.css-charity-2 .team-5:hover .team-social,
+.css-charity-2 .special-table-2,
+.css-charity-2 .special-table-3,
+.css-charity-2 span.pricing-3-discount,
+.css-charity-2 #vertical-timeline-container:before,
+.css-charity-2 .subscribe-fancy-themebg,
+.css-charity-2 .empty-cart,
+.css-charity-2 .team-4:hover .team-social,
+.css-charity-2 .content-divider-colored,
+.css-charity-2 .content-divider-colored-bg,
+.css-charity-2 .withmainbackground,
+.css-charity-2 .services-2-heading,
+.css-charity-2 .icon-box-2-effect-4 .icon-block-2,
+.css-charity-2 .services-2-heading,
+.css-charity-2 .promotion-box-theme-colored,
+.css-charity-2 .promotion-box-theme-colored .promotion-box-title h4,
+.css-charity-2 .icon-block-2,
+.css-charity-2 .icon-box-2-effect-2:hover .icon-block-2,
+.css-charity-2 .icon-box-2-effect-3 .icon-block-2:after,
+.css-charity-2 .icon-box-2-effect-4 .icon-block-2:after,
+.css-charity-2 .icon-box-2-effect-6 .icon-block-2,
+.css-charity-2 .icon-box-2-effect-6:hover .icon-block-2,
+.css-charity-2 .simple-icon-icon,
+.css-charity-2 a.call-to-action-link:hover,
+.css-charity-2 .add-to-cart-form .count-input .count-plus,
+.css-charity-2 .add-to-cart-form .count-input .count-minus,
+.css-charity-2 .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-charity-2 .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-charity-2 .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-charity-2 .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-charity-2 .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-charity-2 .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-charity-2 .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-charity-2 .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-charity-2 .special-price-box,
+.css-charity-2 .dropdown-menu > .active > a,
+.css-charity-2 .dropdown-menu > .active > a:focus,
+.css-charity-2 .dropdown-menu > .active > a:hover,
+.css-charity-2 #header.main-color-nav .navbar-2,
+.css-charity-2 .latest-post-data,
+.css-charity-2 .blog-single-post .bsp-heading h1,
+.css-charity-2 .testimonial-single .slick-dots li button:before,
+.css-charity-2 .slick-dots li button:before,
+.css-charity-2 .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-charity-2 .timeline-complete .timeline-status.timeline-active:before,
+.css-charity-2 .megamenu.maincolor,
+.css-charity-2 .dropdown.maincolor ul,
+.css-charity-2 .dropdown.maincolor ul.dropdown-menu,
+.css-charity-2 #footer.maincolor,
+.css-charity-2 #copyrights.maincolor,
+.css-charity-2 .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-charity-2 .cd-horizontal-timeline .events a.selected::after,
+.css-charity-2 .cd-horizontal-timeline .filling-line,
+.css-charity-2 .pinpulsebox span,
+.css-charity-2 .main-color-dropdown .megamenu,
+.css-charity-2 .main-color-dropdown .dropdown-menu,
+.css-charity-2 #cd-timeline::before,
+.css-charity-2 ul.icon-list.il-main-bg li [class^="icon-"],
+.css-charity-2 .process-steps ul li.current a .number,
+.css-charity-2 ol.ordered-list.ol-main-bg li:before,
+.css-charity-2 .irs-bar,
+.css-charity-2 .irs-from,
+.css-charity-2 .irs-to,
+.css-charity-2 .irs-single,
+.css-charity-2 .open > .dropdown-toggle.btn-default,
+.css-charity-2 .fc-unthemed .fc-today,
+.css-charity-2 .fc-content,
+.css-charity-2 #particles-js,
+.css-charity-2 .s-icon:hover,
+.css-charity-2 #progressbar li.active:before,
+.css-charity-2 #progressbar li.active:after,
+.css-charity-2 .portfolio-filter .selecter-item.activeFilter,
+.css-charity-2 #copyrights ul.widget-social li a:hover,
+.css-charity-2 .page-loader-spinner span,
+.css-charity-2 .loader-6:before,
+.css-charity-2 .loader-2,
+.css-charity-2 .loader-2:before,
+.css-charity-2 .loader-2:after,
+.css-charity-2 .newspaper-title .custom-slick-nav-1 .slick-custom-next:hover,
+.css-charity-2 .newspaper-title .custom-slick-nav-1 .slick-custom-prev:hover,
+.css-charity-2 .loader-10 > div,
+.css-charity-2 .loader-11 > div,
+.css-charity-2 .loader-12 > div,
+.css-charity-2 .loader-13 > div:first-child,
+.css-charity-2 .loader-14 > div,
+.css-charity-2 .loader-16 > div,
+.css-charity-2 .loader-17 > div,
+.css-charity-2 .loader-17 > div:before,
+.css-charity-2 .loader-17 > div:after,
+.css-charity-2 .loader-18 > div,
+.css-charity-2 .loader-19 > div,
+.css-charity-2 .loader-20 > div,
+.css-charity-2 .loader-22 > div,
+.css-charity-2 .loader-23 > div,
+.css-charity-2 .loader-24 > div,
+.css-charity-2 .loader-25 > div,
+.css-charity-2 .loader-26 > div,
+.css-charity-2 .loader-27 > div,
+.css-charity-2 .loader-28 > div,
+.css-charity-2 .loader-29 > div,
+.css-charity-2 .loader-32 > div,
+.css-charity-2 .loader-33 > div,
+.css-charity-2 .loader-35 > div:nth-child(3),
+.css-charity-2 .loader-35 > div:nth-child(4),
+.css-charity-2 .loader-35 > div:nth-child(5),
+.css-charity-2 .loader-35 > div:nth-child(6),
+.css-charity-2 .loader-37 > div,
+.css-charity-2 .loader-38 > div,
+.css-charity-2 .portfolio-single-share .pss-share li a:before,
+.css-charity-2 .portfolio-single-intro-description .portfolio-single-categories a:before,
+.css-charity-2 .portfolio-single-more-link:before,
+.css-charity-2 .checkbox input[type=checkbox]:checked + .checkbox-material .check,
+.css-charity-2 .radio input[type=radio]:checked ~ .check,
+.css-charity-2 .vlt-btn-group .dropdown-menu li a:hover,
+.css-charity-2 .gsi-step-indicator.triangle li.current>*,
+.css-charity-2 .gsi-style-4 li.current>*,
+.css-charity-2 .gsi-style-5 li.current>*,
+.css-charity-2 .gsi-style-6 li.current>* .number,
+.css-charity-2 .gsi-style-7 li.current:hover>*,
+.css-charity-2 .gsi-style-8 li.visited>*,
+.css-charity-2 .gsi-style-8 li.current>*,
+.css-charity-2 .gsi-style-9 li.visited>*:after,
+.css-charity-2 .gsi-style-9 li.current>*:after,
+.css-charity-2 .gsi-style-10 li.visited>*:after,
+.css-charity-2 .gsi-style-10 li.current>*:after,
+.css-charity-2 .gsi-style-11 li.current:before,
+.css-charity-2 .gsi-style-11 li.current:after,
+.css-charity-2 .gsi-style-11 li.visited:before,
+.css-charity-2 .gsi-style-11 li.visited:after,
+.css-charity-2 .gsi-style-11 li.visited>*:after,
+.css-charity-2 .gsi-style-11 li.current>*:after,
+.css-charity-2 .flatpickr-day.today:focus,
+.css-charity-2 .flatpickr-day.today:hover,
+.css-charity-2 .reveal-nav .navbar-toggle,
+.css-charity-2 .form-contact-3 .btn-default.disabled,
+.css-charity-2 .form-contact-3 .btn-default.disabled.active,
+.css-charity-2 .form-contact-3 .btn-default.disabled.focus,
+.css-charity-2 .form-contact-3 .btn-default.disabled:active,
+.css-charity-2 .form-contact-3 .btn-default.disabled:focus,
+.css-charity-2 .form-contact-3 .btn-default.disabled:hover,
+.css-charity-2 .form-contact-3 .btn-default[disabled],
+.css-charity-2 .form-contact-3 .btn-default[disabled].active,
+.css-charity-2 .form-contact-3 .btn-default[disabled].focus,
+.css-charity-2 .form-contact-3 .btn-default[disabled]:active,
+.css-charity-2 .form-contact-3 .btn-default[disabled]:focus,
+.css-charity-2 .form-contact-3 .btn-default[disabled]:hover,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-charity-2 .icon-box.icon-square:hover .icon-block span,
+.css-charity-2 #header.header-main-color-sticky.header-sticky,
+.css-charity-2 #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-charity-2 #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-charity-2 #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-charity-2 #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-charity-2 #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-charity-2 #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-charity-2 #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-charity-2 #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+    background-color: #29af8a;
+}
+/* Color 2 */
+
+.css-charity-2 .color-2,
+.css-charity-2 .cart-shop-products h3,
+.css-charity-2 .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-charity-2 .cart-shop-products-list li .csp-price,
+.css-charity-2 .sidebar-shop-products-list li .shop-star-rating li.full-star,
+.css-charity-2 .shop-list .shop-product .shop-star-rating li.full-star,
+.css-charity-2 ul.shop-star-rating li.full-star,
+.css-charity-2 ul.line-graph li:nth-child(2n),
+.css-charity-2 ul.donut-graph li:nth-child(2n),
+.css-charity-2 ul.bar-chart-graph li:nth-child(2n) {
+    color: #9ed112;
+}
+.color-2:hover {
+    color: #9ed112;
+}
+/* Background Color 2 */
+
+.css-charity-2 .background-2,
+.css-charity-2 .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-charity-2 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-charity-2 #header.background-2,
+.css-charity-2 .background-2-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-charity-2 .background-2-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-charity-2 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2,
+.css-charity-2 a.brand-modern span.line-2,
+.css-charity-2 .header.dark-nav a.brand-modern span.line-2,
+.css-charity-2 .wte-separator.background-2:before,
+.css-charity-2 .form-contact.dark-from .has-error .help-block,
+.css-charity-2 a.add-to-wishlist,
+.css-charity-2 .shop-list .shop-product:hover>a.add-to-wishlist,
+.css-charity-2 .slider-price-filter-box:after,
+.css-charity-2 .background-2-menu .megamenu,
+.css-charity-2 .background-2-menu .wsmenu-submenu li a,
+.css-charity-2 .background-2-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-charity-2 .background-2-menu .wsmenu-submenu,
+.css-charity-2 .background-2-menu .wsmenu-submenu-sub,
+.css-charity-2 .background-2-menu .wsmenu-submenu-sub-sub,
+.css-charity-2 .background-2-menu .wsmenu-submenu-sub-sub-sub,
+.css-charity-2 .shop-list .shop-product .shop-ribbon,
+.css-charity-2 .ui-slider-horizontal .ui-slider-range,
+.css-charity-2 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary,
+.css-charity-2 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    background-color: #9ed112;
+}
+/* Color 3 */
+
+.css-charity-2 .color-3,
+.css-charity-2 ul.line-graph li:nth-child(3n),
+.css-charity-2 ul.donut-graph li:nth-child(3n),
+.css-charity-2 ul.bar-chart-graph li:nth-child(3n),
+.css-charity-2 .navbar-toggle,
+.css-charity-2 .navbar-toggle:before {
+    color: #fa6f1c;
+}
+/* Background Color 3 */
+
+.css-charity-2 .background-3,
+.css-charity-2 .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-charity-2 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-charity-2 #header.background-3,
+.css-charity-2 .background-3-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-charity-2 .background-3-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-charity-2 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3,
+.css-charity-2 a.brand-modern span.line-3,
+.css-charity-2 .header.dark-nav a.brand-modern span.line-3,
+.css-charity-2 .wte-separator.background-3:before,
+.css-charity-2 .background-3-menu .megamenu,
+.css-charity-2 .background-3-menu .wsmenu-submenu li a,
+.css-charity-2 .background-3-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-charity-2 .background-3-menu .wsmenu-submenu,
+.css-charity-2 .background-3-menu .wsmenu-submenu-sub,
+.css-charity-2 .background-3-menu .wsmenu-submenu-sub-sub,
+.css-charity-2 .background-3-menu .wsmenu-submenu-sub-sub-sub {
+    background-color: #fa6f1c;
+}
+/* Border Color 1 */
+
+.css-charity-2 .border-background-1,
+.css-charity-2 .tp-caption .btn-default,
+.css-charity-2 .btn-default,
+.css-charity-2 .flex-control-paging li a.flex-active,
+.css-charity-2 .flexslider.clients .flex-control-paging li a.flex-active,
+.css-charity-2 .contact-info-3,
+.css-charity-2 .team-social a:hover,
+.css-charity-2 .contact-title-one h3:after,
+.css-charity-2 .home-title-one h3:after,
+.css-charity-2 #login-form .login-input:active,
+.css-charity-2 #login-form .login-input:focus,
+.css-charity-2 .load-more-wrapper a.load-more-btn:hover,
+.css-charity-2 #register-form .register-input:active,
+.css-charity-2 #register-form .register-input:focus,
+.css-charity-2 .dropcap.dropcap-style-1,
+.css-charity-2 .dropcap.dropcap-style-2,
+.css-charity-2 .alert-default,
+.css-charity-2 blockquote,
+.css-charity-2 .tp-caption .btn-default,
+.css-charity-2 .btn-default,
+.css-charity-2 .btn-default-reverse,
+.css-charity-2 .icon-box.icon-square .icon-block,
+.css-charity-2 .icon-box.icon-circle .icon-block,
+.css-charity-2 .icon-type.it-main-color,
+.css-charity-2 .icon-type.it-main-color:hover,
+.css-charity-2 .icon-type.it-main-color:focus,
+.css-charity-2 .icon-type.it-main-color-reverse,
+.css-charity-2 .icon-type.it-main-color-reverse:hover,
+.css-charity-2 .icon-type.it-main-color-reverse:focus,
+.css-charity-2 .add-to-cart-form .count-input .count-plus:hover,
+.css-charity-2 .add-to-cart-form .count-input .count-minus:hover,
+.css-charity-2 #reviewmodal .modal-header,
+.css-charity-2 .job-left-title h3,
+.css-charity-2 .pricing-table-container.special-price-table,
+.css-charity-2 .clients-slick-nav .slick-custom-next:hover,
+.css-charity-2 .clients-slick-nav .slick-custom-prev:hover,
+.css-charity-2 .tabpanel-style-8 .nav-tabs > li.active,
+.css-charity-2 a.btn-default.btn-animation-icon-box,
+.css-charity-2 .btn-default.btn-animation-icon-box:hover,
+.css-charity-2 .btn-default.btn-animation-icon-box:focus,
+.css-charity-2 .btn-default.btn-animation-icon-box:active,
+.css-charity-2 .tp-caption a.btn-default.btn-animation-icon-box,
+.css-charity-2 .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-charity-2 .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-charity-2 .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-charity-2 .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-charity-2 .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-charity-2 .clients-slick-nav .slick-clients-prev:hover,
+.css-charity-2 .clients-slick-nav .slick-clients-next:hover,
+.css-charity-2 .bsp-image,
+.css-charity-2 .blog-list > article.default-post .blog-desc,
+.css-charity-2 .testimonial-single li.slick-active button::before,
+.css-charity-2 .slick-dots li.slick-active button:before,
+.css-charity-2 .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-charity-2 .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-charity-2 .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-charity-2 .timeline-status.timeline-active:before,
+.css-charity-2 .cd-horizontal-timeline .events a.older-event::after,
+.css-charity-2 .cd-horizontal-timeline .events a.selected::after,
+.css-charity-2 .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-charity-2 .no-touch .cd-timeline-navigation a:hover,
+.css-charity-2 .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-charity-2 .cd-timeline-navigation a:hover,
+.css-charity-2 .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-charity-2 .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-charity-2 .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-charity-2 .login-form input:focus,
+.css-charity-2 .pinpulse,
+.css-charity-2 .open > .dropdown-toggle.btn-default,
+.css-charity-2 .tabpanel-style-7.shop-single-tabpanel .nav-tabs > li.active,
+.css-charity-2 .newspaper-title,
+.css-charity-2 .newspaper-separator,
+.css-charity-2 ul.widget-social.widget-social-sidebar li a:hover,
+.css-charity-2 .loader-30 > div,
+.css-charity-2 .loader-31 > div,
+.css-charity-2 .loader-35 > div:first-of-type,
+.css-charity-2 .loader-35 > div:nth-child(2),
+.css-charity-2 .radio input[type=radio]:checked ~ .circle,
+.css-charity-2 .gsi-step-indicator.triangle li.current>*,
+.css-charity-2 .gsi-style-7.border-right li.current>*,
+.css-charity-2 .gsi-style-7.border-bottom li.current>*,
+.css-charity-2 .gsi-style-7.border-left li.current>*,
+.css-charity-2 .flatpickr-day.today,
+.css-charity-2 .flatpickr-day.today:focus,
+.css-charity-2 .flatpickr-day.today:hover,
+.css-charity-2 .form-contact-3 .btn-default.disabled,
+.css-charity-2 .form-contact-3 .btn-default.disabled.active,
+.css-charity-2 .form-contact-3 .btn-default.disabled.focus,
+.css-charity-2 .form-contact-3 .btn-default.disabled:active,
+.css-charity-2 .form-contact-3 .btn-default.disabled:focus,
+.css-charity-2 .form-contact-3 .btn-default.disabled:hover,
+.css-charity-2 .form-contact-3 .btn-default[disabled],
+.css-charity-2 .form-contact-3 .btn-default[disabled].active,
+.css-charity-2 .form-contact-3 .btn-default[disabled].focus,
+.css-charity-2 .form-contact-3 .btn-default[disabled]:active,
+.css-charity-2 .form-contact-3 .btn-default[disabled]:focus,
+.css-charity-2 .form-contact-3 .btn-default[disabled]:hover,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-charity-2 .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-charity-2 .wsmenu-list li > .wsmenu-submenu,
+.css-charity-2 .wsmenu-list li > .megamenu,
+.css-charity-2 .table-style-1 thead tr th,
+.css-charity-2 .table-style-1 tbody tr:last-child th,
+.css-charity-2 .table-style-1 tbody tr:last-child td,
+.css-charity-2 .table-withmaincolor thead tr th,
+.css-charity-2 .clients-title-border h3,
+.css-charity-2 .cd-slider-nav li:hover,
+.css-charity-2 .selected,
+.css-charity-2 .icon-type-2:hover p,
+.css-charity-2 .icon-type-2:hover span.icon-type-2-icon,
+.css-charity-2 .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-charity-2 .activeFilter,
+.css-charity-2 .loader-12 > div,
+.css-charity-2 .loader-15 > div,
+.css-charity-2 .loader-15 > div:last-child,
+.css-charity-2 .loader-21 > div {
+    border-color: #29af8a;
+}
+.css-charity-2 .tabpanel-style-4 .nav-tabs > li.active,
+.css-charity-2 .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-charity-2 .tabpanel-style-5 .nav-tabs > li.active,
+.css-charity-2 .tabpanel-style-5 .nav-tabs > li.active > span,
+.css-charity-2 .loader-13 > div:last-child,
+.css-charity-2 .loader-15 > div:last-child {
+    border-color: #29af8a transparent;
+}
+.css-charity-2 .job-form input:focus,
+.css-charity-2 .job-form textarea:focus,
+.css-charity-2 .form-contact input:focus,
+.css-charity-2 .form-contact textarea:focus,
+.css-charity-2 .form-contact input:focus,
+.css-charity-2 .login-form input:focus,
+.css-charity-2 .login-form textarea:focus {
+    background-image: linear-gradient(#29af8a, #29af8a), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.css-charity-2 .btn-rounded,
+.css-charity-2 .form-control,
+.css-charity-2 .pagination-box .pager li a,
+.css-charity-2 .portfolio_overlay a.portfolio_zoom,
+.css-charity-2 .portfolio_overlay a.portfolio_link,
+.css-charity-2 .overlay-animation-2 .overlay_box a.image_link,
+.css-charity-2 .overlay-animation-2 .overlay_box a.video_zoom,
+.css-charity-2 a.home-breadcrumb,
+.css-charity-2 .overlay-animation-1 .overlay_box a.image_zoom,
+.css-charity-2 .overlay-animation-1 .overlay_box a.image_link,
+.css-charity-2 ul.widget-ul li a span,
+.css-charity-2 ul.widget-social li a,
+.css-charity-2 .team-2 .team-social a,
+.css-charity-2 .team-3 .team-social a,
+.css-charity-2 .team-social a,
+.css-charity-2 .benefits-box h1 {
+    border-radius: 100px;
+}
+.css-charity-2 ul.thumbs li a,
+.css-charity-2 ul.thumbs li a img,
+.css-charity-2 ul.thumbs li a:before,
+.css-charity-2 .widget-dribbble-box .shots li a,
+.css-charity-2 .widget-dribbble-box .shots li a img,
+.css-charity-2 .dribbble-box-dummy .shots-dummy li a,
+.css-charity-2 .dribbble-box-dummy .shots-dummy li a img,
+.css-charity-2 .instagram-widget a,
+.css-charity-2 .instagram-widget a img,
+.css-charity-2 .instagram-widget a:hover:before,
+.css-charity-2 .instagram-widget a:hover:after,
+.css-charity-2 .pricing-table-2-column,
+.css-charity-2 .pricing-table-3-column,
+.css-charity-2 .pricing-table-4 {
+    border-radius: 4px;
+}
+.css-charity-2 .icon-box-2-effect-3 .icon-block-2 {
+    box-shadow: 0 0 0 3px #29af8a;
+}
+.css-charity-2 .icon-box-2-effect-4 .icon-block-2,
+.css-charity-2 .icon-box-2-effect-5 .icon-block-2,
+.css-charity-2 .icon-box-2-effect-5:hover .icon-block-2,
+.css-charity-2 .icon-box-2-effect-1 .icon-block-2:after,
+.css-charity-2 .icon-box-2-effect-2 .icon-block-2:after {
+    box-shadow: 0 0 0 4px #29af8a;
+}
+.icon-box-2-effect-6 .icon-block-2:after,
+.css-charity-2 .scroll-to-top-fixed.sticky-btn:hover {
+    box-shadow: 0 0 0 2px #29af8a;
+}
+.css-charity-2 .empty-cart:after,
+.css-charity-2 .loader-34 > div {
+    border-bottom-color: #29af8a;
+}
+.css-charity-2 .btn-default-reverse:hover,
+.css-charity-2 .btn-default-reverse:focus {
+    background-color: #29af8a;
+    border-color: #29af8a;
+}
+.css-charity-2 .tp-caption .btn-default.active,
+.css-charity-2 .btn-default.active,
+.css-charity-2 .tp-caption .btn-default.focus,
+.css-charity-2 .btn-default.focus,
+.css-charity-2 .tp-caption .btn-default:active,
+.css-charity-2 .btn-default:active,
+.css-charity-2 .tp-caption .btn-default:focus,
+.css-charity-2 .btn-default:focus,
+.css-charity-2 .tp-caption .btn-default:hover,
+.css-charity-2 .btn-default:hover,
+.css-charity-2 #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 .btn-primary.btn-animation-icon-box,
+.css-charity-2 .btn-primary.btn-animation-icon-box:hover,
+.css-charity-2 .btn-primary.btn-animation-icon-box:focus,
+.css-charity-2 .btn-primary.btn-animation-icon-box:active,
+.css-charity-2 .tp-caption .btn-primary.btn-animation-icon-box,
+.css-charity-2 .tp-caption .btn-primary.btn-animation-icon-box:hover,
+.css-charity-2 .tp-caption .btn-primary.btn-animation-icon-box:focus,
+.css-charity-2 .tp-caption .btn-primary.btn-animation-icon-box:active,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #219575;
+}
+.css-charity-2 .metis .tp-tab.selected .tp-tab-divider {
+    border-right-color: #29af8a;
+}
+.css-charity-2 #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-charity-2 #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-charity-2 span.latest-post-month,
+.css-charity-2 .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-charity-2 .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu,
+.css-charity-2 .tp-caption .btn-default.active,
+.css-charity-2 .btn-default.active,
+.css-charity-2 .tp-caption .btn-default.focus,
+.css-charity-2 .btn-default.focus,
+.css-charity-2 .tp-caption .btn-default:active,
+.css-charity-2 .btn-default:active,
+.css-charity-2 .tp-caption .btn-default:focus,
+.css-charity-2 .btn-default:focus,
+.css-charity-2 .tp-caption .btn-default:hover,
+.css-charity-2 .btn-default:hover,
+.css-charity-2 #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-charity-2 #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-charity-2 #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-charity-2 #header.main-color-nav .navbar-2 .navbar-nav > .active > a,
+.css-charity-2 .btn-primary.btn-animation-icon-box .btn-text,
+.css-charity-2 .btn-primary.btn-animation-icon-box:hover .btn-text,
+.css-charity-2 .btn-primary.btn-animation-icon-box:focus .btn-text,
+.css-charity-2 .primary.btn-animation-icon-box:active .btn-text {
+    background-color: #219575;
+}
+.css-charity-2 .item-text-wrapper,
+.css-charity-2 .standard_hover .portfolio_overlay,
+.css-charity-2 .overlay-animation-1 .overlay_box,
+.css-charity-2 .flip-hover .flip-box .content-box,
+.css-charity-2 .team-8 .team-image .overlay-team-box,
+.css-charity-2 .team-9 .team-image .overlay-team-box,
+.css-charity-2 .portfolio-animation-slide .sliding-content {
+    background-color: rgba(41, 175, 138, 0.9);
+}
+.css-charity-2 .intro-block .overlay,
+.css-charity-2 ul.thumbs li a:before,
+.css-charity-2 .widget-dribbble-box .shots li a:before,
+.css-charity-2 .dribbble-box-dummy .shots-dummy li a:before,
+.css-charity-2 .sidebar-shop-products-list .image-thumb:before,
+.css-charity-2 .cart-shop-products-list .image-thumb:before,
+.css-charity-2 .overlay-bg.colored,
+.css-charity-2 .instagram-widget a:before,
+.css-charity-2 .overlay-bg.background-1 {
+    background-color: rgba(41, 175, 138, 0.75);
+}
+.forum-reply-signin {
+    background: rgba(41, 175, 138, 0.92);
+}
+.css-charity-2 .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-charity-2 .team-2 .overlay-team-box,
+.css-charity-2 .team-6 .overlay-team-box,
+.css-charity-2 .team-7 .overlay-team-box,
+.css-charity-2 .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-charity-2 .contact-overlay-map .overlay-map-background,
+.css-charity-2 .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-charity-2 .table-style-7.table-withmaincolor tbody tr th,
+.css-charity-2 .fc-bgevent,
+.css-charity-2 #particles-js.background-1 {
+    background-color: rgba(41, 175, 138, 0.6);
+}
+.css-charity-2 .widget-dribbble-box .shots li a:hover:before,
+.css-charity-2 .dribbble-box .shots li a:hover:before,
+.css-charity-2 .dribbble-box-dummy .shots-dummy li a:hover:before,
+.css-charity-2 .instagram-widget a:hover:before,
+.css-charity-2 .newspaper-sidebar-image-news > article a.image-box:before {
+    background-color: rgba(41, 175, 138, 0.85);
+}
+.css-charity-2 .price-filter-desc .btn {
+    background-color: #9ed112;
+    border-color: #9ed112;
+}
+.css-charity-2 .btn-default.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #29af8a;
+}
+.css-charity-2 .btn-default.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #29af8a;
+}
+.css-charity-2 .btn-default-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #29af8a;
+}
+.css-charity-2 .btn-default-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #29af8a;
+}
+.css-charity-2 .btn-primary {
+    background: #219575;
+    border-color: #219575;
+}
+.css-charity-2 .btn-primary:hover,
+.css-charity-2 .open > .dropdown-toggle.btn-primary,
+.css-charity-2 .btn-primary.active,
+.css-charity-2 .btn-primary.focus,
+.css-charity-2 .btn-primary:active,
+.css-charity-2 .css-charity-2 .btn-primary:focus {
+    background: #3c1a90;
+    border-color: #3c1a90;
+}
+.css-charity-2 .btn-primary-reverse {
+    color: #219575;
+    border-color: #219575;
+}
+.css-charity-2 .btn-primary-reverse:hover {
+    background-color: #219575;
+    border-color: #219575;
+}
+.css-charity-2 .btn-primary.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #219575;
+}
+.css-charity-2 .btn-primary.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #219575;
+}
+.css-charity-2 .btn-primary-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #219575;
+}
+.css-charity-2 .btn-primary-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #219575;
+}
+.css-charity-2 .blog-list > article.default-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #29af8a;
+}
+.css-charity-2 .blog-list > article.default-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #29af8a;
+}
+.css-charity-2 .blog-list > article.primary-post .blog-post-2 .bp2-category {
+    background: #219575;
+}
+.css-charity-2 .blog-list > article.primary-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #219575;
+}
+.css-charity-2 .blog-list > article.primary-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #219575;
+}
+.css-charity-2 .blog-list > article.primary-post .blog-desc {
+    border-top-color: #219575;
+}
+.css-charity-2 .blog-list > article.primary-post .blog-post-2 .bp2-desc {
+    border-bottom-color: #219575;
+}
+.css-charity-2 .btn-default.btn-animation-icon-box .btn-text,
+.css-charity-2 .btn-default.btn-animation-icon-box:hover .btn-text,
+.css-charity-2 .btn-default.btn-animation-icon-box:focus .btn-text,
+.css-charity-2 .btn-default.btn-animation-icon-box:active .btn-text {
+    background: #29af8a;
+}
+.css-charity-2 .btn-default.btn-animation-icon-box .btn-icon,
+.css-charity-2 .btn-default.btn-animation-icon-box:hover .btn-icon,
+.css-charity-2 .btn-default.btn-animation-icon-box:focus .btn-icon,
+.css-charity-2 .btn-default.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-charity-2 .btn-default-reverse.btn-animation-icon-box .btn-text,
+.css-charity-2 .btn-default-reverse.btn-animation-icon-box:hover .btn-text,
+.css-charity-2 .btn-default-reverse.btn-animation-icon-box:focus .btn-text,
+.css-charity-2 .btn-default-reverse.btn-animation-icon-box:active .btn-text {
+    color: #29af8a;
+}
+.css-charity-2 .btn-default-reverse.btn-animation-icon-box .btn-icon,
+.css-charity-2 .btn-default-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-charity-2 .btn-default-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-charity-2 .btn-default-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #29af8a;
+    color: #29af8a;
+}
+.css-charity-2 .btn-primary.btn-animation-icon-box .btn-icon,
+.css-charity-2 .btn-primary.btn-animation-icon-box:hover .btn-icon,
+.css-charity-2 .btn-primary.btn-animation-icon-box:focus .btn-icon,
+.css-charity-2 .btn-primary.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box .btn-text,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box:hover .btn-text,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box:focus .btn-text,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box:active .btn-text,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-charity-2 .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    color: #219575;
+}
+.css-charity-2 .tp-caption.btn.background-2:hover,
+.css-charity-2 .tp-caption.btn.background-2:focus,
+.css-charity-2 .tp-caption.btn.background-2:active {
+    background-color: #e33834;
+}
+.css-charity-2 .border-background-2 {
+    border-color: #fa6f1c;
+}
+.css-charity-2 .border-background-3 {
+    border-color: #9ed112;
+}
+.css-charity-2 .blog-list > article .featured-posts-slider .fp-desc {
+    background: rgba(41, 175, 138, 0.9);
+}
+.css-charity-2 .gsi-style-4 li.current>* .number:before {
+    border-left-color: #29af8a;
+}
+.css-charity-2 .gsi-style-7.border-top li.current>* {
+    border-top-color: #29af8a;
+}
+.css-charity-2 .icon-box.icon-circle .icon-block,
+.css-charity-2 .icon-box.icon-circle .icon-block span,
+.css-charity-2 .icon-block-2,
+.css-charity-2 .icon-block-2:after,
+.css-charity-2 .simple-icon-image img,
+.css-charity-2 .icon-image-overlay,
+.css-charity-2 .simple-icon-icon,
+.css-charity-2 .link-rounded-icon,
+.css-charity-2 .slider-slick-slide a [class^="icon-"],
+.css-charity-2 .flexslider.clients .flex-control-paging li a,
+.css-charity-2 .testimonial-single .slick-prev,
+.css-charity-2 .testimonial-single .slick-next,
+.css-charity-2 .testimonial-single .slick-dots li button:before,
+.css-charity-2 .slick-dots li button:before,
+.css-charity-2 .testimonials-slick-nav .slick-testimonial-prev,
+.css-charity-2 .testimonials-slick-nav .slick-testimonial-next,
+.css-charity-2 .block-content-wrapper h1 {
+    border-radius: 50px;
+}
+.css-charity-2 .loader-6 {
+    background: #29af8a;
+    background: -moz-linear-gradient(left, #29af8a 10%, rgba(41, 175, 138, 0) 42%);
+    background: -webkit-linear-gradient(left, #29af8a 10%, rgba(41, 175, 138, 0) 42%);
+    background: -o-linear-gradient(left, #29af8a 10%, rgba(41, 175, 138, 0) 42%);
+    background: -ms-linear-gradient(left, #29af8a 10%, rgba(41, 175, 138, 0) 42%);
+    background: linear-gradient(to right, #29af8a 10%, rgba(41, 175, 138, 0) 42%);
+}
+@-webkit-keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #29af8a, 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2), 2.5em 0em 0 0em rgba(41, 175, 138, 0.2), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.2), 0em 2.5em 0 0em rgba(41, 175, 138, 0.2), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.2), -2.6em 0em 0 0em rgba(41, 175, 138, 0.5), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.7), 1.8em -1.8em 0 0em #29af8a, 2.5em 0em 0 0em rgba(41, 175, 138, 0.2), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.2), 0em 2.5em 0 0em rgba(41, 175, 138, 0.2), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.2), -2.6em 0em 0 0em rgba(41, 175, 138, 0.2), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.5), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.7), 2.5em 0em 0 0em #29af8a, 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.2), 0em 2.5em 0 0em rgba(41, 175, 138, 0.2), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.2), -2.6em 0em 0 0em rgba(41, 175, 138, 0.2), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.2), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.5), 2.5em 0em 0 0em rgba(41, 175, 138, 0.7), 1.75em 1.75em 0 0em #29af8a, 0em 2.5em 0 0em rgba(41, 175, 138, 0.2), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.2), -2.6em 0em 0 0em rgba(41, 175, 138, 0.2), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.2), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2), 2.5em 0em 0 0em rgba(41, 175, 138, 0.5), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.7), 0em 2.5em 0 0em #29af8a, -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.2), -2.6em 0em 0 0em rgba(41, 175, 138, 0.2), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.2), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2), 2.5em 0em 0 0em rgba(41, 175, 138, 0.2), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.5), 0em 2.5em 0 0em rgba(41, 175, 138, 0.7), -1.8em 1.8em 0 0em #29af8a, -2.6em 0em 0 0em rgba(41, 175, 138, 0.2), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.2), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2), 2.5em 0em 0 0em rgba(41, 175, 138, 0.2), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.2), 0em 2.5em 0 0em rgba(41, 175, 138, 0.5), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.7), -2.6em 0em 0 0em #29af8a, -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.2), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2), 2.5em 0em 0 0em rgba(41, 175, 138, 0.2), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.2), 0em 2.5em 0 0em rgba(41, 175, 138, 0.2), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.5), -2.6em 0em 0 0em rgba(41, 175, 138, 0.7), -1.8em -1.8em 0 0em #29af8a;
+    }
+}
+@keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #29af8a, 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2), 2.5em 0em 0 0em rgba(41, 175, 138, 0.2), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.2), 0em 2.5em 0 0em rgba(41, 175, 138, 0.2), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.2), -2.6em 0em 0 0em rgba(41, 175, 138, 0.5), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.7), 1.8em -1.8em 0 0em #29af8a, 2.5em 0em 0 0em rgba(41, 175, 138, 0.2), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.2), 0em 2.5em 0 0em rgba(41, 175, 138, 0.2), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.2), -2.6em 0em 0 0em rgba(41, 175, 138, 0.2), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.5), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.7), 2.5em 0em 0 0em #29af8a, 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.2), 0em 2.5em 0 0em rgba(41, 175, 138, 0.2), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.2), -2.6em 0em 0 0em rgba(41, 175, 138, 0.2), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.2), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.5), 2.5em 0em 0 0em rgba(41, 175, 138, 0.7), 1.75em 1.75em 0 0em #29af8a, 0em 2.5em 0 0em rgba(41, 175, 138, 0.2), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.2), -2.6em 0em 0 0em rgba(41, 175, 138, 0.2), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.2), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2), 2.5em 0em 0 0em rgba(41, 175, 138, 0.5), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.7), 0em 2.5em 0 0em #29af8a, -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.2), -2.6em 0em 0 0em rgba(41, 175, 138, 0.2), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.2), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2), 2.5em 0em 0 0em rgba(41, 175, 138, 0.2), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.5), 0em 2.5em 0 0em rgba(41, 175, 138, 0.7), -1.8em 1.8em 0 0em #29af8a, -2.6em 0em 0 0em rgba(41, 175, 138, 0.2), -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.2), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2), 2.5em 0em 0 0em rgba(41, 175, 138, 0.2), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.2), 0em 2.5em 0 0em rgba(41, 175, 138, 0.5), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.7), -2.6em 0em 0 0em #29af8a, -1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(41, 175, 138, 0.2), 1.8em -1.8em 0 0em rgba(41, 175, 138, 0.2), 2.5em 0em 0 0em rgba(41, 175, 138, 0.2), 1.75em 1.75em 0 0em rgba(41, 175, 138, 0.2), 0em 2.5em 0 0em rgba(41, 175, 138, 0.2), -1.8em 1.8em 0 0em rgba(41, 175, 138, 0.5), -2.6em 0em 0 0em rgba(41, 175, 138, 0.7), -1.8em -1.8em 0 0em #29af8a;
+    }
+}
+.css-charity-2 .loader-3 {
+    border-top-color: rgba(41, 175, 138, 0.2);
+    border-right-color: rgba(41, 175, 138, 0.2);
+    border-bottom-color: rgba(41, 175, 138, 0.2);
+    border-left-color: #29af8a;
+}
+.css-charity-2 .svg-animation path {
+    stroke: #29af8a;
+}
+.css-charity-2 .loader-36 > div {
+    background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #29af8a 30%, #29af8a 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #29af8a 30%, #29af8a 100%);
+}
+.css-charity-2 .blockquote-style-2 blockquote:after, 
+.css-charity-2 .blockquote-style-2 blockquote:before{
+  background-color: transparent;
+}

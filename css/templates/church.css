@@ -1,0 +1,1226 @@
+/* Church */
+
+body.css-church,
+.css-church p,
+.css-church .featured-content h1.small,
+.css-church .form-group > label,
+.css-church .checkbox > label,
+.css-church .alert > p,
+.css-church .block-content-wrapper h2,
+.css-church .intro-text h1,
+.css-church .intro-text h2,
+.css-church .intro-text h3,
+.css-church .intro-text h4,
+.css-church .intro-text h5,
+.css-church .intro-text h6,
+.css-church .restaurant-info-img-content h4,
+.css-church .contact-title h3 {
+    font-family: "Open Sans", sans-serif;
+} 
+.css-church h1,
+.css-church h2,
+.css-church h3,
+.css-church h4,
+.css-church h5,
+.css-church h6,
+.css-church .testimonials-slider .testimonials-slider-box .testimonial-text {
+    font-family: "Open Sans", sans-serif;
+}
+/* Color 1 */
+
+.css-church .color-1,
+.css-church .wsmenu-list > li > a:hover,
+.css-church .dark-menu .wsmenu-submenu li a:hover,
+.css-church .dark-menu .wsmenu-submenu li a:hover,
+.css-church .dark-menu .megamenu .link-list li a:hover,
+.css-church #header ul.wsmenu-submenu li a.active,
+.css-church #portfolio-filter li a:hover,
+.css-church .wsmenu-list > li > a.active,
+.css-church #header .wsmenu.navigation-dark .wsmenu-list > li > a.active,
+.css-church #header .wsmenu.navigation-dark .wsmenu-list > li > a:hover,
+.css-church .dark-menu .megamenu .link-list li.active a,
+.css-church .cart-dropdown-menu .cart-shop-products-list li .csp-price,
+.css-church .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-church .light-menu .megamenu .link-list li.active a,
+.css-church .light-menu .megamenu .link-list li a:hover,
+.css-church .light-menu .wsmenu-submenu li a:hover,
+.css-church .light-menu .wsmenu-submenu li.active a,
+.css-church ul.simple-list li [class^="icon-"],
+.css-church .footer-tags a:hover,
+.css-church #footer .widget-twitter-box .tweet ul li a:hover,
+.css-church .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-church .blog-list>article .post-facebook:hover,
+.css-church .blog-list>article .post-facebook:hover .pf-icon span,
+.css-church .blog-list>article .post-facebook:hover .pf-text,
+.css-church ul.blog-popular-list .ssp-title:hover,
+.css-church #post-content .blog-desc-details a:hover,
+.css-church .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-church .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-church .author-description .author-description-text-holder .author-name a:hover,
+.css-church .comment_response .media h6 a:hover,
+.css-church .blog-list>article .post-facebook:hover,
+.css-church .blog-list>article .post-facebook:hover .pf-icon span,
+.css-church .blog-list>article .post-facebook:hover .pf-text,
+.css-church ul.blog-popular-list .ssp-title:hover,
+.css-church #post-content .blog-desc-details a:hover,
+.css-church .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-church .header-light.nav-sticky .wsmenu-list > li > a:hover,
+.css-church .header-light.nav-sticky .wsmenu-list > li > a.active,
+.css-church .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-church .author-description .author-description-text-holder .author-name a:hover,
+.css-church ul.sidebar-category li a:hover,
+.css-church ul.shop-star-rating.single-item li.full-star,
+.css-church,
+.css-church #footer.footer-10 .title.small a:hover,
+.css-church .vlt-left-menu.vlt-menu-style-2 .nav-accordion-section-title:hover,
+.css-church .vlt-left-menu .nav-accordion-section-content ul li a:hover,
+.css-church .header-content .phone-number span,
+.css-church .intro-block h6,
+.css-church .icon-block [class^="icon-"],
+.css-church ul.header-links li a:hover,
+.css-church .navbar.banner--clone .nav > li > a:hover,
+.css-church .navbar.banner--clone .btn-search:hover,
+.css-church .success-lg:hover [class^="icon-"],
+.css-church #copyrights ul li a:hover,
+.css-church #copyrights a:hover,
+.css-church .breadcrumb > .active,
+.css-church .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-church a.image_link:hover [class^="icon-"],
+.css-church a.load-more-btn:hover,
+.css-church a.load-more-btn:hover [class^="icon-"],
+.css-church .intro-block h1 [class^="icon-"],
+.css-church .shop-list .shop-product h4 a:hover,
+.css-church ul#portfolio-layout-filter li a.active,
+.css-church .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-church .shop-price,
+.css-church ul.sidebar-shop-cat > li > a:hover,
+.css-church a.load-more-btn:hover,
+.css-church a.load-more-btn:hover [class^="icon-"],
+.css-church .intro-block h1 [class^="icon-"],
+.css-church .shop-list .shop-product h4 a:hover,
+.css-church ul#portfolio-layout-filter li a.active,
+.css-church .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-church ul.sidebar-cat > li span,
+.css-church .shop-price,
+.css-church ul.sidebar-cat > li > a:hover,
+.css-church ul.jobs-list li [class^="icon-"],
+.css-church .team-social a:hover,
+.css-church .icon-default,
+.css-church .error-page-icon span [class^="icon-"],
+.css-church .footer-3-container-text a:hover,
+.css-church .testimonials-box .testimonial-author,
+.css-church #page-title.image-page-title-fullwidth h1,
+.css-church #page-title.image-page-title-left.image-page-noimage h2,
+.css-church ul.services-2-icons,
+.css-church ul.shop-layout-filter li a.active,
+.css-church ul.portfolio-layout-filter li a.active,
+.css-church ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-church .related-projects-title .slick-custom-next:hover,
+.css-church .related-projects-title .slick-custom-prev:hover,
+.css-church .recent-post-content a:hover,
+.css-church .form-group.login-form-submit a,
+.css-church .shop-type-1 a.add-to-cart-item:before,
+.css-church .shop-type-2 a.add-to-cart-item:before,
+.css-church a.form-forgotpass,
+.css-church .sidebar-shop-products-list li .ssp-title:hover,
+.css-church .restaurant-info ul li [class^="icon-"],
+.css-church .navbar-default.default .btn-cart .header-cart-count,
+.css-church .blog-list > article .blog-desc h4 a:focus,
+.css-church .blog-list-full > article .blog-desc h4 a:hover,
+.css-church .blog-list-full > article .blog-desc h4 a:focus,
+.css-church .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-church .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-church .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-church .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-church .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-church .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-church .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-church .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-church .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-church .blog-masonry > article .blog-desc h4 a:hover,
+.css-church .blog-masonry > article .blog-desc h4 a:focus,
+.css-church .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-church .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-church .comment_response .media_cloud a.reply_link,
+.css-church .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-church .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-church .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-church .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-church .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-church .dropcap.dropcap-style-1,
+.css-church .counter-box .count-icon,
+.css-church .counter-style-1 .counter-box h4,
+.css-church .icon-type,
+.css-church .icon-type.it-main-color,
+.css-church .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-church .comment_response .media_cloud a.reply_link,
+.css-church .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-church .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-church .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-church .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-church .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-church .dropcap.dropcap-style-1,
+.css-church .btn-default-reverse,
+.css-church .counter-box .count-icon,
+.css-church .counter-style-1 .counter-box h4,
+.css-church .icon-type,
+.css-church .icon-type.it-main-color,
+.css-church .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-church .review_response .media h6 a,
+.css-church .review_response .media_cloud .shop-star-rating li.full-star,
+.css-church .rating-container .rating-stars,
+.css-church .form-contact small,
+.css-church ul.icon-list li a:hover,
+.css-church ul.icon-list li a:active,
+.css-church ul.icon-list li a:focus,
+.css-church .checkout-sum,
+.css-church .checkout-table td a:hover,
+.css-church .checkout-box a,
+.css-church .user-profile-list ul li a:hover,
+.css-church a.profile-active,
+.css-church .user-profile-content h2,
+.css-church .forum-content-header span a,
+.css-church .recent-work-content a:hover,
+.css-church .recent-work-image-content a:hover,
+.css-church .contact-overlay-map .maximize-form:hover,
+.css-church .hero-slier-nav-content:hover [class^="icon-"],
+.css-church .selected .hero-slier-nav-content [class^="icon-"],
+.css-church .team-social a:hover,
+.css-church .team-name h5 a:hover,
+.css-church .clients-slick-nav .slick-custom-next:hover,
+.css-church .clients-slick-nav .slick-custom-prev:hover,
+.css-church .services-pricing-icon [class^="icon-"],
+.css-church .brand [class^="icon-"],
+.css-church .content-divider-colored [class^="icon-"],
+.css-church .divider-content h1 span,
+.css-church .divider-content h2 span,
+.css-church .divider-content h3 span,
+.css-church .intro-page-content a:hover,
+.css-church .image-box-content a:hover,
+.css-church .icon-type.it-main-color [class^="icon-"],
+.css-church .icon-type-2:hover p,
+.css-church .icon-type-2:hover span.icon-type-2-icon,
+.css-church .heading-container .head-colored,
+.css-church ul.home-6-list li h4 [class^="icon-"],
+.css-church .icon-box-2-effect-1:hover .icon-block-2,
+.css-church .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-church .icon-box-2-effect-4:hover .icon-block-2,
+.css-church .icon-box-2-effect-4-reverse .icon-block-2,
+.css-church .icon-box-2-effect-5:hover .icon-block-2,
+.css-church .simple-icon-lightbg [class^="icon-"],
+.css-church .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-church .panel-body ul li a:hover,
+.css-church .colored,
+.css-church .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-church .tabpanel-style-6 .nav-tabs > li > a,
+.css-church .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-church .tp_caption_big span,
+.css-church ul.icon-box-simple li:hover a,
+.css-church .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-church .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-church .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-church .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-church .blockquote-author p,
+.css-church .testimonial-author,
+.css-church .latest-post-content h1 a:hover,
+.css-church .post-by a:hover,
+.css-church .latest-post-content .read-more-link,
+.css-church .blog-horizontal .bh-content h3 a:hover,
+.css-church .blog-horizontal .bh-content .bh-details a:hover,
+.css-church .blog-horizontal .bh-content .bh-details a:hover span,
+.css-church a.bsp-title:hover,
+.css-church .sidebar-blog-post-list li .sbp-title:hover,
+.css-church .navbar-nav > li.active,
+.css-church .navbar-nav > li.active:hover,
+.css-church a.idb-social:hover,
+.css-church a.idb-social:hover span,
+.css-church a.idb-price,
+.css-church span.pts-raised,
+.css-church .bsp-social a:hover,
+.css-church .bsp-social a [class^="icon-"]:hover,
+.css-church a.bsp-more:hover,
+.css-church .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-church .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-church .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-church .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-church .gallery-block .gallery-box .gallery-meta a:hover,
+.css-church .gallery-block .gallery-box .gallery-meta a:focus,
+.css-church .tp-caption a,
+.css-church .tp-caption a:hover,
+.css-church .cd-timeline-inner-content a:hover,
+.css-church .testimonial-box .testimonial-author span,
+.css-church .fic-date a:hover,
+.css-church .forum-inner-content h1 a:hover,
+.css-church .user-profile-desc a:hover,
+.css-church .cd-timeline-navigation a:hover::after,
+.css-church .login-form .login-input-box [class^="icon-"],
+.css-church .icon-input-box [class^="icon-"],
+.css-church ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-church ul.bar-chart-graph li,
+.css-church ul.line-graph li,
+.css-church ul.donut-graph li,
+.css-church .tp-caption.Creative-SubTitle,
+.css-church .Creative-SubTitle,
+.css-church .tp-caption.vlt-hero-rotating,
+.css-church ul.recent-post-widget .rp-post a:hover,
+.css-church .loader-5,
+.css-church .loader-7,
+.css-church .loader-9,
+.css-church .loader-2,
+.css-church .loader-4,
+.css-church .vertical-newspaper-list .vnl-content h4 a:hover,
+.css-church .vertical-newspaper-sidebar-list .vnl-content h4 a:hover,
+.css-church .events-vertical .events-vertical-desc h4 a:hover,
+.css-church .portfolio-single-share .pss-share li a:hover,
+.css-church .portfolio-single-share .pss-like:hover,
+.css-church .portfolio-single-intro-description .portfolio-single-categories a:hover,
+.css-church .portfolio-single-more-link:hover,
+.css-church .gsi-style-9 li.visited>*,
+.css-church .gsi-style-9 li.current>*,
+.css-church .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-church .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-church .header-contact-box .header-phone:hover,
+.css-church .header-contact-box .header-email:hover,
+.css-church .icon-box.icon-square .icon-block span,
+.css-church .icon-box.icon-square.icon-fill.icon-transform:hover .icon-block span {
+    color: #D14D42;
+}
+/* Background Color 1 */
+
+.css-church .background-1,
+.css-church .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-church .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-church .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1,
+.css-church a.brand-modern span.line-1,
+.css-church .header.dark-nav a.brand-modern span.line-1,
+.css-church .wte-separator.background-1:before,
+.css-church .call-newsletter-box form .btn,
+.css-church .offscreen-container,
+.css-church #header.background-1,
+.css-church .background-1-menu .megamenu,
+.css-church .background-1-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-church .background-1-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-church .background-1-menu .wsmenu-submenu li a,
+.css-church .background-1-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-church .background-1-menu .wsmenu-submenu,
+.css-church .background-1-menu .wsmenu-submenu-sub,
+.css-church .background-1-menu .wsmenu-submenu-sub-sub,
+.css-church .background-1-menu .wsmenu-submenu-sub-sub-sub,
+.css-church #portfolio-filter li a.activeFilter,
+.css-church #portfolio-filter li a.activeFilter[data-filter="*"],
+.css-church #header .search-cart-navbar:hover .btn-default,
+.css-church .scroll-to-top-fixed,
+.css-church #bootstrap-table.table>thead>tr>th,
+.css-church ul.meta-share-social li a:hover,
+.css-church article.blog-item .blog-image-box .video-play-icon span,
+.css-church .audioplayer,
+.css-church .audioplayer-bar,
+.css-church .blog-desc-details:after,
+.css-church .audioplayer-volume-adjust div div,
+.css-church .qoute-post,
+.css-church .footer-newsletter-box form .btn,
+.css-church .footer-newsletter-box form .btn.disabled,
+.css-church .tags-cloud-list li a:hover,
+.css-church article.blog-item .blog-image-box.video-post:before,
+.css-church .tp-caption .btn-default,
+.css-church .btn-default,
+.css-church .flex-control-paging li a.flex-active,
+.css-church #mobile-navbar,
+.css-church .call-to-action,
+.css-church .maincolor-background,
+.css-church ul.widget-ul li a > span,
+.css-church ul.widget-social li a:hover,
+.css-church #people .item .info,
+.css-church .main-color,
+.css-church .flexslider.clients .flex-control-paging li a.flex-active,
+.css-church #portfolio-filter li a:after,
+.css-church .navbar.banner--clone .nav li.active > a,
+.css-church .pricing-table-column.special-price-table .pricing-table-head,
+.css-church .pricing-table-column.special-price-table .pricing-table-content,
+.css-church .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-church .progress-bar-box .progress-bar,
+.css-church .background-1,
+.css-church .selecter .selecter-item:hover,
+.css-church .selecter .selecter-item.selected:hover,
+.css-church #footer.colored,
+.css-church section.about-counter,
+.css-church .error-page-title:after,
+.css-church .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-church .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-church .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-church .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-church .tabpanel-style-4 .tab-content h3:after,
+.css-church .about-classic-column-themecolor,
+.css-church .selecter .selecter-item:hover,
+.css-church .selecter .selecter-item.selected:hover,
+.css-church .item-text-wrapper_overlay,
+.css-church .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-church .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-church .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-church .shop-type-2 a.add-to-cart-item,
+.css-church .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-church .search-cart-navbar .btn-cart .header-cart-count,
+.css-church .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-church .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-church .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-church .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-church .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-church .dropcap.dropcap-style-2,
+.css-church .alert-default,
+.css-church blockquote:before,
+.css-church blockquote:after,
+.css-church .tp-caption .btn-default,
+.css-church .btn-default,
+.css-church .content-title h5:before,
+.css-church .content-title h5:after,
+.css-church .icon-box.icon-fill .icon-block,
+.css-church .icon-box.icon-square:hover .icon-block,
+.css-church .icon-box.icon-circle:hover .icon-block,
+.css-church .icon-box.icon-circle:hover .icon-block span,
+.css-church .icon-type.it-main-color:hover,
+.css-church .icon-type.it-main-color:focus,
+.css-church .icon-type.it-main-color-reverse,
+.css-church .icon-type.it-main-color:hover span,
+.css-church .icon-type.it-main-color-reverse:hover span,
+.css-church .add-to-cart-form .count-input .count-plus:hover,
+.css-church .add-to-cart-form .count-input .count-minus:hover,
+.css-church .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-church .pricing-table-container.special-price-table,
+.css-church .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-church .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-church ul.forum-list li.forum-header,
+.css-church .textbox-withmaincolor,
+.css-church .background-1,
+.css-church .team-member-job,
+.css-church .team-section .team-desc-box:before,
+.css-church .team-section .team-desc-box:after,
+.css-church .shop-categories:hover .shop-title-categories,
+.css-church .content-divider-colored-bg [class^="icon-"],
+.css-church .overlay-animation-6 .content-box,
+.css-church .block-content-wrapper h1,
+.css-church .benefits-box h1,
+.css-church .selecter .selecter-item:hover,
+.css-church .selecter .selecter-item.selected:hover,
+.css-church .ui-slider .ui-slider-range,
+.css-church #header.header-main-color,
+.css-church .navbar-2.banner--clone.main-color-navbar,
+.css-church .tabpanel-style-center .nav-tabs > li.active > a,
+.css-church .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-church .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-church .label.label-primary,
+.css-church .label.label-primary,
+.css-church .star-rating .caption .label,
+.css-church .tparrows.preview5:hover,
+.css-church .table-style-4.table-withmaincolor thead tr th,
+.css-church .table-style-5.table-withmaincolor thead tr th,
+.css-church .table-style-6.table-withmaincolor thead tr th,
+.css-church .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-church .table-style-7.table-withmaincolor thead tr th,
+.css-church .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-church .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-church .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-church .table-style-2.table-withmaincolor thead tr th,
+.css-church .table-style-3.table-withmaincolor thead tr th,
+.css-church .table-style-3.table-withmaincolor tbody tr th,
+.css-church .parallax-withmaincolor,
+.css-church .contact-overlay-map .minimize-form:hover,
+.css-church .team-3:hover .team-social,
+.css-church .team-5:hover .team-social,
+.css-church .special-table-2,
+.css-church .special-table-3,
+.css-church span.pricing-3-discount,
+.css-church #vertical-timeline-container:before,
+.css-church .subscribe-fancy-themebg,
+.css-church .empty-cart,
+.css-church .team-4:hover .team-social,
+.css-church .content-divider-colored,
+.css-church .content-divider-colored-bg,
+.css-church .withmainbackground,
+.css-church .services-2-heading,
+.css-church .icon-box-2-effect-4 .icon-block-2,
+.css-church .services-2-heading,
+.css-church .promotion-box-theme-colored,
+.css-church .promotion-box-theme-colored .promotion-box-title h4,
+.css-church .icon-block-2,
+.css-church .icon-box-2-effect-2:hover .icon-block-2,
+.css-church .icon-box-2-effect-3 .icon-block-2:after,
+.css-church .icon-box-2-effect-4 .icon-block-2:after,
+.css-church .icon-box-2-effect-6 .icon-block-2,
+.css-church .icon-box-2-effect-6:hover .icon-block-2,
+.css-church .simple-icon-icon,
+.css-church a.call-to-action-link:hover,
+.css-church .add-to-cart-form .count-input .count-plus,
+.css-church .add-to-cart-form .count-input .count-minus,
+.css-church .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-church .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-church .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-church .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-church .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-church .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-church .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-church .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-church .special-price-box,
+.css-church .dropdown-menu > .active > a,
+.css-church .dropdown-menu > .active > a:focus,
+.css-church .dropdown-menu > .active > a:hover,
+.css-church #header.main-color-nav .navbar-2,
+.css-church .latest-post-data,
+.css-church .blog-single-post .bsp-heading h1,
+.css-church .testimonial-single .slick-dots li button:before,
+.css-church .slick-dots li button:before,
+.css-church .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-church .timeline-complete .timeline-status.timeline-active:before,
+.css-church .megamenu.maincolor,
+.css-church .dropdown.maincolor ul,
+.css-church .dropdown.maincolor ul.dropdown-menu,
+.css-church #footer.maincolor,
+.css-church #copyrights.maincolor,
+.css-church .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-church .cd-horizontal-timeline .events a.selected::after,
+.css-church .cd-horizontal-timeline .filling-line,
+.css-church .pinpulsebox span,
+.css-church .main-color-dropdown .megamenu,
+.css-church .main-color-dropdown .dropdown-menu,
+.css-church #cd-timeline::before,
+.css-church ul.icon-list.il-main-bg li [class^="icon-"],
+.css-church .process-steps ul li.current a .number,
+.css-church ol.ordered-list.ol-main-bg li:before,
+.css-church .irs-bar,
+.css-church .irs-from,
+.css-church .irs-to,
+.css-church .irs-single,
+.css-church .open > .dropdown-toggle.btn-default,
+.css-church .fc-unthemed .fc-today,
+.css-church .fc-content,
+.css-church #particles-js,
+.css-church .s-icon:hover,
+.css-church #progressbar li.active:before,
+.css-church #progressbar li.active:after,
+.css-church .portfolio-filter .selecter-item.activeFilter,
+.css-church #copyrights ul.widget-social li a:hover,
+.css-church .page-loader-spinner span,
+.css-church .loader-6:before,
+.css-church .loader-2,
+.css-church .loader-2:before,
+.css-church .loader-2:after,
+.css-church .newspaper-title .custom-slick-nav-1 .slick-custom-next:hover,
+.css-church .newspaper-title .custom-slick-nav-1 .slick-custom-prev:hover,
+.css-church .loader-10 > div,
+.css-church .loader-11 > div,
+.css-church .loader-12 > div,
+.css-church .loader-13 > div:first-child,
+.css-church .loader-14 > div,
+.css-church .loader-16 > div,
+.css-church .loader-17 > div,
+.css-church .loader-17 > div:before,
+.css-church .loader-17 > div:after,
+.css-church .loader-18 > div,
+.css-church .loader-19 > div,
+.css-church .loader-20 > div,
+.css-church .loader-22 > div,
+.css-church .loader-23 > div,
+.css-church .loader-24 > div,
+.css-church .loader-25 > div,
+.css-church .loader-26 > div,
+.css-church .loader-27 > div,
+.css-church .loader-28 > div,
+.css-church .loader-29 > div,
+.css-church .loader-32 > div,
+.css-church .loader-33 > div,
+.css-church .loader-35 > div:nth-child(3),
+.css-church .loader-35 > div:nth-child(4),
+.css-church .loader-35 > div:nth-child(5),
+.css-church .loader-35 > div:nth-child(6),
+.css-church .loader-37 > div,
+.css-church .loader-38 > div,
+.css-church .portfolio-single-share .pss-share li a:before,
+.css-church .portfolio-single-intro-description .portfolio-single-categories a:before,
+.css-church .portfolio-single-more-link:before,
+.css-church .checkbox input[type=checkbox]:checked + .checkbox-material .check,
+.css-church .radio input[type=radio]:checked ~ .check,
+.css-church .vlt-btn-group .dropdown-menu li a:hover,
+.css-church .gsi-step-indicator.triangle li.current>*,
+.css-church .gsi-style-4 li.current>*,
+.css-church .gsi-style-5 li.current>*,
+.css-church .gsi-style-6 li.current>* .number,
+.css-church .gsi-style-7 li.current:hover>*,
+.css-church .gsi-style-8 li.visited>*,
+.css-church .gsi-style-8 li.current>*,
+.css-church .gsi-style-9 li.visited>*:after,
+.css-church .gsi-style-9 li.current>*:after,
+.css-church .gsi-style-10 li.visited>*:after,
+.css-church .gsi-style-10 li.current>*:after,
+.css-church .gsi-style-11 li.current:before,
+.css-church .gsi-style-11 li.current:after,
+.css-church .gsi-style-11 li.visited:before,
+.css-church .gsi-style-11 li.visited:after,
+.css-church .gsi-style-11 li.visited>*:after,
+.css-church .gsi-style-11 li.current>*:after,
+.css-church .flatpickr-day.today:focus,
+.css-church .flatpickr-day.today:hover,
+.css-church .reveal-nav .navbar-toggle,
+.css-church .form-contact-3 .btn-default.disabled,
+.css-church .form-contact-3 .btn-default.disabled.active,
+.css-church .form-contact-3 .btn-default.disabled.focus,
+.css-church .form-contact-3 .btn-default.disabled:active,
+.css-church .form-contact-3 .btn-default.disabled:focus,
+.css-church .form-contact-3 .btn-default.disabled:hover,
+.css-church .form-contact-3 .btn-default[disabled],
+.css-church .form-contact-3 .btn-default[disabled].active,
+.css-church .form-contact-3 .btn-default[disabled].focus,
+.css-church .form-contact-3 .btn-default[disabled]:active,
+.css-church .form-contact-3 .btn-default[disabled]:focus,
+.css-church .form-contact-3 .btn-default[disabled]:hover,
+.css-church .form-contact-3 fieldset[disabled] .btn-default,
+.css-church .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-church .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-church .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-church .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-church .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-church .icon-box.icon-square:hover .icon-block span,
+.css-church #header.header-main-color-sticky.header-sticky,
+.css-church #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-church #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-church #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-church #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-church #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-church #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-church #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-church #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+    background-color: #D14D42;
+}
+/* Color 2 */
+
+.css-church .color-2,
+.css-church .cart-shop-products h3,
+.css-church .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-church .cart-shop-products-list li .csp-price,
+.css-church .sidebar-shop-products-list li .shop-star-rating li.full-star,
+.css-church .shop-list .shop-product .shop-star-rating li.full-star,
+.css-church ul.shop-star-rating li.full-star,
+.css-church ul.line-graph li:nth-child(2n),
+.css-church ul.donut-graph li:nth-child(2n),
+.css-church ul.bar-chart-graph li:nth-child(2n) {
+    color: #bea98d;
+}
+.color-2:hover {
+    color: #bea98d;
+}
+/* Background Color 2 */
+
+.css-church .background-2,
+.css-church .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-church .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-church #header.background-2,
+.css-church .background-2-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-church .background-2-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-church .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2,
+.css-church a.brand-modern span.line-2,
+.css-church .header.dark-nav a.brand-modern span.line-2,
+.css-church .wte-separator.background-2:before,
+.css-church .form-contact.dark-from .has-error .help-block,
+.css-church a.add-to-wishlist,
+.css-church .shop-list .shop-product:hover>a.add-to-wishlist,
+.css-church .slider-price-filter-box:after,
+.css-church .background-2-menu .megamenu,
+.css-church .background-2-menu .wsmenu-submenu li a,
+.css-church .background-2-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-church .background-2-menu .wsmenu-submenu,
+.css-church .background-2-menu .wsmenu-submenu-sub,
+.css-church .background-2-menu .wsmenu-submenu-sub-sub,
+.css-church .background-2-menu .wsmenu-submenu-sub-sub-sub,
+.css-church .shop-list .shop-product .shop-ribbon,
+.css-church .ui-slider-horizontal .ui-slider-range,
+.css-church .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary,
+.css-church .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    background-color: #bea98d;
+}
+/* Color 3 */
+
+.css-church .color-3,
+.css-church ul.line-graph li:nth-child(3n),
+.css-church ul.donut-graph li:nth-child(3n),
+.css-church ul.bar-chart-graph li:nth-child(3n),
+.css-church .navbar-toggle,
+.css-church .navbar-toggle:before {
+    color: #f1d793;
+}
+/* Background Color 3 */
+
+.css-church .background-3,
+.css-church .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-church .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-church #header.background-3,
+.css-church .background-3-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-church .background-3-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-church .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3,
+.css-church a.brand-modern span.line-3,
+.css-church .header.dark-nav a.brand-modern span.line-3,
+.css-church .wte-separator.background-3:before,
+.css-church .background-3-menu .megamenu,
+.css-church .background-3-menu .wsmenu-submenu li a,
+.css-church .background-3-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-church .background-3-menu .wsmenu-submenu,
+.css-church .background-3-menu .wsmenu-submenu-sub,
+.css-church .background-3-menu .wsmenu-submenu-sub-sub,
+.css-church .background-3-menu .wsmenu-submenu-sub-sub-sub {
+    background-color: #f1d793;
+}
+/* Border Color 1 */
+
+.css-church .border-background-1,
+.css-church .tp-caption .btn-default,
+.css-church .btn-default,
+.css-church .flex-control-paging li a.flex-active,
+.css-church .flexslider.clients .flex-control-paging li a.flex-active,
+.css-church .contact-info-3,
+.css-church .team-social a:hover,
+.css-church .contact-title-one h3:after,
+.css-church .home-title-one h3:after,
+.css-church #login-form .login-input:active,
+.css-church #login-form .login-input:focus,
+.css-church .load-more-wrapper a.load-more-btn:hover,
+.css-church #register-form .register-input:active,
+.css-church #register-form .register-input:focus,
+.css-church .dropcap.dropcap-style-1,
+.css-church .dropcap.dropcap-style-2,
+.css-church .alert-default,
+.css-church blockquote,
+.css-church .tp-caption .btn-default,
+.css-church .btn-default,
+.css-church .btn-default-reverse,
+.css-church .icon-box.icon-square .icon-block,
+.css-church .icon-box.icon-circle .icon-block,
+.css-church .icon-type.it-main-color,
+.css-church .icon-type.it-main-color:hover,
+.css-church .icon-type.it-main-color:focus,
+.css-church .icon-type.it-main-color-reverse,
+.css-church .icon-type.it-main-color-reverse:hover,
+.css-church .icon-type.it-main-color-reverse:focus,
+.css-church .add-to-cart-form .count-input .count-plus:hover,
+.css-church .add-to-cart-form .count-input .count-minus:hover,
+.css-church #reviewmodal .modal-header,
+.css-church .job-left-title h3,
+.css-church .pricing-table-container.special-price-table,
+.css-church .clients-slick-nav .slick-custom-next:hover,
+.css-church .clients-slick-nav .slick-custom-prev:hover,
+.css-church .tabpanel-style-8 .nav-tabs > li.active,
+.css-church a.btn-default.btn-animation-icon-box,
+.css-church .btn-default.btn-animation-icon-box:hover,
+.css-church .btn-default.btn-animation-icon-box:focus,
+.css-church .btn-default.btn-animation-icon-box:active,
+.css-church .tp-caption a.btn-default.btn-animation-icon-box,
+.css-church .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-church .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-church .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-church .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-church .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-church .clients-slick-nav .slick-clients-prev:hover,
+.css-church .clients-slick-nav .slick-clients-next:hover,
+.css-church .bsp-image,
+.css-church .blog-list > article.default-post .blog-desc,
+.css-church .testimonial-single li.slick-active button::before,
+.css-church .slick-dots li.slick-active button:before,
+.css-church .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-church .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-church .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-church .timeline-status.timeline-active:before,
+.css-church .cd-horizontal-timeline .events a.older-event::after,
+.css-church .cd-horizontal-timeline .events a.selected::after,
+.css-church .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-church .no-touch .cd-timeline-navigation a:hover,
+.css-church .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-church .cd-timeline-navigation a:hover,
+.css-church .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-church .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-church .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-church .login-form input:focus,
+.css-church .pinpulse,
+.css-church .open > .dropdown-toggle.btn-default,
+.css-church .tabpanel-style-7.shop-single-tabpanel .nav-tabs > li.active,
+.css-church .newspaper-title,
+.css-church .newspaper-separator,
+.css-church ul.widget-social.widget-social-sidebar li a:hover,
+.css-church .loader-30 > div,
+.css-church .loader-31 > div,
+.css-church .loader-35 > div:first-of-type,
+.css-church .loader-35 > div:nth-child(2),
+.css-church .radio input[type=radio]:checked ~ .circle,
+.css-church .gsi-step-indicator.triangle li.current>*,
+.css-church .gsi-style-7.border-right li.current>*,
+.css-church .gsi-style-7.border-bottom li.current>*,
+.css-church .gsi-style-7.border-left li.current>*,
+.css-church .flatpickr-day.today,
+.css-church .flatpickr-day.today:focus,
+.css-church .flatpickr-day.today:hover,
+.css-church .form-contact-3 .btn-default.disabled,
+.css-church .form-contact-3 .btn-default.disabled.active,
+.css-church .form-contact-3 .btn-default.disabled.focus,
+.css-church .form-contact-3 .btn-default.disabled:active,
+.css-church .form-contact-3 .btn-default.disabled:focus,
+.css-church .form-contact-3 .btn-default.disabled:hover,
+.css-church .form-contact-3 .btn-default[disabled],
+.css-church .form-contact-3 .btn-default[disabled].active,
+.css-church .form-contact-3 .btn-default[disabled].focus,
+.css-church .form-contact-3 .btn-default[disabled]:active,
+.css-church .form-contact-3 .btn-default[disabled]:focus,
+.css-church .form-contact-3 .btn-default[disabled]:hover,
+.css-church .form-contact-3 fieldset[disabled] .btn-default,
+.css-church .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-church .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-church .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-church .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-church .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-church .wsmenu-list li > .wsmenu-submenu,
+.css-church .wsmenu-list li > .megamenu,
+.css-church .table-style-1 thead tr th,
+.css-church .table-style-1 tbody tr:last-child th,
+.css-church .table-style-1 tbody tr:last-child td,
+.css-church .table-withmaincolor thead tr th,
+.css-church .clients-title-border h3,
+.css-church .cd-slider-nav li:hover,
+.css-church .selected,
+.css-church .icon-type-2:hover p,
+.css-church .icon-type-2:hover span.icon-type-2-icon,
+.css-church .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-church .activeFilter,
+.css-church .loader-12 > div,
+.css-church .loader-15 > div,
+.css-church .loader-15 > div:last-child,
+.css-church .loader-21 > div {
+    border-color: #D14D42;
+}
+.css-church .tabpanel-style-4 .nav-tabs > li.active,
+.css-church .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-church .tabpanel-style-5 .nav-tabs > li.active,
+.css-church .tabpanel-style-5 .nav-tabs > li.active > span,
+.css-church .loader-13 > div:last-child,
+.css-church .loader-15 > div:last-child {
+    border-color: #D14D42 transparent;
+}
+.css-church .job-form input:focus,
+.css-church .job-form textarea:focus,
+.css-church .form-contact input:focus,
+.css-church .form-contact textarea:focus,
+.css-church .form-contact input:focus,
+.css-church .login-form input:focus,
+.css-church .login-form textarea:focus {
+    background-image: linear-gradient(#D14D42, #D14D42), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.css-church .btn-rounded,
+.css-church .form-control,
+.css-church .pagination-box .pager li a,
+.css-church .portfolio_overlay a.portfolio_zoom,
+.css-church .portfolio_overlay a.portfolio_link,
+.css-church .overlay-animation-2 .overlay_box a.image_link,
+.css-church .overlay-animation-2 .overlay_box a.video_zoom,
+.css-church a.home-breadcrumb,
+.css-church .overlay-animation-1 .overlay_box a.image_zoom,
+.css-church .overlay-animation-1 .overlay_box a.image_link,
+.css-church ul.widget-ul li a span,
+.css-church ul.widget-social li a,
+.css-church .team-2 .team-social a,
+.css-church .team-3 .team-social a,
+.css-church .team-social a,
+.css-church .benefits-box h1 {
+    border-radius: 100px;
+}
+.css-church ul.thumbs li a,
+.css-church ul.thumbs li a img,
+.css-church ul.thumbs li a:before,
+.css-church .widget-dribbble-box .shots li a,
+.css-church .widget-dribbble-box .shots li a img,
+.css-church .dribbble-box-dummy .shots-dummy li a,
+.css-church .dribbble-box-dummy .shots-dummy li a img,
+.css-church .instagram-widget a,
+.css-church .instagram-widget a img,
+.css-church .instagram-widget a:hover:before,
+.css-church .instagram-widget a:hover:after,
+.css-church .pricing-table-2-column,
+.css-church .pricing-table-3-column,
+.css-church .pricing-table-4 {
+    border-radius: 4px;
+}
+.css-church .icon-box-2-effect-3 .icon-block-2 {
+    box-shadow: 0 0 0 3px #D14D42;
+}
+.css-church .icon-box-2-effect-4 .icon-block-2,
+.css-church .icon-box-2-effect-5 .icon-block-2,
+.css-church .icon-box-2-effect-5:hover .icon-block-2,
+.css-church .icon-box-2-effect-1 .icon-block-2:after,
+.css-church .icon-box-2-effect-2 .icon-block-2:after {
+    box-shadow: 0 0 0 4px #D14D42;
+}
+.icon-box-2-effect-6 .icon-block-2:after,
+.css-church .scroll-to-top-fixed.sticky-btn:hover {
+    box-shadow: 0 0 0 2px #D14D42;
+}
+.css-church .empty-cart:after,
+.css-church .loader-34 > div {
+    border-bottom-color: #D14D42;
+}
+.css-church .btn-default-reverse:hover,
+.css-church .btn-default-reverse:focus {
+    background-color: #D14D42;
+    border-color: #D14D42;
+}
+.css-church .tp-caption .btn-default.active,
+.css-church .btn-default.active,
+.css-church .tp-caption .btn-default.focus,
+.css-church .btn-default.focus,
+.css-church .tp-caption .btn-default:active,
+.css-church .btn-default:active,
+.css-church .tp-caption .btn-default:focus,
+.css-church .btn-default:focus,
+.css-church .tp-caption .btn-default:hover,
+.css-church .btn-default:hover,
+.css-church #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-church .btn-primary.btn-animation-icon-box,
+.css-church .btn-primary.btn-animation-icon-box:hover,
+.css-church .btn-primary.btn-animation-icon-box:focus,
+.css-church .btn-primary.btn-animation-icon-box:active,
+.css-church .tp-caption .btn-primary.btn-animation-icon-box,
+.css-church .tp-caption .btn-primary.btn-animation-icon-box:hover,
+.css-church .tp-caption .btn-primary.btn-animation-icon-box:focus,
+.css-church .tp-caption .btn-primary.btn-animation-icon-box:active,
+.css-church .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-church .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-church .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-church .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #bb443a;
+}
+.css-church .metis .tp-tab.selected .tp-tab-divider {
+    border-right-color: #D14D42;
+}
+.css-church #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-church #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-church span.latest-post-month,
+.css-church .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-church .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu,
+.css-church .tp-caption .btn-default.active,
+.css-church .btn-default.active,
+.css-church .tp-caption .btn-default.focus,
+.css-church .btn-default.focus,
+.css-church .tp-caption .btn-default:active,
+.css-church .btn-default:active,
+.css-church .tp-caption .btn-default:focus,
+.css-church .btn-default:focus,
+.css-church .tp-caption .btn-default:hover,
+.css-church .btn-default:hover,
+.css-church #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-church #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-church #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-church #header.main-color-nav .navbar-2 .navbar-nav > .active > a,
+.css-church .btn-primary.btn-animation-icon-box .btn-text,
+.css-church .btn-primary.btn-animation-icon-box:hover .btn-text,
+.css-church .btn-primary.btn-animation-icon-box:focus .btn-text,
+.css-church .primary.btn-animation-icon-box:active .btn-text {
+    background-color: #bb443a;
+}
+.css-church .item-text-wrapper,
+.css-church .standard_hover .portfolio_overlay,
+.css-church .overlay-animation-1 .overlay_box,
+.css-church .flip-hover .flip-box .content-box,
+.css-church .team-8 .team-image .overlay-team-box,
+.css-church .team-9 .team-image .overlay-team-box,
+.css-church .portfolio-animation-slide .sliding-content {
+    background-color: rgba(209, 77, 66, 0.9);
+}
+.css-church .intro-block .overlay,
+.css-church ul.thumbs li a:before,
+.css-church .widget-dribbble-box .shots li a:before,
+.css-church .dribbble-box-dummy .shots-dummy li a:before,
+.css-church .sidebar-shop-products-list .image-thumb:before,
+.css-church .cart-shop-products-list .image-thumb:before,
+.css-church .overlay-bg.colored,
+.css-church .instagram-widget a:before,
+.css-church .overlay-bg.background-1 {
+    background-color: rgba(209, 77, 66, 0.75);
+}
+.forum-reply-signin {
+    background: rgba(209, 77, 66, 0.92);
+}
+.css-church .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-church .team-2 .overlay-team-box,
+.css-church .team-6 .overlay-team-box,
+.css-church .team-7 .overlay-team-box,
+.css-church .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-church .contact-overlay-map .overlay-map-background,
+.css-church .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-church .table-style-7.table-withmaincolor tbody tr th,
+.css-church .fc-bgevent,
+.css-church #particles-js.background-1 {
+    background-color: rgba(209, 77, 66, 0.6);
+}
+.css-church .widget-dribbble-box .shots li a:hover:before,
+.css-church .dribbble-box .shots li a:hover:before,
+.css-church .dribbble-box-dummy .shots-dummy li a:hover:before,
+.css-church .instagram-widget a:hover:before,
+.css-church .newspaper-sidebar-image-news > article a.image-box:before {
+    background-color: rgba(209, 77, 66, 0.85);
+}
+.css-church .price-filter-desc .btn {
+    background-color: #bea98d;
+    border-color: #bea98d;
+}
+.css-church .btn-default.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #D14D42;
+}
+.css-church .btn-default.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #D14D42;
+}
+.css-church .btn-default-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #D14D42;
+}
+.css-church .btn-default-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #D14D42;
+}
+.css-church .btn-primary {
+    background: #bb443a;
+    border-color: #bb443a;
+}
+.css-church .btn-primary:hover,
+.css-church .open > .dropdown-toggle.btn-primary,
+.css-church .btn-primary.active,
+.css-church .btn-primary.focus,
+.css-church .btn-primary:active,
+.css-church .css-church .btn-primary:focus {
+    background: #3c1a90;
+    border-color: #3c1a90;
+}
+.css-church .btn-primary-reverse {
+    color: #bb443a;
+    border-color: #bb443a;
+}
+.css-church .btn-primary-reverse:hover {
+    background-color: #bb443a;
+    border-color: #bb443a;
+}
+.css-church .btn-primary.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #bb443a;
+}
+.css-church .btn-primary.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #bb443a;
+}
+.css-church .btn-primary-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #bb443a;
+}
+.css-church .btn-primary-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #bb443a;
+}
+.css-church .blog-list > article.default-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #D14D42;
+}
+.css-church .blog-list > article.default-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #D14D42;
+}
+.css-church .blog-list > article.primary-post .blog-post-2 .bp2-category {
+    background: #bb443a;
+}
+.css-church .blog-list > article.primary-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #bb443a;
+}
+.css-church .blog-list > article.primary-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #bb443a;
+}
+.css-church .blog-list > article.primary-post .blog-desc {
+    border-top-color: #bb443a;
+}
+.css-church .blog-list > article.primary-post .blog-post-2 .bp2-desc {
+    border-bottom-color: #bb443a;
+}
+.css-church .btn-default.btn-animation-icon-box .btn-text,
+.css-church .btn-default.btn-animation-icon-box:hover .btn-text,
+.css-church .btn-default.btn-animation-icon-box:focus .btn-text,
+.css-church .btn-default.btn-animation-icon-box:active .btn-text {
+    background: #D14D42;
+}
+.css-church .btn-default.btn-animation-icon-box .btn-icon,
+.css-church .btn-default.btn-animation-icon-box:hover .btn-icon,
+.css-church .btn-default.btn-animation-icon-box:focus .btn-icon,
+.css-church .btn-default.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-church .btn-default-reverse.btn-animation-icon-box .btn-text,
+.css-church .btn-default-reverse.btn-animation-icon-box:hover .btn-text,
+.css-church .btn-default-reverse.btn-animation-icon-box:focus .btn-text,
+.css-church .btn-default-reverse.btn-animation-icon-box:active .btn-text {
+    color: #D14D42;
+}
+.css-church .btn-default-reverse.btn-animation-icon-box .btn-icon,
+.css-church .btn-default-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-church .btn-default-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-church .btn-default-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #D14D42;
+    color: #D14D42;
+}
+.css-church .btn-primary.btn-animation-icon-box .btn-icon,
+.css-church .btn-primary.btn-animation-icon-box:hover .btn-icon,
+.css-church .btn-primary.btn-animation-icon-box:focus .btn-icon,
+.css-church .btn-primary.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-church .btn-primary-reverse.btn-animation-icon-box .btn-text,
+.css-church .btn-primary-reverse.btn-animation-icon-box:hover .btn-text,
+.css-church .btn-primary-reverse.btn-animation-icon-box:focus .btn-text,
+.css-church .btn-primary-reverse.btn-animation-icon-box:active .btn-text,
+.css-church .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-church .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-church .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-church .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    color: #bb443a;
+}
+.css-church .tp-caption.btn.background-2:hover,
+.css-church .tp-caption.btn.background-2:focus,
+.css-church .tp-caption.btn.background-2:active {
+    background-color: #e33834;
+}
+.css-church .border-background-2 {
+    border-color: #f1d793;
+}
+.css-church .border-background-3 {
+    border-color: #bea98d;
+}
+.css-church .blog-list > article .featured-posts-slider .fp-desc {
+    background: rgba(209, 77, 66, 0.9);
+}
+.css-church .gsi-style-4 li.current>* .number:before {
+    border-left-color: #D14D42;
+}
+.css-church .gsi-style-7.border-top li.current>* {
+    border-top-color: #D14D42;
+}
+.css-church .icon-box.icon-circle .icon-block,
+.css-church .icon-box.icon-circle .icon-block span,
+.css-church .icon-block-2,
+.css-church .icon-block-2:after,
+.css-church .simple-icon-image img,
+.css-church .icon-image-overlay,
+.css-church .simple-icon-icon,
+.css-church .link-rounded-icon,
+.css-church .slider-slick-slide a [class^="icon-"],
+.css-church .flexslider.clients .flex-control-paging li a,
+.css-church .testimonial-single .slick-prev,
+.css-church .testimonial-single .slick-next,
+.css-church .testimonial-single .slick-dots li button:before,
+.css-church .slick-dots li button:before,
+.css-church .testimonials-slick-nav .slick-testimonial-prev,
+.css-church .testimonials-slick-nav .slick-testimonial-next,
+.css-church .block-content-wrapper h1 {
+    border-radius: 50px;
+}
+.css-church .loader-6 {
+    background: #D14D42;
+    background: -moz-linear-gradient(left, #D14D42 10%, rgba(209, 77, 66, 0) 42%);
+    background: -webkit-linear-gradient(left, #D14D42 10%, rgba(209, 77, 66, 0) 42%);
+    background: -o-linear-gradient(left, #D14D42 10%, rgba(209, 77, 66, 0) 42%);
+    background: -ms-linear-gradient(left, #D14D42 10%, rgba(209, 77, 66, 0) 42%);
+    background: linear-gradient(to right, #D14D42 10%, rgba(209, 77, 66, 0) 42%);
+}
+@-webkit-keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #D14D42, 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2), 2.5em 0em 0 0em rgba(209, 77, 66, 0.2), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.2), 0em 2.5em 0 0em rgba(209, 77, 66, 0.2), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.2), -2.6em 0em 0 0em rgba(209, 77, 66, 0.5), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.7), 1.8em -1.8em 0 0em #D14D42, 2.5em 0em 0 0em rgba(209, 77, 66, 0.2), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.2), 0em 2.5em 0 0em rgba(209, 77, 66, 0.2), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.2), -2.6em 0em 0 0em rgba(209, 77, 66, 0.2), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.5), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.7), 2.5em 0em 0 0em #D14D42, 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.2), 0em 2.5em 0 0em rgba(209, 77, 66, 0.2), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.2), -2.6em 0em 0 0em rgba(209, 77, 66, 0.2), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.2), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.5), 2.5em 0em 0 0em rgba(209, 77, 66, 0.7), 1.75em 1.75em 0 0em #D14D42, 0em 2.5em 0 0em rgba(209, 77, 66, 0.2), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.2), -2.6em 0em 0 0em rgba(209, 77, 66, 0.2), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.2), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2), 2.5em 0em 0 0em rgba(209, 77, 66, 0.5), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.7), 0em 2.5em 0 0em #D14D42, -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.2), -2.6em 0em 0 0em rgba(209, 77, 66, 0.2), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.2), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2), 2.5em 0em 0 0em rgba(209, 77, 66, 0.2), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.5), 0em 2.5em 0 0em rgba(209, 77, 66, 0.7), -1.8em 1.8em 0 0em #D14D42, -2.6em 0em 0 0em rgba(209, 77, 66, 0.2), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.2), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2), 2.5em 0em 0 0em rgba(209, 77, 66, 0.2), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.2), 0em 2.5em 0 0em rgba(209, 77, 66, 0.5), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.7), -2.6em 0em 0 0em #D14D42, -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.2), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2), 2.5em 0em 0 0em rgba(209, 77, 66, 0.2), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.2), 0em 2.5em 0 0em rgba(209, 77, 66, 0.2), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.5), -2.6em 0em 0 0em rgba(209, 77, 66, 0.7), -1.8em -1.8em 0 0em #D14D42;
+    }
+}
+@keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #D14D42, 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2), 2.5em 0em 0 0em rgba(209, 77, 66, 0.2), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.2), 0em 2.5em 0 0em rgba(209, 77, 66, 0.2), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.2), -2.6em 0em 0 0em rgba(209, 77, 66, 0.5), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.7), 1.8em -1.8em 0 0em #D14D42, 2.5em 0em 0 0em rgba(209, 77, 66, 0.2), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.2), 0em 2.5em 0 0em rgba(209, 77, 66, 0.2), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.2), -2.6em 0em 0 0em rgba(209, 77, 66, 0.2), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.5), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.7), 2.5em 0em 0 0em #D14D42, 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.2), 0em 2.5em 0 0em rgba(209, 77, 66, 0.2), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.2), -2.6em 0em 0 0em rgba(209, 77, 66, 0.2), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.2), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.5), 2.5em 0em 0 0em rgba(209, 77, 66, 0.7), 1.75em 1.75em 0 0em #D14D42, 0em 2.5em 0 0em rgba(209, 77, 66, 0.2), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.2), -2.6em 0em 0 0em rgba(209, 77, 66, 0.2), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.2), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2), 2.5em 0em 0 0em rgba(209, 77, 66, 0.5), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.7), 0em 2.5em 0 0em #D14D42, -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.2), -2.6em 0em 0 0em rgba(209, 77, 66, 0.2), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.2), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2), 2.5em 0em 0 0em rgba(209, 77, 66, 0.2), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.5), 0em 2.5em 0 0em rgba(209, 77, 66, 0.7), -1.8em 1.8em 0 0em #D14D42, -2.6em 0em 0 0em rgba(209, 77, 66, 0.2), -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.2), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2), 2.5em 0em 0 0em rgba(209, 77, 66, 0.2), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.2), 0em 2.5em 0 0em rgba(209, 77, 66, 0.5), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.7), -2.6em 0em 0 0em #D14D42, -1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(209, 77, 66, 0.2), 1.8em -1.8em 0 0em rgba(209, 77, 66, 0.2), 2.5em 0em 0 0em rgba(209, 77, 66, 0.2), 1.75em 1.75em 0 0em rgba(209, 77, 66, 0.2), 0em 2.5em 0 0em rgba(209, 77, 66, 0.2), -1.8em 1.8em 0 0em rgba(209, 77, 66, 0.5), -2.6em 0em 0 0em rgba(209, 77, 66, 0.7), -1.8em -1.8em 0 0em #D14D42;
+    }
+}
+.css-church .loader-3 {
+    border-top-color: rgba(209, 77, 66, 0.2);
+    border-right-color: rgba(209, 77, 66, 0.2);
+    border-bottom-color: rgba(209, 77, 66, 0.2);
+    border-left-color: #D14D42;
+}
+.css-church .svg-animation path {
+    stroke: #D14D42;
+}
+.css-church .loader-36 > div {
+    background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #D14D42 30%, #D14D42 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #D14D42 30%, #D14D42 100%);
+}
+.css-church .blockquote-style-2 blockquote:after, 
+.css-church .blockquote-style-2 blockquote:before{
+  background-color: transparent;
+}
+
+.css-church .call-newsletter-box form .btn{
+	border-radius: 0 4px 4px 0!important;
+}
+.css-church .call-newsletter-box .form-control{
+	border-radius: 4px!important;
+}

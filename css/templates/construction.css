@@ -1,0 +1,1219 @@
+/* Construction */
+
+body.css-construction,
+.css-construction p,
+.css-construction .featured-content h1.small,
+.css-construction .form-group > label,
+.css-construction .checkbox > label,
+.css-construction .alert > p,
+.css-construction .block-content-wrapper h2,
+.css-construction .intro-text h1,
+.css-construction .intro-text h2,
+.css-construction .intro-text h3,
+.css-construction .intro-text h4,
+.css-construction .intro-text h5,
+.css-construction .intro-text h6,
+.css-construction .restaurant-info-img-content h4,
+.css-construction .contact-title h3 {
+    font-family: "Roboto", sans-serif;
+} 
+.css-construction h1,
+.css-construction h2,
+.css-construction h3,
+.css-construction h4,
+.css-construction h5,
+.css-construction h6,
+.css-construction .testimonials-slider .testimonials-slider-box .testimonial-text {
+    font-family: "Roboto", sans-serif;
+}
+/* Color 1 */
+
+.css-construction .color-1,
+.css-construction .wsmenu-list > li > a:hover,
+.css-construction .dark-menu .wsmenu-submenu li a:hover,
+.css-construction .dark-menu .wsmenu-submenu li a:hover,
+.css-construction .dark-menu .megamenu .link-list li a:hover,
+.css-construction #header ul.wsmenu-submenu li a.active,
+.css-construction #portfolio-filter li a:hover,
+.css-construction .wsmenu-list > li > a.active,
+.css-construction #header .wsmenu.navigation-dark .wsmenu-list > li > a.active,
+.css-construction #header .wsmenu.navigation-dark .wsmenu-list > li > a:hover,
+.css-construction .dark-menu .megamenu .link-list li.active a,
+.css-construction .cart-dropdown-menu .cart-shop-products-list li .csp-price,
+.css-construction .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-construction .light-menu .megamenu .link-list li.active a,
+.css-construction .light-menu .megamenu .link-list li a:hover,
+.css-construction .light-menu .wsmenu-submenu li a:hover,
+.css-construction .light-menu .wsmenu-submenu li.active a,
+.css-construction ul.simple-list li [class^="icon-"],
+.css-construction .footer-tags a:hover,
+.css-construction #footer .widget-twitter-box .tweet ul li a:hover,
+.css-construction .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-construction .blog-list>article .post-facebook:hover,
+.css-construction .blog-list>article .post-facebook:hover .pf-icon span,
+.css-construction .blog-list>article .post-facebook:hover .pf-text,
+.css-construction ul.blog-popular-list .ssp-title:hover,
+.css-construction #post-content .blog-desc-details a:hover,
+.css-construction .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-construction .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-construction .author-description .author-description-text-holder .author-name a:hover,
+.css-construction .comment_response .media h6 a:hover,
+.css-construction .blog-list>article .post-facebook:hover,
+.css-construction .blog-list>article .post-facebook:hover .pf-icon span,
+.css-construction .blog-list>article .post-facebook:hover .pf-text,
+.css-construction ul.blog-popular-list .ssp-title:hover,
+.css-construction #post-content .blog-desc-details a:hover,
+.css-construction .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-construction .header-light.nav-sticky .wsmenu-list > li > a:hover,
+.css-construction .header-light.nav-sticky .wsmenu-list > li > a.active,
+.css-construction .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-construction .author-description .author-description-text-holder .author-name a:hover,
+.css-construction ul.sidebar-category li a:hover,
+.css-construction ul.shop-star-rating.single-item li.full-star,
+.css-construction,
+.css-construction #footer.footer-10 .title.small a:hover,
+.css-construction .vlt-left-menu.vlt-menu-style-2 .nav-accordion-section-title:hover,
+.css-construction .vlt-left-menu .nav-accordion-section-content ul li a:hover,
+.css-construction .header-content .phone-number span,
+.css-construction .intro-block h6,
+.css-construction .icon-block [class^="icon-"],
+.css-construction ul.header-links li a:hover,
+.css-construction .navbar.banner--clone .nav > li > a:hover,
+.css-construction .navbar.banner--clone .btn-search:hover,
+.css-construction .success-lg:hover [class^="icon-"],
+.css-construction #copyrights ul li a:hover,
+.css-construction #copyrights a:hover,
+.css-construction .breadcrumb > .active,
+.css-construction .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-construction a.image_link:hover [class^="icon-"],
+.css-construction a.load-more-btn:hover,
+.css-construction a.load-more-btn:hover [class^="icon-"],
+.css-construction .intro-block h1 [class^="icon-"],
+.css-construction .shop-list .shop-product h4 a:hover,
+.css-construction ul#portfolio-layout-filter li a.active,
+.css-construction .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-construction .shop-price,
+.css-construction ul.sidebar-shop-cat > li > a:hover,
+.css-construction a.load-more-btn:hover,
+.css-construction a.load-more-btn:hover [class^="icon-"],
+.css-construction .intro-block h1 [class^="icon-"],
+.css-construction .shop-list .shop-product h4 a:hover,
+.css-construction ul#portfolio-layout-filter li a.active,
+.css-construction .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-construction ul.sidebar-cat > li span,
+.css-construction .shop-price,
+.css-construction ul.sidebar-cat > li > a:hover,
+.css-construction ul.jobs-list li [class^="icon-"],
+.css-construction .team-social a:hover,
+.css-construction .icon-default,
+.css-construction .error-page-icon span [class^="icon-"],
+.css-construction .footer-3-container-text a:hover,
+.css-construction .testimonials-box .testimonial-author,
+.css-construction #page-title.image-page-title-fullwidth h1,
+.css-construction #page-title.image-page-title-left.image-page-noimage h2,
+.css-construction ul.services-2-icons,
+.css-construction ul.shop-layout-filter li a.active,
+.css-construction ul.portfolio-layout-filter li a.active,
+.css-construction ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-construction .related-projects-title .slick-custom-next:hover,
+.css-construction .related-projects-title .slick-custom-prev:hover,
+.css-construction .recent-post-content a:hover,
+.css-construction .form-group.login-form-submit a,
+.css-construction .shop-type-1 a.add-to-cart-item:before,
+.css-construction .shop-type-2 a.add-to-cart-item:before,
+.css-construction a.form-forgotpass,
+.css-construction .sidebar-shop-products-list li .ssp-title:hover,
+.css-construction .restaurant-info ul li [class^="icon-"],
+.css-construction .navbar-default.default .btn-cart .header-cart-count,
+.css-construction .blog-list > article .blog-desc h4 a:focus,
+.css-construction .blog-list-full > article .blog-desc h4 a:hover,
+.css-construction .blog-list-full > article .blog-desc h4 a:focus,
+.css-construction .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-construction .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-construction .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-construction .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-construction .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-construction .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-construction .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-construction .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-construction .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-construction .blog-masonry > article .blog-desc h4 a:hover,
+.css-construction .blog-masonry > article .blog-desc h4 a:focus,
+.css-construction .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-construction .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-construction .comment_response .media_cloud a.reply_link,
+.css-construction .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-construction .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-construction .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-construction .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-construction .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-construction .dropcap.dropcap-style-1,
+.css-construction .counter-box .count-icon,
+.css-construction .counter-style-1 .counter-box h4,
+.css-construction .icon-type,
+.css-construction .icon-type.it-main-color,
+.css-construction .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-construction .comment_response .media_cloud a.reply_link,
+.css-construction .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-construction .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-construction .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-construction .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-construction .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-construction .dropcap.dropcap-style-1,
+.css-construction .btn-default-reverse,
+.css-construction .counter-box .count-icon,
+.css-construction .counter-style-1 .counter-box h4,
+.css-construction .icon-type,
+.css-construction .icon-type.it-main-color,
+.css-construction .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-construction .review_response .media h6 a,
+.css-construction .review_response .media_cloud .shop-star-rating li.full-star,
+.css-construction .rating-container .rating-stars,
+.css-construction .form-contact small,
+.css-construction ul.icon-list li a:hover,
+.css-construction ul.icon-list li a:active,
+.css-construction ul.icon-list li a:focus,
+.css-construction .checkout-sum,
+.css-construction .checkout-table td a:hover,
+.css-construction .checkout-box a,
+.css-construction .user-profile-list ul li a:hover,
+.css-construction a.profile-active,
+.css-construction .user-profile-content h2,
+.css-construction .forum-content-header span a,
+.css-construction .recent-work-content a:hover,
+.css-construction .recent-work-image-content a:hover,
+.css-construction .contact-overlay-map .maximize-form:hover,
+.css-construction .hero-slier-nav-content:hover [class^="icon-"],
+.css-construction .selected .hero-slier-nav-content [class^="icon-"],
+.css-construction .team-social a:hover,
+.css-construction .team-name h5 a:hover,
+.css-construction .clients-slick-nav .slick-custom-next:hover,
+.css-construction .clients-slick-nav .slick-custom-prev:hover,
+.css-construction .services-pricing-icon [class^="icon-"],
+.css-construction .brand [class^="icon-"],
+.css-construction .content-divider-colored [class^="icon-"],
+.css-construction .divider-content h1 span,
+.css-construction .divider-content h2 span,
+.css-construction .divider-content h3 span,
+.css-construction .intro-page-content a:hover,
+.css-construction .image-box-content a:hover,
+.css-construction .icon-type.it-main-color [class^="icon-"],
+.css-construction .icon-type-2:hover p,
+.css-construction .icon-type-2:hover span.icon-type-2-icon,
+.css-construction .heading-container .head-colored,
+.css-construction ul.home-6-list li h4 [class^="icon-"],
+.css-construction .icon-box-2-effect-1:hover .icon-block-2,
+.css-construction .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-construction .icon-box-2-effect-4:hover .icon-block-2,
+.css-construction .icon-box-2-effect-4-reverse .icon-block-2,
+.css-construction .icon-box-2-effect-5:hover .icon-block-2,
+.css-construction .simple-icon-lightbg [class^="icon-"],
+.css-construction .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-construction .panel-body ul li a:hover,
+.css-construction .colored,
+.css-construction .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-construction .tabpanel-style-6 .nav-tabs > li > a,
+.css-construction .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-construction .tp_caption_big span,
+.css-construction ul.icon-box-simple li:hover a,
+.css-construction .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-construction .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-construction .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-construction .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-construction .blockquote-author p,
+.css-construction .testimonial-author,
+.css-construction .latest-post-content h1 a:hover,
+.css-construction .post-by a:hover,
+.css-construction .latest-post-content .read-more-link,
+.css-construction .blog-horizontal .bh-content h3 a:hover,
+.css-construction .blog-horizontal .bh-content .bh-details a:hover,
+.css-construction .blog-horizontal .bh-content .bh-details a:hover span,
+.css-construction a.bsp-title:hover,
+.css-construction .sidebar-blog-post-list li .sbp-title:hover,
+.css-construction .navbar-nav > li.active,
+.css-construction .navbar-nav > li.active:hover,
+.css-construction a.idb-social:hover,
+.css-construction a.idb-social:hover span,
+.css-construction a.idb-price,
+.css-construction span.pts-raised,
+.css-construction .bsp-social a:hover,
+.css-construction .bsp-social a [class^="icon-"]:hover,
+.css-construction a.bsp-more:hover,
+.css-construction .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-construction .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-construction .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-construction .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-construction .gallery-block .gallery-box .gallery-meta a:hover,
+.css-construction .gallery-block .gallery-box .gallery-meta a:focus,
+.css-construction .tp-caption a,
+.css-construction .tp-caption a:hover,
+.css-construction .cd-timeline-inner-content a:hover,
+.css-construction .testimonial-box .testimonial-author span,
+.css-construction .fic-date a:hover,
+.css-construction .forum-inner-content h1 a:hover,
+.css-construction .user-profile-desc a:hover,
+.css-construction .cd-timeline-navigation a:hover::after,
+.css-construction .login-form .login-input-box [class^="icon-"],
+.css-construction .icon-input-box [class^="icon-"],
+.css-construction ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-construction ul.bar-chart-graph li,
+.css-construction ul.line-graph li,
+.css-construction ul.donut-graph li,
+.css-construction .tp-caption.Creative-SubTitle,
+.css-construction .Creative-SubTitle,
+.css-construction .tp-caption.vlt-hero-rotating,
+.css-construction ul.recent-post-widget .rp-post a:hover,
+.css-construction .loader-5,
+.css-construction .loader-7,
+.css-construction .loader-9,
+.css-construction .loader-2,
+.css-construction .loader-4,
+.css-construction .vertical-newspaper-list .vnl-content h4 a:hover,
+.css-construction .vertical-newspaper-sidebar-list .vnl-content h4 a:hover,
+.css-construction .events-vertical .events-vertical-desc h4 a:hover,
+.css-construction .portfolio-single-share .pss-share li a:hover,
+.css-construction .portfolio-single-share .pss-like:hover,
+.css-construction .portfolio-single-intro-description .portfolio-single-categories a:hover,
+.css-construction .portfolio-single-more-link:hover,
+.css-construction .gsi-style-9 li.visited>*,
+.css-construction .gsi-style-9 li.current>*,
+.css-construction .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-construction .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-construction .header-contact-box .header-phone:hover,
+.css-construction .header-contact-box .header-email:hover,
+.css-construction .icon-box.icon-square .icon-block span,
+.css-construction .icon-box.icon-square.icon-fill.icon-transform:hover .icon-block span {
+    color: #fab702;
+}
+/* Background Color 1 */
+
+.css-construction .background-1,
+.css-construction .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-construction .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-construction .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1,
+.css-construction a.brand-modern span.line-1,
+.css-construction .header.dark-nav a.brand-modern span.line-1,
+.css-construction .wte-separator.background-1:before,
+.css-construction .call-newsletter-box form .btn,
+.css-construction .offscreen-container,
+.css-construction #header.background-1,
+.css-construction .background-1-menu .megamenu,
+.css-construction .background-1-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-construction .background-1-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-construction .background-1-menu .wsmenu-submenu li a,
+.css-construction .background-1-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-construction .background-1-menu .wsmenu-submenu,
+.css-construction .background-1-menu .wsmenu-submenu-sub,
+.css-construction .background-1-menu .wsmenu-submenu-sub-sub,
+.css-construction .background-1-menu .wsmenu-submenu-sub-sub-sub,
+.css-construction #portfolio-filter li a.activeFilter,
+.css-construction #portfolio-filter li a.activeFilter[data-filter="*"],
+.css-construction #header .search-cart-navbar:hover .btn-default,
+.css-construction .scroll-to-top-fixed,
+.css-construction #bootstrap-table.table>thead>tr>th,
+.css-construction ul.meta-share-social li a:hover,
+.css-construction article.blog-item .blog-image-box .video-play-icon span,
+.css-construction .audioplayer,
+.css-construction .audioplayer-bar,
+.css-construction .blog-desc-details:after,
+.css-construction .audioplayer-volume-adjust div div,
+.css-construction .qoute-post,
+.css-construction .footer-newsletter-box form .btn,
+.css-construction .footer-newsletter-box form .btn.disabled,
+.css-construction .tags-cloud-list li a:hover,
+.css-construction article.blog-item .blog-image-box.video-post:before,
+.css-construction .tp-caption .btn-default,
+.css-construction .btn-default,
+.css-construction .flex-control-paging li a.flex-active,
+.css-construction #mobile-navbar,
+.css-construction .call-to-action,
+.css-construction .maincolor-background,
+.css-construction ul.widget-ul li a > span,
+.css-construction ul.widget-social li a:hover,
+.css-construction #people .item .info,
+.css-construction .main-color,
+.css-construction .flexslider.clients .flex-control-paging li a.flex-active,
+.css-construction #portfolio-filter li a:after,
+.css-construction .navbar.banner--clone .nav li.active > a,
+.css-construction .pricing-table-column.special-price-table .pricing-table-head,
+.css-construction .pricing-table-column.special-price-table .pricing-table-content,
+.css-construction .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-construction .progress-bar-box .progress-bar,
+.css-construction .background-1,
+.css-construction .selecter .selecter-item:hover,
+.css-construction .selecter .selecter-item.selected:hover,
+.css-construction #footer.colored,
+.css-construction section.about-counter,
+.css-construction .error-page-title:after,
+.css-construction .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-construction .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-construction .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-construction .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-construction .tabpanel-style-4 .tab-content h3:after,
+.css-construction .about-classic-column-themecolor,
+.css-construction .selecter .selecter-item:hover,
+.css-construction .selecter .selecter-item.selected:hover,
+.css-construction .item-text-wrapper_overlay,
+.css-construction .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-construction .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-construction .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-construction .shop-type-2 a.add-to-cart-item,
+.css-construction .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-construction .search-cart-navbar .btn-cart .header-cart-count,
+.css-construction .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-construction .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-construction .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-construction .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-construction .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-construction .dropcap.dropcap-style-2,
+.css-construction .alert-default,
+.css-construction blockquote:before,
+.css-construction blockquote:after,
+.css-construction .tp-caption .btn-default,
+.css-construction .btn-default,
+.css-construction .content-title h5:before,
+.css-construction .content-title h5:after,
+.css-construction .icon-box.icon-fill .icon-block,
+.css-construction .icon-box.icon-square:hover .icon-block,
+.css-construction .icon-box.icon-circle:hover .icon-block,
+.css-construction .icon-box.icon-circle:hover .icon-block span,
+.css-construction .icon-type.it-main-color:hover,
+.css-construction .icon-type.it-main-color:focus,
+.css-construction .icon-type.it-main-color-reverse,
+.css-construction .icon-type.it-main-color:hover span,
+.css-construction .icon-type.it-main-color-reverse:hover span,
+.css-construction .add-to-cart-form .count-input .count-plus:hover,
+.css-construction .add-to-cart-form .count-input .count-minus:hover,
+.css-construction .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-construction .pricing-table-container.special-price-table,
+.css-construction .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-construction .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-construction ul.forum-list li.forum-header,
+.css-construction .textbox-withmaincolor,
+.css-construction .background-1,
+.css-construction .team-member-job,
+.css-construction .team-section .team-desc-box:before,
+.css-construction .team-section .team-desc-box:after,
+.css-construction .shop-categories:hover .shop-title-categories,
+.css-construction .content-divider-colored-bg [class^="icon-"],
+.css-construction .overlay-animation-6 .content-box,
+.css-construction .block-content-wrapper h1,
+.css-construction .benefits-box h1,
+.css-construction .selecter .selecter-item:hover,
+.css-construction .selecter .selecter-item.selected:hover,
+.css-construction .ui-slider .ui-slider-range,
+.css-construction #header.header-main-color,
+.css-construction .navbar-2.banner--clone.main-color-navbar,
+.css-construction .tabpanel-style-center .nav-tabs > li.active > a,
+.css-construction .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-construction .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-construction .label.label-primary,
+.css-construction .label.label-primary,
+.css-construction .star-rating .caption .label,
+.css-construction .tparrows.preview5:hover,
+.css-construction .table-style-4.table-withmaincolor thead tr th,
+.css-construction .table-style-5.table-withmaincolor thead tr th,
+.css-construction .table-style-6.table-withmaincolor thead tr th,
+.css-construction .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-construction .table-style-7.table-withmaincolor thead tr th,
+.css-construction .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-construction .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-construction .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-construction .table-style-2.table-withmaincolor thead tr th,
+.css-construction .table-style-3.table-withmaincolor thead tr th,
+.css-construction .table-style-3.table-withmaincolor tbody tr th,
+.css-construction .parallax-withmaincolor,
+.css-construction .contact-overlay-map .minimize-form:hover,
+.css-construction .team-3:hover .team-social,
+.css-construction .team-5:hover .team-social,
+.css-construction .special-table-2,
+.css-construction .special-table-3,
+.css-construction span.pricing-3-discount,
+.css-construction #vertical-timeline-container:before,
+.css-construction .subscribe-fancy-themebg,
+.css-construction .empty-cart,
+.css-construction .team-4:hover .team-social,
+.css-construction .content-divider-colored,
+.css-construction .content-divider-colored-bg,
+.css-construction .withmainbackground,
+.css-construction .services-2-heading,
+.css-construction .icon-box-2-effect-4 .icon-block-2,
+.css-construction .services-2-heading,
+.css-construction .promotion-box-theme-colored,
+.css-construction .promotion-box-theme-colored .promotion-box-title h4,
+.css-construction .icon-block-2,
+.css-construction .icon-box-2-effect-2:hover .icon-block-2,
+.css-construction .icon-box-2-effect-3 .icon-block-2:after,
+.css-construction .icon-box-2-effect-4 .icon-block-2:after,
+.css-construction .icon-box-2-effect-6 .icon-block-2,
+.css-construction .icon-box-2-effect-6:hover .icon-block-2,
+.css-construction .simple-icon-icon,
+.css-construction a.call-to-action-link:hover,
+.css-construction .add-to-cart-form .count-input .count-plus,
+.css-construction .add-to-cart-form .count-input .count-minus,
+.css-construction .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-construction .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-construction .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-construction .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-construction .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-construction .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-construction .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-construction .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-construction .special-price-box,
+.css-construction .dropdown-menu > .active > a,
+.css-construction .dropdown-menu > .active > a:focus,
+.css-construction .dropdown-menu > .active > a:hover,
+.css-construction #header.main-color-nav .navbar-2,
+.css-construction .latest-post-data,
+.css-construction .blog-single-post .bsp-heading h1,
+.css-construction .testimonial-single .slick-dots li button:before,
+.css-construction .slick-dots li button:before,
+.css-construction .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-construction .timeline-complete .timeline-status.timeline-active:before,
+.css-construction .megamenu.maincolor,
+.css-construction .dropdown.maincolor ul,
+.css-construction .dropdown.maincolor ul.dropdown-menu,
+.css-construction #footer.maincolor,
+.css-construction #copyrights.maincolor,
+.css-construction .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-construction .cd-horizontal-timeline .events a.selected::after,
+.css-construction .cd-horizontal-timeline .filling-line,
+.css-construction .pinpulsebox span,
+.css-construction .main-color-dropdown .megamenu,
+.css-construction .main-color-dropdown .dropdown-menu,
+.css-construction #cd-timeline::before,
+.css-construction ul.icon-list.il-main-bg li [class^="icon-"],
+.css-construction .process-steps ul li.current a .number,
+.css-construction ol.ordered-list.ol-main-bg li:before,
+.css-construction .irs-bar,
+.css-construction .irs-from,
+.css-construction .irs-to,
+.css-construction .irs-single,
+.css-construction .open > .dropdown-toggle.btn-default,
+.css-construction .fc-unthemed .fc-today,
+.css-construction .fc-content,
+.css-construction #particles-js,
+.css-construction .s-icon:hover,
+.css-construction #progressbar li.active:before,
+.css-construction #progressbar li.active:after,
+.css-construction .portfolio-filter .selecter-item.activeFilter,
+.css-construction #copyrights ul.widget-social li a:hover,
+.css-construction .page-loader-spinner span,
+.css-construction .loader-6:before,
+.css-construction .loader-2,
+.css-construction .loader-2:before,
+.css-construction .loader-2:after,
+.css-construction .newspaper-title .custom-slick-nav-1 .slick-custom-next:hover,
+.css-construction .newspaper-title .custom-slick-nav-1 .slick-custom-prev:hover,
+.css-construction .loader-10 > div,
+.css-construction .loader-11 > div,
+.css-construction .loader-12 > div,
+.css-construction .loader-13 > div:first-child,
+.css-construction .loader-14 > div,
+.css-construction .loader-16 > div,
+.css-construction .loader-17 > div,
+.css-construction .loader-17 > div:before,
+.css-construction .loader-17 > div:after,
+.css-construction .loader-18 > div,
+.css-construction .loader-19 > div,
+.css-construction .loader-20 > div,
+.css-construction .loader-22 > div,
+.css-construction .loader-23 > div,
+.css-construction .loader-24 > div,
+.css-construction .loader-25 > div,
+.css-construction .loader-26 > div,
+.css-construction .loader-27 > div,
+.css-construction .loader-28 > div,
+.css-construction .loader-29 > div,
+.css-construction .loader-32 > div,
+.css-construction .loader-33 > div,
+.css-construction .loader-35 > div:nth-child(3),
+.css-construction .loader-35 > div:nth-child(4),
+.css-construction .loader-35 > div:nth-child(5),
+.css-construction .loader-35 > div:nth-child(6),
+.css-construction .loader-37 > div,
+.css-construction .loader-38 > div,
+.css-construction .portfolio-single-share .pss-share li a:before,
+.css-construction .portfolio-single-intro-description .portfolio-single-categories a:before,
+.css-construction .portfolio-single-more-link:before,
+.css-construction .checkbox input[type=checkbox]:checked + .checkbox-material .check,
+.css-construction .radio input[type=radio]:checked ~ .check,
+.css-construction .vlt-btn-group .dropdown-menu li a:hover,
+.css-construction .gsi-step-indicator.triangle li.current>*,
+.css-construction .gsi-style-4 li.current>*,
+.css-construction .gsi-style-5 li.current>*,
+.css-construction .gsi-style-6 li.current>* .number,
+.css-construction .gsi-style-7 li.current:hover>*,
+.css-construction .gsi-style-8 li.visited>*,
+.css-construction .gsi-style-8 li.current>*,
+.css-construction .gsi-style-9 li.visited>*:after,
+.css-construction .gsi-style-9 li.current>*:after,
+.css-construction .gsi-style-10 li.visited>*:after,
+.css-construction .gsi-style-10 li.current>*:after,
+.css-construction .gsi-style-11 li.current:before,
+.css-construction .gsi-style-11 li.current:after,
+.css-construction .gsi-style-11 li.visited:before,
+.css-construction .gsi-style-11 li.visited:after,
+.css-construction .gsi-style-11 li.visited>*:after,
+.css-construction .gsi-style-11 li.current>*:after,
+.css-construction .flatpickr-day.today:focus,
+.css-construction .flatpickr-day.today:hover,
+.css-construction .reveal-nav .navbar-toggle,
+.css-construction .form-contact-3 .btn-default.disabled,
+.css-construction .form-contact-3 .btn-default.disabled.active,
+.css-construction .form-contact-3 .btn-default.disabled.focus,
+.css-construction .form-contact-3 .btn-default.disabled:active,
+.css-construction .form-contact-3 .btn-default.disabled:focus,
+.css-construction .form-contact-3 .btn-default.disabled:hover,
+.css-construction .form-contact-3 .btn-default[disabled],
+.css-construction .form-contact-3 .btn-default[disabled].active,
+.css-construction .form-contact-3 .btn-default[disabled].focus,
+.css-construction .form-contact-3 .btn-default[disabled]:active,
+.css-construction .form-contact-3 .btn-default[disabled]:focus,
+.css-construction .form-contact-3 .btn-default[disabled]:hover,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-construction .icon-box.icon-square:hover .icon-block span,
+.css-construction #header.header-main-color-sticky.header-sticky,
+.css-construction #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-construction #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-construction #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-construction #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-construction #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-construction #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-construction #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-construction #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+    background-color: #fab702;
+}
+/* Color 2 */
+
+.css-construction .color-2,
+.css-construction .cart-shop-products h3,
+.css-construction .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-construction .cart-shop-products-list li .csp-price,
+.css-construction .sidebar-shop-products-list li .shop-star-rating li.full-star,
+.css-construction .shop-list .shop-product .shop-star-rating li.full-star,
+.css-construction ul.shop-star-rating li.full-star,
+.css-construction ul.line-graph li:nth-child(2n),
+.css-construction ul.donut-graph li:nth-child(2n),
+.css-construction ul.bar-chart-graph li:nth-child(2n) {
+    color: #f37a30;
+}
+.color-2:hover {
+    color: #f37a30;
+}
+/* Background Color 2 */
+
+.css-construction .background-2,
+.css-construction .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-construction .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-construction #header.background-2,
+.css-construction .background-2-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-construction .background-2-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-construction .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2,
+.css-construction a.brand-modern span.line-2,
+.css-construction .header.dark-nav a.brand-modern span.line-2,
+.css-construction .wte-separator.background-2:before,
+.css-construction .form-contact.dark-from .has-error .help-block,
+.css-construction a.add-to-wishlist,
+.css-construction .shop-list .shop-product:hover>a.add-to-wishlist,
+.css-construction .slider-price-filter-box:after,
+.css-construction .background-2-menu .megamenu,
+.css-construction .background-2-menu .wsmenu-submenu li a,
+.css-construction .background-2-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-construction .background-2-menu .wsmenu-submenu,
+.css-construction .background-2-menu .wsmenu-submenu-sub,
+.css-construction .background-2-menu .wsmenu-submenu-sub-sub,
+.css-construction .background-2-menu .wsmenu-submenu-sub-sub-sub,
+.css-construction .shop-list .shop-product .shop-ribbon,
+.css-construction .ui-slider-horizontal .ui-slider-range,
+.css-construction .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary,
+.css-construction .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    background-color: #f37a30;
+}
+/* Color 3 */
+
+.css-construction .color-3,
+.css-construction ul.line-graph li:nth-child(3n),
+.css-construction ul.donut-graph li:nth-child(3n),
+.css-construction ul.bar-chart-graph li:nth-child(3n),
+.css-construction .navbar-toggle,
+.css-construction .navbar-toggle:before {
+    color: #596472;
+}
+/* Background Color 3 */
+
+.css-construction .background-3,
+.css-construction .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-construction .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-construction #header.background-3,
+.css-construction .background-3-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-construction .background-3-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-construction .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3,
+.css-construction a.brand-modern span.line-3,
+.css-construction .header.dark-nav a.brand-modern span.line-3,
+.css-construction .wte-separator.background-3:before,
+.css-construction .background-3-menu .megamenu,
+.css-construction .background-3-menu .wsmenu-submenu li a,
+.css-construction .background-3-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-construction .background-3-menu .wsmenu-submenu,
+.css-construction .background-3-menu .wsmenu-submenu-sub,
+.css-construction .background-3-menu .wsmenu-submenu-sub-sub,
+.css-construction .background-3-menu .wsmenu-submenu-sub-sub-sub {
+    background-color: #596472;
+}
+/* Border Color 1 */
+
+.css-construction .border-background-1,
+.css-construction .tp-caption .btn-default,
+.css-construction .btn-default,
+.css-construction .flex-control-paging li a.flex-active,
+.css-construction .flexslider.clients .flex-control-paging li a.flex-active,
+.css-construction .contact-info-3,
+.css-construction .team-social a:hover,
+.css-construction .contact-title-one h3:after,
+.css-construction .home-title-one h3:after,
+.css-construction #login-form .login-input:active,
+.css-construction #login-form .login-input:focus,
+.css-construction .load-more-wrapper a.load-more-btn:hover,
+.css-construction #register-form .register-input:active,
+.css-construction #register-form .register-input:focus,
+.css-construction .dropcap.dropcap-style-1,
+.css-construction .dropcap.dropcap-style-2,
+.css-construction .alert-default,
+.css-construction blockquote,
+.css-construction .tp-caption .btn-default,
+.css-construction .btn-default,
+.css-construction .btn-default-reverse,
+.css-construction .icon-box.icon-square .icon-block,
+.css-construction .icon-box.icon-circle .icon-block,
+.css-construction .icon-type.it-main-color,
+.css-construction .icon-type.it-main-color:hover,
+.css-construction .icon-type.it-main-color:focus,
+.css-construction .icon-type.it-main-color-reverse,
+.css-construction .icon-type.it-main-color-reverse:hover,
+.css-construction .icon-type.it-main-color-reverse:focus,
+.css-construction .add-to-cart-form .count-input .count-plus:hover,
+.css-construction .add-to-cart-form .count-input .count-minus:hover,
+.css-construction #reviewmodal .modal-header,
+.css-construction .job-left-title h3,
+.css-construction .pricing-table-container.special-price-table,
+.css-construction .clients-slick-nav .slick-custom-next:hover,
+.css-construction .clients-slick-nav .slick-custom-prev:hover,
+.css-construction .tabpanel-style-8 .nav-tabs > li.active,
+.css-construction a.btn-default.btn-animation-icon-box,
+.css-construction .btn-default.btn-animation-icon-box:hover,
+.css-construction .btn-default.btn-animation-icon-box:focus,
+.css-construction .btn-default.btn-animation-icon-box:active,
+.css-construction .tp-caption a.btn-default.btn-animation-icon-box,
+.css-construction .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-construction .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-construction .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-construction .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-construction .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-construction .clients-slick-nav .slick-clients-prev:hover,
+.css-construction .clients-slick-nav .slick-clients-next:hover,
+.css-construction .bsp-image,
+.css-construction .blog-list > article.default-post .blog-desc,
+.css-construction .testimonial-single li.slick-active button::before,
+.css-construction .slick-dots li.slick-active button:before,
+.css-construction .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-construction .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-construction .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-construction .timeline-status.timeline-active:before,
+.css-construction .cd-horizontal-timeline .events a.older-event::after,
+.css-construction .cd-horizontal-timeline .events a.selected::after,
+.css-construction .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-construction .no-touch .cd-timeline-navigation a:hover,
+.css-construction .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-construction .cd-timeline-navigation a:hover,
+.css-construction .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-construction .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-construction .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-construction .login-form input:focus,
+.css-construction .pinpulse,
+.css-construction .open > .dropdown-toggle.btn-default,
+.css-construction .tabpanel-style-7.shop-single-tabpanel .nav-tabs > li.active,
+.css-construction .newspaper-title,
+.css-construction .newspaper-separator,
+.css-construction ul.widget-social.widget-social-sidebar li a:hover,
+.css-construction .loader-30 > div,
+.css-construction .loader-31 > div,
+.css-construction .loader-35 > div:first-of-type,
+.css-construction .loader-35 > div:nth-child(2),
+.css-construction .radio input[type=radio]:checked ~ .circle,
+.css-construction .gsi-step-indicator.triangle li.current>*,
+.css-construction .gsi-style-7.border-right li.current>*,
+.css-construction .gsi-style-7.border-bottom li.current>*,
+.css-construction .gsi-style-7.border-left li.current>*,
+.css-construction .flatpickr-day.today,
+.css-construction .flatpickr-day.today:focus,
+.css-construction .flatpickr-day.today:hover,
+.css-construction .form-contact-3 .btn-default.disabled,
+.css-construction .form-contact-3 .btn-default.disabled.active,
+.css-construction .form-contact-3 .btn-default.disabled.focus,
+.css-construction .form-contact-3 .btn-default.disabled:active,
+.css-construction .form-contact-3 .btn-default.disabled:focus,
+.css-construction .form-contact-3 .btn-default.disabled:hover,
+.css-construction .form-contact-3 .btn-default[disabled],
+.css-construction .form-contact-3 .btn-default[disabled].active,
+.css-construction .form-contact-3 .btn-default[disabled].focus,
+.css-construction .form-contact-3 .btn-default[disabled]:active,
+.css-construction .form-contact-3 .btn-default[disabled]:focus,
+.css-construction .form-contact-3 .btn-default[disabled]:hover,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-construction .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-construction .wsmenu-list li > .wsmenu-submenu,
+.css-construction .wsmenu-list li > .megamenu,
+.css-construction .table-style-1 thead tr th,
+.css-construction .table-style-1 tbody tr:last-child th,
+.css-construction .table-style-1 tbody tr:last-child td,
+.css-construction .table-withmaincolor thead tr th,
+.css-construction .clients-title-border h3,
+.css-construction .cd-slider-nav li:hover,
+.css-construction .selected,
+.css-construction .icon-type-2:hover p,
+.css-construction .icon-type-2:hover span.icon-type-2-icon,
+.css-construction .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-construction .activeFilter,
+.css-construction .loader-12 > div,
+.css-construction .loader-15 > div,
+.css-construction .loader-15 > div:last-child,
+.css-construction .loader-21 > div {
+    border-color: #fab702;
+}
+.css-construction .tabpanel-style-4 .nav-tabs > li.active,
+.css-construction .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-construction .tabpanel-style-5 .nav-tabs > li.active,
+.css-construction .tabpanel-style-5 .nav-tabs > li.active > span,
+.css-construction .loader-13 > div:last-child,
+.css-construction .loader-15 > div:last-child {
+    border-color: #fab702 transparent;
+}
+.css-construction .job-form input:focus,
+.css-construction .job-form textarea:focus,
+.css-construction .form-contact input:focus,
+.css-construction .form-contact textarea:focus,
+.css-construction .form-contact input:focus,
+.css-construction .login-form input:focus,
+.css-construction .login-form textarea:focus {
+    background-image: linear-gradient(#fab702, #fab702), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.css-construction .btn-rounded,
+.css-construction .form-control,
+.css-construction .pagination-box .pager li a,
+.css-construction .portfolio_overlay a.portfolio_zoom,
+.css-construction .portfolio_overlay a.portfolio_link,
+.css-construction .overlay-animation-2 .overlay_box a.image_link,
+.css-construction .overlay-animation-2 .overlay_box a.video_zoom,
+.css-construction a.home-breadcrumb,
+.css-construction .overlay-animation-1 .overlay_box a.image_zoom,
+.css-construction .overlay-animation-1 .overlay_box a.image_link,
+.css-construction ul.widget-ul li a span,
+.css-construction ul.widget-social li a,
+.css-construction .team-2 .team-social a,
+.css-construction .team-3 .team-social a,
+.css-construction .team-social a,
+.css-construction .benefits-box h1 {
+    border-radius: 100px;
+}
+.css-construction ul.thumbs li a,
+.css-construction ul.thumbs li a img,
+.css-construction ul.thumbs li a:before,
+.css-construction .widget-dribbble-box .shots li a,
+.css-construction .widget-dribbble-box .shots li a img,
+.css-construction .dribbble-box-dummy .shots-dummy li a,
+.css-construction .dribbble-box-dummy .shots-dummy li a img,
+.css-construction .instagram-widget a,
+.css-construction .instagram-widget a img,
+.css-construction .instagram-widget a:hover:before,
+.css-construction .instagram-widget a:hover:after,
+.css-construction .pricing-table-2-column,
+.css-construction .pricing-table-3-column,
+.css-construction .pricing-table-4 {
+    border-radius: 4px;
+}
+.css-construction .icon-box-2-effect-3 .icon-block-2 {
+    box-shadow: 0 0 0 3px #fab702;
+}
+.css-construction .icon-box-2-effect-4 .icon-block-2,
+.css-construction .icon-box-2-effect-5 .icon-block-2,
+.css-construction .icon-box-2-effect-5:hover .icon-block-2,
+.css-construction .icon-box-2-effect-1 .icon-block-2:after,
+.css-construction .icon-box-2-effect-2 .icon-block-2:after {
+    box-shadow: 0 0 0 4px #fab702;
+}
+.icon-box-2-effect-6 .icon-block-2:after,
+.css-construction .scroll-to-top-fixed.sticky-btn:hover {
+    box-shadow: 0 0 0 2px #fab702;
+}
+.css-construction .empty-cart:after,
+.css-construction .loader-34 > div {
+    border-bottom-color: #fab702;
+}
+.css-construction .btn-default-reverse:hover,
+.css-construction .btn-default-reverse:focus {
+    background-color: #fab702;
+    border-color: #fab702;
+}
+.css-construction .tp-caption .btn-default.active,
+.css-construction .btn-default.active,
+.css-construction .tp-caption .btn-default.focus,
+.css-construction .btn-default.focus,
+.css-construction .tp-caption .btn-default:active,
+.css-construction .btn-default:active,
+.css-construction .tp-caption .btn-default:focus,
+.css-construction .btn-default:focus,
+.css-construction .tp-caption .btn-default:hover,
+.css-construction .btn-default:hover,
+.css-construction #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction .btn-primary.btn-animation-icon-box,
+.css-construction .btn-primary.btn-animation-icon-box:hover,
+.css-construction .btn-primary.btn-animation-icon-box:focus,
+.css-construction .btn-primary.btn-animation-icon-box:active,
+.css-construction .tp-caption .btn-primary.btn-animation-icon-box,
+.css-construction .tp-caption .btn-primary.btn-animation-icon-box:hover,
+.css-construction .tp-caption .btn-primary.btn-animation-icon-box:focus,
+.css-construction .tp-caption .btn-primary.btn-animation-icon-box:active,
+.css-construction .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-construction .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-construction .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-construction .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #e3a601;
+}
+.css-construction .metis .tp-tab.selected .tp-tab-divider {
+    border-right-color: #fab702;
+}
+.css-construction #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-construction #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-construction span.latest-post-month,
+.css-construction .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-construction .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu,
+.css-construction .tp-caption .btn-default.active,
+.css-construction .btn-default.active,
+.css-construction .tp-caption .btn-default.focus,
+.css-construction .btn-default.focus,
+.css-construction .tp-caption .btn-default:active,
+.css-construction .btn-default:active,
+.css-construction .tp-caption .btn-default:focus,
+.css-construction .btn-default:focus,
+.css-construction .tp-caption .btn-default:hover,
+.css-construction .btn-default:hover,
+.css-construction #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-construction #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-construction #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-construction #header.main-color-nav .navbar-2 .navbar-nav > .active > a,
+.css-construction .btn-primary.btn-animation-icon-box .btn-text,
+.css-construction .btn-primary.btn-animation-icon-box:hover .btn-text,
+.css-construction .btn-primary.btn-animation-icon-box:focus .btn-text,
+.css-construction .primary.btn-animation-icon-box:active .btn-text {
+    background-color: #e3a601;
+}
+.css-construction .item-text-wrapper,
+.css-construction .standard_hover .portfolio_overlay,
+.css-construction .overlay-animation-1 .overlay_box,
+.css-construction .flip-hover .flip-box .content-box,
+.css-construction .team-8 .team-image .overlay-team-box,
+.css-construction .team-9 .team-image .overlay-team-box,
+.css-construction .portfolio-animation-slide .sliding-content {
+    background-color: rgba(250, 183, 2, 0.9);
+}
+.css-construction .intro-block .overlay,
+.css-construction ul.thumbs li a:before,
+.css-construction .widget-dribbble-box .shots li a:before,
+.css-construction .dribbble-box-dummy .shots-dummy li a:before,
+.css-construction .sidebar-shop-products-list .image-thumb:before,
+.css-construction .cart-shop-products-list .image-thumb:before,
+.css-construction .overlay-bg.colored,
+.css-construction .instagram-widget a:before,
+.css-construction .overlay-bg.background-1 {
+    background-color: rgba(250, 183, 2, 0.75);
+}
+.forum-reply-signin {
+    background: rgba(250, 183, 2, 0.92);
+}
+.css-construction .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-construction .team-2 .overlay-team-box,
+.css-construction .team-6 .overlay-team-box,
+.css-construction .team-7 .overlay-team-box,
+.css-construction .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-construction .contact-overlay-map .overlay-map-background,
+.css-construction .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-construction .table-style-7.table-withmaincolor tbody tr th,
+.css-construction .fc-bgevent,
+.css-construction #particles-js.background-1 {
+    background-color: rgba(250, 183, 2, 0.6);
+}
+.css-construction .widget-dribbble-box .shots li a:hover:before,
+.css-construction .dribbble-box .shots li a:hover:before,
+.css-construction .dribbble-box-dummy .shots-dummy li a:hover:before,
+.css-construction .instagram-widget a:hover:before,
+.css-construction .newspaper-sidebar-image-news > article a.image-box:before {
+    background-color: rgba(250, 183, 2, 0.85);
+}
+.css-construction .price-filter-desc .btn {
+    background-color: #f37a30;
+    border-color: #f37a30;
+}
+.css-construction .btn-default.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #fab702;
+}
+.css-construction .btn-default.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #fab702;
+}
+.css-construction .btn-default-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #fab702;
+}
+.css-construction .btn-default-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #fab702;
+}
+.css-construction .btn-primary {
+    background: #e3a601;
+    border-color: #e3a601;
+}
+.css-construction .btn-primary:hover,
+.css-construction .open > .dropdown-toggle.btn-primary,
+.css-construction .btn-primary.active,
+.css-construction .btn-primary.focus,
+.css-construction .btn-primary:active,
+.css-construction .css-construction .btn-primary:focus {
+    background: #3c1a90;
+    border-color: #3c1a90;
+}
+.css-construction .btn-primary-reverse {
+    color: #e3a601;
+    border-color: #e3a601;
+}
+.css-construction .btn-primary-reverse:hover {
+    background-color: #e3a601;
+    border-color: #e3a601;
+}
+.css-construction .btn-primary.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #e3a601;
+}
+.css-construction .btn-primary.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #e3a601;
+}
+.css-construction .btn-primary-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #e3a601;
+}
+.css-construction .btn-primary-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #e3a601;
+}
+.css-construction .blog-list > article.default-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #fab702;
+}
+.css-construction .blog-list > article.default-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #fab702;
+}
+.css-construction .blog-list > article.primary-post .blog-post-2 .bp2-category {
+    background: #e3a601;
+}
+.css-construction .blog-list > article.primary-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #e3a601;
+}
+.css-construction .blog-list > article.primary-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #e3a601;
+}
+.css-construction .blog-list > article.primary-post .blog-desc {
+    border-top-color: #e3a601;
+}
+.css-construction .blog-list > article.primary-post .blog-post-2 .bp2-desc {
+    border-bottom-color: #e3a601;
+}
+.css-construction .btn-default.btn-animation-icon-box .btn-text,
+.css-construction .btn-default.btn-animation-icon-box:hover .btn-text,
+.css-construction .btn-default.btn-animation-icon-box:focus .btn-text,
+.css-construction .btn-default.btn-animation-icon-box:active .btn-text {
+    background: #fab702;
+}
+.css-construction .btn-default.btn-animation-icon-box .btn-icon,
+.css-construction .btn-default.btn-animation-icon-box:hover .btn-icon,
+.css-construction .btn-default.btn-animation-icon-box:focus .btn-icon,
+.css-construction .btn-default.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-construction .btn-default-reverse.btn-animation-icon-box .btn-text,
+.css-construction .btn-default-reverse.btn-animation-icon-box:hover .btn-text,
+.css-construction .btn-default-reverse.btn-animation-icon-box:focus .btn-text,
+.css-construction .btn-default-reverse.btn-animation-icon-box:active .btn-text {
+    color: #fab702;
+}
+.css-construction .btn-default-reverse.btn-animation-icon-box .btn-icon,
+.css-construction .btn-default-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-construction .btn-default-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-construction .btn-default-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #fab702;
+    color: #fab702;
+}
+.css-construction .btn-primary.btn-animation-icon-box .btn-icon,
+.css-construction .btn-primary.btn-animation-icon-box:hover .btn-icon,
+.css-construction .btn-primary.btn-animation-icon-box:focus .btn-icon,
+.css-construction .btn-primary.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-construction .btn-primary-reverse.btn-animation-icon-box .btn-text,
+.css-construction .btn-primary-reverse.btn-animation-icon-box:hover .btn-text,
+.css-construction .btn-primary-reverse.btn-animation-icon-box:focus .btn-text,
+.css-construction .btn-primary-reverse.btn-animation-icon-box:active .btn-text,
+.css-construction .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-construction .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-construction .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-construction .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    color: #e3a601;
+}
+.css-construction .tp-caption.btn.background-2:hover,
+.css-construction .tp-caption.btn.background-2:focus,
+.css-construction .tp-caption.btn.background-2:active {
+    background-color: #e33834;
+}
+.css-construction .border-background-2 {
+    border-color: #596472;
+}
+.css-construction .border-background-3 {
+    border-color: #f37a30;
+}
+.css-construction .blog-list > article .featured-posts-slider .fp-desc {
+    background: rgba(250, 183, 2, 0.9);
+}
+.css-construction .gsi-style-4 li.current>* .number:before {
+    border-left-color: #fab702;
+}
+.css-construction .gsi-style-7.border-top li.current>* {
+    border-top-color: #fab702;
+}
+.css-construction .icon-box.icon-circle .icon-block,
+.css-construction .icon-box.icon-circle .icon-block span,
+.css-construction .icon-block-2,
+.css-construction .icon-block-2:after,
+.css-construction .simple-icon-image img,
+.css-construction .icon-image-overlay,
+.css-construction .simple-icon-icon,
+.css-construction .link-rounded-icon,
+.css-construction .slider-slick-slide a [class^="icon-"],
+.css-construction .flexslider.clients .flex-control-paging li a,
+.css-construction .testimonial-single .slick-prev,
+.css-construction .testimonial-single .slick-next,
+.css-construction .testimonial-single .slick-dots li button:before,
+.css-construction .slick-dots li button:before,
+.css-construction .testimonials-slick-nav .slick-testimonial-prev,
+.css-construction .testimonials-slick-nav .slick-testimonial-next,
+.css-construction .block-content-wrapper h1 {
+    border-radius: 50px;
+}
+.css-construction .loader-6 {
+    background: #fab702;
+    background: -moz-linear-gradient(left, #fab702 10%, rgba(250, 183, 2, 0) 42%);
+    background: -webkit-linear-gradient(left, #fab702 10%, rgba(250, 183, 2, 0) 42%);
+    background: -o-linear-gradient(left, #fab702 10%, rgba(250, 183, 2, 0) 42%);
+    background: -ms-linear-gradient(left, #fab702 10%, rgba(250, 183, 2, 0) 42%);
+    background: linear-gradient(to right, #fab702 10%, rgba(250, 183, 2, 0) 42%);
+}
+@-webkit-keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #fab702, 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2), 2.5em 0em 0 0em rgba(250, 183, 2, 0.2), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.2), 0em 2.5em 0 0em rgba(250, 183, 2, 0.2), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.2), -2.6em 0em 0 0em rgba(250, 183, 2, 0.5), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.7), 1.8em -1.8em 0 0em #fab702, 2.5em 0em 0 0em rgba(250, 183, 2, 0.2), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.2), 0em 2.5em 0 0em rgba(250, 183, 2, 0.2), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.2), -2.6em 0em 0 0em rgba(250, 183, 2, 0.2), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.5), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.7), 2.5em 0em 0 0em #fab702, 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.2), 0em 2.5em 0 0em rgba(250, 183, 2, 0.2), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.2), -2.6em 0em 0 0em rgba(250, 183, 2, 0.2), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.2), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.5), 2.5em 0em 0 0em rgba(250, 183, 2, 0.7), 1.75em 1.75em 0 0em #fab702, 0em 2.5em 0 0em rgba(250, 183, 2, 0.2), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.2), -2.6em 0em 0 0em rgba(250, 183, 2, 0.2), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.2), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2), 2.5em 0em 0 0em rgba(250, 183, 2, 0.5), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.7), 0em 2.5em 0 0em #fab702, -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.2), -2.6em 0em 0 0em rgba(250, 183, 2, 0.2), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.2), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2), 2.5em 0em 0 0em rgba(250, 183, 2, 0.2), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.5), 0em 2.5em 0 0em rgba(250, 183, 2, 0.7), -1.8em 1.8em 0 0em #fab702, -2.6em 0em 0 0em rgba(250, 183, 2, 0.2), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.2), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2), 2.5em 0em 0 0em rgba(250, 183, 2, 0.2), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.2), 0em 2.5em 0 0em rgba(250, 183, 2, 0.5), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.7), -2.6em 0em 0 0em #fab702, -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.2), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2), 2.5em 0em 0 0em rgba(250, 183, 2, 0.2), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.2), 0em 2.5em 0 0em rgba(250, 183, 2, 0.2), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.5), -2.6em 0em 0 0em rgba(250, 183, 2, 0.7), -1.8em -1.8em 0 0em #fab702;
+    }
+}
+@keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #fab702, 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2), 2.5em 0em 0 0em rgba(250, 183, 2, 0.2), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.2), 0em 2.5em 0 0em rgba(250, 183, 2, 0.2), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.2), -2.6em 0em 0 0em rgba(250, 183, 2, 0.5), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.7), 1.8em -1.8em 0 0em #fab702, 2.5em 0em 0 0em rgba(250, 183, 2, 0.2), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.2), 0em 2.5em 0 0em rgba(250, 183, 2, 0.2), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.2), -2.6em 0em 0 0em rgba(250, 183, 2, 0.2), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.5), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.7), 2.5em 0em 0 0em #fab702, 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.2), 0em 2.5em 0 0em rgba(250, 183, 2, 0.2), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.2), -2.6em 0em 0 0em rgba(250, 183, 2, 0.2), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.2), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.5), 2.5em 0em 0 0em rgba(250, 183, 2, 0.7), 1.75em 1.75em 0 0em #fab702, 0em 2.5em 0 0em rgba(250, 183, 2, 0.2), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.2), -2.6em 0em 0 0em rgba(250, 183, 2, 0.2), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.2), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2), 2.5em 0em 0 0em rgba(250, 183, 2, 0.5), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.7), 0em 2.5em 0 0em #fab702, -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.2), -2.6em 0em 0 0em rgba(250, 183, 2, 0.2), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.2), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2), 2.5em 0em 0 0em rgba(250, 183, 2, 0.2), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.5), 0em 2.5em 0 0em rgba(250, 183, 2, 0.7), -1.8em 1.8em 0 0em #fab702, -2.6em 0em 0 0em rgba(250, 183, 2, 0.2), -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.2), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2), 2.5em 0em 0 0em rgba(250, 183, 2, 0.2), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.2), 0em 2.5em 0 0em rgba(250, 183, 2, 0.5), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.7), -2.6em 0em 0 0em #fab702, -1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(250, 183, 2, 0.2), 1.8em -1.8em 0 0em rgba(250, 183, 2, 0.2), 2.5em 0em 0 0em rgba(250, 183, 2, 0.2), 1.75em 1.75em 0 0em rgba(250, 183, 2, 0.2), 0em 2.5em 0 0em rgba(250, 183, 2, 0.2), -1.8em 1.8em 0 0em rgba(250, 183, 2, 0.5), -2.6em 0em 0 0em rgba(250, 183, 2, 0.7), -1.8em -1.8em 0 0em #fab702;
+    }
+}
+.css-construction .loader-3 {
+    border-top-color: rgba(250, 183, 2, 0.2);
+    border-right-color: rgba(250, 183, 2, 0.2);
+    border-bottom-color: rgba(250, 183, 2, 0.2);
+    border-left-color: #fab702;
+}
+.css-construction .svg-animation path {
+    stroke: #fab702;
+}
+.css-construction .loader-36 > div {
+    background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #fab702 30%, #fab702 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #fab702 30%, #fab702 100%);
+}
+.css-construction .blockquote-style-2 blockquote:after, 
+.css-construction .blockquote-style-2 blockquote:before{
+  background-color: transparent;
+}

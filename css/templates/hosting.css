@@ -1,0 +1,1238 @@
+/* Hosting */
+
+body.css-hosting,
+.css-hosting p,
+.css-hosting .featured-content h1.small,
+.css-hosting .form-group > label,
+.css-hosting .checkbox > label,
+.css-hosting .alert > p,
+.css-hosting .block-content-wrapper h2,
+.css-hosting .intro-text h1,
+.css-hosting .intro-text h2,
+.css-hosting .intro-text h3,
+.css-hosting .intro-text h4,
+.css-hosting .intro-text h5,
+.css-hosting .intro-text h6,
+.css-hosting .restaurant-info-img-content h4,
+.css-hosting .contact-title h3 {
+    font-family: "Montserrat", sans-serif;
+} 
+.css-hosting h1,
+.css-hosting h2,
+.css-hosting h3,
+.css-hosting h4,
+.css-hosting h5,
+.css-hosting h6,
+.css-hosting .testimonials-slider .testimonials-slider-box .testimonial-text {
+    font-family: "Montserrat", sans-serif;
+}
+/* Color 1 */
+
+.css-hosting .color-1,
+.css-hosting .wsmenu-list > li > a:hover,
+.css-hosting .dark-menu .wsmenu-submenu li a:hover,
+.css-hosting .dark-menu .wsmenu-submenu li a:hover,
+.css-hosting .dark-menu .megamenu .link-list li a:hover,
+.css-hosting #header ul.wsmenu-submenu li a.active,
+.css-hosting #portfolio-filter li a:hover,
+.css-hosting .wsmenu-list > li > a.active,
+.css-hosting #header .wsmenu.navigation-dark .wsmenu-list > li > a.active,
+.css-hosting #header .wsmenu.navigation-dark .wsmenu-list > li > a:hover,
+.css-hosting .dark-menu .megamenu .link-list li.active a,
+.css-hosting .cart-dropdown-menu .cart-shop-products-list li .csp-price,
+.css-hosting .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-hosting .light-menu .megamenu .link-list li.active a,
+.css-hosting .light-menu .megamenu .link-list li a:hover,
+.css-hosting .light-menu .wsmenu-submenu li a:hover,
+.css-hosting .light-menu .wsmenu-submenu li.active a,
+.css-hosting ul.simple-list li [class^="icon-"],
+.css-hosting .footer-tags a:hover,
+.css-hosting #footer .widget-twitter-box .tweet ul li a:hover,
+.css-hosting .blog-list > article .blog-desc .blog-desc-details a:hover,
+.css-hosting .blog-list>article .post-facebook:hover,
+.css-hosting .blog-list>article .post-facebook:hover .pf-icon span,
+.css-hosting .blog-list>article .post-facebook:hover .pf-text,
+.css-hosting ul.blog-popular-list .ssp-title:hover,
+.css-hosting #post-content .blog-desc-details a:hover,
+.css-hosting .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-hosting .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-hosting .author-description .author-description-text-holder .author-name a:hover,
+.css-hosting .comment_response .media h6 a:hover,
+.css-hosting .blog-list>article .post-facebook:hover,
+.css-hosting .blog-list>article .post-facebook:hover .pf-icon span,
+.css-hosting .blog-list>article .post-facebook:hover .pf-text,
+.css-hosting ul.blog-popular-list .ssp-title:hover,
+.css-hosting #post-content .blog-desc-details a:hover,
+.css-hosting .header-transparent.nav-sticky .wsmenu-list > li > a:hover,
+.css-hosting .header-light.nav-sticky .wsmenu-list > li > a:hover,
+.css-hosting .header-light.nav-sticky .wsmenu-list > li > a.active,
+.css-hosting .header-transparent.nav-sticky .wsmenu-list > li > a.active,
+.css-hosting .author-description .author-description-text-holder .author-name a:hover,
+.css-hosting ul.sidebar-category li a:hover,
+.css-hosting ul.shop-star-rating.single-item li.full-star,
+.css-hosting,
+.css-hosting #footer.footer-10 .title.small a:hover,
+.css-hosting .vlt-left-menu.vlt-menu-style-2 .nav-accordion-section-title:hover,
+.css-hosting .vlt-left-menu .nav-accordion-section-content ul li a:hover,
+.css-hosting .header-content .phone-number span,
+.css-hosting .intro-block h6,
+.css-hosting .icon-block [class^="icon-"],
+.css-hosting ul.header-links li a:hover,
+.css-hosting .navbar.banner--clone .nav > li > a:hover,
+.css-hosting .navbar.banner--clone .btn-search:hover,
+.css-hosting .success-lg:hover [class^="icon-"],
+.css-hosting #copyrights ul li a:hover,
+.css-hosting #copyrights a:hover,
+.css-hosting .breadcrumb > .active,
+.css-hosting .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-hosting a.image_link:hover [class^="icon-"],
+.css-hosting a.load-more-btn:hover,
+.css-hosting a.load-more-btn:hover [class^="icon-"],
+.css-hosting .intro-block h1 [class^="icon-"],
+.css-hosting .shop-list .shop-product h4 a:hover,
+.css-hosting ul#portfolio-layout-filter li a.active,
+.css-hosting .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-hosting .shop-price,
+.css-hosting ul.sidebar-shop-cat > li > a:hover,
+.css-hosting a.load-more-btn:hover,
+.css-hosting a.load-more-btn:hover [class^="icon-"],
+.css-hosting .intro-block h1 [class^="icon-"],
+.css-hosting .shop-list .shop-product h4 a:hover,
+.css-hosting ul#portfolio-layout-filter li a.active,
+.css-hosting .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-hosting ul.sidebar-cat > li span,
+.css-hosting .shop-price,
+.css-hosting ul.sidebar-cat > li > a:hover,
+.css-hosting ul.jobs-list li [class^="icon-"],
+.css-hosting .team-social a:hover,
+.css-hosting .icon-default,
+.css-hosting .error-page-icon span [class^="icon-"],
+.css-hosting .footer-3-container-text a:hover,
+.css-hosting .testimonials-box .testimonial-author,
+.css-hosting #page-title.image-page-title-fullwidth h1,
+.css-hosting #page-title.image-page-title-left.image-page-noimage h2,
+.css-hosting ul.services-2-icons,
+.css-hosting ul.shop-layout-filter li a.active,
+.css-hosting ul.portfolio-layout-filter li a.active,
+.css-hosting ul.porfolio-project-details-list > li .ppd-right a:hover,
+.css-hosting .related-projects-title .slick-custom-next:hover,
+.css-hosting .related-projects-title .slick-custom-prev:hover,
+.css-hosting .recent-post-content a:hover,
+.css-hosting .form-group.login-form-submit a,
+.css-hosting .shop-type-1 a.add-to-cart-item:before,
+.css-hosting .shop-type-2 a.add-to-cart-item:before,
+.css-hosting a.form-forgotpass,
+.css-hosting .sidebar-shop-products-list li .ssp-title:hover,
+.css-hosting .restaurant-info ul li [class^="icon-"],
+.css-hosting .navbar-default.default .btn-cart .header-cart-count,
+.css-hosting .blog-list > article .blog-desc h4 a:focus,
+.css-hosting .blog-list-full > article .blog-desc h4 a:hover,
+.css-hosting .blog-list-full > article .blog-desc h4 a:focus,
+.css-hosting .blog-list > article .blog-desc .blog-desc-details a:focus,
+.css-hosting .blog-list-full > article .blog-desc .blog-desc-details a:hover,
+.css-hosting .blog-list-full > article .blog-desc .blog-desc-details a:focus,
+.css-hosting .single-post > article .blog-desc .blog-desc-details a:hover,
+.css-hosting .single-post > article .blog-desc .blog-desc-details a:focus,
+.css-hosting .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-hosting .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-hosting .blog-list-full > article .blog-desc .btn-breadmore:hover,
+.css-hosting .blog-list-full > article .blog-desc .btn-breadmore:focus,
+.css-hosting .blog-masonry > article .blog-desc h4 a:hover,
+.css-hosting .blog-masonry > article .blog-desc h4 a:focus,
+.css-hosting .blog-masonry > article .blog-desc .blog-desc-details a:hover,
+.css-hosting .blog-masonry > article .blog-desc .blog-desc-details a:focus,
+.css-hosting .comment_response .media_cloud a.reply_link,
+.css-hosting .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-hosting .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-hosting .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-hosting .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-hosting .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-hosting .dropcap.dropcap-style-1,
+.css-hosting .counter-box .count-icon,
+.css-hosting .counter-style-1 .counter-box h4,
+.css-hosting .icon-type,
+.css-hosting .icon-type.it-main-color,
+.css-hosting .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-hosting .comment_response .media_cloud a.reply_link,
+.css-hosting .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-hosting .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-hosting .tabpanel-style-3 .nav-tabs > li.active > a,
+.css-hosting .tabpanel-style-3 .nav-tabs > li.active > a:focus,
+.css-hosting .tabpanel-style-3 .nav-tabs > li.active > a:hover,
+.css-hosting .dropcap.dropcap-style-1,
+.css-hosting .btn-default-reverse,
+.css-hosting .counter-box .count-icon,
+.css-hosting .counter-style-1 .counter-box h4,
+.css-hosting .icon-type,
+.css-hosting .icon-type.it-main-color,
+.css-hosting .shop-single-page .review_response .review-title .shop-star-rating li.full-star,
+.css-hosting .review_response .media h6 a,
+.css-hosting .review_response .media_cloud .shop-star-rating li.full-star,
+.css-hosting .rating-container .rating-stars,
+.css-hosting .form-contact small,
+.css-hosting ul.icon-list li a:hover,
+.css-hosting ul.icon-list li a:active,
+.css-hosting ul.icon-list li a:focus,
+.css-hosting .checkout-sum,
+.css-hosting .checkout-table td a:hover,
+.css-hosting .checkout-box a,
+.css-hosting .user-profile-list ul li a:hover,
+.css-hosting a.profile-active,
+.css-hosting .user-profile-content h2,
+.css-hosting .forum-content-header span a,
+.css-hosting .recent-work-content a:hover,
+.css-hosting .recent-work-image-content a:hover,
+.css-hosting .contact-overlay-map .maximize-form:hover,
+.css-hosting .hero-slier-nav-content:hover [class^="icon-"],
+.css-hosting .selected .hero-slier-nav-content [class^="icon-"],
+.css-hosting .team-social a:hover,
+.css-hosting .team-name h5 a:hover,
+.css-hosting .clients-slick-nav .slick-custom-next:hover,
+.css-hosting .clients-slick-nav .slick-custom-prev:hover,
+.css-hosting .services-pricing-icon [class^="icon-"],
+.css-hosting .brand [class^="icon-"],
+.css-hosting .content-divider-colored [class^="icon-"],
+.css-hosting .divider-content h1 span,
+.css-hosting .divider-content h2 span,
+.css-hosting .divider-content h3 span,
+.css-hosting .intro-page-content a:hover,
+.css-hosting .image-box-content a:hover,
+.css-hosting .icon-type.it-main-color [class^="icon-"],
+.css-hosting .icon-type-2:hover p,
+.css-hosting .icon-type-2:hover span.icon-type-2-icon,
+.css-hosting .heading-container .head-colored,
+.css-hosting ul.home-6-list li h4 [class^="icon-"],
+.css-hosting .icon-box-2-effect-1:hover .icon-block-2,
+.css-hosting .icon-box-2-effect-3-reverse:hover .icon-block-2,
+.css-hosting .icon-box-2-effect-4:hover .icon-block-2,
+.css-hosting .icon-box-2-effect-4-reverse .icon-block-2,
+.css-hosting .icon-box-2-effect-5:hover .icon-block-2,
+.css-hosting .simple-icon-lightbg [class^="icon-"],
+.css-hosting .accordion-style-1 .panel-default > .panel-heading .panel-title a:hover,
+.css-hosting .panel-body ul li a:hover,
+.css-hosting .colored,
+.css-hosting .tabpanel-style-7 .nav-tabs > li.active > a,
+.css-hosting .tabpanel-style-6 .nav-tabs > li > a,
+.css-hosting .tabpanel-style-8 .nav-tabs > li.active > a,
+.css-hosting .tp_caption_big span,
+.css-hosting ul.icon-box-simple li:hover a,
+.css-hosting .testimonials-slick-nav .slick-testimonial-prev:hover [class^="icon-"],
+.css-hosting .testimonials-slick-nav .slick-testimonial-next:hover [class^="icon-"],
+.css-hosting .clients-slick-nav .slick-clients-prev:hover [class^="icon-"],
+.css-hosting .clients-slick-nav .slick-clients-next:hover [class^="icon-"],
+.css-hosting .blockquote-author p,
+.css-hosting .testimonial-author,
+.css-hosting .latest-post-content h1 a:hover,
+.css-hosting .post-by a:hover,
+.css-hosting .latest-post-content .read-more-link,
+.css-hosting .blog-horizontal .bh-content h3 a:hover,
+.css-hosting .blog-horizontal .bh-content .bh-details a:hover,
+.css-hosting .blog-horizontal .bh-content .bh-details a:hover span,
+.css-hosting a.bsp-title:hover,
+.css-hosting .sidebar-blog-post-list li .sbp-title:hover,
+.css-hosting .navbar-nav > li.active,
+.css-hosting .navbar-nav > li.active:hover,
+.css-hosting a.idb-social:hover,
+.css-hosting a.idb-social:hover span,
+.css-hosting a.idb-price,
+.css-hosting span.pts-raised,
+.css-hosting .bsp-social a:hover,
+.css-hosting .bsp-social a [class^="icon-"]:hover,
+.css-hosting a.bsp-more:hover,
+.css-hosting .blog-list > article .blog-image-box .video-play-icon:focus [class^="icon-"],
+.css-hosting .blog-list > article .blog-post-2 .bp2-desc h4 a:focus,
+.css-hosting .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:hover,
+.css-hosting .blog-list > article .blog-post-2 .bp2-desc .blog-desc-details a:focus,
+.css-hosting .gallery-block .gallery-box .gallery-meta a:hover,
+.css-hosting .gallery-block .gallery-box .gallery-meta a:focus,
+.css-hosting .tp-caption a,
+.css-hosting .tp-caption a:hover,
+.css-hosting .cd-timeline-inner-content a:hover,
+.css-hosting .testimonial-box .testimonial-author span,
+.css-hosting .fic-date a:hover,
+.css-hosting .forum-inner-content h1 a:hover,
+.css-hosting .user-profile-desc a:hover,
+.css-hosting .cd-timeline-navigation a:hover::after,
+.css-hosting .login-form .login-input-box [class^="icon-"],
+.css-hosting .icon-input-box [class^="icon-"],
+.css-hosting ul.icon-list.il-no-border.il-main-bg li [class^="icon-"],
+.css-hosting ul.bar-chart-graph li,
+.css-hosting ul.line-graph li,
+.css-hosting ul.donut-graph li,
+.css-hosting .tp-caption.Creative-SubTitle,
+.css-hosting .Creative-SubTitle,
+.css-hosting .tp-caption.vlt-hero-rotating,
+.css-hosting ul.recent-post-widget .rp-post a:hover,
+.css-hosting .loader-5,
+.css-hosting .loader-7,
+.css-hosting .loader-9,
+.css-hosting .loader-2,
+.css-hosting .loader-4,
+.css-hosting .vertical-newspaper-list .vnl-content h4 a:hover,
+.css-hosting .vertical-newspaper-sidebar-list .vnl-content h4 a:hover,
+.css-hosting .events-vertical .events-vertical-desc h4 a:hover,
+.css-hosting .portfolio-single-share .pss-share li a:hover,
+.css-hosting .portfolio-single-share .pss-like:hover,
+.css-hosting .portfolio-single-intro-description .portfolio-single-categories a:hover,
+.css-hosting .portfolio-single-more-link:hover,
+.css-hosting .gsi-style-9 li.visited>*,
+.css-hosting .gsi-style-9 li.current>*,
+.css-hosting .item-text-wrapper_normal .portfolio-item-title a:hover,
+.css-hosting .item-text-wrapper_normal .portfolio-item-category a:hover,
+.css-hosting .header-contact-box .header-phone:hover,
+.css-hosting .header-contact-box .header-email:hover,
+.css-hosting .icon-box.icon-square .icon-block span,
+.css-hosting .icon-box.icon-square.icon-fill.icon-transform:hover .icon-block span {
+    color: #56aed2;
+}
+/* Background Color 1 */
+
+.css-hosting .background-1,
+.css-hosting .animation-box.background-1:hover .animation-box-style-2.background-1:hover,
+.css-hosting .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-1,
+.css-hosting .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-1,
+.css-hosting a.brand-modern span.line-1,
+.css-hosting .header.dark-nav a.brand-modern span.line-1,
+.css-hosting .wte-separator.background-1:before,
+.css-hosting .call-newsletter-box form .btn,
+.css-hosting .offscreen-container,
+.css-hosting #header.background-1,
+.css-hosting .background-1-menu .megamenu,
+.css-hosting .background-1-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-hosting .background-1-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-hosting .background-1-menu .wsmenu-submenu li a,
+.css-hosting .background-1-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-hosting .background-1-menu .wsmenu-submenu,
+.css-hosting .background-1-menu .wsmenu-submenu-sub,
+.css-hosting .background-1-menu .wsmenu-submenu-sub-sub,
+.css-hosting .background-1-menu .wsmenu-submenu-sub-sub-sub,
+.css-hosting #portfolio-filter li a.activeFilter,
+.css-hosting #portfolio-filter li a.activeFilter[data-filter="*"],
+.css-hosting #header .search-cart-navbar:hover .btn-default,
+.css-hosting .scroll-to-top-fixed,
+.css-hosting #bootstrap-table.table>thead>tr>th,
+.css-hosting ul.meta-share-social li a:hover,
+.css-hosting article.blog-item .blog-image-box .video-play-icon span,
+.css-hosting .audioplayer,
+.css-hosting .audioplayer-bar,
+.css-hosting .blog-desc-details:after,
+.css-hosting .audioplayer-volume-adjust div div,
+.css-hosting .qoute-post,
+.css-hosting .footer-newsletter-box form .btn,
+.css-hosting .footer-newsletter-box form .btn.disabled,
+.css-hosting .tags-cloud-list li a:hover,
+.css-hosting article.blog-item .blog-image-box.video-post:before,
+.css-hosting .tp-caption .btn-default,
+.css-hosting .btn-default,
+.css-hosting .flex-control-paging li a.flex-active,
+.css-hosting #mobile-navbar,
+.css-hosting .call-to-action,
+.css-hosting .maincolor-background,
+.css-hosting ul.widget-ul li a > span,
+.css-hosting ul.widget-social li a:hover,
+.css-hosting #people .item .info,
+.css-hosting .main-color,
+.css-hosting .flexslider.clients .flex-control-paging li a.flex-active,
+.css-hosting #portfolio-filter li a:after,
+.css-hosting .navbar.banner--clone .nav li.active > a,
+.css-hosting .pricing-table-column.special-price-table .pricing-table-head,
+.css-hosting .pricing-table-column.special-price-table .pricing-table-content,
+.css-hosting .shop-list .shop-product .shop-button-box .addtocart-button,
+.css-hosting .progress-bar-box .progress-bar,
+.css-hosting .background-1,
+.css-hosting .selecter .selecter-item:hover,
+.css-hosting .selecter .selecter-item.selected:hover,
+.css-hosting #footer.colored,
+.css-hosting section.about-counter,
+.css-hosting .error-page-title:after,
+.css-hosting .tabpanel-style-4 .nav-tabs > li.active > a,
+.css-hosting .tabpanel-style-4 .nav-tabs > li > a:hover,
+.css-hosting .tabpanel-style-4 .nav-tabs > li.active > a:focus,
+.css-hosting .tabpanel-style-4 .nav-tabs > li.active > a:hover,
+.css-hosting .tabpanel-style-4 .tab-content h3:after,
+.css-hosting .about-classic-column-themecolor,
+.css-hosting .selecter .selecter-item:hover,
+.css-hosting .selecter .selecter-item.selected:hover,
+.css-hosting .item-text-wrapper_overlay,
+.css-hosting .tabpanel-style-sidenav ul.nav-tabs > li a:active,
+.css-hosting .tabpanel-style-sidenav ul.nav-tabs > li a:hover,
+.css-hosting .tabpanel-style-sidenav ul.nav-tabs > li.active a,
+.css-hosting .shop-type-2 a.add-to-cart-item,
+.css-hosting .banner--clone.banner--stick .btn-cart .header-cart-count,
+.css-hosting .search-cart-navbar .btn-cart .header-cart-count,
+.css-hosting .tabpanel-style-2 .nav-tabs > li.active > a,
+.css-hosting .tabpanel-style-2 .nav-tabs > li.active > a:focus,
+.css-hosting .tabpanel-style-2 .nav-tabs > li.active > a:hover,
+.css-hosting .withmaincolor .testimonials-slider .flex-control-nav li a,
+.css-hosting .withmaincolor .testimonials-slider .testimonials-slider-box .testimonial-image,
+.css-hosting .dropcap.dropcap-style-2,
+.css-hosting .alert-default,
+.css-hosting blockquote:before,
+.css-hosting blockquote:after,
+.css-hosting .tp-caption .btn-default,
+.css-hosting .btn-default,
+.css-hosting .content-title h5:before,
+.css-hosting .content-title h5:after,
+.css-hosting .icon-box.icon-fill .icon-block,
+.css-hosting .icon-box.icon-square:hover .icon-block,
+.css-hosting .icon-box.icon-circle:hover .icon-block,
+.css-hosting .icon-box.icon-circle:hover .icon-block span,
+.css-hosting .icon-type.it-main-color:hover,
+.css-hosting .icon-type.it-main-color:focus,
+.css-hosting .icon-type.it-main-color-reverse,
+.css-hosting .icon-type.it-main-color:hover span,
+.css-hosting .icon-type.it-main-color-reverse:hover span,
+.css-hosting .add-to-cart-form .count-input .count-plus:hover,
+.css-hosting .add-to-cart-form .count-input .count-minus:hover,
+.css-hosting .pricing-table-column-2.special-price-table .pricing-table-head,
+.css-hosting .pricing-table-container.special-price-table,
+.css-hosting .pricing-table-column-2.special-price-table .pricing-table-content-2,
+.css-hosting .header-white .navbar-2 .btn-cart .header-cart-count,
+.css-hosting ul.forum-list li.forum-header,
+.css-hosting .textbox-withmaincolor,
+.css-hosting .background-1,
+.css-hosting .team-member-job,
+.css-hosting .team-section .team-desc-box:before,
+.css-hosting .team-section .team-desc-box:after,
+.css-hosting .shop-categories:hover .shop-title-categories,
+.css-hosting .content-divider-colored-bg [class^="icon-"],
+.css-hosting .overlay-animation-6 .content-box,
+.css-hosting .block-content-wrapper h1,
+.css-hosting .benefits-box h1,
+.css-hosting .selecter .selecter-item:hover,
+.css-hosting .selecter .selecter-item.selected:hover,
+.css-hosting .ui-slider .ui-slider-range,
+.css-hosting #header.header-main-color,
+.css-hosting .navbar-2.banner--clone.main-color-navbar,
+.css-hosting .tabpanel-style-center .nav-tabs > li.active > a,
+.css-hosting .tabpanel-style-center1 .nav-tabs > li.active > a:focus,
+.css-hosting .tabpanel-style-center .nav-tabs > li.active > a:hover,
+.css-hosting .label.label-primary,
+.css-hosting .label.label-primary,
+.css-hosting .star-rating .caption .label,
+.css-hosting .tparrows.preview5:hover,
+.css-hosting .table-style-4.table-withmaincolor thead tr th,
+.css-hosting .table-style-5.table-withmaincolor thead tr th,
+.css-hosting .table-style-6.table-withmaincolor thead tr th,
+.css-hosting .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd):hover,
+.css-hosting .table-style-7.table-withmaincolor thead tr th,
+.css-hosting .table-style-7.table-withmaincolor tbody tr:last-child th,
+.css-hosting .table-style-7.table-withmaincolor tbody tr:last-child td,
+.css-hosting .table-withmaincolor.table-hover > tbody > tr:hover,
+.css-hosting .table-style-2.table-withmaincolor thead tr th,
+.css-hosting .table-style-3.table-withmaincolor thead tr th,
+.css-hosting .table-style-3.table-withmaincolor tbody tr th,
+.css-hosting .parallax-withmaincolor,
+.css-hosting .contact-overlay-map .minimize-form:hover,
+.css-hosting .team-3:hover .team-social,
+.css-hosting .team-5:hover .team-social,
+.css-hosting .special-table-2,
+.css-hosting .special-table-3,
+.css-hosting span.pricing-3-discount,
+.css-hosting #vertical-timeline-container:before,
+.css-hosting .subscribe-fancy-themebg,
+.css-hosting .empty-cart,
+.css-hosting .team-4:hover .team-social,
+.css-hosting .content-divider-colored,
+.css-hosting .content-divider-colored-bg,
+.css-hosting .withmainbackground,
+.css-hosting .services-2-heading,
+.css-hosting .icon-box-2-effect-4 .icon-block-2,
+.css-hosting .services-2-heading,
+.css-hosting .promotion-box-theme-colored,
+.css-hosting .promotion-box-theme-colored .promotion-box-title h4,
+.css-hosting .icon-block-2,
+.css-hosting .icon-box-2-effect-2:hover .icon-block-2,
+.css-hosting .icon-box-2-effect-3 .icon-block-2:after,
+.css-hosting .icon-box-2-effect-4 .icon-block-2:after,
+.css-hosting .icon-box-2-effect-6 .icon-block-2,
+.css-hosting .icon-box-2-effect-6:hover .icon-block-2,
+.css-hosting .simple-icon-icon,
+.css-hosting a.call-to-action-link:hover,
+.css-hosting .add-to-cart-form .count-input .count-plus,
+.css-hosting .add-to-cart-form .count-input .count-minus,
+.css-hosting .tabpanel-style-5 .nav-tabs > li > a:active,
+.css-hosting .tabpanel-style-5 .nav-tabs > li.active > a:focus,
+.css-hosting .tabpanel-style-5 .nav-tabs > li.active > a,
+.css-hosting .tabpanel-style-5 .nav-tabs > li.active > a:active,
+.css-hosting .tabpanel-style-6 .nav-tabs > li > a:active,
+.css-hosting .tabpanel-style-6 .nav-tabs > li.active > a:focus,
+.css-hosting .tabpanel-style-6 .nav-tabs > li.active > a,
+.css-hosting .tabpanel-style-6 .nav-tabs > li.active > a:active,
+.css-hosting .special-price-box,
+.css-hosting .dropdown-menu > .active > a,
+.css-hosting .dropdown-menu > .active > a:focus,
+.css-hosting .dropdown-menu > .active > a:hover,
+.css-hosting #header.main-color-nav .navbar-2,
+.css-hosting .latest-post-data,
+.css-hosting .blog-single-post .bsp-heading h1,
+.css-hosting .testimonial-single .slick-dots li button:before,
+.css-hosting .slick-dots li button:before,
+.css-hosting .blog-list > article.default-post .blog-post-2 .bp2-category,
+.css-hosting .timeline-complete .timeline-status.timeline-active:before,
+.css-hosting .megamenu.maincolor,
+.css-hosting .dropdown.maincolor ul,
+.css-hosting .dropdown.maincolor ul.dropdown-menu,
+.css-hosting #footer.maincolor,
+.css-hosting #copyrights.maincolor,
+.css-hosting .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-hosting .cd-horizontal-timeline .events a.selected::after,
+.css-hosting .cd-horizontal-timeline .filling-line,
+.css-hosting .pinpulsebox span,
+.css-hosting .main-color-dropdown .megamenu,
+.css-hosting .main-color-dropdown .dropdown-menu,
+.css-hosting #cd-timeline::before,
+.css-hosting ul.icon-list.il-main-bg li [class^="icon-"],
+.css-hosting .process-steps ul li.current a .number,
+.css-hosting ol.ordered-list.ol-main-bg li:before,
+.css-hosting .irs-bar,
+.css-hosting .irs-from,
+.css-hosting .irs-to,
+.css-hosting .irs-single,
+.css-hosting .open > .dropdown-toggle.btn-default,
+.css-hosting .fc-unthemed .fc-today,
+.css-hosting .fc-content,
+.css-hosting #particles-js,
+.css-hosting .s-icon:hover,
+.css-hosting #progressbar li.active:before,
+.css-hosting #progressbar li.active:after,
+.css-hosting .portfolio-filter .selecter-item.activeFilter,
+.css-hosting #copyrights ul.widget-social li a:hover,
+.css-hosting .page-loader-spinner span,
+.css-hosting .loader-6:before,
+.css-hosting .loader-2,
+.css-hosting .loader-2:before,
+.css-hosting .loader-2:after,
+.css-hosting .newspaper-title .custom-slick-nav-1 .slick-custom-next:hover,
+.css-hosting .newspaper-title .custom-slick-nav-1 .slick-custom-prev:hover,
+.css-hosting .loader-10 > div,
+.css-hosting .loader-11 > div,
+.css-hosting .loader-12 > div,
+.css-hosting .loader-13 > div:first-child,
+.css-hosting .loader-14 > div,
+.css-hosting .loader-16 > div,
+.css-hosting .loader-17 > div,
+.css-hosting .loader-17 > div:before,
+.css-hosting .loader-17 > div:after,
+.css-hosting .loader-18 > div,
+.css-hosting .loader-19 > div,
+.css-hosting .loader-20 > div,
+.css-hosting .loader-22 > div,
+.css-hosting .loader-23 > div,
+.css-hosting .loader-24 > div,
+.css-hosting .loader-25 > div,
+.css-hosting .loader-26 > div,
+.css-hosting .loader-27 > div,
+.css-hosting .loader-28 > div,
+.css-hosting .loader-29 > div,
+.css-hosting .loader-32 > div,
+.css-hosting .loader-33 > div,
+.css-hosting .loader-35 > div:nth-child(3),
+.css-hosting .loader-35 > div:nth-child(4),
+.css-hosting .loader-35 > div:nth-child(5),
+.css-hosting .loader-35 > div:nth-child(6),
+.css-hosting .loader-37 > div,
+.css-hosting .loader-38 > div,
+.css-hosting .portfolio-single-share .pss-share li a:before,
+.css-hosting .portfolio-single-intro-description .portfolio-single-categories a:before,
+.css-hosting .portfolio-single-more-link:before,
+.css-hosting .checkbox input[type=checkbox]:checked + .checkbox-material .check,
+.css-hosting .radio input[type=radio]:checked ~ .check,
+.css-hosting .vlt-btn-group .dropdown-menu li a:hover,
+.css-hosting .gsi-step-indicator.triangle li.current>*,
+.css-hosting .gsi-style-4 li.current>*,
+.css-hosting .gsi-style-5 li.current>*,
+.css-hosting .gsi-style-6 li.current>* .number,
+.css-hosting .gsi-style-7 li.current:hover>*,
+.css-hosting .gsi-style-8 li.visited>*,
+.css-hosting .gsi-style-8 li.current>*,
+.css-hosting .gsi-style-9 li.visited>*:after,
+.css-hosting .gsi-style-9 li.current>*:after,
+.css-hosting .gsi-style-10 li.visited>*:after,
+.css-hosting .gsi-style-10 li.current>*:after,
+.css-hosting .gsi-style-11 li.current:before,
+.css-hosting .gsi-style-11 li.current:after,
+.css-hosting .gsi-style-11 li.visited:before,
+.css-hosting .gsi-style-11 li.visited:after,
+.css-hosting .gsi-style-11 li.visited>*:after,
+.css-hosting .gsi-style-11 li.current>*:after,
+.css-hosting .flatpickr-day.today:focus,
+.css-hosting .flatpickr-day.today:hover,
+.css-hosting .reveal-nav .navbar-toggle,
+.css-hosting .form-contact-3 .btn-default.disabled,
+.css-hosting .form-contact-3 .btn-default.disabled.active,
+.css-hosting .form-contact-3 .btn-default.disabled.focus,
+.css-hosting .form-contact-3 .btn-default.disabled:active,
+.css-hosting .form-contact-3 .btn-default.disabled:focus,
+.css-hosting .form-contact-3 .btn-default.disabled:hover,
+.css-hosting .form-contact-3 .btn-default[disabled],
+.css-hosting .form-contact-3 .btn-default[disabled].active,
+.css-hosting .form-contact-3 .btn-default[disabled].focus,
+.css-hosting .form-contact-3 .btn-default[disabled]:active,
+.css-hosting .form-contact-3 .btn-default[disabled]:focus,
+.css-hosting .form-contact-3 .btn-default[disabled]:hover,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-hosting .icon-box.icon-square:hover .icon-block span,
+.css-hosting #header.header-main-color-sticky.header-sticky,
+.css-hosting #header.header-white .navbar-2 .navbar-nav > li > a:before,
+.css-hosting #header.header-dark .navbar-2 .navbar-nav > li > a:before,
+.css-hosting #header.header-white-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-hosting #header.header-dark-transparent .navbar-2 .navbar-nav > li > a:before,
+.css-hosting #header.header-white-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-hosting #header.header-dark-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-hosting #header.header-white-transparent-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-hosting #header.header-dark-transparent-sticky .navbar-2 .navbar-nav > li > a:before {
+    background-color: #56aed2;
+}
+/* Color 2 */
+
+.css-hosting .color-2,
+.css-hosting .cart-shop-products h3,
+.css-hosting .cart-shop-products .total-bottom-cart .total-cart-price span,
+.css-hosting .cart-shop-products-list li .csp-price,
+.css-hosting .sidebar-shop-products-list li .shop-star-rating li.full-star,
+.css-hosting .shop-list .shop-product .shop-star-rating li.full-star,
+.css-hosting ul.shop-star-rating li.full-star,
+.css-hosting ul.line-graph li:nth-child(2n),
+.css-hosting ul.donut-graph li:nth-child(2n),
+.css-hosting ul.bar-chart-graph li:nth-child(2n) {
+    color: #8BC34A;
+}
+.color-2:hover {
+    color: #8BC34A;
+}
+/* Background Color 2 */
+
+.css-hosting .background-2,
+.css-hosting .animation-box.background-2:hover .animation-box-style-2.background-2:hover,
+.css-hosting .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-2,
+.css-hosting #header.background-2,
+.css-hosting .background-2-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-hosting .background-2-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-hosting .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-2,
+.css-hosting a.brand-modern span.line-2,
+.css-hosting .header.dark-nav a.brand-modern span.line-2,
+.css-hosting .wte-separator.background-2:before,
+.css-hosting .form-contact.dark-from .has-error .help-block,
+.css-hosting a.add-to-wishlist,
+.css-hosting .shop-list .shop-product:hover>a.add-to-wishlist,
+.css-hosting .slider-price-filter-box:after,
+.css-hosting .background-2-menu .megamenu,
+.css-hosting .background-2-menu .wsmenu-submenu li a,
+.css-hosting .background-2-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-hosting .background-2-menu .wsmenu-submenu,
+.css-hosting .background-2-menu .wsmenu-submenu-sub,
+.css-hosting .background-2-menu .wsmenu-submenu-sub-sub,
+.css-hosting .background-2-menu .wsmenu-submenu-sub-sub-sub,
+.css-hosting .shop-list .shop-product .shop-ribbon,
+.css-hosting .ui-slider-horizontal .ui-slider-range,
+.css-hosting .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary,
+.css-hosting .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    background-color: #8BC34A;
+}
+/* Color 3 */
+
+.css-hosting .color-3,
+.css-hosting ul.line-graph li:nth-child(3n),
+.css-hosting ul.donut-graph li:nth-child(3n),
+.css-hosting ul.bar-chart-graph li:nth-child(3n),
+.css-hosting .navbar-toggle,
+.css-hosting .navbar-toggle:before {
+    color: #a1c627;
+}
+/* Background Color 3 */
+
+.css-hosting .background-3,
+.css-hosting .animation-box.background-3:hover .animation-box-style-2.background-3:hover,
+.css-hosting .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-background-3,
+.css-hosting #header.background-3,
+.css-hosting .background-3-menu .wsmenu-list .wsmenu-submenu li:hover .wsmenu-submenu-sub,
+.css-hosting .background-3-menu .wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub,
+.css-hosting .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-background-3,
+.css-hosting a.brand-modern span.line-3,
+.css-hosting .header.dark-nav a.brand-modern span.line-3,
+.css-hosting .wte-separator.background-3:before,
+.css-hosting .background-3-menu .megamenu,
+.css-hosting .background-3-menu .wsmenu-submenu li a,
+.css-hosting .background-3-menu .wsmenu-submenu .wsmenu-submenu-sub li a,
+.css-hosting .background-3-menu .wsmenu-submenu,
+.css-hosting .background-3-menu .wsmenu-submenu-sub,
+.css-hosting .background-3-menu .wsmenu-submenu-sub-sub,
+.css-hosting .background-3-menu .wsmenu-submenu-sub-sub-sub {
+    background-color: #a1c627;
+}
+/* Border Color 1 */
+
+.css-hosting .border-background-1,
+.css-hosting .tp-caption .btn-default,
+.css-hosting .btn-default,
+.css-hosting .flex-control-paging li a.flex-active,
+.css-hosting .flexslider.clients .flex-control-paging li a.flex-active,
+.css-hosting .contact-info-3,
+.css-hosting .team-social a:hover,
+.css-hosting .contact-title-one h3:after,
+.css-hosting .home-title-one h3:after,
+.css-hosting #login-form .login-input:active,
+.css-hosting #login-form .login-input:focus,
+.css-hosting .load-more-wrapper a.load-more-btn:hover,
+.css-hosting #register-form .register-input:active,
+.css-hosting #register-form .register-input:focus,
+.css-hosting .dropcap.dropcap-style-1,
+.css-hosting .dropcap.dropcap-style-2,
+.css-hosting .alert-default,
+.css-hosting blockquote,
+.css-hosting .tp-caption .btn-default,
+.css-hosting .btn-default,
+.css-hosting .btn-default-reverse,
+.css-hosting .icon-box.icon-square .icon-block,
+.css-hosting .icon-box.icon-circle .icon-block,
+.css-hosting .icon-type.it-main-color,
+.css-hosting .icon-type.it-main-color:hover,
+.css-hosting .icon-type.it-main-color:focus,
+.css-hosting .icon-type.it-main-color-reverse,
+.css-hosting .icon-type.it-main-color-reverse:hover,
+.css-hosting .icon-type.it-main-color-reverse:focus,
+.css-hosting .add-to-cart-form .count-input .count-plus:hover,
+.css-hosting .add-to-cart-form .count-input .count-minus:hover,
+.css-hosting #reviewmodal .modal-header,
+.css-hosting .job-left-title h3,
+.css-hosting .pricing-table-container.special-price-table,
+.css-hosting .clients-slick-nav .slick-custom-next:hover,
+.css-hosting .clients-slick-nav .slick-custom-prev:hover,
+.css-hosting .tabpanel-style-8 .nav-tabs > li.active,
+.css-hosting a.btn-default.btn-animation-icon-box,
+.css-hosting .btn-default.btn-animation-icon-box:hover,
+.css-hosting .btn-default.btn-animation-icon-box:focus,
+.css-hosting .btn-default.btn-animation-icon-box:active,
+.css-hosting .tp-caption a.btn-default.btn-animation-icon-box,
+.css-hosting .tp-caption .btn-default.btn-animation-icon-box:hover,
+.css-hosting .tp-caption .btn-default.btn-animation-icon-box:focus,
+.css-hosting .tp-caption .btn-default.btn-animation-icon-box:active,
+.css-hosting .testimonials-slick-nav .slick-testimonial-prev:hover,
+.css-hosting .testimonials-slick-nav .slick-testimonial-next:hover,
+.css-hosting .clients-slick-nav .slick-clients-prev:hover,
+.css-hosting .clients-slick-nav .slick-clients-next:hover,
+.css-hosting .bsp-image,
+.css-hosting .blog-list > article.default-post .blog-desc,
+.css-hosting .testimonial-single li.slick-active button::before,
+.css-hosting .slick-dots li.slick-active button:before,
+.css-hosting .blog-list > article.default-post .blog-post-2 .bp2-desc,
+.css-hosting .blog-list > article .blog-desc .btn-breadmore:hover,
+.css-hosting .blog-list > article .blog-desc .btn-breadmore:focus,
+.css-hosting .timeline-status.timeline-active:before,
+.css-hosting .cd-horizontal-timeline .events a.older-event::after,
+.css-hosting .cd-horizontal-timeline .events a.selected::after,
+.css-hosting .no-touch .cd-horizontal-timeline .events a:hover::after,
+.css-hosting .no-touch .cd-timeline-navigation a:hover,
+.css-hosting .cd-bg-image:hover .video-play-icon [class^="icon-"],
+.css-hosting .cd-timeline-navigation a:hover,
+.css-hosting .tabpanel-style-1 .nav-tabs > li.active > a,
+.css-hosting .tabpanel-style-1 .nav-tabs > li.active > a:focus,
+.css-hosting .tabpanel-style-1 .nav-tabs > li.active > a:hover,
+.css-hosting .login-form input:focus,
+.css-hosting .pinpulse,
+.css-hosting .open > .dropdown-toggle.btn-default,
+.css-hosting .tabpanel-style-7.shop-single-tabpanel .nav-tabs > li.active,
+.css-hosting .newspaper-title,
+.css-hosting .newspaper-separator,
+.css-hosting ul.widget-social.widget-social-sidebar li a:hover,
+.css-hosting .loader-30 > div,
+.css-hosting .loader-31 > div,
+.css-hosting .loader-35 > div:first-of-type,
+.css-hosting .loader-35 > div:nth-child(2),
+.css-hosting .radio input[type=radio]:checked ~ .circle,
+.css-hosting .gsi-step-indicator.triangle li.current>*,
+.css-hosting .gsi-style-7.border-right li.current>*,
+.css-hosting .gsi-style-7.border-bottom li.current>*,
+.css-hosting .gsi-style-7.border-left li.current>*,
+.css-hosting .flatpickr-day.today,
+.css-hosting .flatpickr-day.today:focus,
+.css-hosting .flatpickr-day.today:hover,
+.css-hosting .form-contact-3 .btn-default.disabled,
+.css-hosting .form-contact-3 .btn-default.disabled.active,
+.css-hosting .form-contact-3 .btn-default.disabled.focus,
+.css-hosting .form-contact-3 .btn-default.disabled:active,
+.css-hosting .form-contact-3 .btn-default.disabled:focus,
+.css-hosting .form-contact-3 .btn-default.disabled:hover,
+.css-hosting .form-contact-3 .btn-default[disabled],
+.css-hosting .form-contact-3 .btn-default[disabled].active,
+.css-hosting .form-contact-3 .btn-default[disabled].focus,
+.css-hosting .form-contact-3 .btn-default[disabled]:active,
+.css-hosting .form-contact-3 .btn-default[disabled]:focus,
+.css-hosting .form-contact-3 .btn-default[disabled]:hover,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default.active,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default.focus,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default:active,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default:focus,
+.css-hosting .form-contact-3 fieldset[disabled] .btn-default:hover,
+.css-hosting .wsmenu-list li > .wsmenu-submenu,
+.css-hosting .wsmenu-list li > .megamenu,
+.css-hosting .table-style-1 thead tr th,
+.css-hosting .table-style-1 tbody tr:last-child th,
+.css-hosting .table-style-1 tbody tr:last-child td,
+.css-hosting .table-withmaincolor thead tr th,
+.css-hosting .clients-title-border h3,
+.css-hosting .cd-slider-nav li:hover,
+.css-hosting .selected,
+.css-hosting .icon-type-2:hover p,
+.css-hosting .icon-type-2:hover span.icon-type-2-icon,
+.css-hosting .icon-type-2:hover span.icon-type-2-icon [class^="icon-"],
+.css-hosting .activeFilter,
+.css-hosting .loader-12 > div,
+.css-hosting .loader-15 > div,
+.css-hosting .loader-15 > div:last-child,
+.css-hosting .loader-21 > div {
+    border-color: #56aed2;
+}
+.css-hosting .tabpanel-style-4 .nav-tabs > li.active,
+.css-hosting .tabpanel-style-4 .nav-tabs > li.active > span,
+.css-hosting .tabpanel-style-5 .nav-tabs > li.active,
+.css-hosting .tabpanel-style-5 .nav-tabs > li.active > span,
+.css-hosting .loader-13 > div:last-child,
+.css-hosting .loader-15 > div:last-child {
+    border-color: #56aed2 transparent;
+}
+.css-hosting .job-form input:focus,
+.css-hosting .job-form textarea:focus,
+.css-hosting .form-contact input:focus,
+.css-hosting .form-contact textarea:focus,
+.css-hosting .form-contact input:focus,
+.css-hosting .login-form input:focus,
+.css-hosting .login-form textarea:focus {
+    background-image: linear-gradient(#56aed2, #56aed2), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.css-hosting .btn-rounded,
+.css-hosting .form-control,
+.css-hosting .pagination-box .pager li a,
+.css-hosting .portfolio_overlay a.portfolio_zoom,
+.css-hosting .portfolio_overlay a.portfolio_link,
+.css-hosting .overlay-animation-2 .overlay_box a.image_link,
+.css-hosting .overlay-animation-2 .overlay_box a.video_zoom,
+.css-hosting a.home-breadcrumb,
+.css-hosting .overlay-animation-1 .overlay_box a.image_zoom,
+.css-hosting .overlay-animation-1 .overlay_box a.image_link,
+.css-hosting ul.widget-ul li a span,
+.css-hosting ul.widget-social li a,
+.css-hosting .team-2 .team-social a,
+.css-hosting .team-3 .team-social a,
+.css-hosting .team-social a,
+.css-hosting .benefits-box h1 {
+    border-radius: 100px;
+}
+.css-hosting ul.thumbs li a,
+.css-hosting ul.thumbs li a img,
+.css-hosting ul.thumbs li a:before,
+.css-hosting .widget-dribbble-box .shots li a,
+.css-hosting .widget-dribbble-box .shots li a img,
+.css-hosting .dribbble-box-dummy .shots-dummy li a,
+.css-hosting .dribbble-box-dummy .shots-dummy li a img,
+.css-hosting .instagram-widget a,
+.css-hosting .instagram-widget a img,
+.css-hosting .instagram-widget a:hover:before,
+.css-hosting .instagram-widget a:hover:after,
+.css-hosting .pricing-table-2-column,
+.css-hosting .pricing-table-3-column,
+.css-hosting .pricing-table-4 {
+    border-radius: 4px;
+}
+.css-hosting .icon-box-2-effect-3 .icon-block-2 {
+    box-shadow: 0 0 0 3px #56aed2;
+}
+.css-hosting .icon-box-2-effect-4 .icon-block-2,
+.css-hosting .icon-box-2-effect-5 .icon-block-2,
+.css-hosting .icon-box-2-effect-5:hover .icon-block-2,
+.css-hosting .icon-box-2-effect-1 .icon-block-2:after,
+.css-hosting .icon-box-2-effect-2 .icon-block-2:after {
+    box-shadow: 0 0 0 4px #56aed2;
+}
+.icon-box-2-effect-6 .icon-block-2:after,
+.css-hosting .scroll-to-top-fixed.sticky-btn:hover {
+    box-shadow: 0 0 0 2px #56aed2;
+}
+.css-hosting .empty-cart:after,
+.css-hosting .loader-34 > div {
+    border-bottom-color: #56aed2;
+}
+.css-hosting .btn-default-reverse:hover,
+.css-hosting .btn-default-reverse:focus {
+    background-color: #56aed2;
+    border-color: #56aed2;
+}
+.css-hosting .tp-caption .btn-default.active,
+.css-hosting .btn-default.active,
+.css-hosting .tp-caption .btn-default.focus,
+.css-hosting .btn-default.focus,
+.css-hosting .tp-caption .btn-default:active,
+.css-hosting .btn-default:active,
+.css-hosting .tp-caption .btn-default:focus,
+.css-hosting .btn-default:focus,
+.css-hosting .tp-caption .btn-default:hover,
+.css-hosting .btn-default:hover,
+.css-hosting #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting .btn-primary.btn-animation-icon-box,
+.css-hosting .btn-primary.btn-animation-icon-box:hover,
+.css-hosting .btn-primary.btn-animation-icon-box:focus,
+.css-hosting .btn-primary.btn-animation-icon-box:active,
+.css-hosting .tp-caption .btn-primary.btn-animation-icon-box,
+.css-hosting .tp-caption .btn-primary.btn-animation-icon-box:hover,
+.css-hosting .tp-caption .btn-primary.btn-animation-icon-box:focus,
+.css-hosting .tp-caption .btn-primary.btn-animation-icon-box:active,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #4b8aa4;
+}
+.css-hosting .metis .tp-tab.selected .tp-tab-divider {
+    border-right-color: #56aed2;
+}
+.css-hosting #header.header-main-color .navbar-2 .navbar-nav > li > a:before,
+.css-hosting #header.header-main-color-sticky .navbar-2 .navbar-nav > li > a:before,
+.css-hosting span.latest-post-month,
+.css-hosting .main-color-dropdown .dropdown-menu .dropdown-menu,
+.css-hosting .main-color-dropdown .dropdown-menu .dropdown-menu .dropdown-menu,
+.css-hosting .tp-caption .btn-default.active,
+.css-hosting .btn-default.active,
+.css-hosting .tp-caption .btn-default.focus,
+.css-hosting .btn-default.focus,
+.css-hosting .tp-caption .btn-default:active,
+.css-hosting .btn-default:active,
+.css-hosting .tp-caption .btn-default:focus,
+.css-hosting .btn-default:focus,
+.css-hosting .tp-caption .btn-default:hover,
+.css-hosting .btn-default:hover,
+.css-hosting #header.header-dark .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-dark .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-white-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-white-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-dark-transparent .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-dark-transparent .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-dark-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-white-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-dark-transparent-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-main-color .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-main-color .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-search:hover,
+.css-hosting #header.header-main-color-sticky.header-sticky .navbar-2 .search-navbar .btn-cart:hover,
+.css-hosting #header.header-main-color .navbar-2 .navbar-nav > li.active,
+.css-hosting #header.main-color-nav .navbar-2 .navbar-nav > .active > a,
+.css-hosting .btn-primary.btn-animation-icon-box .btn-text,
+.css-hosting .btn-primary.btn-animation-icon-box:hover .btn-text,
+.css-hosting .btn-primary.btn-animation-icon-box:focus .btn-text,
+.css-hosting .primary.btn-animation-icon-box:active .btn-text {
+    background-color: #4b8aa4;
+}
+.css-hosting .item-text-wrapper,
+.css-hosting .standard_hover .portfolio_overlay,
+.css-hosting .overlay-animation-1 .overlay_box,
+.css-hosting .flip-hover .flip-box .content-box,
+.css-hosting .team-8 .team-image .overlay-team-box,
+.css-hosting .team-9 .team-image .overlay-team-box,
+.css-hosting .portfolio-animation-slide .sliding-content {
+    background-color: rgba(86, 174, 210, 0.9);
+}
+.css-hosting .intro-block .overlay,
+.css-hosting ul.thumbs li a:before,
+.css-hosting .widget-dribbble-box .shots li a:before,
+.css-hosting .dribbble-box-dummy .shots-dummy li a:before,
+.css-hosting .sidebar-shop-products-list .image-thumb:before,
+.css-hosting .cart-shop-products-list .image-thumb:before,
+.css-hosting .overlay-bg.colored,
+.css-hosting .instagram-widget a:before,
+.css-hosting .overlay-bg.background-1 {
+    background-color: rgba(86, 174, 210, 0.75);
+}
+.forum-reply-signin {
+    background: rgba(86, 174, 210, 0.92);
+}
+.css-hosting .table-style-5.table-withmaincolor tbody tr td:nth-child(2),
+.css-hosting .team-2 .overlay-team-box,
+.css-hosting .team-6 .overlay-team-box,
+.css-hosting .team-7 .overlay-team-box,
+.css-hosting .table-style-6.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-hosting .contact-overlay-map .overlay-map-background,
+.css-hosting .table-style-7.table-withmaincolor.table-striped > tbody > tr:nth-of-type(odd),
+.css-hosting .table-style-7.table-withmaincolor tbody tr th,
+.css-hosting .fc-bgevent,
+.css-hosting #particles-js.background-1 {
+    background-color: rgba(86, 174, 210, 0.6);
+}
+.css-hosting .widget-dribbble-box .shots li a:hover:before,
+.css-hosting .dribbble-box .shots li a:hover:before,
+.css-hosting .dribbble-box-dummy .shots-dummy li a:hover:before,
+.css-hosting .instagram-widget a:hover:before,
+.css-hosting .newspaper-sidebar-image-news > article a.image-box:before {
+    background-color: rgba(86, 174, 210, 0.85);
+}
+.css-hosting .price-filter-desc .btn {
+    background-color: #8BC34A;
+    border-color: #8BC34A;
+}
+.css-hosting .btn-default.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #56aed2;
+}
+.css-hosting .btn-default.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #56aed2;
+}
+.css-hosting .btn-default-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #56aed2;
+}
+.css-hosting .btn-default-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #56aed2;
+}
+.css-hosting .btn-primary {
+    background: #4b8aa4;
+    border-color: #4b8aa4;
+}
+.css-hosting .btn-primary:hover,
+.css-hosting .open > .dropdown-toggle.btn-primary,
+.css-hosting .btn-primary.active,
+.css-hosting .btn-primary.focus,
+.css-hosting .btn-primary:active,
+.css-hosting .css-hosting .btn-primary:focus {
+    background: #3c1a90;
+    border-color: #3c1a90;
+}
+.css-hosting .btn-primary-reverse {
+    color: #4b8aa4;
+    border-color: #4b8aa4;
+}
+.css-hosting .btn-primary-reverse:hover {
+    background-color: #4b8aa4;
+    border-color: #4b8aa4;
+}
+.css-hosting .btn-primary.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 50px #4b8aa4;
+}
+.css-hosting .btn-primary.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 0 #4b8aa4;
+}
+.css-hosting .btn-primary-reverse.btn-invert-animation:before {
+    box-shadow: inset 0 0 0 0 #4b8aa4;
+}
+.css-hosting .btn-primary-reverse.btn-invert-animation:hover:before {
+    box-shadow: inset 0 0 0 50px #4b8aa4;
+}
+.css-hosting .blog-list > article.default-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #56aed2;
+}
+.css-hosting .blog-list > article.default-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #56aed2;
+}
+.css-hosting .blog-list > article.primary-post .blog-post-2 .bp2-category {
+    background: #4b8aa4;
+}
+.css-hosting .blog-list > article.primary-post .blog-post-2 .bp2-category:before {
+    border-color: transparent #4b8aa4;
+}
+.css-hosting .blog-list > article.primary-post .blog-post-2 .bp2-category:after {
+    border-color: transparent #4b8aa4;
+}
+.css-hosting .blog-list > article.primary-post .blog-desc {
+    border-top-color: #4b8aa4;
+}
+.css-hosting .blog-list > article.primary-post .blog-post-2 .bp2-desc {
+    border-bottom-color: #4b8aa4;
+}
+.css-hosting .btn-default.btn-animation-icon-box .btn-text,
+.css-hosting .btn-default.btn-animation-icon-box:hover .btn-text,
+.css-hosting .btn-default.btn-animation-icon-box:focus .btn-text,
+.css-hosting .btn-default.btn-animation-icon-box:active .btn-text {
+    background: #56aed2;
+}
+.css-hosting .btn-default.btn-animation-icon-box .btn-icon,
+.css-hosting .btn-default.btn-animation-icon-box:hover .btn-icon,
+.css-hosting .btn-default.btn-animation-icon-box:focus .btn-icon,
+.css-hosting .btn-default.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-hosting .btn-default-reverse.btn-animation-icon-box .btn-text,
+.css-hosting .btn-default-reverse.btn-animation-icon-box:hover .btn-text,
+.css-hosting .btn-default-reverse.btn-animation-icon-box:focus .btn-text,
+.css-hosting .btn-default-reverse.btn-animation-icon-box:active .btn-text {
+    color: #56aed2;
+}
+.css-hosting .btn-default-reverse.btn-animation-icon-box .btn-icon,
+.css-hosting .btn-default-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-hosting .btn-default-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-hosting .btn-default-reverse.btn-animation-icon-box:active .btn-icon {
+    border-color: #56aed2;
+    color: #56aed2;
+}
+.css-hosting .btn-primary.btn-animation-icon-box .btn-icon,
+.css-hosting .btn-primary.btn-animation-icon-box:hover .btn-icon,
+.css-hosting .btn-primary.btn-animation-icon-box:focus .btn-icon,
+.css-hosting .btn-primary.btn-animation-icon-box:active .btn-icon {
+    background: #43c2ae;
+    border-color: #43c2ae;
+}
+.css-hosting .btn-primary-reverse.btn-animation-icon-box .btn-text,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box:hover .btn-text,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box:focus .btn-text,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box:active .btn-text,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box .btn-icon,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box:hover .btn-icon,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box:focus .btn-icon,
+.css-hosting .btn-primary-reverse.btn-animation-icon-box:active .btn-icon {
+    color: #4b8aa4;
+}
+.css-hosting .tp-caption.btn.background-2:hover,
+.css-hosting .tp-caption.btn.background-2:focus,
+.css-hosting .tp-caption.btn.background-2:active {
+    background-color: #e33834;
+}
+.css-hosting .border-background-2 {
+    border-color: #a1c627;
+}
+.css-hosting .border-background-3 {
+    border-color: #8BC34A;
+}
+.css-hosting .blog-list > article .featured-posts-slider .fp-desc {
+    background: rgba(86, 174, 210, 0.9);
+}
+.css-hosting .gsi-style-4 li.current>* .number:before {
+    border-left-color: #56aed2;
+}
+.css-hosting .gsi-style-7.border-top li.current>* {
+    border-top-color: #56aed2;
+}
+.css-hosting .icon-box.icon-circle .icon-block,
+.css-hosting .icon-box.icon-circle .icon-block span,
+.css-hosting .icon-block-2,
+.css-hosting .icon-block-2:after,
+.css-hosting .simple-icon-image img,
+.css-hosting .icon-image-overlay,
+.css-hosting .simple-icon-icon,
+.css-hosting .link-rounded-icon,
+.css-hosting .slider-slick-slide a [class^="icon-"],
+.css-hosting .flexslider.clients .flex-control-paging li a,
+.css-hosting .testimonial-single .slick-prev,
+.css-hosting .testimonial-single .slick-next,
+.css-hosting .testimonial-single .slick-dots li button:before,
+.css-hosting .slick-dots li button:before,
+.css-hosting .testimonials-slick-nav .slick-testimonial-prev,
+.css-hosting .testimonials-slick-nav .slick-testimonial-next,
+.css-hosting .block-content-wrapper h1 {
+    border-radius: 50px;
+}
+.css-hosting .loader-6 {
+    background: #56aed2;
+    background: -moz-linear-gradient(left, #56aed2 10%, rgba(86, 174, 210, 0) 42%);
+    background: -webkit-linear-gradient(left, #56aed2 10%, rgba(86, 174, 210, 0) 42%);
+    background: -o-linear-gradient(left, #56aed2 10%, rgba(86, 174, 210, 0) 42%);
+    background: -ms-linear-gradient(left, #56aed2 10%, rgba(86, 174, 210, 0) 42%);
+    background: linear-gradient(to right, #56aed2 10%, rgba(86, 174, 210, 0) 42%);
+}
+@-webkit-keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #56aed2, 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2), 2.5em 0em 0 0em rgba(86, 174, 210, 0.2), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.2), 0em 2.5em 0 0em rgba(86, 174, 210, 0.2), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.2), -2.6em 0em 0 0em rgba(86, 174, 210, 0.5), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.7), 1.8em -1.8em 0 0em #56aed2, 2.5em 0em 0 0em rgba(86, 174, 210, 0.2), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.2), 0em 2.5em 0 0em rgba(86, 174, 210, 0.2), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.2), -2.6em 0em 0 0em rgba(86, 174, 210, 0.2), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.5), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.7), 2.5em 0em 0 0em #56aed2, 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.2), 0em 2.5em 0 0em rgba(86, 174, 210, 0.2), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.2), -2.6em 0em 0 0em rgba(86, 174, 210, 0.2), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.2), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.5), 2.5em 0em 0 0em rgba(86, 174, 210, 0.7), 1.75em 1.75em 0 0em #56aed2, 0em 2.5em 0 0em rgba(86, 174, 210, 0.2), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.2), -2.6em 0em 0 0em rgba(86, 174, 210, 0.2), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.2), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2), 2.5em 0em 0 0em rgba(86, 174, 210, 0.5), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.7), 0em 2.5em 0 0em #56aed2, -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.2), -2.6em 0em 0 0em rgba(86, 174, 210, 0.2), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.2), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2), 2.5em 0em 0 0em rgba(86, 174, 210, 0.2), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.5), 0em 2.5em 0 0em rgba(86, 174, 210, 0.7), -1.8em 1.8em 0 0em #56aed2, -2.6em 0em 0 0em rgba(86, 174, 210, 0.2), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.2), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2), 2.5em 0em 0 0em rgba(86, 174, 210, 0.2), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.2), 0em 2.5em 0 0em rgba(86, 174, 210, 0.5), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.7), -2.6em 0em 0 0em #56aed2, -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.2), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2), 2.5em 0em 0 0em rgba(86, 174, 210, 0.2), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.2), 0em 2.5em 0 0em rgba(86, 174, 210, 0.2), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.5), -2.6em 0em 0 0em rgba(86, 174, 210, 0.7), -1.8em -1.8em 0 0em #56aed2;
+    }
+}
+@keyframes load5 {
+    0%, 100% {
+        box-shadow: 0em -2.6em 0em 0em #56aed2, 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2), 2.5em 0em 0 0em rgba(86, 174, 210, 0.2), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.2), 0em 2.5em 0 0em rgba(86, 174, 210, 0.2), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.2), -2.6em 0em 0 0em rgba(86, 174, 210, 0.5), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.7);
+    }
+    12.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.7), 1.8em -1.8em 0 0em #56aed2, 2.5em 0em 0 0em rgba(86, 174, 210, 0.2), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.2), 0em 2.5em 0 0em rgba(86, 174, 210, 0.2), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.2), -2.6em 0em 0 0em rgba(86, 174, 210, 0.2), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.5);
+    }
+    25% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.5), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.7), 2.5em 0em 0 0em #56aed2, 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.2), 0em 2.5em 0 0em rgba(86, 174, 210, 0.2), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.2), -2.6em 0em 0 0em rgba(86, 174, 210, 0.2), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2);
+    }
+    37.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.2), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.5), 2.5em 0em 0 0em rgba(86, 174, 210, 0.7), 1.75em 1.75em 0 0em #56aed2, 0em 2.5em 0 0em rgba(86, 174, 210, 0.2), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.2), -2.6em 0em 0 0em rgba(86, 174, 210, 0.2), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2);
+    }
+    50% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.2), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2), 2.5em 0em 0 0em rgba(86, 174, 210, 0.5), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.7), 0em 2.5em 0 0em #56aed2, -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.2), -2.6em 0em 0 0em rgba(86, 174, 210, 0.2), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2);
+    }
+    62.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.2), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2), 2.5em 0em 0 0em rgba(86, 174, 210, 0.2), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.5), 0em 2.5em 0 0em rgba(86, 174, 210, 0.7), -1.8em 1.8em 0 0em #56aed2, -2.6em 0em 0 0em rgba(86, 174, 210, 0.2), -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2);
+    }
+    75% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.2), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2), 2.5em 0em 0 0em rgba(86, 174, 210, 0.2), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.2), 0em 2.5em 0 0em rgba(86, 174, 210, 0.5), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.7), -2.6em 0em 0 0em #56aed2, -1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2);
+    }
+    87.5% {
+        box-shadow: 0em -2.6em 0em 0em rgba(86, 174, 210, 0.2), 1.8em -1.8em 0 0em rgba(86, 174, 210, 0.2), 2.5em 0em 0 0em rgba(86, 174, 210, 0.2), 1.75em 1.75em 0 0em rgba(86, 174, 210, 0.2), 0em 2.5em 0 0em rgba(86, 174, 210, 0.2), -1.8em 1.8em 0 0em rgba(86, 174, 210, 0.5), -2.6em 0em 0 0em rgba(86, 174, 210, 0.7), -1.8em -1.8em 0 0em #56aed2;
+    }
+}
+.css-hosting .loader-3 {
+    border-top-color: rgba(86, 174, 210, 0.2);
+    border-right-color: rgba(86, 174, 210, 0.2);
+    border-bottom-color: rgba(86, 174, 210, 0.2);
+    border-left-color: #56aed2;
+}
+.css-hosting .svg-animation path {
+    stroke: #56aed2;
+}
+.css-hosting .loader-36 > div {
+    background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #56aed2 30%, #56aed2 100%);
+    background-image: linear-gradient(transparent 0%, transparent 70%, #56aed2 30%, #56aed2 100%);
+}
+.css-hosting .blockquote-style-2 blockquote:after, 
+.css-hosting .blockquote-style-2 blockquote:before{
+  background-color: transparent;
+}
+
+.css-hosting .domain-form-box .form-control{
+	    -webkit-border-radius: 5px 0 0 5px;
+    border-radius: 5px 0 0 5px;
+}
+.css-hosting .tp-tabs{
+	z-index: 20;
+}
+.css-hosting .icon-box p span[class^="icon-"]{
+	position: relative;
+    top: 2px;
+    left: 2px;
+}
+.css-hosting .domain-form-box{
+	margin: 20px 0 0 0;
+}
+.css-hosting .domain-form-box form .btn{
+	padding-bottom: 25px !important;
+}
